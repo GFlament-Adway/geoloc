@@ -10,7 +10,7 @@ def get_requetes(comp_name, mapping):
     :return: La liste des requêtes, et les coordonnées GPS de ces requêtes.
     """
     if mapping.lower() == "cities":
-        with open("villes_france.csv", "r") as csv_file:
+        with open("settings/villes_france.csv", "r") as csv_file:
             data = csv.reader(csv_file)
             villes = []
             for row in data:
@@ -25,21 +25,21 @@ def get_requetes(comp_name, mapping):
                 villes += ["lyon " + str(arrondissement) for arrondissement in range(1, 10)]
         return [comp_name + " " + ville for ville in villes], [[48.856, 2.352] for ville in villes]
     elif mapping.lower() == "region":
-        with open("regions-france.csv", "r") as csv_file:
+        with open("settings/regions-france.csv", "r") as csv_file:
             data = csv.reader(csv_file)
             departements = []
             for row in data:
                 departements += [row[1]]
         return [comp_name + " " + dep for dep in departements], [[48.856, 2.352] for dep in departements]
     elif mapping.lower() == "departement":
-        with open("departement.csv", "r") as csv_file:
+        with open("settings/departement.csv", "r") as csv_file:
             data = csv.reader(csv_file)
             departements = []
             for row in data:
                 departements += [row[2]]
         return [comp_name + " " + dep for dep in departements], [[48.856, 2.352] for dep in departements]
     elif mapping.lower() == "world":
-        with open("activities.csv", "r") as csv_file:
+        with open("settings/activities.csv", "r") as csv_file:
                 data = csv.reader(csv_file)
                 activities = []
                 for row in data:
@@ -47,7 +47,7 @@ def get_requetes(comp_name, mapping):
                         activities += row[1:]
         if activities == []:
             activities = [" "]
-        data = read_data("countries_data.json")
+        data = read_data("settings/countries_data.json")
         print(data)
         countries = [country["name"] for country in data if country["population"] > 20000000]
         gps_locs =  [country["latlng"] for country in data if country["population"] > 20000000]
