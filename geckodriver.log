@@ -1,0 +1,28 @@
+1618817554496	geckodriver	INFO	Listening on 127.0.0.1:58829
+1618817555491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGYtqU"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:6537): GLib-GObject-CRITICAL **: 09:32:36.489: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:6558): GLib-GObject-CRITICAL **: 09:32:36.623: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817557579	Marionette	INFO	Listening on port 37865
+1618817557618	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6624): GLib-GObject-CRITICAL **: 09:32:37.638: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.DEVBYsAq5H8.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oHDNUqIVmbfOK_M3zKc7PhA8NuA6Q, line 3993: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

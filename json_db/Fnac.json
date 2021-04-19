@@ -1,0 +1,1384 @@
+[
+    {
+        "activity": "Grand magasin · 1 Rue Sainte-Barbe",
+        "enseigne": "FNAC Saint-Brieuc",
+        "longitude": "48.5115133",
+        "latitude": "-2.7602207"
+    },
+    {
+        "activity": "Grand magasin · ZAC Du Cap Emeraude, Le Tertre Esnault",
+        "enseigne": "FNAC Dinard-Pleurtuit",
+        "longitude": "48.6101569",
+        "latitude": "-2.0639058"
+    },
+    {
+        "activity": "Grand magasin · 2 Avenue des Cités Unies",
+        "enseigne": "FNAC Pontivy",
+        "longitude": "48.0526939",
+        "latitude": "-2.9582395"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Glann Odet, 163 Route de Bénodet",
+        "enseigne": "FNAC Quimper",
+        "longitude": "47.9747201",
+        "latitude": "-4.094823"
+    },
+    {
+        "activity": "Grand magasin · ZAC De, Place Saint-Fiacre",
+        "enseigne": "FNAC Morlaix",
+        "longitude": "48.5613462",
+        "latitude": "-3.8229123"
+    },
+    {
+        "activity": "Grand magasin · Parc de Kerlann, 46 Rue Théophraste Renaudot",
+        "enseigne": "FNAC Vannes",
+        "longitude": "47.662342",
+        "latitude": "-2.788641"
+    },
+    {
+        "activity": "Grand magasin · Zone commerciale De Keringant",
+        "enseigne": "FNAC Lannion",
+        "longitude": "48.7660161",
+        "latitude": "-3.4506827"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Colombia, 40 Place du Colombier",
+        "enseigne": "FNAC Rennes",
+        "longitude": "48.1050807",
+        "latitude": "-1.6813357"
+    },
+    {
+        "activity": "Grand magasin · 9 Place Aristide Briand",
+        "enseigne": "FNAC Lorient",
+        "longitude": "47.748624",
+        "latitude": "-3.3637597"
+    },
+    {
+        "activity": "Grand magasin · 65 Rue Jean Jaurès",
+        "enseigne": "FNAC Brest",
+        "longitude": "48.3933421",
+        "latitude": "-4.4795442"
+    },
+    {
+        "activity": "Magasin d'informatique · Rue Bénodet 163",
+        "enseigne": "Fnac Peripherie",
+        "longitude": "47.9549155",
+        "latitude": "-4.0798119"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Carrefour, 61 Rue de Bretagne",
+        "enseigne": "FNAC Alençon",
+        "longitude": "48.4321066",
+        "latitude": "0.0622349"
+    },
+    {
+        "activity": "Grand magasin · Place du Commerce",
+        "enseigne": "FNAC Nantes",
+        "longitude": "47.2129822",
+        "latitude": "-1.5584192"
+    },
+    {
+        "activity": "Grand magasin · Village Commercial Océanis, 332 Route de la Côte d'Amour",
+        "enseigne": "FNAC Saint-Nazaire",
+        "longitude": "47.2583311",
+        "latitude": "-2.2645463"
+    },
+    {
+        "activity": "Grand magasin · route De Nantes Centre Commercial Les Flã¢Neries",
+        "enseigne": "FNAC La Roche-sur-Yon",
+        "longitude": "46.7000758",
+        "latitude": "-1.4322944"
+    },
+    {
+        "activity": "Grand magasin · 25 Rue Lenepveu",
+        "enseigne": "FNAC Angers",
+        "longitude": "47.4719689",
+        "latitude": "-0.5510504"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Les Jacobins, 13 Rue Claude Blondeau",
+        "enseigne": "FNAC Le Mans",
+        "longitude": "48.0062745",
+        "latitude": "0.1993973"
+    },
+    {
+        "activity": "Grand magasin · zone industrielle Ecoparc Saint-Lambert Des Levées",
+        "enseigne": "FNAC Saumur",
+        "longitude": "47.2797646",
+        "latitude": "-0.0640083"
+    },
+    {
+        "activity": "Grand magasin · Gare de Nantes Relay Monop’Daily Fnac, Boulevard de Stalingrad",
+        "enseigne": "FNAC Nantes - Gare de Nantes",
+        "longitude": "47.2171225",
+        "latitude": "-1.5421807"
+    },
+    {
+        "activity": "Grand magasin · 5 Rue du Général de Gaulle",
+        "enseigne": "Fnac Laval",
+        "longitude": "48.0705828",
+        "latitude": "-0.7743022"
+    },
+    {
+        "activity": "Grand magasin · 16-18 Rue du 18 Juin",
+        "enseigne": "FNAC La Rochelle",
+        "longitude": "46.1752529",
+        "latitude": "-1.1117154"
+    },
+    {
+        "activity": "Grand magasin · Intermarché, Rue de la Bruyère",
+        "enseigne": "FNAC Nogent-le-Rotrou",
+        "longitude": "48.3308963",
+        "latitude": "0.8047438"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial de Route de Paris",
+        "enseigne": "FNAC Connect Tours Nord",
+        "longitude": "47.427025",
+        "latitude": "0.699006"
+    },
+    {
+        "activity": "Grand magasin",
+        "enseigne": "FNAC",
+        "adresse": " Centre Commercial La Galléria,  Acajou Sud,  Le Lamentin 97232,  Martinique",
+        "longitude": "-61.0205966",
+        "latitude": "14.620092"
+    },
+    {
+        "activity": "Grand magasin · 20 Rue Saint-Nicolas",
+        "enseigne": "FNAC Lille",
+        "longitude": "50.6360551",
+        "latitude": "3.0648597"
+    },
+    {
+        "activity": "Grand magasin · Gare SNCF Lille Flandres, Place des Buisses",
+        "enseigne": "FNAC Lille - Gare Lille-Flandres",
+        "longitude": "50.6363336",
+        "latitude": "3.0698155"
+    },
+    {
+        "activity": "Grand magasin · Music Railway SNC, Gare Sncf Lille Europe",
+        "enseigne": "FNAC Gare Lille Europe",
+        "longitude": "50.6393058",
+        "latitude": "3.0755615"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Place d'armes, 12 Rue de la Halle",
+        "enseigne": "FNAC Valenciennes",
+        "longitude": "50.3571268",
+        "latitude": "3.5245674"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Intermarché, 181 Boulevard Louise Michel",
+        "enseigne": "FNAC Somain",
+        "longitude": "50.3477686",
+        "latitude": "3.2832431"
+    },
+    {
+        "activity": "Grand magasin · Markt 18/19",
+        "enseigne": "Fnac",
+        "longitude": "51.2088843",
+        "latitude": "3.2233002"
+    },
+    {
+        "activity": "Grand magasin · Carrefour Douai Flers",
+        "enseigne": "FNAC Douai",
+        "longitude": "50.3967107",
+        "latitude": "3.0455202"
+    },
+    {
+        "activity": "Grand magasin · Veldstraat 47B",
+        "enseigne": "Fnac",
+        "longitude": "51.0518618",
+        "latitude": "3.7217525"
+    },
+    {
+        "activity": "Grand magasin · Galerie commerciale Intermarché ZAC des Magots, Avenue des Aulnes",
+        "enseigne": "FNAC La Gorgue",
+        "longitude": "50.6353955",
+        "latitude": "2.7212127"
+    },
+    {
+        "activity": "Grand magasin · Avenue de la Toison d'Or 17a",
+        "enseigne": "Fnac",
+        "longitude": "50.8374356",
+        "latitude": "4.3601924"
+    },
+    {
+        "activity": "Grand magasin · City 2, Rue Neuve 123/401",
+        "enseigne": "Fnac",
+        "longitude": "50.8541101",
+        "latitude": "4.358157"
+    },
+    {
+        "activity": "Grand magasin · Kattestraat 17",
+        "enseigne": "Fnac",
+        "longitude": "50.9391671",
+        "latitude": "4.0381052"
+    },
+    {
+        "activity": "Grand magasin · centre commercial Régional O'Parinor Le Haut De Galy",
+        "enseigne": "FNAC Parinor",
+        "longitude": "48.9555982",
+        "latitude": "2.4748516"
+    },
+    {
+        "activity": "Grand magasin · 21 Rue Victor Basch",
+        "enseigne": "FNAC St-Quentin",
+        "longitude": "49.8472336",
+        "latitude": "3.2853198"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial, 39 Rue de la Résistance",
+        "enseigne": "FNAC Thiais",
+        "longitude": "48.7578648",
+        "latitude": "2.3867197"
+    },
+    {
+        "activity": "Grand magasin · 16 Rue Pierre Jacoby",
+        "enseigne": "FNAC Beauvais",
+        "longitude": "49.4300605",
+        "latitude": "2.0838511"
+    },
+    {
+        "activity": "Grand magasin · 1 bis Impasse Saint-Martin",
+        "enseigne": "FNAC Compiègne",
+        "longitude": "49.4173418",
+        "latitude": "2.8267371"
+    },
+    {
+        "activity": "Grand magasin · 3, avenue Roland Moréno Centre commercial Les saisons de",
+        "enseigne": "FNAC Meaux",
+        "longitude": "48.95815",
+        "latitude": "2.8614742"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG, Terminal 2F",
+        "enseigne": "FNAC Aéroport Roissy CDG T2F",
+        "longitude": "49.0055004",
+        "latitude": "2.5775187"
+    },
+    {
+        "activity": "Grand magasin · 12 Rue des 3 Cailloux",
+        "enseigne": "FNAC Amiens",
+        "longitude": "49.8924414",
+        "latitude": "2.2985198"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG Terminal 2A Porte A44 Porte 37",
+        "enseigne": "FNAC Aéroport Roissy CDG T2A",
+        "longitude": "49.0026741",
+        "latitude": "2.5627195"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG Terminal 1 zone publique",
+        "enseigne": "FNAC Aéroport Roissy CDG T1",
+        "longitude": "49.0142769",
+        "latitude": "2.5418561"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG Terminal 3 Hall A proche des Portes 1 à 8",
+        "enseigne": "FNAC Aéroport Roissy CDG T3",
+        "longitude": "49.012683",
+        "latitude": "2.558373"
+    },
+    {
+        "activity": "Grand magasin · rue De L'Égalité, Le Bois des Fenetres Zac Du",
+        "enseigne": "FNAC Saint-Maximin",
+        "longitude": "49.2400422",
+        "latitude": "2.4682861"
+    },
+    {
+        "activity": "Grand magasin · aéroport Aéroport Roissy Cdg Porte C81, Terminal 2C",
+        "enseigne": "FNAC Aéroport Roissy CDG T2C",
+        "longitude": "49.0031955",
+        "latitude": "2.564671"
+    },
+    {
+        "activity": "Grand magasin · Parc Commercial Chanteraines, 112 Avenue du Général de Gaulle",
+        "enseigne": "FNAC Gennevilliers",
+        "longitude": "48.9327586",
+        "latitude": "2.3170306"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Régional, 22 Boulevard de l'Europe",
+        "enseigne": "FNAC Evry",
+        "longitude": "48.6297968",
+        "latitude": "2.4268387"
+    },
+    {
+        "activity": "Grand magasin · Aéroport d'Orly Aérogare Sud International Hall A, Avenue O",
+        "enseigne": "FNAC Aéroport Orly 2",
+        "longitude": "48.7281473",
+        "latitude": "2.3593016"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Italie 2, 30 Avenue d'Italie",
+        "enseigne": "FNAC Paris - Italie 2",
+        "longitude": "48.8292678",
+        "latitude": "2.3552186"
+    },
+    {
+        "activity": "Grand magasin · rue du 8 mai 1945 place du 11 novembre 1918",
+        "enseigne": "FNAC Paris - Gare de l'Est",
+        "longitude": "48.876661",
+        "latitude": "2.3589167"
+    },
+    {
+        "activity": "Grand magasin · 2, place de La Défense CNIT",
+        "enseigne": "FNAC La Défense-CNIT",
+        "longitude": "48.8921996",
+        "latitude": "2.2398625"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Les Tulipiers, Rue des Prés",
+        "enseigne": "FNAC Saint-Marcel",
+        "longitude": "49.1015857",
+        "latitude": "1.4537916"
+    },
+    {
+        "activity": "Grand magasin · 17 Rue des Petits Champs",
+        "enseigne": "FNAC Croix-Blanche",
+        "longitude": "48.6219237",
+        "latitude": "2.3455227"
+    },
+    {
+        "activity": "Grand magasin · central Music Railway SNC Aérogare Ouest Hall, 1 Rue des Transporteurs",
+        "enseigne": "FNAC Aéroport Orly 1",
+        "longitude": "48.728538",
+        "latitude": "2.3590227"
+    },
+    {
+        "activity": "Grand magasin · 14 Cours du Danube",
+        "enseigne": "FNAC Val d'Europe",
+        "longitude": "48.8556838",
+        "latitude": "2.7832185"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Vélizy 2, 2 Avenue de l'Europe",
+        "enseigne": "FNAC Vélizy",
+        "longitude": "48.7810118",
+        "latitude": "2.2203382"
+    },
+    {
+        "activity": "Grand magasin · avenue De La République Centre Commercial Des, Rue des Prés Saint-Martin",
+        "enseigne": "FNAC Pontault-Combault",
+        "longitude": "48.7995483",
+        "latitude": "2.6077231"
+    },
+    {
+        "activity": "Grand magasin · Passage du Havre, 109 Rue Saint-Lazare",
+        "enseigne": "FNAC Paris - Saint-Lazare",
+        "longitude": "48.8754349",
+        "latitude": "2.3270268"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Arcades, 270 clos Du, Boulevard du Mont d'Est",
+        "enseigne": "FNAC Noisy-le-Grand",
+        "longitude": "48.8403113",
+        "latitude": "2.5484289"
+    },
+    {
+        "activity": "Grand magasin · aéroport Aéroport Roissy Cdg Terminal 2E - Porte",
+        "enseigne": "FNAC Aéroport Roissy CDG T2E K",
+        "longitude": "49.0032597",
+        "latitude": "2.5775103"
+    },
+    {
+        "activity": "Grand magasin · 22 Rue Paul Doumer",
+        "enseigne": "FNAC Melun",
+        "longitude": "48.5397334",
+        "latitude": "2.6601249"
+    },
+    {
+        "activity": "Grand magasin · Avenue du Général de Gaulle",
+        "enseigne": "FNAC Créteil",
+        "longitude": "48.7802589",
+        "latitude": "2.4568477"
+    },
+    {
+        "activity": "Grand magasin · Avenue des 3 Fontaines",
+        "enseigne": "FNAC Cergy",
+        "longitude": "49.0382498",
+        "latitude": "2.0787803"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Les vergers de la plaine RN 13",
+        "enseigne": "FNAC Chambourcy",
+        "longitude": "48.9117141",
+        "latitude": "2.0330039"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial, 2 Avenue de la Plesse",
+        "enseigne": "FNAC Villebon",
+        "longitude": "48.703052",
+        "latitude": "2.2510372"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Bercy Village, 49/53 Cour Saint-Emilion",
+        "enseigne": "FNAC Paris - Bercy Village",
+        "longitude": "48.8335966",
+        "latitude": "2.3869804"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Rosny 2, Avenue du Général de Gaulle",
+        "enseigne": "FNAC Rosny 2",
+        "longitude": "48.8814894",
+        "latitude": "2.4791922"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Beaugrenelle, 5 Rue Linois",
+        "enseigne": "FNAC Paris - Beaugrenelle",
+        "longitude": "48.8481835",
+        "latitude": "2.2825552"
+    },
+    {
+        "activity": "Grand magasin · Portes Berger - Lescot, 1-7, rue Pierre Lescot Galerie commerciale Westfield",
+        "enseigne": "FNAC Paris - Forum des Halles",
+        "longitude": "48.8621915",
+        "latitude": "2.3475285"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial, 5, rue Tony Garnier, Les Passages de l'Hôtel de ville",
+        "enseigne": "FNAC Boulogne",
+        "longitude": "48.8366742",
+        "latitude": "2.2393325"
+    },
+    {
+        "activity": "Grand magasin · Galerie du Claridge, 74 Av. des Champs-Élysées",
+        "enseigne": "FNAC Paris - Champs-Elysées",
+        "longitude": "48.8710991",
+        "latitude": "2.3046626"
+    },
+    {
+        "activity": "Grand magasin · Place Louis-Armand",
+        "enseigne": "FNAC Paris - Gare de Lyon",
+        "longitude": "48.8446712",
+        "latitude": "2.3748828"
+    },
+    {
+        "activity": "Grand magasin · Rue Joseph-Marie Jacquard Centre Commercial Les Coquelicots ZAC des ZAC des, Rue des Hauteurs du Loing",
+        "enseigne": "FNAC Nemours",
+        "longitude": "48.2800024",
+        "latitude": "2.7023028"
+    },
+    {
+        "activity": "Grand magasin · 18 Rue Noël Ballay",
+        "enseigne": "FNAC Chartres",
+        "longitude": "48.4454165",
+        "latitude": "1.4859314"
+    },
+    {
+        "activity": "Grand magasin · 136 Rue de Rennes",
+        "enseigne": "FNAC Paris - Montparnasse",
+        "longitude": "48.8458344",
+        "latitude": "2.3254321"
+    },
+    {
+        "activity": "Grand magasin · ZAC des copistes, 9 Mail des Copistes",
+        "enseigne": "FNAC Herblay",
+        "longitude": "48.9995547",
+        "latitude": "2.1892469"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Parly 2, 52 Avenue Dutartre",
+        "enseigne": "FNAC Parly 2",
+        "longitude": "48.8272369",
+        "latitude": "2.116646"
+    },
+    {
+        "activity": "Grand magasin · 1B Place Raoul Dautry",
+        "enseigne": "FNAC Paris - Gare Montparnasse",
+        "longitude": "48.8412325",
+        "latitude": "2.3199125"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Part Dieu, 17 Rue Dr Bouchut",
+        "enseigne": "FNAC Lyon Part-Dieu",
+        "longitude": "45.7621058",
+        "latitude": "4.8557052"
+    },
+    {
+        "activity": "Grand magasin · Zone commerciale Intermarché, 1 Avenue de Verdun",
+        "enseigne": "FNAC Belleville-sur-Saône",
+        "longitude": "46.1047222",
+        "latitude": "4.75"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial St-Genis, 2 Avenue Charles de Gaulle",
+        "enseigne": "FNAC Saint-Genis-Laval",
+        "longitude": "45.6806754",
+        "latitude": "4.7905229"
+    },
+    {
+        "activity": "Grand magasin · Les Halles de, 1 Place de Genève",
+        "enseigne": "FNAC Chambéry",
+        "longitude": "45.5664974",
+        "latitude": "5.9192658"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Plein Sud, 12 Avenue du Roussillon",
+        "enseigne": "FNAC Connect Aubière",
+        "longitude": "45.7529929",
+        "latitude": "3.1271185"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Courier, 65 Rue Carnot",
+        "enseigne": "FNAC Annecy",
+        "longitude": "45.9042727",
+        "latitude": "6.1233971"
+    },
+    {
+        "activity": "Grand magasin · 85 Rue de la République",
+        "enseigne": "FNAC Lyon Bellecour",
+        "longitude": "45.7582977",
+        "latitude": "4.8347919"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Les Quatre Chemins, 35 Rue Lucas",
+        "enseigne": "FNAC Vichy",
+        "longitude": "46.1265246",
+        "latitude": "3.4224941"
+    },
+    {
+        "activity": "Grand magasin · 4 Rue Félix Poulat",
+        "enseigne": "FNAC Grenoble - Victor Hugo",
+        "longitude": "45.1903983",
+        "latitude": "5.7262962"
+    },
+    {
+        "activity": "Grand magasin · 39, rue de l'Aguyane ZAC Ponson Moulon",
+        "enseigne": "FNAC Aubenas",
+        "longitude": "44.615877",
+        "latitude": "4.40607"
+    },
+    {
+        "activity": "Grand magasin · 15 avenue de Gournier Zone commerciale sud, N7",
+        "enseigne": "FNAC Montélimar",
+        "longitude": "44.5318933",
+        "latitude": "4.7387307"
+    },
+    {
+        "activity": "Grand magasin · Zone Commerciale la Neuve, 702 Rue de la Source",
+        "enseigne": "FNAC Bourg-en-Bresse",
+        "longitude": "46.2180792",
+        "latitude": "5.2107012"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Géant, Allée Alexandre Dumas",
+        "enseigne": "FNAC Saint-Etienne",
+        "longitude": "45.4407003",
+        "latitude": "4.4217912"
+    },
+    {
+        "activity": "Grand magasin · 3 Rue Charles de Gaulle",
+        "enseigne": "FNAC Roanne",
+        "longitude": "46.0362513",
+        "latitude": "4.0705986"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial, 119 Grand Place",
+        "enseigne": "FNAC Grenoble - Grand Place",
+        "longitude": "45.1579393",
+        "latitude": "5.7322382"
+    },
+    {
+        "activity": "Grand magasin · 23 Boulevard Maréchal Fayolle",
+        "enseigne": "FNAC Le Puy-en-Velay",
+        "longitude": "45.0422758",
+        "latitude": "3.8865161"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Jaude, 18 Rue d'Allagnat",
+        "enseigne": "FNAC Clermont-Ferrand",
+        "longitude": "45.7747836",
+        "latitude": "3.0829179"
+    },
+    {
+        "activity": "Grand magasin · Espace Commercial Du Val De Drôme Zone Intermarché Aouste-Sur-Sye",
+        "enseigne": "FNAC Crest",
+        "longitude": "44.7230652",
+        "latitude": "5.0384406"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Carrefour Riom Sud, Avenue de Clermont",
+        "enseigne": "FNAC Connect Riom",
+        "longitude": "45.8764102",
+        "latitude": "3.1186618"
+    },
+    {
+        "activity": "Grand magasin · 211 quai Ledru Rollin Centre Commercial Carrefour Saint-Jacques",
+        "enseigne": "FNAC Montluçon",
+        "longitude": "46.3464401",
+        "latitude": "2.6018322"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Victor-Hugo, 17 Avenue Victor Hugo",
+        "enseigne": "FNAC Valence",
+        "longitude": "44.9294131",
+        "latitude": "4.8920339"
+    },
+    {
+        "activity": "Grand magasin · 14 Rue de la Résistance",
+        "enseigne": "FNAC Annemasse",
+        "longitude": "46.196028",
+        "latitude": "6.2541113"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial ZAC des PRES, Rue Jean Bigot",
+        "enseigne": "FNAC Connect Issoire",
+        "longitude": "45.5495425",
+        "latitude": "3.2677567"
+    },
+    {
+        "activity": "Grand magasin · 474 avenue de Genève Clos de l’Île Roche Lieu dit, Clos de la Paccoterie",
+        "enseigne": "FNAC Sallanches",
+        "longitude": "45.954114",
+        "latitude": "6.62684"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Lyon Saint-Exupéry",
+        "enseigne": "FNAC Aéroport Lyon St-Exupéry T2 hall B",
+        "longitude": "45.721598",
+        "latitude": "5.0810665"
+    },
+    {
+        "activity": "Magasin d'électronique",
+        "enseigne": "La Fnac",
+        "longitude": "45.7204025",
+        "latitude": "5.0799662"
+    },
+    {
+        "activity": "Grand magasin · Rue de Rive 16",
+        "enseigne": "Fnac Genève Rive",
+        "longitude": "46.2019311",
+        "latitude": "6.1515922"
+    },
+    {
+        "activity": "Agence de voyages · 85 Rue de la République",
+        "enseigne": "Fnac Voyages",
+        "longitude": "45.7582227",
+        "latitude": "4.8347401"
+    },
+    {
+        "activity": "Atelier de réparation de téléphones mobiles · Centre Commercial, 17 Rue Dr Bouchut",
+        "enseigne": "WeFix - Fnac Lyon Part Dieu",
+        "longitude": "45.7621058",
+        "latitude": "4.8557052"
+    },
+    {
+        "activity": "Grand magasin · 8 Rue Moyenne",
+        "enseigne": "FNAC Bourges",
+        "longitude": "47.0844527",
+        "latitude": "2.3949545"
+    },
+    {
+        "activity": "Grand magasin · 2 bis Rue de la Poste",
+        "enseigne": "FNAC Châteauroux",
+        "longitude": "46.8108551",
+        "latitude": "1.6924544"
+    },
+    {
+        "activity": "Grand magasin · centre commercial B'Est, 61 Avenue Saint-Jean",
+        "enseigne": "FNAC Farébersviller",
+        "longitude": "49.1140194",
+        "latitude": "6.8553937"
+    },
+    {
+        "activity": "Grand magasin · 4 Rue Winston Churchill",
+        "enseigne": "FNAC Metz",
+        "longitude": "49.1165478",
+        "latitude": "6.1725703"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Montrichard, 1015 Chemin de la Corderie",
+        "enseigne": "FNAC Pont-à-Mousson",
+        "longitude": "48.9104998",
+        "latitude": "6.0403888"
+    },
+    {
+        "activity": "Grand magasin · 2 Avenue Foch",
+        "enseigne": "FNAC Nancy",
+        "longitude": "48.6897222",
+        "latitude": "6.1763889"
+    },
+    {
+        "activity": "Grand magasin · 22 Place Kléber",
+        "enseigne": "FNAC Strasbourg",
+        "longitude": "48.5831889",
+        "latitude": "7.744792"
+    },
+    {
+        "activity": "Grand magasin · 1 Grand Rue",
+        "enseigne": "FNAC Colmar",
+        "longitude": "48.077483",
+        "latitude": "7.3608533"
+    },
+    {
+        "activity": "Grand magasin · Zone les Fourrieres, Route du, Rue du Saut le Cerf",
+        "enseigne": "FNAC Epinal",
+        "longitude": "48.1985645",
+        "latitude": "6.4817561"
+    },
+    {
+        "activity": "Grand magasin · Hall départ Gare SNCF Metz, 13 Place du Général de Gaulle",
+        "enseigne": "FNAC Metz - Gare Metz-Ville",
+        "longitude": "49.1095773",
+        "latitude": "6.1768896"
+    },
+    {
+        "activity": "Grand magasin · Espace Drouet d'Erlon, 53 Place Drouet d'Erlon",
+        "enseigne": "FNAC Reims",
+        "longitude": "49.2555588",
+        "latitude": "4.0265512"
+    },
+    {
+        "activity": "Grand magasin · 54 Rue du Sauvage",
+        "enseigne": "FNAC Mulhouse",
+        "longitude": "47.7483106",
+        "latitude": "7.3391788"
+    },
+    {
+        "activity": "Grand magasin · ZAC Nord, Rue des Acacias",
+        "enseigne": "FNAC Reims Thillois",
+        "longitude": "49.2590829",
+        "latitude": "3.9640957"
+    },
+    {
+        "activity": "Grand magasin · CCIAL RIVES D'EUROPE, Route de Beauraing",
+        "enseigne": "FNAC Givet",
+        "longitude": "50.135058",
+        "latitude": "4.854147"
+    },
+    {
+        "activity": "Grand magasin · Le Mail, 5 Rue de la République",
+        "enseigne": "FNAC Troyes",
+        "longitude": "48.2982451",
+        "latitude": "4.0741549"
+    },
+    {
+        "activity": "Grand magasin · Fbg de France",
+        "enseigne": "FNAC Belfort",
+        "longitude": "47.637206",
+        "latitude": "6.8574252"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Ville 2, Grand'Rue 143",
+        "enseigne": "Fnac",
+        "longitude": "50.4183487",
+        "latitude": "4.4590395"
+    },
+    {
+        "activity": "Grand magasin · 24 Rue du Bourg",
+        "enseigne": "FNAC Dijon",
+        "longitude": "47.3214022",
+        "latitude": "5.0395393"
+    },
+    {
+        "activity": "Magasin d'articles de loisirs · Route de Beauraing",
+        "enseigne": "Fnac",
+        "longitude": "50.1351382",
+        "latitude": "4.8500786"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial, Rue du Bief",
+        "enseigne": "FNAC Morteau",
+        "longitude": "47.0576057",
+        "latitude": "6.6164993"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Galerie Châteaufarine, Rue André Breton",
+        "enseigne": "FNAC Besançon",
+        "longitude": "47.2152838",
+        "latitude": "5.9474419"
+    },
+    {
+        "activity": "Grand magasin · Rue Joffre 3",
+        "enseigne": "Fnac",
+        "longitude": "50.6441497",
+        "latitude": "5.5723873"
+    },
+    {
+        "activity": "Grand magasin · 26/30 Avenue des Ternes",
+        "enseigne": "FNAC Paris - Ternes",
+        "longitude": "48.8790629",
+        "latitude": "2.2948677"
+    },
+    {
+        "activity": "Magasin · Royal Hamilius, 6 Rue Aldringen",
+        "enseigne": "Fnac",
+        "longitude": "49.6121625",
+        "latitude": "6.1266764"
+    },
+    {
+        "activity": "Grand magasin · Zone commerciale Les Epenottes, 9 Rue Léon Bel",
+        "enseigne": "FNAC Dole",
+        "longitude": "47.1097145",
+        "latitude": "5.5099768"
+    },
+    {
+        "activity": "Grand magasin · 6 esplanade Walter Benjamin",
+        "enseigne": "FNAC Nevers",
+        "longitude": "46.9934889",
+        "latitude": "3.1604274"
+    },
+    {
+        "activity": "Grand magasin · 19 rue Pomone Zac De La Gouille Des Sauges",
+        "enseigne": "Fnac",
+        "longitude": "46.9218139",
+        "latitude": "6.3442287"
+    },
+    {
+        "activity": "· FNAC - Service numérisation Bat 34 - Campus Saoneor, 5 Rue Gabriel Lippmann",
+        "enseigne": "Fnac Numérisation",
+        "longitude": "46.8164588",
+        "latitude": "4.8541446"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial shopping Leman, 7 Rue Amédée de Foras",
+        "enseigne": "FNAC Thonon-les-Bains",
+        "longitude": "46.379508",
+        "latitude": "6.4977173"
+    },
+    {
+        "activity": "Magasin de matériel Hi-Fi · 16 Rue de Rive (inside Fnac",
+        "enseigne": "Devialet",
+        "longitude": "46.2011904",
+        "latitude": "6.1500836"
+    },
+    {
+        "activity": "Grand magasin · Rue de la Pierre-à-Mazel 10",
+        "enseigne": "Fnac Neuchâtel",
+        "longitude": "46.9956825",
+        "latitude": "6.9443826"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Balexert, Avenue Louis-Casaï 27",
+        "enseigne": "Fnac Genève Balexert",
+        "longitude": "46.2197707",
+        "latitude": "6.1133196"
+    },
+    {
+        "activity": "Grand magasin · Littoral Centre, Route de la Gare 10",
+        "enseigne": "Fnac Allaman",
+        "longitude": "46.4767347",
+        "latitude": "6.4018534"
+    },
+    {
+        "activity": "Grand magasin · Rue de Genève 6",
+        "enseigne": "Fnac Lausanne",
+        "longitude": "46.5218178",
+        "latitude": "6.6293327"
+    },
+    {
+        "activity": "Magasin de matériel Hi-Fi · FNAC, Rue de Genève 6",
+        "enseigne": "Devialet - FNAC Lausanne",
+        "longitude": "46.5218346",
+        "latitude": "6.62913"
+    },
+    {
+        "activity": "Grand magasin · 16 Rue de la République",
+        "enseigne": "FNAC Orléans",
+        "longitude": "47.9044138",
+        "latitude": "1.9045744"
+    },
+    {
+        "activity": "Librairie",
+        "enseigne": "fnac livre",
+        "longitude": "48.0777716",
+        "latitude": "7.3606843"
+    },
+    {
+        "activity": "Grand magasin · Manor Shop, Chemin Industriel 1",
+        "enseigne": "Fnac Chavannes",
+        "longitude": "46.3336062",
+        "latitude": "6.1567448"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Lyon St-Exupéry Terminal 1, Hall A, zone sous douane BP 142",
+        "enseigne": "FNAC Aéroport Lyon St-Exupéry T1 hall A",
+        "longitude": "45.7168516",
+        "latitude": "5.0776727"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Le Forum, Place du Marché 6B",
+        "enseigne": "Fnac Montreux",
+        "longitude": "46.4314456",
+        "latitude": "6.9093048"
+    },
+    {
+        "activity": "Grand magasin · Avenue de la Gare 10",
+        "enseigne": "Fnac Fribourg",
+        "longitude": "46.8030752",
+        "latitude": "7.1525348"
+    },
+    {
+        "activity": "Grand magasin",
+        "enseigne": "FNAC",
+        "adresse": " Centre Commercial COLLIN'S ZAC de COLIN,  Petit-Bourg 97170,  Guadeloupe",
+        "longitude": "-61.6057488",
+        "latitude": "16.2038005"
+    },
+    {
+        "activity": "Grand magasin · F56, Aéroport Roissy CDG Terminal 2F Couloir central, proche des Portes F41 à",
+        "enseigne": "FNAC",
+        "longitude": "49.0055004",
+        "latitude": "2.5775187"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG Terminal 2E Hall K Couloir central, proche des Portes K39 à",
+        "enseigne": "Fnac",
+        "longitude": "49.0034122",
+        "latitude": "2.5764414"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Roissy CDG Porte C87, Terminal 2C",
+        "enseigne": "Fnac",
+        "longitude": "49.0024617",
+        "latitude": "2.5648072"
+    },
+    {
+        "activity": "Grand magasin · Route de Gambais",
+        "enseigne": "FNAC Maulette",
+        "longitude": "48.7907963",
+        "latitude": "1.6262545"
+    },
+    {
+        "activity": "Grand magasin · Avenue de la République Centre Commercial des, Rue des Prés Saint-Martin",
+        "enseigne": "Fnac",
+        "longitude": "48.7994933",
+        "latitude": "2.6077347"
+    },
+    {
+        "activity": "Grand magasin · 72, rue Nationale Centre commercial Les Galeries nationales",
+        "enseigne": "FNAC Tours",
+        "longitude": "47.3923514",
+        "latitude": "0.6882043"
+    },
+    {
+        "activity": "Grand magasin · Galerie Auchan Centre commercial Chambray 2 ZAC Vrillonnerie, cellule 5",
+        "enseigne": "FNAC Connect Chambray",
+        "longitude": "47.3395461",
+        "latitude": "0.6989604"
+    },
+    {
+        "activity": "Grand magasin · centre commercial Rn 12 centre commercial INTERMARCHÉ",
+        "enseigne": "FNAC Verneuil-sur-Avre",
+        "longitude": "48.7330756",
+        "latitude": "0.9202606"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Cordeliers, 4 Rue Henri Oudin",
+        "enseigne": "FNAC Poitiers",
+        "longitude": "46.5818313",
+        "latitude": "0.3422134"
+    },
+    {
+        "activity": "Grand magasin · Espace du Palais, 8 Allée Eugène Delacroix",
+        "enseigne": "FNAC Rouen",
+        "longitude": "49.4427202",
+        "latitude": "1.0933836"
+    },
+    {
+        "activity": "Grand magasin · 1 bis Rue Corneille",
+        "enseigne": "FNAC Connect Narbonne",
+        "longitude": "43.1838287",
+        "latitude": "3.0046989"
+    },
+    {
+        "activity": "Grand magasin · 700 La Pyrénéenne Centre commercial Labège 2 ZAC, Impasse Grande Bordé",
+        "enseigne": "FNAC Labège",
+        "longitude": "43.5503679",
+        "latitude": "1.5080444"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Le Polygone, 1 Rue des Pertuisanes",
+        "enseigne": "FNAC Montpellier",
+        "longitude": "43.6085755",
+        "latitude": "3.8849407"
+    },
+    {
+        "activity": "Grand magasin · 6 Rue du Terral",
+        "enseigne": "FNAC Connect Rodez",
+        "longitude": "44.3510974",
+        "latitude": "2.5749806"
+    },
+    {
+        "activity": "Grand magasin · centre commercial Chemin Départemental 817 Centre Commercial Intermarché",
+        "enseigne": "FNAC Capvern",
+        "longitude": "43.1121122",
+        "latitude": "0.3545675"
+    },
+    {
+        "activity": "Grand magasin · zone publique Départs MUSIC RAILWAY SNC, Aéroport de Toulouse Blagnac, Hall B",
+        "enseigne": "FNAC Aéroport Toulouse Blagnac Hall B",
+        "longitude": "43.6301191",
+        "latitude": "1.3741626"
+    },
+    {
+        "activity": "Grand magasin · centre commercial Pyréval, Route de Mirepoix",
+        "enseigne": "FNAC Pamiers",
+        "longitude": "43.1057356",
+        "latitude": "1.6319165"
+    },
+    {
+        "activity": "Grand magasin · 16 Allées du Président Franklin Roosevelt",
+        "enseigne": "FNAC Toulouse - Wilson",
+        "longitude": "43.6053426",
+        "latitude": "1.448623"
+    },
+    {
+        "activity": "Grand magasin · 77 Rue d'Alsace Lorraine",
+        "enseigne": "FNAC Toulouse - Jeanne-d'Arc",
+        "longitude": "43.6079699",
+        "latitude": "1.445489"
+    },
+    {
+        "activity": "Grand magasin · CCial LA GARAUD, Rue du 8 Mai 1945",
+        "enseigne": "FNAC Bagnols-sur-Cèze",
+        "longitude": "44.1545198",
+        "latitude": "4.6119497"
+    },
+    {
+        "activity": "Grand magasin · 1 Place de la Résistance",
+        "enseigne": "FNAC Perpignan",
+        "longitude": "42.7008965",
+        "latitude": "2.8928682"
+    },
+    {
+        "activity": "Grand magasin · La Galerie Espaces Fenouillet, 19 Rue des Usines",
+        "enseigne": "FNAC Connect Fenouillet",
+        "longitude": "43.6881242",
+        "latitude": "1.401404"
+    },
+    {
+        "activity": "Grand magasin · La Coupole des Halles, 22 Boulevard Gambetta",
+        "enseigne": "FNAC Nîmes",
+        "longitude": "43.8394562",
+        "latitude": "4.3586005"
+    },
+    {
+        "activity": "Grand magasin · Rocade Sud, 1639 Chemin des Sports",
+        "enseigne": "FNAC Alès",
+        "longitude": "44.1077369",
+        "latitude": "4.0935483"
+    },
+    {
+        "activity": "Magasin d'électronique · 20 Rue Bellegarde",
+        "enseigne": "SAV FNAC MICRO JEANNE D'ARC",
+        "longitude": "43.608209",
+        "latitude": "1.4452164"
+    },
+    {
+        "activity": "Grand magasin · 9 Rue de la Résistance",
+        "enseigne": "FNAC Bergerac",
+        "longitude": "44.8529963",
+        "latitude": "0.4838847"
+    },
+    {
+        "activity": "Grand magasin · Avenue Georges Pompidou C.Cial Intermarché",
+        "enseigne": "FNAC Lisieux",
+        "longitude": "49.1319104",
+        "latitude": "0.2245085"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Intermarché, 111 Avenue René Coty",
+        "enseigne": "FNAC Sainte-Marie-Des-Champs",
+        "longitude": "49.6252392",
+        "latitude": "0.7824366"
+    },
+    {
+        "activity": "Grand magasin · Centre Paul-Doumer, 25 Rue de Bras",
+        "enseigne": "FNAC Caen",
+        "longitude": "49.1819818",
+        "latitude": "-0.3654875"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial, 2 Route de Paris",
+        "enseigne": "Fnac Darty Caen",
+        "longitude": "49.1660759",
+        "latitude": "-0.2946889"
+    },
+    {
+        "activity": "Grand magasin · Espace René-Coty, 22 Rue Casimir Périer",
+        "enseigne": "FNAC Le Havre",
+        "longitude": "49.4959559",
+        "latitude": "0.1115995"
+    },
+    {
+        "activity": "Grand magasin · 4 Rue Maréchal Leclerc",
+        "enseigne": "FNAC St-Lô",
+        "longitude": "49.1148",
+        "latitude": "-1.09016"
+    },
+    {
+        "activity": "Magasin de matériel Hi-Fi · FNAC Lille - Centre Commercial le Tanneur, 20 Rue Saint-Nicolas",
+        "enseigne": "Devialet - FNAC Lille",
+        "longitude": "50.6358418",
+        "latitude": "3.0648958"
+    },
+    {
+        "activity": "Grand magasin · 65-67 Rue Faidherbe",
+        "enseigne": "FNAC Boulogne-sur-Mer",
+        "longitude": "50.7253586",
+        "latitude": "1.605283"
+    },
+    {
+        "activity": "Grand magasin · 42-44 Avenue Maréchal Soult",
+        "enseigne": "FNAC Bayonne",
+        "longitude": "43.4865509",
+        "latitude": "-1.4915175"
+    },
+    {
+        "activity": "Grand magasin · Zone Commerciale Brion Sud 21 route De Bordeaux",
+        "enseigne": "FNAC Montpon-Menesterol",
+        "longitude": "45.0062227",
+        "latitude": "0.1458193"
+    },
+    {
+        "activity": "Grand magasin · Route de Brive",
+        "enseigne": "FNAC Saint-Yrieix",
+        "longitude": "45.495648",
+        "latitude": "1.2143661"
+    },
+    {
+        "activity": "Grand magasin · 50 Rue Sainte-Catherine",
+        "enseigne": "FNAC Bordeaux",
+        "longitude": "44.8399519",
+        "latitude": "-0.5740345"
+    },
+    {
+        "activity": "Grand magasin · Palais des Pyrénées, Avenue de Lattre de Tassigny",
+        "enseigne": "FNAC Pau",
+        "longitude": "43.2948621",
+        "latitude": "-0.3686551"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Géant Angoulême Nord 262 rue de l'auvent Champniers",
+        "enseigne": "FNAC Connect Angoulême",
+        "longitude": "45.6931555",
+        "latitude": "0.1820128"
+    },
+    {
+        "activity": "Grand magasin · 8 Rue des Combes BP 30190",
+        "enseigne": "FNAC Limoges",
+        "longitude": "45.8324082",
+        "latitude": "1.257881"
+    },
+    {
+        "activity": "Magasin d'électroménager · Parc commercial les Portes du Delta, 5 Rue Louis-Nicolas Robert",
+        "enseigne": "FNAC DARTY Biganos",
+        "longitude": "44.63449",
+        "latitude": "-0.9600309"
+    },
+    {
+        "activity": "Grand magasin · Rue du Mûrier",
+        "enseigne": "FNAC Toulon",
+        "longitude": "43.1206375",
+        "latitude": "5.9383669"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Nice Côte d'Azur Terminal, 1 Rue Costes et Bellonte",
+        "enseigne": "FNAC Aéroport Nice-Côte d'Azur T1",
+        "longitude": "43.665045",
+        "latitude": "7.2133302"
+    },
+    {
+        "activity": "Grand magasin · Terminal 2, Aéroport Nice-Côte d'Azur Proche des Portes A15 et A16",
+        "enseigne": "FNAC Aéroport Nice-Côte d'Azur T2",
+        "longitude": "43.6602181",
+        "latitude": "7.2058019"
+    },
+    {
+        "activity": "Grand magasin · 83 Rue d'Antibes",
+        "enseigne": "FNAC Cannes",
+        "longitude": "43.552539",
+        "latitude": "7.0237465"
+    },
+    {
+        "activity": "Grand magasin · 15 Place Louis Blanc",
+        "enseigne": "FNAC Connect Sainte-Maxime",
+        "longitude": "43.309237",
+        "latitude": "6.637955"
+    },
+    {
+        "activity": "Grand magasin · 44-46 Avenue Jean Médecin",
+        "enseigne": "FNAC Nice",
+        "longitude": "43.7033812",
+        "latitude": "7.2665978"
+    },
+    {
+        "activity": "Grand magasin · Le Veertig, 150 Avenue lou Mistraou",
+        "enseigne": "FNAC Connect Bormes-les-Mimosas",
+        "longitude": "43.1396109",
+        "latitude": "6.3561648"
+    },
+    {
+        "activity": "Grand magasin · 119 Avenue des Alpes",
+        "enseigne": "FNAC Cagnes-sur-Mer",
+        "longitude": "43.6635179",
+        "latitude": "7.1279529"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial Le Métropole, 17 Avenue des Spélugues",
+        "enseigne": "FNAC Monaco",
+        "longitude": "43.7412885",
+        "latitude": "7.42872"
+    },
+    {
+        "activity": "Grand magasin · Centre commercial, 1 Traverse de la Sablière",
+        "enseigne": "FNAC Marseille - La Valentine",
+        "longitude": "43.2916538",
+        "latitude": "5.4781107"
+    },
+    {
+        "activity": "Magasin d'informatique · 8-16 Rue Emma et Philippe Tiranty",
+        "enseigne": "Réception Fnac",
+        "longitude": "43.7030049",
+        "latitude": "7.2670594"
+    },
+    {
+        "activity": "Grand magasin · Centre Bourse, 17 Cours Belsunce",
+        "enseigne": "FNAC Marseille",
+        "longitude": "43.2975871",
+        "latitude": "5.3759814"
+    },
+    {
+        "activity": "Grand magasin · Les Allées Provençales, 160 Av. Giuseppe Verdi",
+        "enseigne": "FNAC Aix-en-Provence",
+        "longitude": "43.5262818",
+        "latitude": "5.4429161"
+    },
+    {
+        "activity": "Grand magasin · Honorat, Gare St-Charles - Halle, Avenue du Général Leclerc",
+        "enseigne": "FNAC Marseille - Gare St-Charles",
+        "longitude": "43.3036559",
+        "latitude": "5.3793445"
+    },
+    {
+        "activity": "Grand magasin · Aéroport Marseille-Provence Terminal 1, Hall A zone sous douane",
+        "enseigne": "FNAC Aéroport Marseille-Provence T1 hall A",
+        "longitude": "43.4414492",
+        "latitude": "5.2225135"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial E.Leclerc Quartier Saint Jean, N7",
+        "enseigne": "FNAC Connect Brignoles",
+        "longitude": "43.4072593",
+        "latitude": "6.0477009"
+    },
+    {
+        "activity": "Grand magasin · Place Jules Morgan",
+        "enseigne": "Fnac",
+        "longitude": "43.6383441",
+        "latitude": "5.0942639"
+    },
+    {
+        "activity": "Boutique de cadeaux · 83 Rue d'Antibes",
+        "enseigne": "Corner Nature et Découvertes - Fnac Cannes",
+        "longitude": "43.5525391",
+        "latitude": "7.0237398"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "Fnac",
+        "longitude": "43.5524458",
+        "latitude": "7.0235842"
+    },
+    {
+        "activity": "Grand magasin · Quartier Saint Jean N7 Centre Commercial E.LECLERC",
+        "enseigne": "Fnac",
+        "longitude": "43.4070792",
+        "latitude": "6.047759"
+    },
+    {
+        "activity": "Agence de voyages · Centre Bourse",
+        "enseigne": "FNAC Voyages",
+        "longitude": "43.2970068",
+        "latitude": "5.3753672"
+    },
+    {
+        "activity": "Grand magasin · Terminal 1, Aéroport Marseille-Provence Hall B zone publique BP 104",
+        "enseigne": "Fnac",
+        "longitude": "43.4415353",
+        "latitude": "5.2214973"
+    },
+    {
+        "activity": "Magasin de matériel Hi-Fi · FNAC Nice - La Riviera, 44-46 Avenue Jean Médecin",
+        "enseigne": "Devialet",
+        "longitude": "43.7032662",
+        "latitude": "7.2665158"
+    },
+    {
+        "activity": "Atelier de réparation de téléphones mobiles · Fnac, 83 Rue d'Antibes",
+        "enseigne": "WeFix",
+        "longitude": "43.5525391",
+        "latitude": "7.0237398"
+    },
+    {
+        "activity": "Magasin de matériel Hi-Fi · Fnac Le Metropole shopping center, 17 Avenue des Spélugues",
+        "enseigne": "Devialet",
+        "longitude": "43.7410378",
+        "latitude": "7.4283811"
+    },
+    {
+        "activity": "Grand magasin · 19 Rue de la République",
+        "enseigne": "FNAC Avignon",
+        "longitude": "43.9474469",
+        "latitude": "4.8060213"
+    },
+    {
+        "activity": "Fournisseur d'accès Internet · Centre Commercial La Valentine, 1 Traverse de la Sablière",
+        "enseigne": "Free - Borne interactive (Fnac)",
+        "longitude": "43.291883",
+        "latitude": "5.4775742"
+    },
+    {
+        "activity": "Grand magasin · Cours Prince Impérial",
+        "enseigne": "FNAC Ajaccio",
+        "longitude": "41.9346646",
+        "latitude": "8.7464104"
+    },
+    {
+        "activity": "Grand magasin · Centre Commercial Atrium Lieu dit Pernicaggio",
+        "enseigne": "FNAC Ajaccio Atrium",
+        "longitude": "41.9534713",
+        "latitude": "8.7952613"
+    },
+    {
+        "activity": "Grand magasin · Montmajour, Lieu dit, Avenue de la Libération",
+        "enseigne": "FNAC Arles",
+        "longitude": "43.7057608",
+        "latitude": "4.6431867"
+    },
+    {
+        "activity": "Grand magasin · Aéroport d'Orly Aérogare Ouest Hall 1 central",
+        "enseigne": "Fnac",
+        "longitude": "48.7282318",
+        "latitude": "2.359295"
+    },
+    {
+        "activity": "Service de montage vidéo · 26 Avenue des Ternes",
+        "enseigne": "Fnac Numérisation - Paris 17 - Ternes - Vos VHS, Super 8, Diapositives sur Clé USB",
+        "longitude": "48.8788679",
+        "latitude": "2.2946755"
+    },
+    {
+        "activity": "Agence de voyages · 109 Rue de l'Arcade",
+        "enseigne": "Fnac Tourisme",
+        "longitude": "48.874893",
+        "latitude": "2.324389"
+    },
+    {
+        "activity": "Service de montage vidéo · 7 Rue Pierre Lescot",
+        "enseigne": "Fnac Numérisation",
+        "longitude": "48.8611834",
+        "latitude": "2.3473512"
+    },
+    {
+        "activity": "Grand magasin · Route de Toulouse Centre Commercial",
+        "enseigne": "FNAC Connect Limoges",
+        "longitude": "45.7780975",
+        "latitude": "1.3102011"
+    }
+]

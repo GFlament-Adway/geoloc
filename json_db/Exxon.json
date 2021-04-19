@@ -1,0 +1,58 @@
+[
+    {
+        "activity": "Siège social",
+        "enseigne": "Exxon Mobil",
+        "adresse": " level 9/664 Collins St,  Docklands VIC 3008,  Australie",
+        "longitude": "144.9500363",
+        "latitude": "-37.8197442"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Exxon Mobil Corporation",
+        "adresse": " 321 Bridge Rd,  Para Hills SA 5096,  Australie",
+        "longitude": "138.64326",
+        "latitude": "-34.814037"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Exxonmobil Australia",
+        "adresse": " 445 Marion Rd,  South Plympton SA 5038,  Australie",
+        "longitude": "138.5553963",
+        "latitude": "-34.9687652"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Exxonmobil Chemical Malaysia Sdn. Bhd.",
+        "adresse": " Menara Exxon Mobil,  50450,  Jalan Kia Peng,  50450 Kuala Lumpur,  Federal Territory of Kuala Lumpur,  Malaisie",
+        "longitude": "101.7156366",
+        "latitude": "3.1540869"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "ExxonMobil",
+        "adresse": " Scheldelaan 676,  2030 Anvers,  Belgique",
+        "longitude": "4.3401485",
+        "latitude": "51.2508435"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "ExxonMobil Petroleum and Chemical",
+        "adresse": " Hermeslaan 2,  1831 Machelen,  Belgique",
+        "longitude": "4.4436049",
+        "latitude": "50.8817896"
+    },
+    {
+        "activity": "Usine chimique",
+        "enseigne": "Antwerp Polymers Plant - poort 3 (Exxonmobil)",
+        "adresse": " Canadastraat 21,  2070 Zwijndrecht,  Belgique",
+        "longitude": "4.3298371",
+        "latitude": "51.2366283"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Exxonmobil Petroleum & Chemical",
+        "adresse": " Biezenhoed 2,  2450 Meerhout,  Belgique",
+        "longitude": "5.0552677",
+        "latitude": "51.1008016"
+    }
+]

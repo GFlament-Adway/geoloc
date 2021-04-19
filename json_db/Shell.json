@@ -1,0 +1,1836 @@
+[
+    {
+        "activity": "Fuel supplier",
+        "enseigne": "Mia Abdul Hakim Shell Petrol Pumo",
+        "adresse": " A75,  Kandahar,  Afghanistan",
+        "longitude": "65.7973765",
+        "latitude": "31.5932499"
+    },
+    {
+        "activity": "Marché",
+        "enseigne": "Rahmatzada Center Shell Main Office In Kabul Afghanistan",
+        "adresse": " Sulh Rd,  Kabul,  Afghanistan",
+        "longitude": "69.1937642",
+        "latitude": "34.5140928"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "RTM Shell Afghanistan Office",
+        "adresse": " Lubricant wholesale Market,  Near Dahan e Bagh,  Qowayi Markaz,  Kabul,  Afghanistan",
+        "longitude": "69.1514602",
+        "latitude": "34.5319243"
+    },
+    {
+        "activity": "Oil store",
+        "enseigne": "Shell Mazar zone",
+        "adresse": " Jad-e-Massoud Mazar-e-sharif,  1702,  Afghanistan",
+        "longitude": "67.1179511",
+        "latitude": "36.6926167"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 103 RUE DU PIC AU VENT CRT1,  59810 Lesquin",
+        "longitude": "3.111319",
+        "latitude": "50.5811916"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenue du Parc 20,  7700 Mouscron,  Belgique",
+        "longitude": "3.2025284",
+        "latitude": "50.7365102"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Bruxelles 47,  7500 Tournai,  Belgique",
+        "longitude": "3.4094622",
+        "latitude": "50.6048636"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E17 Richt Rijsel,  8510 Kortrijk,  Belgique",
+        "longitude": "3.2527224",
+        "latitude": "50.8007497"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Renaix 49,  7500 Tournai,  Belgique",
+        "longitude": "3.406312",
+        "latitude": "50.6136233"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Rue de Maire 6,  7503 Tournai,  Belgique",
+        "longitude": "3.3678804",
+        "latitude": "50.6260975"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Dehemlaan 2A,  8900 Ieper,  Belgique",
+        "longitude": "2.8905873",
+        "latitude": "50.8601079"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E17 Richt Gent,  8510 Kortrijk,  Belgique",
+        "longitude": "3.2521511",
+        "latitude": "50.7990561"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Nieuwstraat 204,  8792 Waregem,  Belgique",
+        "longitude": "3.3618583",
+        "latitude": "50.8896371"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenue César Snoeck 51,  9600 Renaix,  Belgique",
+        "longitude": "3.585908",
+        "latitude": "50.7461077"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Roterijstraat 239,  8793 Waregem,  Belgique",
+        "longitude": "3.4036478",
+        "latitude": "50.8987344"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Vichtesteenweg 135,  8540 Deerlijk,  Belgique",
+        "longitude": "3.3787182",
+        "latitude": "50.8466433"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Callicannesweg 20/21,  8978 Poperinge,  Belgique",
+        "longitude": "2.6367648",
+        "latitude": "50.8133484"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Av. Maréchal Foch 934,  7012 Mons,  Belgique",
+        "longitude": "3.8757966",
+        "latitude": "50.4466204"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Avenue Wilson 429,  7012 Mons,  Belgique",
+        "longitude": "3.9054178",
+        "latitude": "50.4492231"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " D'Hoppe 37,  7880 Vloesberg,  Belgique",
+        "longitude": "3.7028902",
+        "latitude": "50.7701008"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Sint-Eloois-Winkelsestraat 132,  8800 Roeselare,  Belgique",
+        "longitude": "3.161854",
+        "latitude": "50.8980494"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Albertlaan 100,  9400 Ninove,  Belgique",
+        "longitude": "4.0090892",
+        "latitude": "50.8379034"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Gentsesteenweg 50,  9750 Kruisem,  Belgique",
+        "longitude": "3.6171302",
+        "latitude": "50.9084437"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Deinsesteenweg 85B,  9031 Gent,  Belgique",
+        "longitude": "3.6319557",
+        "latitude": "51.0381405"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenue du Parc 20,  7700 Mouscron,  Belgique",
+        "longitude": "3.2025747",
+        "latitude": "50.7364649"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E17 Richt Gent,  8510 Kortrijk,  Belgique",
+        "longitude": "3.2521582",
+        "latitude": "50.7990089"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E17 Richt Rijsel,  8510 Kortrijk,  Belgique",
+        "longitude": "3.2527982",
+        "latitude": "50.8006809"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Bruxelles 47,  7500 Tournai,  Belgique",
+        "longitude": "3.4094604",
+        "latitude": "50.6048586"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Renaix 49,  7500 Tournai,  Belgique",
+        "longitude": "3.406258",
+        "latitude": "50.6136817"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Rue de Maire 6,  7503 Tournai,  Belgique",
+        "longitude": "3.3679042",
+        "latitude": "50.6260855"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenue César Snoeck 51,  9600 Renaix,  Belgique",
+        "longitude": "3.5860072",
+        "latitude": "50.7461173"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Rollegemkapelsestraat 33,  8880 Ledegem,  Belgique",
+        "longitude": "3.1769755",
+        "latitude": "50.8740738"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Roeselaarsestraat 616,  8800 Roeselare,  Belgique",
+        "longitude": "3.0916996",
+        "latitude": "50.9294346"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Lichterveldsestraat 109,  8851 Ardooie,  Belgique",
+        "longitude": "3.1772953",
+        "latitude": "51.0068945"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Brugsesteenweg 340,  8800 Roeselare,  Belgique",
+        "longitude": "3.1207972",
+        "latitude": "50.9659147"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "SHELL Kaaskerke",
+        "adresse": " Kaaskerkestraat 152,  8600 Diksmuide,  Belgique",
+        "longitude": "2.830727",
+        "latitude": "51.0370507"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Rivadavia 16028,  B1706 Haedo,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-58.5902088",
+        "latitude": "-34.644767"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Av. Armada Argentina 982,  X5017 Córdoba,  Argentine",
+        "longitude": "-64.2148764",
+        "latitude": "-31.4590636"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenida Eva Perón Cordoba 7763,  2000 Rosario,  Argentine",
+        "longitude": "-60.7257946",
+        "latitude": "-32.9309602"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Antártida Argentina 2970,  Q8300 Neuquén,  Argentine",
+        "longitude": "-68.1005059",
+        "latitude": "-38.9473018"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Avenida Independencia,  Julio Argentino Roca,  B7600 Mar del Plata,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-57.5636504",
+        "latitude": "-38.0092151"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Hipólito Yrigoyen,  C6500 9 de Julio,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-60.8763461",
+        "latitude": "-35.4524197"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Urquiza E Yrigoyen,  B6500 9 de Julio,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-60.8849125",
+        "latitude": "-35.4415114"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estacion de Servicio Shell",
+        "adresse": " el 54 Loma Verde,  Ruta 9 KM. 54,  B1625 Belén de Escobar,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-58.8319753",
+        "latitude": "-34.3310905"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " RP2 KM. 298,  B7172 Las Armas,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-57.837449",
+        "latitude": "-37.065746"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Service Station",
+        "adresse": " Av. Sixto Rodríguez 1096,  B7540 Coronel Suarez,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-61.9332343",
+        "latitude": "-37.4527022"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " RP4 232,  Etruria,  Córdoba,  Argentine",
+        "longitude": "-63.2468953",
+        "latitude": "-32.9361343"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Avenida San Martín,  Calle 107 23,  B7620 Balcarce,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-58.2446842",
+        "latitude": "-37.8380319"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estacion de Servicio Shell",
+        "adresse": " José Ignacio Gorriti 1099 Acceso Oeste Y Calle Gorriti,  B1746 Francisco Alvarez,  Argentine",
+        "longitude": "-58.8685043",
+        "latitude": "-34.6089036"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Hipólito Yrigoyen Y Lombardo,  7223 Gral. Belgrano,  Argentine",
+        "longitude": "-58.4967434",
+        "latitude": "-35.7716853"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Pueyrredón,  Av. San Martin Y,  B7200 Las Flores,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-59.0974117",
+        "latitude": "-36.0168503"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Autopista Luján - Junín,  RN7 Km 140,  B6725 Carmen de Areco,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-59.8288231",
+        "latitude": "-34.4044422"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Roque Sáenz Peña 32 Av. San Martin,  RP2,  B7116 Lezama,  Argentine",
+        "longitude": "-57.8971366",
+        "latitude": "-35.8720848"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " RN22,  R8336 Villa Regina,  Río Negro,  Argentine",
+        "longitude": "-67.0884361",
+        "latitude": "-39.0902073"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell Service Station",
+        "adresse": " RN7 KM. 312,  B6030 Vedia,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-61.5200844",
+        "latitude": "-34.5107891"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estación de Servicio Shell - GNC - Shop- Comedor - Hotel - Ruta 7 San Luis",
+        "adresse": " San Luis,  Argentine",
+        "longitude": "-66.2530903",
+        "latitude": "-33.3057314"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 222 Manning Rd,  Karawara WA 6152,  Australie",
+        "longitude": "115.8841471",
+        "latitude": "-32.0119162"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 443 Salisbury Hwy,  Parafield Gardens SA 5107,  Australie",
+        "longitude": "138.6179228",
+        "latitude": "-34.7882583"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 2137 Pacific Hwy,  Heatherbrae NSW 2324,  Australie",
+        "longitude": "151.7177992",
+        "latitude": "-32.798335"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " The Grove Way,  Lot 203 Atlantis Dr,  Golden Grove SA 5125,  Australie",
+        "longitude": "138.69759",
+        "latitude": "-34.7893689"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 394 Canning Highway,  Waddell Rd,  Bicton WA 6157,  Australie",
+        "longitude": "115.7927695",
+        "latitude": "-32.0341083"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 100 Commercial St W,  Mount Gambier SA 5290,  Australie",
+        "longitude": "140.7752728",
+        "latitude": "-37.8265231"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 30 Thomas St,  Wellington St,  West Perth Western Australia 6005,  Australie",
+        "longitude": "115.8395312",
+        "latitude": "-31.9456808"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 480 William St,  Perth Western Australia 6000,  Australie",
+        "longitude": "115.8640479",
+        "latitude": "-31.9408629"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 472-480 Great Eastern Hwy,  Ascot Western Australia 6104,  Australie",
+        "longitude": "115.9519177",
+        "latitude": "-31.9253973"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 2140 The Northern Rd,  Luddenham NSW 2745,  Australie",
+        "longitude": "150.6942929",
+        "latitude": "-33.8839482"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 254 Mains Road,  Turton St,  Sunnybank QLD 4109,  Australie",
+        "longitude": "153.0629445",
+        "latitude": "-27.5759762"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 2824 Gold Coast Highway,  Monaco St,  Surfers Paradise QLD 4217,  Australie",
+        "longitude": "153.4289441",
+        "latitude": "-28.0171751"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " High Road,  Vahland Ave,  Willetton WA 6155,  Australie",
+        "longitude": "115.8940437",
+        "latitude": "-32.0389649"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 1386-1388 DANDENONG RD CNR,  Warrigal Rd,  Oakleigh VIC 3166,  Australie",
+        "longitude": "145.0883668",
+        "latitude": "-37.8937032"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 18 Bessie Creek Rd,  Nar Nar Goon North Victoria 3812,  Australie",
+        "longitude": "145.5743324",
+        "latitude": "-38.068691"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Denmark",
+        "adresse": " 69 South Coast Hwy,  Denmark Western Australia 6333,  Australie",
+        "longitude": "117.3512613",
+        "latitude": "-34.9618516"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 3/9 Comalco Ct,  Thomastown VIC 3074,  Australie",
+        "longitude": "145.0014982",
+        "latitude": "-37.6898972"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 94 Breakfast Creek Rd,  Newstead QLD 4006,  Australie",
+        "longitude": "153.0422506",
+        "latitude": "-27.446376"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 2170 Fifteenth St,  Irymple VIC 3498,  Australie",
+        "longitude": "142.1745263",
+        "latitude": "-34.2390584"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 61-65 Cheltenham Rd,  Dandenong VIC 3175,  Australie",
+        "longitude": "145.2082465",
+        "latitude": "-37.9908912"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Ranks Petroleum Limited (Shell Bangladesh)",
+        "adresse": " 439/3,  ঢাকা 1208,  Bangladesh",
+        "longitude": "90.4010607",
+        "latitude": "23.7652875"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Belgique",
+        "adresse": " Cantersteen 47,  1000 Bruxelles,  Belgique",
+        "longitude": "4.3586997",
+        "latitude": "50.845108"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Truck Automatic",
+        "adresse": " Rue Du Chateau Du Fays 8,  5140 Sombreffe,  Belgique",
+        "longitude": "4.5926146",
+        "latitude": "50.4859917"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Truck Automatic",
+        "adresse": " Hazopweg 0,  9130 Beveren,  Belgique",
+        "longitude": "4.2203464",
+        "latitude": "51.2512404"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " A10 Oostende,  9230 Wetteren,  Belgique",
+        "longitude": "3.8453274",
+        "latitude": "50.9704361"
+    },
+    {
+        "activity": "",
+        "enseigne": "Belgian Shell SA",
+        "adresse": " Pantserschipstraat 108,  9000 Gent,  Belgique",
+        "longitude": "3.7292175",
+        "latitude": "51.0993079"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Lichterveldsestraat 109,  8851 Ardooie,  Belgique",
+        "longitude": "3.1772784",
+        "latitude": "51.0068709"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Brugsesteenweg 340,  8800 Roeselare,  Belgique",
+        "longitude": "3.1207289",
+        "latitude": "50.9659106"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Staatsbaan 28,  8610 Kortemark,  Belgique",
+        "longitude": "3.054613",
+        "latitude": "51.0246062"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Kouter 9,  9800 Deinze,  Belgique",
+        "longitude": "3.5132514",
+        "latitude": "50.991585"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Burkina",
+        "adresse": " Ave Nelson Mandela,  Koulouba,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.520378",
+        "latitude": "12.3704315"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell Ouaga Inter",
+        "adresse": " Patte d´oie,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.514508",
+        "latitude": "12.3325336"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell Rond point des Nations Unies",
+        "adresse": " Koulouba,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.5198489",
+        "latitude": "12.3710161"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Service Shell",
+        "adresse": " Pissy,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.5723075",
+        "latitude": "12.3424055"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell",
+        "adresse": " Karpala,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.4625415",
+        "latitude": "12.3209625"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell",
+        "adresse": " Ouagadougou,  Burkina Faso",
+        "longitude": "-1.4944913",
+        "latitude": "12.3603227"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell",
+        "adresse": " Ouagadougou,  Burkina Faso",
+        "longitude": "-1.6284958",
+        "latitude": "12.3267326"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell",
+        "adresse": " Avenue Maurice Yameogo,  Koulouba,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.5215055",
+        "latitude": "12.3675319"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell",
+        "adresse": " Ouagadougou,  Burkina Faso",
+        "longitude": "-1.6004098",
+        "latitude": "12.334881"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Shell de Bindougousso",
+        "adresse": " rue Gabrielle Esther C. Choulet,  Bobo-Dioulasso,  Burkina Faso",
+        "longitude": "-4.2791289",
+        "latitude": "11.1833155"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Wa-Tumu Rd Shell Service Station",
+        "adresse": " Wa,  Ghana",
+        "longitude": "-2.4893641",
+        "latitude": "10.0791406"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Express",
+        "adresse": " Chaussée de Renaix 67,  7912 Frasnes-lez-Anvaing,  Belgique",
+        "longitude": "3.5805652",
+        "latitude": "50.700007"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "SHELL Kaaskerke",
+        "adresse": " Kaaskerkestraat 152,  8600 Diksmuide,  Belgique",
+        "longitude": "2.83071",
+        "latitude": "51.037011"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Axe Lourd",
+        "adresse": " Unnamed Road,  Douala,  Cameroun",
+        "longitude": "9.7388738",
+        "latitude": "4.0092535"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " village,  Unnamed Road,  Douala,  Cameroun",
+        "longitude": "9.7411012",
+        "latitude": "4.0089364"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Dakar /MRS",
+        "adresse": " 33088,  ndokoti,  Douala,  Cameroun",
+        "longitude": "9.7363486",
+        "latitude": "4.0290244"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station MRS (Ancienne Petite Shell Ndogpassi)",
+        "adresse": " N3,  Douala,  Cameroun",
+        "longitude": "9.7530417",
+        "latitude": "4.006826"
+    },
+    {
+        "activity": "Résidence",
+        "enseigne": "Shell nsimeyong",
+        "adresse": " Face ancien Shell Nsimeyong,  Yaoundé,  Cameroun",
+        "longitude": "11.496272",
+        "latitude": "3.8416127"
+    },
+    {
+        "activity": "Institution financière",
+        "enseigne": "Express Union - Shell Bali",
+        "adresse": " Koumassi,  Douala,  Cameroun",
+        "longitude": "9.6960481",
+        "latitude": "4.0360446"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Shell Canada Limited",
+        "adresse": " Shell Centre,  400 4 Ave SW,  Calgary,  AB T2P 0J4,  Canada",
+        "longitude": "-114.071285",
+        "latitude": "51.0500645"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada",
+        "adresse": " 909 Wilson Ave,  North York,  ON M3K 1E6,  Canada",
+        "longitude": "-79.4676895",
+        "latitude": "43.730174"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada Products",
+        "adresse": " 12 Castleridge Dr NE #1,  Calgary,  Alberta T3J 1V4,  Canada",
+        "longitude": "-113.949565",
+        "latitude": "51.1071331"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 1450 Avenue Woodland,  Montréal,  QC H4E 2J1,  Canada",
+        "longitude": "-73.5842883",
+        "latitude": "45.4531136"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada Products Limited",
+        "adresse": " 1010 McNabb St,  Sault Ste. Marie,  ON P6B 6J1,  Canada",
+        "longitude": "-84.278135",
+        "latitude": "46.5239035"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 745 Rue De Lestres,  Quebec City,  Quebec G1X 2L9,  Canada",
+        "longitude": "-71.3107755",
+        "latitude": "46.781368"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Shell Canada Products",
+        "adresse": " 250 Laurier Blvd,  Brockville,  ON K6V 5V7,  Canada",
+        "longitude": "-75.6915448",
+        "latitude": "44.6232658"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 4505 Canada Way,  Burnaby,  BC V5G 1J9,  Canada",
+        "longitude": "-123.0038037",
+        "latitude": "49.2549875"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Shell Canada Products Limited",
+        "adresse": " 150 St Clair Pkwy,  Corunna,  ON N0N 1G0,  Canada",
+        "longitude": "-82.4553981",
+        "latitude": "42.9026343"
+    },
+    {
+        "activity": "Petroleum products company",
+        "enseigne": "Shell Canada Products - Keele Terminal",
+        "adresse": " 1P1,  3975 Keele St,  Toronto,  ON,  Canada",
+        "longitude": "-79.4906344",
+        "latitude": "43.7678377"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Cristobal Colón",
+        "adresse": " Av. Américo Vespucio Sur 4359 /A,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.579557",
+        "latitude": "-33.423814"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Carrascal 4158",
+        "adresse": " Santiago,  Quinta Normal,  Región Metropolitana,  Chili",
+        "longitude": "-70.6903",
+        "latitude": "-33.423602"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. República de Chile N° 0180",
+        "adresse": " Rancagua,  O'Higgins,  Chili",
+        "longitude": "-70.729445",
+        "latitude": "-34.156563"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Departamental",
+        "adresse": " Sta. Rosa 451,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.637008",
+        "latitude": "-33.506846"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Panamericana Nte. 1395",
+        "adresse": " Santiago,  Independencia,  Región Metropolitana,  Chili",
+        "longitude": "-70.679",
+        "latitude": "-33.413299"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av Libertador Bernardo O'Higgins 3783",
+        "adresse": " Santiago,  Estación Central,  Región Metropolitana,  Chili",
+        "longitude": "-70.6875558",
+        "latitude": "-33.4527174"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Chile S.A.C.I. - Av. Copayapu 1525",
+        "adresse": " Copiapó,  Atacama,  Chili",
+        "longitude": "-70.3240818",
+        "latitude": "-27.3757287"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Pdte Alessandri 147",
+        "adresse": " Coquimbo,  Constitución,  Maule,  Chili",
+        "longitude": "-72.4058283",
+        "latitude": "-35.3376716"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Ruta 5 Km.470",
+        "adresse": " Monte Aguila,  Cabrero,  Bío Bío,  Chili",
+        "longitude": "-72.382885",
+        "latitude": "-37.105533"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Matta",
+        "adresse": " Pedro Lagos 3020,  Mulchen,  Bío Bío,  Chili",
+        "longitude": "-72.2489",
+        "latitude": "-37.718299"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Camino A Rapel 2454",
+        "adresse": " Chocalan,  Melipilla,  Región Metropolitana,  Chili",
+        "longitude": "-71.212287",
+        "latitude": "-33.724593"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Doctor Meza",
+        "adresse": " Almirante Lynch 1520,  Cauquenes,  Maule,  Chili",
+        "longitude": "-72.331077",
+        "latitude": "-35.962182"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Collin N° 788",
+        "adresse": " Chillan,  Chillán,  Bío Bío,  Chili",
+        "longitude": "-72.103121",
+        "latitude": "-36.615977"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 203,  Jalan Munshi Abdullah,  Kampung Bukit China,  75100 Malacca,  Malaisie",
+        "longitude": "102.2551795",
+        "latitude": "2.1975398"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Shell Colombia S.A.",
+        "adresse": " No. 7 -33 piso 20,  Ac. 100 #8 Este-33,  Bogotá,  Colombie",
+        "longitude": "-74.038775",
+        "latitude": "4.6797436"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 6401 US-550,  Cuba,  NM 87013,  États-Unis",
+        "longitude": "-106.9608832",
+        "latitude": "36.0186991"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Masarykova tř. 1208,  415 01 Teplice,  Tchéquie",
+        "longitude": "13.8487006",
+        "latitude": "50.6533434"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Czech Republic",
+        "adresse": " A. Staška 2027/77,  142 00 Praha 4-Krč-Praha 4,  Tchéquie",
+        "longitude": "14.4488361",
+        "latitude": "50.0428218"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Czech Republic A.s.",
+        "adresse": " Průmyslová E42,  10800 Praha - Malešice,  Tchéquie",
+        "longitude": "14.537909",
+        "latitude": "50.063208"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Petrské nám. 209,  796 01 Prostějov,  Tchéquie",
+        "longitude": "17.1185486",
+        "latitude": "49.46981"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Jihlavská,  625 00 Bohunice,  Tchéquie",
+        "longitude": "16.5812511",
+        "latitude": "49.1731321"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Jičínská,  293 01 Mladá Boleslav,  Tchéquie",
+        "longitude": "14.9309504",
+        "latitude": "50.4106365"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Žitavská,  470 01 Česká Lípa,  Tchéquie",
+        "longitude": "14.5419615",
+        "latitude": "50.6926882"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Pasteurova 63/16,  772 00 Olomouc,  Tchéquie",
+        "longitude": "17.2729496",
+        "latitude": "49.6009798"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Budějovická 9,  375 01 Týn nad Vltavou,  Tchéquie",
+        "longitude": "14.4197701",
+        "latitude": "49.2188038"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Kostelecká 1225,  547 01 Náchod,  Tchéquie",
+        "longitude": "16.1624104",
+        "latitude": "50.4251099"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Jáchymovská,  360 01 Karlovy Vary,  Tchéquie",
+        "longitude": "12.8720472",
+        "latitude": "50.2412333"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E65 Rých. Kom. R10 Smer,  463 46 Příšovice,  Tchéquie",
+        "longitude": "15.0710888",
+        "latitude": "50.5781267"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " D1 145 Km,  Smer,  594 01 Velké Meziříčí,  Tchéquie",
+        "longitude": "16.0330447",
+        "latitude": "49.3537926"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " E49 Směr,  364 01 Toužim,  Tchéquie",
+        "longitude": "12.9896794",
+        "latitude": "50.0483879"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Podlouckého 1429,  592 31 Nové Město na Moravě,  Tchéquie",
+        "longitude": "16.067644",
+        "latitude": "49.5566026"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " D11,  289 05 Dobšice,  Tchéquie",
+        "longitude": "15.2811266",
+        "latitude": "50.1212809"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Postoloprtská 828,  440 01 Louny,  Tchéquie",
+        "longitude": "13.780024",
+        "latitude": "50.3560332"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Dašická 1228,  537 01 Chrudim,  Tchéquie",
+        "longitude": "15.7992085",
+        "latitude": "49.9559687"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " K Vápence 69,  692 01 Mikulov,  Tchéquie",
+        "longitude": "16.6255797",
+        "latitude": "48.8058284"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Spojovací 1329,  674 01 Třebíč,  Tchéquie",
+        "longitude": "15.8915195",
+        "latitude": "49.2045536"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Bomba Shell",
+        "adresse": " Sol Poniente,  Calle Republica de Colombia,  Santo Domingo 10605,  République dominicaine",
+        "longitude": "-69.9588354",
+        "latitude": "18.5007865"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Fuel Station Isla",
+        "adresse": " Calle Moca 18,  Santo Domingo 10413,  République dominicaine",
+        "longitude": "-69.9074833",
+        "latitude": "18.482143"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Av 27 de Febrero 349,  Santo Domingo 10147,  République dominicaine",
+        "longitude": "-69.9437177",
+        "latitude": "18.4593649"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Gasoline Estasion",
+        "adresse": " Av Ortega y Gasset,  Santo Domingo 10514,  République dominicaine",
+        "longitude": "-69.9216377",
+        "latitude": "18.4913865"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estación Shell Independencia y Gas Natural",
+        "adresse": " Av. Independencia,  Santo Domingo,  République dominicaine",
+        "longitude": "-69.9301648",
+        "latitude": "18.4499873"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell gas station",
+        "adresse": " Carr. de Mendoza Km 1,  Santo Domingo Este 11507,  République dominicaine",
+        "longitude": "-69.8366973",
+        "latitude": "18.4993394"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estación Shell San Carlos",
+        "adresse": " Av Mexico,  Santo Domingo 10211,  République dominicaine",
+        "longitude": "-69.8914132",
+        "latitude": "18.4773128"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell gas station",
+        "adresse": " Cruce de Bayahibe,  Carr. La Romana - Higuey,  23000,  République dominicaine",
+        "longitude": "-68.8408766",
+        "latitude": "18.4295033"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Bomba Shell",
+        "adresse": " San Pedro de Macoris 21000,  République dominicaine",
+        "longitude": "-69.3116038",
+        "latitude": "18.4609992"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Autopista Ramón Cáceres Km 1,  Moca 56000,  République dominicaine",
+        "longitude": "-70.5341343",
+        "latitude": "19.3859371"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Sector Valiente,  Autopista Las Americas Km 13,  Santo Domingo Este 10700,  République dominicaine",
+        "longitude": "-69.7093207",
+        "latitude": "18.4557017"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Gasolinera Total SS205 Pontezuela",
+        "adresse": " Carr. Juan Pablo Duarte,  Santiago De Los Caballeros 51000,  République dominicaine",
+        "longitude": "-70.6627014",
+        "latitude": "19.4553496"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Autopista 30 de Mayo Km 8,  Santo Domingo 11105,  République dominicaine",
+        "longitude": "-69.9501067",
+        "latitude": "18.4336369"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Rivadavia 16028,  B1706 Haedo,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-58.5901418",
+        "latitude": "-34.6448222"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Antártida Argentina 2970,  Q8300 Neuquén,  Argentine",
+        "longitude": "-68.1005058",
+        "latitude": "-38.9473231"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Service Station",
+        "adresse": " Av. Sixto Rodríguez 1096,  B7540 Coronel Suarez,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-61.9332399",
+        "latitude": "-37.4526788"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Shell",
+        "adresse": " Avenida San Martín,  Calle 107 23,  B7620 Balcarce,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-58.2447637",
+        "latitude": "-37.8380913"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Estacion de Servicio Shell",
+        "adresse": " José Ignacio Gorriti 1099 Acceso Oeste Y Calle Gorriti,  B1746 Francisco Alvarez,  Argentine",
+        "longitude": "-58.8684295",
+        "latitude": "-34.6089219"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Pueyrredón,  Av. San Martin Y,  B7200 Las Flores,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-59.0974086",
+        "latitude": "-36.0168474"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 36 Welshpool Rd,  Welshpool WA 6106,  Australie",
+        "longitude": "115.91927",
+        "latitude": "-31.9937183"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Al Jomaih and Shell Lubricating Oil Company Limited",
+        "adresse": " المدينة الصناعية الجديدة، الرياض 11564,  Arabie saoudite‭",
+        "longitude": "46.9068159",
+        "latitude": "24.5443509"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Darregueira 401,  B8000 Bahía Blanca,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-62.2708032",
+        "latitude": "-38.7235325"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "SHELL - COMMERCIAL BAHIA BLANCA S.A.",
+        "adresse": " Fragata Sarmiento,  B8000 Bahía Blanca,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-62.2441415",
+        "latitude": "-38.6995737"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Av. Lainez 3000,  B8000 Bahía Blanca,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-62.2211723",
+        "latitude": "-38.7342661"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenida Leandro Niceforo Alem,  Calle Mallea 2095,  8000 Bahía Blanca,  Argentine",
+        "longitude": "-62.2792354",
+        "latitude": "-38.6927078"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " RN33 KM. 134,  B8170 Pigue,  Provincia de Buenos Aires,  Argentine",
+        "longitude": "-62.4174182",
+        "latitude": "-37.5850157"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Argentina S.A.",
+        "adresse": " Av. Pres. Roque Sáenz Peña 788,  C1067 CABA,  Argentine",
+        "longitude": "-58.377696",
+        "latitude": "-34.6060158"
+    },
+    {
+        "activity": "Fournisseur d'équipements industriels",
+        "enseigne": "Shell Lubricants",
+        "adresse": " Av República Argentina,  Asunción,  Paraguay",
+        "longitude": "-57.5895211",
+        "latitude": "-25.3149503"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Shell Oil",
+        "adresse": " Durham St,  Rosehill NSW 2142,  Australie",
+        "longitude": "151.0437774",
+        "latitude": "-33.827919"
+    },
+    {
+        "activity": "Fuel supplier",
+        "enseigne": "Shell",
+        "adresse": " 53 Moore St,  Goomeri QLD 4601,  Australie",
+        "longitude": "152.0684695",
+        "latitude": "-26.1848821"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 257 Elizabeth St,  North Hobart TAS 7000,  Australie",
+        "longitude": "147.3188703",
+        "latitude": "-42.876566"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Truckstop",
+        "adresse": " 141 Sturt Hwy,  Buronga NSW 2739,  Australie",
+        "longitude": "142.192992",
+        "latitude": "-34.17383"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 69 Marshall Street,  Cobar NSW 2835,  Australie",
+        "longitude": "145.8347399",
+        "latitude": "-31.497336"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " BATU 2 1/2,  Jalan Penampang,  88200 Kota Kinabalu,  Sabah,  Malaisie",
+        "longitude": "116.0788809",
+        "latitude": "5.9526475"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Jalan Setia Raja,  93250 Kuching,  Sarawak,  Malaisie",
+        "longitude": "110.3898529",
+        "latitude": "1.5331489"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell",
+        "adresse": " 562 Wellington St,  Perth WA 6000,  Australie",
+        "longitude": "115.8550777",
+        "latitude": "-31.9498509"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Shell Rheinland Raffinerie Werk Nord – Köln-Godorf",
+        "adresse": " Godorfer Hauptstraße 150,  50997 Köln,  Allemagne",
+        "longitude": "6.976746",
+        "latitude": "50.8551819"
+    },
+    {
+        "activity": "Entrepôt",
+        "enseigne": "Shell Warehouse",
+        "adresse": " Bangladesh",
+        "longitude": "90.4819046",
+        "latitude": "23.8954722"
+    },
+    {
+        "activity": "Usine chimique",
+        "enseigne": "Shell Catalysts & Technologies Belgium NV",
+        "adresse": " Pantserschipstraat 331,  9000 Gent,  Belgique",
+        "longitude": "3.724896",
+        "latitude": "51.1012301"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Boulevard Industriel 122,  1070 Anderlecht,  Belgique",
+        "longitude": "4.3084222",
+        "latitude": "50.8177283"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " 18 20,  1030 Schaerbeek,  Belgique",
+        "longitude": "4.3751566",
+        "latitude": "50.8752003"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Zuidlaan 296,  9230 Wetteren,  Belgique",
+        "longitude": "3.8487736",
+        "latitude": "50.9889449"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Boulevard du Souverain 240,  1160 Auderghem,  Belgique",
+        "longitude": "4.4256338",
+        "latitude": "50.8147443"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Avenue du Martin-Pêcheur 2,  1170 Watermael-Boitsfort,  Belgique",
+        "longitude": "4.3999368",
+        "latitude": "50.8105122"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Leuvensesteenweg 163,  3070 Kortenberg,  Belgique",
+        "longitude": "4.5296726",
+        "latitude": "50.8846686"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " A10 Brussel,  9230 Wetteren,  Belgique",
+        "longitude": "3.840381",
+        "latitude": "50.9699584"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Prins Boudewijnlaan 39,  9100 Sint-Niklaas,  Belgique",
+        "longitude": "4.1639198",
+        "latitude": "51.1602088"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Bruxelles 46,  1310 La Hulpe,  Belgique",
+        "longitude": "4.4800247",
+        "latitude": "50.7327291"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Nieuwe Steenweg 129,  9140 Tamse,  Belgique",
+        "longitude": "4.1448157",
+        "latitude": "51.1287574"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Roodebeek 169,  BP 10,  1200 Woluwe-Saint-Lambert,  Belgique",
+        "longitude": "4.429512",
+        "latitude": "50.8485225"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Mons 877,  1070 Anderlecht,  Belgique",
+        "longitude": "4.3019789",
+        "latitude": "50.8280544"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Boulevard de Smet de Naeyer 102,  1090 Jette,  Belgique",
+        "longitude": "4.3288464",
+        "latitude": "50.8734288"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Kortrijksesteenweg 831,  9000 Ghent,  Belgique",
+        "longitude": "3.7112593",
+        "latitude": "51.0259282"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Truck Only",
+        "adresse": " Belgicastraat 10,  9042 Gent,  Belgique",
+        "longitude": "3.7685108",
+        "latitude": "51.1226667"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Palinghuizen 149,  9000 Gent,  Belgique",
+        "longitude": "3.6969376",
+        "latitude": "51.0685875"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Chaussée de Ninove 715,  1070 Anderlecht,  Belgique",
+        "longitude": "4.2933897",
+        "latitude": "50.8466983"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Raizen Shell - R. Antônio de Carvalho Lage Filho",
+        "adresse": " 915 - Cilo 3,  Londrina - PR,  86073-010,  Brésil",
+        "longitude": "-51.2161378",
+        "latitude": "-23.277531"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - Auto Posto Votuporanga Gorayeb Ltda - Av. da Saudade",
+        "adresse": " 2972 - Cidade Nova,  Votuporanga - SP,  15501-405,  Brésil",
+        "longitude": "-49.9779541",
+        "latitude": "-20.426862"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - Auto Posto So Nata Ltda. - R. Amazonas",
+        "adresse": " 3940 - Patrimonio Novo,  Votuporanga - SP,  15500-025,  Brésil",
+        "longitude": "-49.9751638",
+        "latitude": "-20.4178362"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - AUTO POSTO MASUT XI LTDA - Qd 6 LT 10",
+        "adresse": " Av. Antônio Carlos Paniago,  s/n - SETOR MANOEL ABRAO,  Mineiros - GO,  75830-000,  Brésil",
+        "longitude": "-52.5464355",
+        "latitude": "-17.5619854"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - H M DA SILVA E SILVA LTDA - AV OSCAR ZAIDEM DE MENEZES",
+        "adresse": " SN - CENTRO,  Novo São Joaquim - MT,  78625-000,  Brésil",
+        "longitude": "-53.020875",
+        "latitude": "-14.91809"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Loja Shell Select - POSTO SHELL - COOPERCITRUS COOP PROD RURAIS - R. Brasil",
+        "adresse": " 1805 - Jardim Brasil,  Catanduva - SP,  15800-030,  Brésil",
+        "longitude": "-48.9762053",
+        "latitude": "-21.1461319"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - LESTE COM DE PETROLEO E DERIV LTDA - RODOVIA BR 070",
+        "adresse": " KM 239,  S/N - ZONA RURAL,  POXOREO - MT,  78800-000,  Brésil",
+        "longitude": "-53.1476156",
+        "latitude": "-15.6035199"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Proença Shell - Lopes Farinha E Filhos Ltda - Av. Ulisses Guimarães",
+        "adresse": " 40,  Tanabi - SP,  15170-000,  Brésil",
+        "longitude": "-49.6511174",
+        "latitude": "-20.6188524"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - Com De Comb Dom Aquino Ltda - Av. Cuiabá",
+        "adresse": " 108 - Terreo,  Dom Aquino - MT,  78830-000,  Brésil",
+        "longitude": "-54.9183667",
+        "latitude": "-15.8101819"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - Biavatti E Cia Ltda - R. Do Comercio",
+        "adresse": " 4201 - Parque Industrial,  Primavera do Leste - MT,  78850-000,  Brésil",
+        "longitude": "-54.3275798",
+        "latitude": "-15.575193"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - Auto Posto Mineiros Ltda Epp - Av. Ino Rezende",
+        "adresse": " 2-76 - St. Cruvinel,  Mineiros - GO,  75830-000,  Brésil",
+        "longitude": "-52.5421891",
+        "latitude": "-17.5448288"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Loja Shell Select - POSTO SHELL - AUTO POSTO DUQUE 21 DE MOURA LTDA - Av. Duque de Caxias",
+        "adresse": " 21 30 - Vila Cardia,  Bauru - SP,  17053-460,  Brésil",
+        "longitude": "-49.055798",
+        "latitude": "-22.326184"
+    },
+    {
+        "activity": "Supérette",
+        "enseigne": "Shell Select - Av. Brasil",
+        "adresse": " 4089 - São Jorge,  Manaus - AM,  69033-615,  Brésil",
+        "longitude": "-60.0416124",
+        "latitude": "-3.113262"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Posto Shell - CLAUDIONOR HILARIO DA SILVA EIRELI - RUA DOMETIL SOUZA CRUZ E",
+        "adresse": " S/N QD 12,  Perolândia - GO,  75823-000,  Brésil",
+        "longitude": "-52.06206",
+        "latitude": "-17.53055"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Lubricants Switzerland AG",
+        "adresse": " Steigerhubelstrasse 8,  3008 Bern,  Suisse",
+        "longitude": "7.4111136",
+        "latitude": "46.9486056"
+    },
+    {
+        "activity": "Magasin d'usine",
+        "enseigne": "Shell & Vivo lubricants SVL Roches Noires",
+        "adresse": " Casablanca 20250,  Maroc",
+        "longitude": "-7.5771757",
+        "latitude": "33.6024917"
+    },
+    {
+        "activity": "Oil wholesaler",
+        "enseigne": "Buffalo City Lubricants (Shell Lubricants Distribu",
+        "adresse": " 9 Dyer St,  Arcadia,  East London,  5201,  Afrique du Sud",
+        "longitude": "27.9101707",
+        "latitude": "-33.0082734"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Shell Scotford Complex",
+        "adresse": " 55522 Range Rd 214,  Fort Saskatchewan,  AB T8L 4A4,  Canada",
+        "longitude": "-113.0917952",
+        "latitude": "53.7964009"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Beaverhill shell",
+        "adresse": " 9024 Beaverhill Rd,  Lac la Biche,  AB T0A 2C0,  Canada",
+        "longitude": "-111.9557207",
+        "latitude": "54.764174"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Cecilia Gas Plant",
+        "adresse": " Yellowhead County,  AB,  Canada",
+        "longitude": "-117.356202",
+        "latitude": "53.9892017"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Chemicals Canada Ltd",
+        "adresse": " 400 4 Ave SW,  Calgary,  AB T2P 0J4,  Canada",
+        "longitude": "-114.0708395",
+        "latitude": "51.0500501"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Canada Ltd",
+        "adresse": " Grande Prairie,  AB T8V 7H2,  Canada",
+        "longitude": "-118.7724548",
+        "latitude": "55.1628557"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell",
+        "adresse": " Moose Jaw,  SK S0H 0N0,  Canada",
+        "longitude": "-105.5444242",
+        "latitude": "50.4257284"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Chemicals Canada Ltd",
+        "adresse": " 55262 Range Rd 214,  Fort Saskatchewan,  AB T8L 4A3,  Canada",
+        "longitude": "-113.0772408",
+        "latitude": "53.8026622"
+    },
+    {
+        "activity": "",
+        "enseigne": "Shell Waterton Complex",
+        "adresse": " Range Rd 304,  Pincher Creek No. 9,  AB,  Canada",
+        "longitude": "-113.9928974",
+        "latitude": "49.3033709"
+    },
+    {
+        "activity": "Usine chimique",
+        "enseigne": "Shell Chemicals",
+        "adresse": " 339 Lasalle Line,  Corunna,  ON N0N 1G0,  Canada",
+        "longitude": "-82.433206",
+        "latitude": "42.907874"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Shell Caroline Gas Plant",
+        "adresse": " Clearwater County,  Alberta T0M 1C0,  Canada",
+        "longitude": "-114.7633133",
+        "latitude": "51.9642868"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Shell Canada Products",
+        "adresse": " 2751 Underhill Ave,  Burnaby,  BC V5A 3C3,  Canada",
+        "longitude": "-122.9283752",
+        "latitude": "49.2605934"
+    },
+    {
+        "activity": "Diesel fuel supplier",
+        "enseigne": "Mico J Distributors Ltd /Shell Lubricants",
+        "adresse": " Rotella T,  Tellus,  Omala,  Spirax,  Gadus,  AeroShell.,  2525 23 St NE,  Calgary,  AB T2E 7M1,  Canada",
+        "longitude": "-114.0055447",
+        "latitude": "51.0745876"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada Energy",
+        "adresse": " 9301 92 Ave,  Grande Prairie,  AB T8V 7H2,  Canada",
+        "longitude": "-118.7746996",
+        "latitude": "55.1632933"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada Energy",
+        "adresse": " 55522,  Range Rd 214,  Fort Saskatchewan,  AB T8L 4A4,  Canada",
+        "longitude": "-113.0744152",
+        "latitude": "53.7938108"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Shell Manufacturing Centre",
+        "adresse": " 130 St Clair Pkwy,  Corunna,  ON N0N 1G0,  Canada",
+        "longitude": "-82.4571304",
+        "latitude": "42.905487"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Lubricants",
+        "adresse": " 1101 Blair Rd,  Burlington,  ON L7M 1T3,  Canada",
+        "longitude": "-79.7966359",
+        "latitude": "43.3650219"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Bonaventure Shell",
+        "adresse": " 13106 St Albert Trail,  Edmonton,  AB T5L 4P6,  Canada",
+        "longitude": "-113.5661353",
+        "latitude": "53.5909628"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada",
+        "adresse": " 550 9 Ave N,  Regina,  SK S0G 3Z0,  Canada",
+        "longitude": "-104.5787555",
+        "latitude": "50.4830501"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell Canada Products",
+        "adresse": " 380 University Park Dr,  Regina,  SK S4V 0Y8,  Canada",
+        "longitude": "-104.5542506",
+        "latitude": "50.4357096"
+    },
+    {
+        "activity": "",
+        "enseigne": "Shell Lubric. Supply Cmp. B.V.",
+        "adresse": " Carel van Bylandtlaan 30,  2596 HR Den Haag,  Pays-Bas",
+        "longitude": "4.3126302",
+        "latitude": "52.0935927"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Mapocho",
+        "adresse": " Maipú 2948,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.6770548",
+        "latitude": "-33.43285"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av Libertador Bernardo O'Higgins 3006",
+        "adresse": " Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.677406",
+        "latitude": "-33.450742"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Ruta 5 Km. 344",
+        "adresse": " Parral,  Maule,  Chili",
+        "longitude": "-71.823409",
+        "latitude": "-36.178812"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av Libertador Bernardo O'Higgins 4502",
+        "adresse": " Santiago,  Estación Central,  Región Metropolitana,  Chili",
+        "longitude": "-70.697202",
+        "latitude": "-33.455429"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Eleuterio Ramírez N° 440 Esq",
+        "adresse": " Veintiuno de Mayo,  Temuco,  Victoria,  Araucanía,  Chili",
+        "longitude": "-72.334501",
+        "latitude": "-38.233612"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Alcazar Nº 30",
+        "adresse": " Lebu,  Bío Bío,  Chili",
+        "longitude": "-73.651115",
+        "latitude": "-37.606931"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Santiago Bueras N° 1080 - sector Curimón",
+        "adresse": " San Felipe,  Valparaíso,  Chili",
+        "longitude": "-70.687473",
+        "latitude": "-32.784196"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - San Diego",
+        "adresse": " Victoria 1409,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.6491351",
+        "latitude": "-33.4640388"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Caupolican 482",
+        "adresse": " Ovalle,  Coquimbo,  Chili",
+        "longitude": "-71.189623",
+        "latitude": "-30.600204"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Panamericana Sur Km. 1011",
+        "adresse": " Puerto Varas,  Los Lagos,  Chili",
+        "longitude": "-72.976534",
+        "latitude": "-41.365114"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Matucana 30",
+        "adresse": " Santiago,  Estación Central,  Región Metropolitana,  Chili",
+        "longitude": "-70.679484",
+        "latitude": "-33.448158"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Américo Vespucio 1501",
+        "adresse": " Santiago,  Cerrillos,  Región Metropolitana,  Chili",
+        "longitude": "-70.721068",
+        "latitude": "-33.518237"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Ruta 5 Sur",
+        "adresse": " Km. 614,  4,  Temuco,  Araucanía,  Chili",
+        "longitude": "-72.367262",
+        "latitude": "-38.280756"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Portugal",
+        "adresse": " Marín 300,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.635902",
+        "latitude": "-33.445888"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Valparaíso 2150",
+        "adresse": " Quillota,  Valparaíso,  Chili",
+        "longitude": "-71.265837",
+        "latitude": "-32.897024"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Maipú 253 al 263 esq",
+        "adresse": " Chorrillos,  San Felipe,  Valparaíso,  Chili",
+        "longitude": "-70.7302",
+        "latitude": "-32.750099"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Paicaví 1769",
+        "adresse": " Concepción,  Bío Bío,  Chili",
+        "longitude": "-73.050793",
+        "latitude": "-36.810239"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell - Av. Conde de Manso N° 946",
+        "adresse": " Región Metropolitana,  Chili",
+        "longitude": "-71.221342",
+        "latitude": "-33.690916"
+    }
+]

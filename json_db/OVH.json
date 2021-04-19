@@ -1,0 +1,79 @@
+[
+    {
+        "activity": "Consultant en informatique",
+        "enseigne": "OVHcloud",
+        "adresse": " 11 Parvis Rotterdam,  Tour Lille Europe,  59777 Euralille",
+        "longitude": "3.0766404",
+        "latitude": "50.6381044"
+    },
+    {
+        "activity": "",
+        "enseigne": "OVHcloud",
+        "adresse": " 155 Avenue Georges Hannart,  59170 Croix",
+        "longitude": "3.1365578",
+        "latitude": "50.6758193"
+    },
+    {
+        "activity": "Entreprise de logiciels",
+        "enseigne": "OVHcloud",
+        "adresse": " 2 Rue Kellermann,  59100 Roubaix",
+        "longitude": "3.2017352",
+        "latitude": "50.6917629"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVHcloud",
+        "adresse": " 77 Boulevard Marius Vivier Merle,  69003 Lyon",
+        "longitude": "4.8596679",
+        "latitude": "45.7558166"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVHcloud",
+        "adresse": " 3 Mail Pablo Picasso,  44000 Nantes",
+        "longitude": "-1.534358",
+        "latitude": "47.21615"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVHcloud",
+        "adresse": " 59820 Gravelines",
+        "longitude": "2.1550872",
+        "latitude": "51.0165733"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVHcloud",
+        "adresse": " 56 Quai Lawton bâtiment G4,  33300 Bordeaux",
+        "longitude": "-0.5574589",
+        "latitude": "44.8646802"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVHcloud",
+        "adresse": " 3 Rue Lapeyrouse,  31000 Toulouse",
+        "longitude": "1.4460637",
+        "latitude": "43.6040534"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVH",
+        "adresse": " 3 Bis Avenue de Belle Fontaine,  - Hall B,  35510 Cesson-Sévigné",
+        "longitude": "-1.6256984",
+        "latitude": "48.1288433"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "OVHcloud",
+        "adresse": " 6 B Rue Riquet,  75019 Paris",
+        "longitude": "2.3765587",
+        "latitude": "48.8882043"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "OVH",
+        "adresse": " 230 Rue Rolland Garros,  29490 Guipavas",
+        "longitude": "-4.4120337",
+        "latitude": "48.4431017"
+    }
+]

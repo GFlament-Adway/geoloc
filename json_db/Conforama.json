@@ -1,0 +1,1389 @@
+[
+    {
+        "activity": "Magasin de meubles · 6 Avenue des Palanques",
+        "enseigne": "Conforama Toulouse",
+        "longitude": "43.5345945",
+        "latitude": "1.406409"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue le Corbusier",
+        "enseigne": "Conforama Balma",
+        "longitude": "43.6337903",
+        "latitude": "1.4984694"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Auchan, Rue Robert Rivetti",
+        "enseigne": "Conforama Beziers",
+        "longitude": "43.3443382",
+        "latitude": "3.2394456"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Castres",
+        "enseigne": "Conforama Albi",
+        "longitude": "43.8889212",
+        "latitude": "2.1663709"
+    },
+    {
+        "activity": "Magasin de meubles · 5 Rue Paul Valéry Z.A.C. de Clarac",
+        "enseigne": "Conforama Auch",
+        "longitude": "43.6629841",
+        "latitude": "0.5917638"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Grand Sud Z.A.C. des Commandeurs",
+        "enseigne": "Conforama Montpellier",
+        "longitude": "43.5845766",
+        "latitude": "3.9277264"
+    },
+    {
+        "activity": "Magasin de meubles · 62 Rue de Fenouillet",
+        "enseigne": "Conforama Saint-Alban",
+        "longitude": "43.6902317",
+        "latitude": "1.4051732"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. du, Mas Balande",
+        "enseigne": "Conforama Perpignan",
+        "longitude": "42.6689723",
+        "latitude": "2.9162863"
+    },
+    {
+        "activity": "Magasin de meubles · Rue André Citroën Z.A. des Canounges",
+        "enseigne": "Conforama Pamiers",
+        "longitude": "43.1090894",
+        "latitude": "1.6281524"
+    },
+    {
+        "activity": "Magasin de meubles · 142 Route de Toulouse Z.I. de, Rue de Mélou",
+        "enseigne": "Conforama Castres",
+        "longitude": "43.5922469",
+        "latitude": "2.2077859"
+    },
+    {
+        "activity": "Magasin de meubles · 4 Rue du Rec de Veyret",
+        "enseigne": "Conforama Narbonne",
+        "longitude": "43.1713956",
+        "latitude": "2.9889605"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Le Méridien, Chemin d'Ours",
+        "enseigne": "Conforama Tarbes",
+        "longitude": "43.2388582",
+        "latitude": "0.0091267"
+    },
+    {
+        "activity": "Magasin de meubles · 741 Avenue Maryse Bastié",
+        "enseigne": "Conforama Cahors",
+        "longitude": "44.4599533",
+        "latitude": "1.4222549"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. des, Boulevard des Landes",
+        "enseigne": "Conforama Saint-Gaudens",
+        "longitude": "43.1140311",
+        "latitude": "0.7631568"
+    },
+    {
+        "activity": "Magasin de meubles · Pôle Commercial Comtal Nord, Route d'Argent",
+        "enseigne": "Conforama Rodez",
+        "longitude": "44.4008888",
+        "latitude": "2.6074298"
+    },
+    {
+        "activity": "Magasin de meubles · 738 Avenue des Frères Lumière",
+        "enseigne": "Dépôt 2 Conforama Alès",
+        "longitude": "44.1391308",
+        "latitude": "4.0975321"
+    },
+    {
+        "activity": "Magasin de meubles · 440 Avenue Paul Henri Mouton Z.A.E. La Ferraudière II",
+        "enseigne": "Conforama Carcassonne",
+        "longitude": "43.2040644",
+        "latitude": "2.3085585"
+    },
+    {
+        "activity": "Magasin de meubles · 483 Route de Nîmes",
+        "enseigne": "Conforama Alès",
+        "longitude": "44.1105655",
+        "latitude": "4.1012477"
+    },
+    {
+        "activity": "Magasin de meubles · Ville Active, 299 Cours Jean Monnet Z.A.C",
+        "enseigne": "Conforama Nimes",
+        "longitude": "43.8153932",
+        "latitude": "4.3500046"
+    },
+    {
+        "activity": "Magasin de meubles · 67 Avenue de la Lironde",
+        "enseigne": "Relais Colis Conforama",
+        "longitude": "43.5718893",
+        "latitude": "3.9153526"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Bayonne Centre Commercial Lescar Soleil",
+        "enseigne": "Conforama Pau",
+        "longitude": "43.3214105",
+        "latitude": "-0.4374547"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue d'Occitanie",
+        "enseigne": "Dépôt Conforama Châteauroux",
+        "longitude": "46.7815889",
+        "latitude": "1.6525139"
+    },
+    {
+        "activity": "Magasin de meubles · Rue des Frères Lumière Centre Commercial Les Arches de L'Estey",
+        "enseigne": "Conforama Begles",
+        "longitude": "44.7955339",
+        "latitude": "-0.5377928"
+    },
+    {
+        "activity": "Magasin de meubles · Rue du Professeur Darget",
+        "enseigne": "Conforama Bordeaux",
+        "longitude": "44.8766539",
+        "latitude": "-0.5589201"
+    },
+    {
+        "activity": "Magasin de meubles · Lieu dit",
+        "enseigne": "Conforama Marmande",
+        "longitude": "44.4901492",
+        "latitude": "0.1812808"
+    },
+    {
+        "activity": "Magasin de meubles · 19 Rue des Barthes",
+        "enseigne": "Conforama Anglet",
+        "longitude": "43.4851583",
+        "latitude": "-1.506648"
+    },
+    {
+        "activity": "Magasin de meubles · 2 Rue Georges Carpentier",
+        "enseigne": "Conforama Merignac",
+        "longitude": "44.8300833",
+        "latitude": "-0.6635526"
+    },
+    {
+        "activity": "Magasin de meubles · RN 221 Z.A.C de l'Agora",
+        "enseigne": "Conforama Perigueux",
+        "longitude": "45.1800406",
+        "latitude": "0.7648442"
+    },
+    {
+        "activity": "Magasin de meubles · 15 Rue Charles Gounod",
+        "enseigne": "Conforama Dax",
+        "longitude": "43.7282732",
+        "latitude": "-1.0751206"
+    },
+    {
+        "activity": "Magasin de meubles · Rocade Est, 2 Rue Aline Caillatte",
+        "enseigne": "Conforama Mont De Marsan",
+        "longitude": "43.8780982",
+        "latitude": "-0.4660819"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Bayonne",
+        "enseigne": "Conforama Orthez",
+        "longitude": "43.4895333",
+        "latitude": "-0.8026577"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Bordeaux",
+        "enseigne": "Conforama Bergerac",
+        "longitude": "44.8379299",
+        "latitude": "0.4549108"
+    },
+    {
+        "activity": "Magasin de meubles · 7 Avenue de Lanaja",
+        "enseigne": "Conforama Poitiers",
+        "longitude": "46.6454183",
+        "latitude": "0.3624468"
+    },
+    {
+        "activity": "Magasin de meubles · 329 Avenue du Général de Gaulle",
+        "enseigne": "Conforama Angouleme",
+        "longitude": "45.634412",
+        "latitude": "0.2108449"
+    },
+    {
+        "activity": "Magasin de meubles · 47 Rue Gustave Eiffel",
+        "enseigne": "Conforama Biganos",
+        "longitude": "44.6368639",
+        "latitude": "-0.9568269"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Commerciale Beaulieu Est, 23 Rue du 18 Juin",
+        "enseigne": "Conforama La Rochelle",
+        "longitude": "46.1771443",
+        "latitude": "-1.1095383"
+    },
+    {
+        "activity": "Magasin de meubles · Rue Bellegarde Parc Atlantique les Coteaux",
+        "enseigne": "Conforama Saintes",
+        "longitude": "45.7499026",
+        "latitude": "-0.6767392"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Mendès France, 15 Rue Robert Turgot",
+        "enseigne": "Conforama Niort",
+        "longitude": "46.3348141",
+        "latitude": "-0.4097122"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial La Coupole",
+        "enseigne": "Conforama Limoges",
+        "longitude": "45.8805798",
+        "latitude": "1.2937192"
+    },
+    {
+        "activity": "Magasin de meubles · 18 Avenue du Pont Rouge",
+        "enseigne": "Conforama Rochefort",
+        "longitude": "45.9510491",
+        "latitude": "-0.9329454"
+    },
+    {
+        "activity": "Magasin de meubles · Rue du Général Pierre Pouyade, Laroche Z.A.C. de",
+        "enseigne": "Conforama Brive",
+        "longitude": "45.1454313",
+        "latitude": "1.4762836"
+    },
+    {
+        "activity": "Magasin de meubles · Allée de Riols Z.A.C. Agen Sud",
+        "enseigne": "Conforama Agen",
+        "longitude": "44.1802944",
+        "latitude": "0.6209854"
+    },
+    {
+        "activity": "Magasin de meubles · RD 911 Z.A.C. de, Rue de Parasol",
+        "enseigne": "Conforama Villeneuve Sur Lot",
+        "longitude": "44.4083133",
+        "latitude": "0.7383913"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Artisanale de la Boëtie",
+        "enseigne": "Dépôt 2 Conforama Niort",
+        "longitude": "46.331599",
+        "latitude": "-0.407485"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Les Géants",
+        "enseigne": "Conforama Englos",
+        "longitude": "50.6299662",
+        "latitude": "2.9636634"
+    },
+    {
+        "activity": "Magasin de meubles · Route d'Avelin",
+        "enseigne": "Conforama Seclin / Lille",
+        "longitude": "50.5479942",
+        "latitude": "3.0606752"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de l'Europe Centre Commercial Englos les Géants",
+        "enseigne": "Dépôt 2 Conforama Englos",
+        "longitude": "50.6395134",
+        "latitude": "2.9771348"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Boulevard Louis Breguet",
+        "enseigne": "Conforama Douai",
+        "longitude": "50.3812085",
+        "latitude": "3.0825402"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue Jean Jaurès, A2",
+        "enseigne": "Conforama Valenciennes",
+        "longitude": "50.3434719",
+        "latitude": "3.4729825"
+    },
+    {
+        "activity": "Magasin de meubles · Route de la Bassée, Centre Commercial Lens 2",
+        "enseigne": "Conforama Lens",
+        "longitude": "50.4580751",
+        "latitude": "2.8272574"
+    },
+    {
+        "activity": "Magasin de meubles · 2405 Rue de la Libération",
+        "enseigne": "Conforama Bethune / Bruay",
+        "longitude": "50.5008447",
+        "latitude": "2.5836099"
+    },
+    {
+        "activity": "Magasin de meubles · Rue Jean Mermoz Lieu dit Les Hautes fontaines",
+        "enseigne": "Conforama Arras",
+        "longitude": "50.2828372",
+        "latitude": "2.7423374"
+    },
+    {
+        "activity": "Magasin de meubles · Rocade O de Valenciennes",
+        "enseigne": "Conforama",
+        "longitude": "50.3436287",
+        "latitude": "3.4730667"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. Faubourg de Paris",
+        "enseigne": "Conforama Proville - Escaut - Cambrai",
+        "longitude": "50.1472907",
+        "latitude": "3.2151706"
+    },
+    {
+        "activity": "Magasin de meubles · Rue du Commerce, RN 43 Rue de Calais",
+        "enseigne": "Conforama Saint-Omer / Audomarois",
+        "longitude": "50.7620026",
+        "latitude": "2.2267972"
+    },
+    {
+        "activity": "Magasin de meubles · Porte n°8 Centre Commercial Jardins",
+        "enseigne": "Conforama Dunkerque",
+        "longitude": "51.0238296",
+        "latitude": "2.3348669"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Auchan",
+        "enseigne": "Conforama Boulogne",
+        "longitude": "50.7356331",
+        "latitude": "1.676601"
+    },
+    {
+        "activity": "Magasin de meubles · 8 Rue le Gréco",
+        "enseigne": "Conforama Amiens",
+        "longitude": "49.9233602",
+        "latitude": "2.301788"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue du, Rue du 19 Mars 1962",
+        "enseigne": "Conforama Saint-Quentin",
+        "longitude": "49.8642096",
+        "latitude": "3.2900488"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue Georges Pompidou Z.A.C. Ile-de",
+        "enseigne": "Conforama Laon",
+        "longitude": "49.5506238",
+        "latitude": "3.6201185"
+    },
+    {
+        "activity": "Magasin de meubles · Rue André Joseph",
+        "enseigne": "Conforama Charleville",
+        "longitude": "49.7384582",
+        "latitude": "4.710778"
+    },
+    {
+        "activity": "Magasin de meubles · 357/359 Rue d'Estiennes d'Orves",
+        "enseigne": "Conforama Colombes",
+        "longitude": "48.90781",
+        "latitude": "2.230485"
+    },
+    {
+        "activity": "Magasin de meubles · 13 Boulevard du Tour de ville",
+        "enseigne": "Conforama Soissons",
+        "longitude": "49.370163",
+        "latitude": "3.3246513"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial La Vigie, Rue du 23 Novembre",
+        "enseigne": "Conforama Strasbourg",
+        "longitude": "48.5328786",
+        "latitude": "7.6929665"
+    },
+    {
+        "activity": "Magasin de meubles · 4 Rue Jacqueline Auriol Z.A.C. de Frocourt",
+        "enseigne": "Conforama Nancy 2",
+        "longitude": "48.637591",
+        "latitude": "6.1903115"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue de Bousse",
+        "enseigne": "Conforama Thionville",
+        "longitude": "49.2582959",
+        "latitude": "6.1747218"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Le, Avenue du Chêne Saint-Amand",
+        "enseigne": "Conforama Saint-Dizier",
+        "longitude": "48.6245714",
+        "latitude": "4.967059"
+    },
+    {
+        "activity": "Magasin de meubles · 39 Route de Metz",
+        "enseigne": "Conforama Metz",
+        "longitude": "49.0746584",
+        "latitude": "6.0948951"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. du Dragon Zone Actipole Sud",
+        "enseigne": "Conforama Verdun",
+        "longitude": "49.1493148",
+        "latitude": "5.4088335"
+    },
+    {
+        "activity": "Magasin de meubles · 12 Rue Timken",
+        "enseigne": "Conforama Colmar",
+        "longitude": "48.1070388",
+        "latitude": "7.3646755"
+    },
+    {
+        "activity": "Magasin de meubles · 6 Rue Marcel Brot",
+        "enseigne": "Conforama Nancy",
+        "longitude": "48.6794074",
+        "latitude": "6.2038984"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. Les, Rue des Blancs Monts",
+        "enseigne": "Conforama Reims",
+        "longitude": "49.2131109",
+        "latitude": "4.0580747"
+    },
+    {
+        "activity": "Magasin de meubles · 3 Rue des Tonneliers",
+        "enseigne": "Dépôt Conforama Reims",
+        "longitude": "49.2133729",
+        "latitude": "4.0673292"
+    },
+    {
+        "activity": "Magasin de meubles · 32 Avenue Chomedey de Maisonneuve",
+        "enseigne": "Conforama Troyes",
+        "longitude": "48.3050312",
+        "latitude": "4.0742131"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial La Fougère, 20 Rue de la Plaine",
+        "enseigne": "Conforama Epinal",
+        "longitude": "48.2272969",
+        "latitude": "6.4330757"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de Soultz Pôle 430",
+        "enseigne": "Conforama Mulhouse",
+        "longitude": "47.8075103",
+        "latitude": "7.3150467"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Le, Avenue du Chêne Saint-Amand",
+        "enseigne": "Dépôt Conforama Saint-Dizier",
+        "longitude": "48.6246025",
+        "latitude": "4.9673736"
+    },
+    {
+        "activity": "Magasin de meubles · Boulevard de l'Europe Z.A.C. des 3 Frontières",
+        "enseigne": "Conforama Longwy",
+        "longitude": "49.548717",
+        "latitude": "5.8075091"
+    },
+    {
+        "activity": "Magasin de meubles · 54 Grande Rue",
+        "enseigne": "Conforama Belfort",
+        "longitude": "47.5773458",
+        "latitude": "6.8603541"
+    },
+    {
+        "activity": "Magasin de meubles · 2 Avenue de la Libération",
+        "enseigne": "Conforama Luneville",
+        "longitude": "48.5866978",
+        "latitude": "6.5095827"
+    },
+    {
+        "activity": "Magasin de literie · Rue Jacqueline Auriol",
+        "enseigne": "Conforama",
+        "longitude": "48.6375942",
+        "latitude": "6.1889195"
+    },
+    {
+        "activity": "Magasin de meubles · route de Metz ACTISUD METZ",
+        "enseigne": "conforama",
+        "longitude": "49.0746725",
+        "latitude": "6.0949279"
+    },
+    {
+        "activity": "Magasin de meubles · 2 Avenue Jean Monnet",
+        "enseigne": "Dépôt 2 Conforama Laon",
+        "longitude": "49.5529441",
+        "latitude": "3.6059065"
+    },
+    {
+        "activity": "Magasin de meubles · Espace de la Motte, 14 Rue du Petit Montmarin",
+        "enseigne": "Conforama Vesoul",
+        "longitude": "47.6386915",
+        "latitude": "6.1486463"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Industrielle, Boulevard de l'Europe",
+        "enseigne": "Conforama Dijon",
+        "longitude": "47.3142842",
+        "latitude": "5.0932321"
+    },
+    {
+        "activity": "Magasin de meubles · 89 Boulevard Victor Hugo, 5 Avenue du Capitaine Glarner",
+        "enseigne": "Conforama Saint-Ouen",
+        "longitude": "48.9069709",
+        "latitude": "2.327599"
+    },
+    {
+        "activity": "Magasin d'ameublement et de décoration · 32 Avenue Chomedey de Maisonneuve",
+        "enseigne": "Conforama",
+        "longitude": "48.3049007",
+        "latitude": "4.073335"
+    },
+    {
+        "activity": "Magasin de meubles · 5 Rue Champeau",
+        "enseigne": "Dépôt 2 Conforama Dijon",
+        "longitude": "47.3159567",
+        "latitude": "5.089496"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale 4 Centre Commercial Pince Vent",
+        "enseigne": "Conforama Ormesson",
+        "longitude": "48.795269",
+        "latitude": "2.5607108"
+    },
+    {
+        "activity": "Magasin de meubles · 29 Avenue Georges Pompidou",
+        "enseigne": "Conforama Sens",
+        "longitude": "48.2097248",
+        "latitude": "3.2776064"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial, 53 Avenue de l'Europe",
+        "enseigne": "Conforama Compiegne",
+        "longitude": "49.4092854",
+        "latitude": "2.7776377"
+    },
+    {
+        "activity": "Magasin de meubles · 53 Avenue Gallieni",
+        "enseigne": "Conforama Bondy",
+        "longitude": "48.9059715",
+        "latitude": "2.4772343"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. de La, Avenue de la Foulée",
+        "enseigne": "Conforama Meaux",
+        "longitude": "48.9347566",
+        "latitude": "2.8815132"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue Stalingrad Centre Commercial Pont de Pierres",
+        "enseigne": "Conforama Garges",
+        "longitude": "48.9745352",
+        "latitude": "2.4231395"
+    },
+    {
+        "activity": "Magasin de meubles · 73-75 Avenue Philippe Auguste",
+        "enseigne": "Conforama Paris Nation",
+        "longitude": "48.8541498",
+        "latitude": "2.3919996"
+    },
+    {
+        "activity": "Magasin de meubles · 17 Avenue de Lingenfeld",
+        "enseigne": "Conforama Torcy",
+        "longitude": "48.8426144",
+        "latitude": "2.6576043"
+    },
+    {
+        "activity": "Magasin de meubles · 8 Avenue Raymonde Fiolet",
+        "enseigne": "Dépôt 2 Conforama Soissons",
+        "longitude": "49.364695",
+        "latitude": "3.3228324"
+    },
+    {
+        "activity": "Magasin de meubles · Boulevard des Sports 20",
+        "enseigne": "Conforama",
+        "longitude": "47.1555637",
+        "latitude": "7.2815776"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale, 13 Route de Quarante Sous",
+        "enseigne": "Conforama Orgeval",
+        "longitude": "48.9268578",
+        "latitude": "1.9890169"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Commerciale Chateaufarine",
+        "enseigne": "Conforama Besancon",
+        "longitude": "47.2154586",
+        "latitude": "5.9522324"
+    },
+    {
+        "activity": "Magasin de meubles · Route d'Englisberg 1",
+        "enseigne": "Conforama",
+        "longitude": "46.82941",
+        "latitude": "7.14552"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A. de Courtaboeuf, 4 Avenue du Cap Horn",
+        "enseigne": "Conforama Les Ulis",
+        "longitude": "48.6758346",
+        "latitude": "2.19605"
+    },
+    {
+        "activity": "Magasin de meubles · Rue Pierre et Marie Curie Z.A.C. Saint-Lazare",
+        "enseigne": "Conforama Beauvais",
+        "longitude": "49.4112543",
+        "latitude": "2.1149851"
+    },
+    {
+        "activity": "Magasin de meubles · 235 Rue des Jacobins",
+        "enseigne": "Conforama Creil",
+        "longitude": "49.2333732",
+        "latitude": "2.4689655"
+    },
+    {
+        "activity": "Magasin de meubles · Zone des Clairions, Avenue de Worms",
+        "enseigne": "Conforama Auxerre",
+        "longitude": "47.8138897",
+        "latitude": "3.5690146"
+    },
+    {
+        "activity": "Magasin de meubles · Rue Galilée",
+        "enseigne": "Dépôt 2 Conforama Creil",
+        "longitude": "49.2428626",
+        "latitude": "2.4614745"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue Patton Z.A.C. du Champ de Foire",
+        "enseigne": "Conforama Melun",
+        "longitude": "48.5544877",
+        "latitude": "2.633803"
+    },
+    {
+        "activity": "Magasin de meubles · 6 Rue des Combattants de la Résistance Z.A.E",
+        "enseigne": "Conforama Herblay",
+        "longitude": "48.9982065",
+        "latitude": "2.1803437"
+    },
+    {
+        "activity": "Magasin de meubles · 10 Rue René Laennec",
+        "enseigne": "Conforama Coignieres",
+        "longitude": "48.7530357",
+        "latitude": "1.9305422"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Genève 5",
+        "enseigne": "Conforama",
+        "longitude": "46.5399212",
+        "latitude": "6.5537307"
+    },
+    {
+        "activity": "Magasin de meubles · 18 Rue des Frères Lumière",
+        "enseigne": "Conforama Montargis",
+        "longitude": "47.971258",
+        "latitude": "2.7197548"
+    },
+    {
+        "activity": "Magasin de literie",
+        "enseigne": "Conforama",
+        "longitude": "48.8331447",
+        "latitude": "2.6597022"
+    },
+    {
+        "activity": "Magasin de meubles · 211 Route de Grenoble",
+        "enseigne": "Conforama Saint-Priest",
+        "longitude": "45.7139249",
+        "latitude": "4.9638748"
+    },
+    {
+        "activity": "Magasin de meubles · 22 Avenue Barthélémy Thimonnier",
+        "enseigne": "Dépôt 2 Conforama Caluire",
+        "longitude": "45.804414",
+        "latitude": "4.870821"
+    },
+    {
+        "activity": "Magasin de meubles · 32 Rue du 19 mars Z.A.C. des Platières",
+        "enseigne": "Conforama Macon",
+        "longitude": "46.332445",
+        "latitude": "4.8443439"
+    },
+    {
+        "activity": "Magasin de meubles · Parc d'Activité Becquerelle",
+        "enseigne": "Dépôt 2 Conforama Beauvais",
+        "longitude": "49.4114311",
+        "latitude": "2.1213523"
+    },
+    {
+        "activity": "Magasin de meubles · C. Près de l'Hôpital, 4-6 Avenue de l'Appel du 18 Juin 1940 Z.A",
+        "enseigne": "Conforama Villeneuve Saint-Georges",
+        "longitude": "48.759288",
+        "latitude": "2.444778"
+    },
+    {
+        "activity": "Magasin de meubles · 6/10 Montée des Soldats",
+        "enseigne": "Conforama Caluire",
+        "longitude": "45.7927334",
+        "latitude": "4.861018"
+    },
+    {
+        "activity": "Magasin de meubles · 37 Av du Grand Sud",
+        "enseigne": "Conforama Tours",
+        "longitude": "47.3449421",
+        "latitude": "0.7033424"
+    },
+    {
+        "activity": "Magasin de meubles · Sainte Elisabeth, Rue de Soissons Z.A",
+        "enseigne": "Conforama Montceau Les Mines",
+        "longitude": "46.6903522",
+        "latitude": "4.3604015"
+    },
+    {
+        "activity": "Magasin de meubles · 623 Avenue du Ctre",
+        "enseigne": "Conforama Annecy",
+        "longitude": "45.9384686",
+        "latitude": "6.0780642"
+    },
+    {
+        "activity": "Magasin de meubles · 122/128 Avenue du Mont Riboudet",
+        "enseigne": "Conforama Rouen",
+        "longitude": "49.4461028",
+        "latitude": "1.0721096"
+    },
+    {
+        "activity": "Entrepôt · Zac St Lazare, Rue Pierre et Marie Curie",
+        "enseigne": "Dépôt 1 Conforama Beauvais",
+        "longitude": "49.4115119",
+        "latitude": "2.1149039"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Manor, Chemin Industriel 3",
+        "enseigne": "Conforama",
+        "longitude": "46.331408",
+        "latitude": "6.1553586"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Bassin 8",
+        "enseigne": "Conforama",
+        "longitude": "46.2232017",
+        "latitude": "7.2982819"
+    },
+    {
+        "activity": "Magasin de meubles · 8 Avenue de la Gare",
+        "enseigne": "Conforama Oyonnax",
+        "longitude": "46.2394992",
+        "latitude": "5.6285413"
+    },
+    {
+        "activity": "Magasin de meubles · 161, RN 7 Route de Lyon",
+        "enseigne": "Conforama Moulins",
+        "longitude": "46.5415088",
+        "latitude": "3.3432614"
+    },
+    {
+        "activity": "Magasin de meubles · 3 Rue du Bois des Coutures Z.A. du Moulin III",
+        "enseigne": "Dépôt Conforama Tourville",
+        "longitude": "49.3149192",
+        "latitude": "1.0594573"
+    },
+    {
+        "activity": "Magasin de meubles · 7 Avenue Pablo Picasso",
+        "enseigne": "Conforama Bourg En Bresse",
+        "longitude": "46.2000753",
+        "latitude": "5.2488794"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Les Salines, Rue du 19 Mars 1962",
+        "enseigne": "Conforama Lons Le Saunier",
+        "longitude": "46.6744627",
+        "latitude": "5.5391553"
+    },
+    {
+        "activity": "Magasin de meubles · Boulevard du 14 Juillet",
+        "enseigne": "Conforama Evreux",
+        "longitude": "49.0099792",
+        "latitude": "1.1682"
+    },
+    {
+        "activity": "Magasin de meubles · Zone de l'Autoport, 110 Allée de la Maladière",
+        "enseigne": "Conforama Cluses",
+        "longitude": "46.0469291",
+        "latitude": "6.6009411"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de l'Ile Potel Z.A.C. du Clos aux Antes",
+        "enseigne": "Conforama Tourville",
+        "longitude": "49.3307711",
+        "latitude": "1.0937859"
+    },
+    {
+        "activity": "Magasin de meubles · 27 Avenue Général de Gaulle",
+        "enseigne": "Conforama Champagne",
+        "longitude": "45.8051109",
+        "latitude": "4.7807552"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue des Rosiéristes",
+        "enseigne": "Dépôt Conforama Champagne",
+        "longitude": "45.8051689",
+        "latitude": "4.7810652"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Cent Arpents, 153 Rue Benjamin Franklin",
+        "enseigne": "Conforama Orleans",
+        "longitude": "47.96282",
+        "latitude": "1.8866105"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de l'Artisanat Z.I",
+        "enseigne": "Conforama Roanne",
+        "longitude": "46.0669063",
+        "latitude": "4.0520733"
+    },
+    {
+        "activity": "Magasin de meubles · 10 Rue René Cassin",
+        "enseigne": "Conforama Saint-Egrève",
+        "longitude": "45.2179222",
+        "latitude": "5.6827826"
+    },
+    {
+        "activity": "Magasin de meubles · 122 Avenue des Martyrs",
+        "enseigne": "Conforama Montlucon",
+        "longitude": "46.3376681",
+        "latitude": "2.5696033"
+    },
+    {
+        "activity": "Magasin de meubles · 35 Route du Maniquet",
+        "enseigne": "Conforama Saint-Etienne",
+        "longitude": "45.4826891",
+        "latitude": "4.3512156"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale 15 Parc de l'Estuaire",
+        "enseigne": "Conforama Le Havre",
+        "longitude": "49.5123689",
+        "latitude": "0.225739"
+    },
+    {
+        "activity": "Magasin de meubles · 34 Rue des Pierres Missigault Z.A. des Torches",
+        "enseigne": "Conforama Chartres",
+        "longitude": "48.4139847",
+        "latitude": "1.465872"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de la Françon",
+        "enseigne": "Conforama Chambery",
+        "longitude": "45.615373",
+        "latitude": "5.8855375"
+    },
+    {
+        "activity": "Magasin de meubles · 102 Avenue Amédée Mercier",
+        "enseigne": "Conforama Service Après Vente",
+        "longitude": "46.2004823",
+        "latitude": "5.2516224"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de l'Hermitage Z.A.C. de la Pardieu",
+        "enseigne": "Conforama Clermont Ferrand",
+        "longitude": "45.7666089",
+        "latitude": "3.1291021"
+    },
+    {
+        "activity": "Magasin de meubles · 1100 Avenue Frédéric Mistral",
+        "enseigne": "Conforama Chasse-Sur-Rhone",
+        "longitude": "45.5751706",
+        "latitude": "4.8039139"
+    },
+    {
+        "activity": "Magasin de meubles · Rue des Entreprises 14",
+        "enseigne": "Conforama",
+        "longitude": "46.2272",
+        "latitude": "6.07429"
+    },
+    {
+        "activity": "Magasin de meubles · Pré-Neuf II",
+        "enseigne": "Conforama",
+        "longitude": "46.3872929",
+        "latitude": "6.9323732"
+    },
+    {
+        "activity": "Magasin de meubles · RN 532 Z.A.C. des, Chemin des Couleures",
+        "enseigne": "Conforama Valence",
+        "longitude": "44.9514908",
+        "latitude": "4.9301815"
+    },
+    {
+        "activity": "Magasin de meubles · 8 Rue des Glairaux",
+        "enseigne": "Dépôt 2 Conforama Saint-Egrève",
+        "longitude": "45.2198764",
+        "latitude": "5.6769638"
+    },
+    {
+        "activity": "Magasin de meubles · Z.I. Sud, 33 Avenue de Gournier",
+        "enseigne": "Conforama Montelimar",
+        "longitude": "44.5308565",
+        "latitude": "4.7440033"
+    },
+    {
+        "activity": "Magasin de meubles · 106 Avenue Gilbert Roux",
+        "enseigne": "Conforama Vichy",
+        "longitude": "46.1377221",
+        "latitude": "3.4320224"
+    },
+    {
+        "activity": "Entrepôt · 1100 Avenue Frédéric Mistral",
+        "enseigne": "Dépôt 1 Conforama Chasse-Sur-Rhone",
+        "longitude": "45.5748406",
+        "latitude": "4.8050235"
+    },
+    {
+        "activity": "Magasin de meubles · 57 Avenue Charles de Gaulle",
+        "enseigne": "Conforama Aurillac",
+        "longitude": "44.9112742",
+        "latitude": "2.4286345"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale 90 Z.A Grand Pré",
+        "enseigne": "Conforama Albertville",
+        "longitude": "45.6547976",
+        "latitude": "6.3598457"
+    },
+    {
+        "activity": "Magasin de literie · Rue des Glairaux",
+        "enseigne": "Conforama",
+        "longitude": "45.2200627",
+        "latitude": "5.6759703"
+    },
+    {
+        "activity": "Magasin de meubles · ZAC Les Plaines",
+        "enseigne": "Dépôt 2 Conforama Valence - Cuisine Et Canapés",
+        "longitude": "44.983257",
+        "latitude": "4.9724172"
+    },
+    {
+        "activity": "Magasin de meubles · ZAC DES COULEURES, N532",
+        "enseigne": "conforama",
+        "longitude": "44.951704",
+        "latitude": "4.9304623"
+    },
+    {
+        "activity": "Entrepôt · 211 Route de Grenoble",
+        "enseigne": "Dépôt 3 Conforama Saint Priest",
+        "longitude": "45.7129969",
+        "latitude": "4.9629492"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Avignon Nord",
+        "enseigne": "Conforama Avignon",
+        "longitude": "43.9855661",
+        "latitude": "4.8780412"
+    },
+    {
+        "activity": "Entrepôt · ZAC les couleures, RN532",
+        "enseigne": "Dépôt 1 Conforama Valence",
+        "longitude": "44.9517694",
+        "latitude": "4.9303196"
+    },
+    {
+        "activity": "Entrepôt · 250 Route de Saint-Just",
+        "enseigne": "Conforama France",
+        "longitude": "45.5841608",
+        "latitude": "5.0552989"
+    },
+    {
+        "activity": "Magasin de meubles · RN 7 Route de Paris",
+        "enseigne": "Conforama Nevers",
+        "longitude": "47.0168083",
+        "latitude": "3.1473809"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Sisteron Centre Commercial, Rond-Point de Pimarlet",
+        "enseigne": "Conforama Manosque",
+        "longitude": "43.8381227",
+        "latitude": "5.8045209"
+    },
+    {
+        "activity": "Magasin de meubles · Route de la Charité",
+        "enseigne": "Conforama Bourges",
+        "longitude": "47.095913",
+        "latitude": "2.4446734"
+    },
+    {
+        "activity": "Magasin de literie · Rue du Château",
+        "enseigne": "Conforama",
+        "longitude": "46.6662145",
+        "latitude": "5.6523442"
+    },
+    {
+        "activity": "Magasin d'ameublement et de décoration · N7, Les Grands Champs",
+        "enseigne": "Dépôt Conforama Cosne Sur Loire",
+        "longitude": "47.387017",
+        "latitude": "2.9213816"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "Conforama",
+        "longitude": "47.576",
+        "latitude": "6.86017"
+    },
+    {
+        "activity": "Magasin de meubles · Grüssenweg 10",
+        "enseigne": "Conforama",
+        "longitude": "47.5276033",
+        "latitude": "7.69074"
+    },
+    {
+        "activity": "Magasin de meubles · Bielstrasse 50",
+        "enseigne": "Conforama",
+        "longitude": "47.2110127",
+        "latitude": "7.527122"
+    },
+    {
+        "activity": "Magasin de meubles · Lyssach CH, Bernstrasse 54",
+        "enseigne": "Conforama",
+        "longitude": "47.0776563",
+        "latitude": "7.5721664"
+    },
+    {
+        "activity": "Magasin de meubles · 6 Rue de la Plaine",
+        "enseigne": "Conforama - Solef Sa",
+        "longitude": "48.2294926",
+        "latitude": "6.4342711"
+    },
+    {
+        "activity": "Magasin de meubles · Dutschmis 10",
+        "enseigne": "Conforama",
+        "longitude": "47.390408",
+        "latitude": "8.1402607"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale 20",
+        "enseigne": "Dépôt 2 Conforama Orléans",
+        "longitude": "47.979545",
+        "latitude": "1.883462"
+    },
+    {
+        "activity": "Magasin de meubles · Industriestrasse 5",
+        "enseigne": "Conforama",
+        "longitude": "47.2727272",
+        "latitude": "8.447214"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Bassin 8",
+        "enseigne": "Conforama",
+        "longitude": "46.3872929",
+        "latitude": "6.9323732"
+    },
+    {
+        "activity": "Magasin de meubles · Industriestrasse 160 Shoppi Tivoli",
+        "enseigne": "Conforama",
+        "longitude": "47.4229708",
+        "latitude": "8.3703479"
+    },
+    {
+        "activity": "Magasin de meubles · Seetalstrasse 50",
+        "enseigne": "Conforama",
+        "longitude": "47.0747317",
+        "latitude": "8.2931227"
+    },
+    {
+        "activity": "Magasin de meubles · Zürichstrasse 1",
+        "enseigne": "Conforama",
+        "longitude": "47.0867172",
+        "latitude": "7.5838882"
+    },
+    {
+        "activity": "Magasin de meubles · Wagi Shopping, Wagistrasse 20",
+        "enseigne": "Conforama",
+        "longitude": "47.3985195",
+        "latitude": "8.4596329"
+    },
+    {
+        "activity": "Installation de stockage · Solothurn Abholung, Nordstrasse 11f",
+        "enseigne": "Conforama Luterbach SO",
+        "longitude": "47.2178808",
+        "latitude": "7.5760477"
+    },
+    {
+        "activity": "Magasin d'ameublement et de décoration",
+        "enseigne": "Conforama Guadeloupe",
+        "adresse": " La Providence,  Parc d'activité de,  Les Abymes 97139,  Guadeloupe",
+        "longitude": "-61.5185648",
+        "latitude": "16.2675694"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue de la Saulaie Centre Commercial de",
+        "enseigne": "Conforama Saint-Malo",
+        "longitude": "48.6238783",
+        "latitude": "-1.9908377"
+    },
+    {
+        "activity": "Magasin de meubles · 334 Route de Bénodet",
+        "enseigne": "Conforama Quimper",
+        "longitude": "47.9627838",
+        "latitude": "-4.0824131"
+    },
+    {
+        "activity": "Magasin de meubles · 15 Rue Marc Seguin",
+        "enseigne": "Conforama Saint-Brieuc",
+        "longitude": "48.4904393",
+        "latitude": "-2.7233536"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Perros, Avenue de la Résistance",
+        "enseigne": "Conforama Lannion",
+        "longitude": "48.7453528",
+        "latitude": "-3.4604781"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de la Chartreuse Z.I. de, Rond-Point de Keryado",
+        "enseigne": "Conforama Lorient",
+        "longitude": "47.7679531",
+        "latitude": "-3.4055873"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Artisanale Binigou, Rue Didier Daurat",
+        "enseigne": "Conforama Morlaix",
+        "longitude": "48.5698933",
+        "latitude": "-3.8511768"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Alma, Avenue Henri Fréville",
+        "enseigne": "Conforama Rennes",
+        "longitude": "48.0850956",
+        "latitude": "-1.6761263"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. de",
+        "enseigne": "Conforama Vannes",
+        "longitude": "47.6622996",
+        "latitude": "-2.8025475"
+    },
+    {
+        "activity": "Magasin de meubles · Z.I. de Kergaradec, 1 Rue Gaston Planté",
+        "enseigne": "Conforama Brest",
+        "longitude": "48.4268037",
+        "latitude": "-4.4660544"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue du Bois de Soeuvres",
+        "enseigne": "Dépôt 2 Conforama Rennes",
+        "longitude": "48.0753446",
+        "latitude": "-1.6265106"
+    },
+    {
+        "activity": "Magasin de meubles · 39 Rue François Lettre",
+        "enseigne": "Dépôt 2 Conforama Brest",
+        "longitude": "48.4261106",
+        "latitude": "-4.4650105"
+    },
+    {
+        "activity": "Magasin de meubles · 32 Rue Marc Seguin",
+        "enseigne": "Dépôt 2 Conforama Saint-Brieuc",
+        "longitude": "48.4890881",
+        "latitude": "-2.7232576"
+    },
+    {
+        "activity": "Magasin de meubles · Parc d'Activité de la Baie",
+        "enseigne": "Conforama Avranches",
+        "longitude": "48.6538577",
+        "latitude": "-1.3514618"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de la Brebiette Zone Commerciale de la Porte de Bretagne",
+        "enseigne": "Conforama Alencon",
+        "longitude": "48.4360512",
+        "latitude": "0.0634464"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Domfront",
+        "enseigne": "Conforama Flers",
+        "longitude": "48.7285268",
+        "latitude": "-0.5806669"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Mondeville 2 Z.A.C. de l'Etoile",
+        "enseigne": "Conforama Caen",
+        "longitude": "49.163518",
+        "latitude": "-0.2920059"
+    },
+    {
+        "activity": "Magasin de meubles · Route Nationale 13, Z.A.C. Claude Chappe",
+        "enseigne": "Conforama Cherbourg",
+        "longitude": "49.5985706",
+        "latitude": "-1.5983062"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Commerciale, Rue du Val Druel",
+        "enseigne": "Conforama Dieppe",
+        "longitude": "49.9041614",
+        "latitude": "1.0789379"
+    },
+    {
+        "activity": "Magasin de meubles · Zone commerciale, 136 Boulevard de Normandie",
+        "enseigne": "conforama",
+        "longitude": "49.5402186",
+        "latitude": "0.9639444"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue de l'Université",
+        "enseigne": "Conforama Toulon",
+        "longitude": "43.1384661",
+        "latitude": "6.0130265"
+    },
+    {
+        "activity": "Magasin de meubles · 169 Avenue Francis Tonner",
+        "enseigne": "Conforama Cannes",
+        "longitude": "43.5490057",
+        "latitude": "6.9693835"
+    },
+    {
+        "activity": "Magasin de meubles · Pôle Marina, 970 Route Nationale 7 7",
+        "enseigne": "Conforama Villeneuve Loubet",
+        "longitude": "43.640789",
+        "latitude": "7.1326069"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Digne Z.I . de",
+        "enseigne": "Dépôt 2 Conforama Toulon",
+        "longitude": "43.147183",
+        "latitude": "6.0343716"
+    },
+    {
+        "activity": "Magasin de meubles · Valley - Stade Allianz Riviera, Rue Alain Mimoun",
+        "enseigne": "Conforama Nice",
+        "longitude": "43.706524",
+        "latitude": "7.1936351"
+    },
+    {
+        "activity": "Magasin de meubles · 123 Avenue Saint-Jean Z.A.C. Grand Estérel",
+        "enseigne": "Conforama Frejus",
+        "longitude": "43.4433804",
+        "latitude": "6.7074765"
+    },
+    {
+        "activity": "Magasin de meubles · 245 Avenue des Maurettes",
+        "enseigne": "Dépôt 2 Conforama Villeneuve-Loubet",
+        "longitude": "43.6301752",
+        "latitude": "7.1311844"
+    },
+    {
+        "activity": "Magasin de meubles · Parc d'Activités Logistiques Saint-Isidore Zone n°11",
+        "enseigne": "Dépôt 1 Conforama Nice",
+        "longitude": "43.7129103",
+        "latitude": "7.2102975"
+    },
+    {
+        "activity": "Magasin de meubles · 43 Route de Sospel",
+        "enseigne": "Conforama Menton",
+        "longitude": "43.7900685",
+        "latitude": "7.4918037"
+    },
+    {
+        "activity": "Magasin de meubles · Zone Commerciale Auchan, Z.I. des Paluds",
+        "enseigne": "Conforama Aubagne",
+        "longitude": "43.2920577",
+        "latitude": "5.5888639"
+    },
+    {
+        "activity": "Magasin de meubles · Plan de Campagne, Zone Commerciale, D6",
+        "enseigne": "Conforama Plan De Campagne (Marseille)",
+        "longitude": "43.4162917",
+        "latitude": "5.3521755"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue des roseaux Z.A. des Etangs",
+        "enseigne": "Conforama Martigues",
+        "longitude": "43.4409569",
+        "latitude": "5.0356697"
+    },
+    {
+        "activity": "Service logistique",
+        "enseigne": "CONFORAMA dépôt",
+        "longitude": "43.8054007",
+        "latitude": "7.4871445"
+    },
+    {
+        "activity": "Entrepôt · 101 Avenue du Mistral",
+        "enseigne": "Conforama depor 2",
+        "longitude": "43.2889743",
+        "latitude": "5.5961037"
+    },
+    {
+        "activity": "Magasin de meubles · Centre Commercial Blois 2 Parc d'Activités des, Rue des Couratières",
+        "enseigne": "Conforama Blois",
+        "longitude": "47.6215039",
+        "latitude": "1.3008378"
+    },
+    {
+        "activity": "Magasin de meubles · CENTRE COMMERCIAL BLOIS 2 - PARC D'ACTIVITE DES, Rue des Couratières",
+        "enseigne": "CONFORAMA BLOIS",
+        "longitude": "47.6221891",
+        "latitude": "1.3000248"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Cholet, Rond-Point Giratoire Champs Blanchard Z.A. du",
+        "enseigne": "Conforama Saumur",
+        "longitude": "47.2308051",
+        "latitude": "-0.1207454"
+    },
+    {
+        "activity": "Magasin de meubles · rue Louis Delage Z.I. Nord",
+        "enseigne": "Conforama Le Mans",
+        "longitude": "48.0384856",
+        "latitude": "0.1744001"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue Nicolas Appert",
+        "enseigne": "Conforama Angers",
+        "longitude": "47.4893087",
+        "latitude": "-0.5402328"
+    },
+    {
+        "activity": "Magasin de meubles · 250 Route de Vannes",
+        "enseigne": "Conforama Nantes",
+        "longitude": "47.2464555",
+        "latitude": "-1.6023734"
+    },
+    {
+        "activity": "Magasin de meubles · Z.A.C. de La, Rue de la Fontaine au Brun",
+        "enseigne": "Conforama Saint-Nazaire",
+        "longitude": "47.3012615",
+        "latitude": "-2.2120936"
+    },
+    {
+        "activity": "Magasin de meubles · Rue de l'Abbé Grégoire Zone Commerciale Atout Sud",
+        "enseigne": "Conforama Reze-Les-Nantes",
+        "longitude": "47.1953461",
+        "latitude": "-1.570135"
+    },
+    {
+        "activity": "Magasin de meubles · Avenue Edmond Michelet",
+        "enseigne": "Conforama Cholet",
+        "longitude": "47.0720626",
+        "latitude": "-0.848733"
+    },
+    {
+        "activity": "Magasin de meubles · Rue Gay Lussac Z.I. Nord",
+        "enseigne": "Conforama La Roche Sur Yon",
+        "longitude": "46.6891705",
+        "latitude": "-1.4311057"
+    },
+    {
+        "activity": "Magasin de meubles · Route de Nantes Quartier de la, Allée de la Jariette",
+        "enseigne": "Conforama Challans",
+        "longitude": "46.8525402",
+        "latitude": "-1.8754058"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Rue Jules Verne",
+        "enseigne": "Dépôt 2 Conforama Saint-Nazaire",
+        "longitude": "47.3144804",
+        "latitude": "-2.1896451"
+    },
+    {
+        "activity": "Magasin de meubles · 1 Avenue de la Communauté Européenne Zone Commerciales Les Bozées",
+        "enseigne": "Conforama Laval",
+        "longitude": "48.053858",
+        "latitude": "-0.7388781"
+    },
+    {
+        "activity": "Magasin de meubles · 44 Rue de la Vallière",
+        "enseigne": "Dépôt Conforama Cholet",
+        "longitude": "47.0744574",
+        "latitude": "-0.8488505"
+    },
+    {
+        "activity": "Magasin de meubles · RN 193 Centre Commercial La Rocade",
+        "enseigne": "Conforama Bastia",
+        "longitude": "42.656334",
+        "latitude": "9.4391277"
+    },
+    {
+        "activity": "Magasin de meubles · Z.I. de Pernicaggio",
+        "enseigne": "Conforama Ajaccio",
+        "longitude": "41.954442",
+        "latitude": "8.7943712"
+    }
+]

@@ -1,0 +1,975 @@
+[
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin Australia",
+        "adresse": " 51/57 Fennell St,  Port Melbourne VIC 3207,  Australie",
+        "longitude": "144.9394391",
+        "latitude": "-37.8270305"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Michelin Pneumata",
+        "adresse": " 01 BP. 944 - OUAGADOUGOU - BURKINA FASO,  Ouagadougou,  Burkina Faso",
+        "longitude": "-1.5270567",
+        "latitude": "12.358259"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Ελαστικά Michelin",
+        "adresse": " Tzavella 1-3,  Chalandri 152 31,  Grèce",
+        "longitude": "23.7840557",
+        "latitude": "38.0102447"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin Tyre Co SA",
+        "adresse": " Clear Water Estate Business Park,  Atlas Rd,  Parkhaven,  Boksburg,  1459,  Afrique du Sud",
+        "longitude": "28.2727487",
+        "latitude": "-26.1495266"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Catalfamo Gomme 2 - Mastro Michelin",
+        "adresse": " Via Giacomo Matteotti,  121,  98051 Barcellona Pozzo di Gotto ME,  Italie",
+        "longitude": "15.218934",
+        "latitude": "38.151989"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Oddo Pneumatici e Revisioni - Mastro Michelin",
+        "adresse": " Via Elorina,  97d,  96100 Siracusa SR,  Italie",
+        "longitude": "15.265584",
+        "latitude": "37.052589"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Oddo Pneumatici - Mastro Michelin",
+        "adresse": " Viale Paolo Orsi,  47,  96100 Siracusa SR,  Italie",
+        "longitude": "15.2716446",
+        "latitude": "37.0708046"
+    },
+    {
+        "activity": "Pneumatic tools supplier",
+        "enseigne": "Michelin Centre Auto Cameroun sarl",
+        "adresse": " 35 472,  Yaoundé,  Cameroun",
+        "longitude": "11.5020752",
+        "latitude": "3.8480325"
+    },
+    {
+        "activity": "Automobile",
+        "enseigne": "Michelin",
+        "adresse": " Ngaoundéré,  Cameroun",
+        "longitude": "13.5743272",
+        "latitude": "7.3130396"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin",
+        "adresse": " Bonabéri,  Cameroun",
+        "longitude": "9.6607784",
+        "latitude": "4.0861141"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Tongolo",
+        "adresse": " Yaoundé,  Cameroun",
+        "longitude": "11.5243224",
+        "latitude": "3.9113414"
+    },
+    {
+        "activity": "Prestataire spécialisé dans l'équilibrage des roues",
+        "enseigne": "Solution Pneu Michelin",
+        "adresse": " Unnamed Road,  Douala,  Cameroun",
+        "longitude": "9.7713173",
+        "latitude": "4.1137544"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin North America (Canada) Inc.",
+        "adresse": " 2500 Boulevard Daniel-Johnson #500,  Laval,  QC H7T 2P6,  Canada",
+        "longitude": "-73.7544888",
+        "latitude": "45.5657227"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Tire Canada",
+        "adresse": " 2863 Granton Abercrombie Rd,  Westville,  NS B0K 2A0,  Canada",
+        "longitude": "-62.7366113",
+        "latitude": "45.6174108"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin North America",
+        "adresse": " 233 Logan Rd,  Bridgewater,  NS B4V 3T3,  Canada",
+        "longitude": "-64.5410109",
+        "latitude": "44.3845429"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Tire Waterville Plant",
+        "adresse": " 866 Randolph Rd,  Waterville,  NS B0P 1V0,  Canada",
+        "longitude": "-64.654077",
+        "latitude": "45.0464216"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 1851 Boulevard des Laurentides,  Laval,  Quebec H7M 2P8,  Canada",
+        "longitude": "-73.7262483",
+        "latitude": "45.6013387"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 1 Ave E,  Regina,  SK S4N 4Z3,  Canada",
+        "longitude": "-104.591082",
+        "latitude": "50.4677418"
+    },
+    {
+        "activity": "Magasin de roues",
+        "enseigne": "Michelin Tires Toronto",
+        "adresse": " 300 Supertest Rd,  North York,  ON M3J 2N2,  Canada",
+        "longitude": "-79.4725876",
+        "latitude": "43.7774592"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 16 Rue Robinson S,  Granby,  Quebec J2G 7K8,  Canada",
+        "longitude": "-72.7442609",
+        "latitude": "45.4082362"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Chile - Luis Carrera 1131",
+        "adresse": " Vitacura,  Región Metropolitana,  Chili",
+        "longitude": "-70.5762731",
+        "latitude": "-33.3981622"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Chile - Av. Pdte. Riesco 2988",
+        "adresse": " Of 11,  Las Condes,  Santiago,  Región Metropolitana,  Chili",
+        "longitude": "-70.5990874",
+        "latitude": "-33.4122994"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin - Envigado",
+        "adresse": " Cra 43A ##29 Sur-115,  Envigado,  Antioquia,  Colombie",
+        "longitude": "-75.5852794",
+        "latitude": "6.1771333"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Usine Michelin",
+        "adresse": " Route de Nantes,  85000 La Roche-sur-Yon",
+        "longitude": "-1.4283176",
+        "latitude": "46.7029991"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Motorsport",
+        "adresse": " 36 Rue du Clos Four,  63100 Clermont-Ferrand",
+        "longitude": "3.103911",
+        "latitude": "45.789727"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Usine Michelin de la Combaude",
+        "adresse": " 3 Rue de la Charme,  63100 Clermont-Ferrand",
+        "longitude": "3.1244581",
+        "latitude": "45.8034451"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Manufacture Française des Pneumatiques MICHELIN",
+        "adresse": " 6 Rue du Xay,  88190 Golbey",
+        "longitude": "6.4330692",
+        "latitude": "48.2105202"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 3 Rue de la Charme,  63100 Clermont-Ferrand",
+        "longitude": "3.1181289",
+        "latitude": "45.7974907"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "MFP Michelin",
+        "adresse": " 13 Avenue Edouard Michelin,  56000 Vannes",
+        "longitude": "-2.7149594",
+        "latitude": "47.6593839"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin",
+        "adresse": " 27 Cours de l'Île Seguin,  92100 Boulogne-Billancourt",
+        "longitude": "2.2353456",
+        "latitude": "48.82794"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin",
+        "adresse": " ZI les Rentes 12 Rue Gustave Eiffel - CS 90 424,  CEDEX,  37304 Joué-lès-Tours",
+        "longitude": "0.6481769",
+        "latitude": "47.3570052"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Usine Michelin de Cataroux",
+        "adresse": " 8 Rue de la Grolière,  63100 Clermont-Ferrand",
+        "longitude": "3.1026776",
+        "latitude": "45.7918986"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "MICHELIN®",
+        "adresse": " 23 Place des Carmes Dechaux,  63000 Clermont-Ferrand",
+        "longitude": "3.0907924",
+        "latitude": "45.7861213"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Pneumatiques Michelin",
+        "adresse": " 7 Avenue Président Coty,  10600 La Chapelle-Saint-Luc",
+        "longitude": "4.0295362",
+        "latitude": "48.3194963"
+    },
+    {
+        "activity": "Recherche et développement de produits",
+        "enseigne": "Michelin Campus RDI",
+        "adresse": " Rue Bleue,  63118 Cébazat",
+        "longitude": "3.1204201",
+        "latitude": "45.8431001"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin",
+        "adresse": " Route de Charlieu,  42300 Roanne",
+        "longitude": "4.0891996",
+        "latitude": "46.0614469"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin . s.a",
+        "adresse": " Rue Marc Jodot,  59220 Rouvignies",
+        "longitude": "3.4400624",
+        "latitude": "50.3353323"
+    },
+    {
+        "activity": "Syndicat",
+        "enseigne": "Syndicat Sud Michelin France",
+        "adresse": " 28 Rue Gabriel Péri,  63000 Clermont-Ferrand",
+        "longitude": "3.0779565",
+        "latitude": "45.7792544"
+    },
+    {
+        "activity": "Cuisine gastronomique",
+        "enseigne": "JY'S - Schillinger Jean-Yves 2 étoiles Michelin Colmar",
+        "adresse": " 3 Allée du Champ de Mars,  68000 Colmar",
+        "longitude": "7.3588871",
+        "latitude": "48.0740737"
+    },
+    {
+        "activity": "Institut de beauté",
+        "enseigne": "Michelin Brandon Elodie",
+        "adresse": " 3 Route de Pompignat,  63119 Châteaugay",
+        "longitude": "3.1061456",
+        "latitude": "45.8520575"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin tires Werke AG & Co. KGaA",
+        "adresse": " Michelinstraße 1,  55543 Bad Kreuznach,  Allemagne",
+        "longitude": "7.885259",
+        "latitude": "49.858547"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Reifenwerke AG & Co. KGaA - Werk Homburg",
+        "adresse": " Navigationsadresse Berliner-Straße 133,  Edouard-Michelin-Platz 1,  66424 Homburg,  Allemagne",
+        "longitude": "7.3482119",
+        "latitude": "49.342701"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Reifenwerke (Werk Trier) AG & Co. KGaA",
+        "adresse": " Eltzstraße 43,  54293 Trier,  Allemagne",
+        "longitude": "6.6919559",
+        "latitude": "49.7883626"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Cathostraße,  45356 Essen,  Allemagne",
+        "longitude": "6.9721096",
+        "latitude": "51.4847181"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin Reifenwerke",
+        "adresse": " Michelinstraße 4,  76185 Karlsruhe,  Allemagne",
+        "longitude": "8.3504261",
+        "latitude": "49.0059846"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin",
+        "adresse": " Michelinstraße,  55543 Bad Kreuznach,  Allemagne",
+        "longitude": "7.8839475",
+        "latitude": "49.8563642"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 98694 Ilmenau,  Allemagne",
+        "longitude": "11.0025955",
+        "latitude": "50.6435143"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " 92281 Königstein,  Allemagne",
+        "longitude": "11.6296828",
+        "latitude": "49.6089439"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Walder Str. 5,  40724 Hilden,  Allemagne",
+        "longitude": "6.9415037",
+        "latitude": "51.1692902"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Gespringweg,  98574 Schmalkalden,  Allemagne",
+        "longitude": "10.4588683",
+        "latitude": "50.7292305"
+    },
+    {
+        "activity": "Mécanicien",
+        "enseigne": "Llantesa Michelin Roosevelt",
+        "adresse": " Calzada Roosevelt 8,  Cdad. de Guatemala,  Guatemala",
+        "longitude": "-90.5424962",
+        "latitude": "14.6180908"
+    },
+    {
+        "activity": "Mécanicien",
+        "enseigne": "Llantesa Michelin",
+        "adresse": " Cdad. de Guatemala,  Guatemala",
+        "longitude": "-90.5311847",
+        "latitude": "14.6195428"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin Tires Baghdad",
+        "adresse": " Iraq. المرموقة العالمية,  Oweireej,  Baghdad,  Irak‭",
+        "longitude": "44.3656361",
+        "latitude": "33.1700094"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Tyres & Services",
+        "adresse": " Muhoho Ave,  Nairobi,  Kenya",
+        "longitude": "36.8300871",
+        "latitude": "-1.3129795"
+    },
+    {
+        "activity": "Magasins et centres commerciaux",
+        "enseigne": "Michelin tyres",
+        "adresse": " Monrovia Ln,  Nairobi City,  Kenya",
+        "longitude": "36.8181931",
+        "latitude": "-1.280505"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Energy",
+        "adresse": " Off Monrovia Street,  Muindi Mbingu St,  Nairobi,  Kenya",
+        "longitude": "36.8191233",
+        "latitude": "-1.2808291"
+    },
+    {
+        "activity": "Automobile",
+        "enseigne": "KingswayTyres-Michelin",
+        "adresse": " Magongo Rd,  Mombasa,  Kenya",
+        "longitude": "39.629697",
+        "latitude": "-4.028311"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Aircraft Tyre (Europe",
+        "adresse": " Middle East & Africa),  23 Place des Carmes Dechaux,  63000 Clermont-Ferrand",
+        "longitude": "3.0908234",
+        "latitude": "45.783279"
+    },
+    {
+        "activity": "Musée",
+        "enseigne": "L'Aventure Michelin",
+        "adresse": " 32 Rue du Clos Four,  63100 Clermont-Ferrand",
+        "longitude": "3.1059883",
+        "latitude": "45.7904549"
+    },
+    {
+        "activity": "Maison d'édition",
+        "enseigne": "Michelin Travel Partner",
+        "adresse": " The Dairy Michelin Travel Partner Munden Estate,  Watford WD25 8PZ,  Royaume-Uni",
+        "longitude": "-0.3574779",
+        "latitude": "51.6896831"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Malaysia Sdn Bhd",
+        "adresse": " Unit 901,  Uptown 2,  2,  Jalan SS 21/37,  Damansara Utama,  47400 Petaling Jaya,  Selangor,  Malaisie",
+        "longitude": "101.623141",
+        "latitude": "3.1367366"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin - Göçmentürk Otomotiv",
+        "adresse": " Merkez Mah. İbrahim Bilgen Cad. No:9,  07400 Alanya/Antalya,  Turquie",
+        "longitude": "32.0481251",
+        "latitude": "36.5299289"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin - Salim Akkaş",
+        "adresse": " Yeni Mah. Kırklar Mevki No: 35,  67802 Devrek/Zonguldak,  Turquie",
+        "longitude": "31.954085",
+        "latitude": "41.207741"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Tyre Services Co. LTD",
+        "adresse": " Plot 2A Ijora Cause Way,  Ijora,  Lagos,  Nigeria",
+        "longitude": "3.3700807",
+        "latitude": "6.4695179"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin Nigeria Limited",
+        "adresse": " 132 Trans-Amadi Industrial Layout Rd,  Trans Amadi,  Port Harcourt,  Nigeria",
+        "longitude": "7.0389116",
+        "latitude": "4.8248095"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Oceancrown Int'l. Ltd. (Michelin Tyre Dealer)",
+        "adresse": " A/1067 Africa tyre Village International,  Lagos - Badagry Expy,  Trade Fair Complex,  Lagos,  Nigeria",
+        "longitude": "3.2509245",
+        "latitude": "6.4648291"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Unity Rd,  Ilorin,  Nigeria",
+        "longitude": "4.5599031",
+        "latitude": "8.4808015"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "E.U. Manson & Co. Ltd. (Michelin Tyre Dealer)",
+        "adresse": " 38/40/53 Olusegun Obasanjo Way,  Woji,  Port Harcourt,  Nigeria",
+        "longitude": "6.9961432",
+        "latitude": "4.8029858"
+    },
+    {
+        "activity": "Agence de location de bureaux",
+        "enseigne": "Plot 129",
+        "adresse": " Regus - Port Harcourt,  Trans Amadi,  Regus Building,  Old Michelin Compound,  132 Trans-Amadi Industrial Layout Rd,  500221,  Port Harcourt,  Nigeria",
+        "longitude": "7.0387902",
+        "latitude": "4.824792"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin del Peru",
+        "adresse": " Av. Primavera 1796,  Santiago de Surco 15023,  Pérou",
+        "longitude": "-76.9694662",
+        "latitude": "-12.1083044"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin",
+        "adresse": " Av. Nicolás Ayllón 2066-2120,  Ate 15022,  Pérou",
+        "longitude": "-76.982723",
+        "latitude": "-12.063343"
+    },
+    {
+        "activity": "Péruvienne",
+        "enseigne": "Restaurant Michelin S.A.",
+        "adresse": " Av. Miguel Grau 1027,  La Oroya 12576,  Pérou",
+        "longitude": "-75.9319752",
+        "latitude": "-11.5459215"
+    },
+    {
+        "activity": "Hôtel 3 étoiles",
+        "enseigne": "Hotel Michelin",
+        "adresse": " 22,  12576,  Pérou",
+        "longitude": "-75.9317064",
+        "latitude": "-11.5458148"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Zalau",
+        "adresse": " Global City Business Park,  Șoseaua București Nord 10,  Voluntari 077190,  Roumanie",
+        "longitude": "26.1270834",
+        "latitude": "44.4888308"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Romania - Cord Zalau Branch office",
+        "adresse": " Strada Lupului 43,  Zalău 450166,  Roumanie",
+        "longitude": "23.0334222",
+        "latitude": "47.2217172"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin",
+        "adresse": " Bulevardul Mihai Viteazul 83,  Zalău 457105,  Roumanie",
+        "longitude": "23.0427066",
+        "latitude": "47.2066693"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin România S.A.",
+        "adresse": " Strada Alba Iulia,  Constanța 900327,  Roumanie",
+        "longitude": "28.6001403",
+        "latitude": "44.1703955"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin România",
+        "adresse": " Str. Stefan cel Mare,  7,  Galati,  Galati,  Galați,  Roumanie",
+        "longitude": "28.03213",
+        "latitude": "45.46576"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin Romania Distribution S.R.L.",
+        "adresse": " Șoseaua Spătarului 15,  Buzău,  Roumanie",
+        "longitude": "26.81294",
+        "latitude": "45.13005"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin România S.A.",
+        "adresse": " Sos. Iasi-Tomesti,  KM 1,  Iasi,  Iasi,  700292,  Iași,  Roumanie",
+        "longitude": "27.6369",
+        "latitude": "47.1433"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin",
+        "adresse": " 190 Raceview Rd,  Ballymena BT42 4HZ,  Royaume-Uni",
+        "longitude": "-6.2366181",
+        "latitude": "54.8804442"
+    },
+    {
+        "activity": "Entrepôt",
+        "enseigne": "Michelin Tyre Plc",
+        "adresse": " Campbell Rd,  Stoke-on-Trent ST4 4EY,  Royaume-Uni",
+        "longitude": "-2.1882931",
+        "latitude": "52.9905675"
+    },
+    {
+        "activity": "",
+        "enseigne": "Khaira Michelin",
+        "adresse": " Touba,  Sénégal",
+        "longitude": "-15.8899423",
+        "latitude": "14.8445118"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin Pneu",
+        "adresse": " Louga-Richard Toll Rd,  Louga,  Sénégal",
+        "longitude": "-16.2104011",
+        "latitude": "15.619821"
+    },
+    {
+        "activity": "",
+        "enseigne": "Atelier Michelin Cheikh",
+        "adresse": " N2,  Saint-Louis,  Sénégal",
+        "longitude": "-16.4754701",
+        "latitude": "16.0280475"
+    },
+    {
+        "activity": "",
+        "enseigne": "Chez Wade Michelin",
+        "adresse": " N2,  Ndande,  Sénégal",
+        "longitude": "-16.527311",
+        "latitude": "15.282926"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Tyre Company S a (Pty) Ltd",
+        "adresse": " Unit 2,  Khulani Business Park ,  Kelly Road,  Jet Park,  1459,  Afrique du Sud",
+        "longitude": "28.2229969",
+        "latitude": "-26.1630075"
+    },
+    {
+        "activity": "Atelier de réparation pour poids lourds",
+        "enseigne": "Michelin Truck Service Centre",
+        "adresse": " Stokery Rd,  Wellington,  7655,  Afrique du Sud",
+        "longitude": "18.9887218",
+        "latitude": "-33.6392135"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "ALH YAKUBU IBRAHIM (Michelin Tyre Dealer)",
+        "adresse": " Katsina Rd,  Sabon Gari,  Kaduna,  Nigeria",
+        "longitude": "7.4281921",
+        "latitude": "10.5125308"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "MABROS NIG. ENT. LTD (Michelin Tyre Dealer)",
+        "adresse": " Kofar kwaya,  4 Tafawa Balewa way By,  beside Matrix Filling station,  round-about,  Katsina,  Nigeria",
+        "longitude": "7.5975555",
+        "latitude": "12.9760411"
+    },
+    {
+        "activity": "",
+        "enseigne": "Paxtiana International Ltd (Michelin Tyre Dealer)",
+        "adresse": " 15 Mission Ave,  Coal Camp,  Enugu,  Nigeria",
+        "longitude": "7.4803221",
+        "latitude": "6.43089"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "33",
+        "adresse": " Michelin Thailand (Bangkok Head Office),  4 Rama IX Rd,  Khwaeng Huai Khwang,  Huai Khwang,  Bangkok 10310,  Thaïlande",
+        "longitude": "100.5676868",
+        "latitude": "13.7586828"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Siam Co. Ltd. (Laem Chabang Manufacturing Site)",
+        "adresse": " 87/11 Laemchabang Industrial Estate,  Moo 2,  Sukhumvit Rd.,  Thung Su Khla, ,  Sri Racha,  Chonburi,  20110; Thailand,  20110,  Thaïlande",
+        "longitude": "100.9145515",
+        "latitude": "13.0973872"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Phra Pradaeng (PPD) หมู่ที่ 2 32 Phuchao Saming Phray",
+        "adresse": " Tambon Samrong Klang,  Phra Pradaeng District,  Samut Prakan 10130,  Thaïlande",
+        "longitude": "100.5635698",
+        "latitude": "13.6502291"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin ROH",
+        "adresse": " 61 หมู่ 4 ซอย 9 นิคม SIL ต.บัวลอย อ.หนองแค จ.สระบุรี 18140 Thaïlande",
+        "longitude": "100.8356704",
+        "latitude": "14.389965"
+    },
+    {
+        "activity": "",
+        "enseigne": "Michelin Siam Marketing & Sales Co.",
+        "adresse": "Ltd.,  252 Phahonyothin Rd,  Samsen Nai,  Phaya Thai,  Bangkok 10400,  Thaïlande",
+        "longitude": "100.5430824",
+        "latitude": "13.7742371"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Rama IV Rd",
+        "adresse": " Phra Khanong,  Khlong Toei,  Bangkok 10110,  Thaïlande",
+        "longitude": "100.5844752",
+        "latitude": "13.7131352"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Siam Company Limited",
+        "adresse": " Tambon Thung Suk La,  Si Racha District,  Chon Buri 20230,  Thaïlande",
+        "longitude": "100.9127788",
+        "latitude": "13.0979216"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Tyre Plus",
+        "adresse": " Chom Phon,  Chatuchak,  Bangkok 10900,  Thaïlande",
+        "longitude": "100.5621807",
+        "latitude": "13.8160549"
+    },
+    {
+        "activity": "Thaï",
+        "enseigne": "R-HAAN - 2 Michelin Stars Restaurant",
+        "adresse": " Bangkok,  131 Pai Di Ma Di Klang Alley,  Khlong Tan Nuea,  Watthana,  Bangkok 10110,  Thaïlande",
+        "longitude": "100.5795407",
+        "latitude": "13.7317122"
+    },
+    {
+        "activity": "Entreprise de packaging",
+        "enseigne": "Michelin Siam Co.",
+        "adresse": " Ltd.,  32 หมู่2 Phuchao Saming Phray,  Samrong Klang,  Phra Pradaeng District,  Samut Prakan 10130,  Thaïlande",
+        "longitude": "100.562986",
+        "latitude": "13.649381"
+    },
+    {
+        "activity": "Française",
+        "enseigne": "Chef's Table - 2 Michelin stars Restaurant",
+        "adresse": " Bangkok,  State Tower,  Chef's Table Bangkok,  61st Floor,  1055 Si Lom,  Silom,  Bang Rak,  Bangkok 10500,  Thaïlande",
+        "longitude": "100.5172142",
+        "latitude": "13.7212052"
+    },
+    {
+        "activity": "Restaurant",
+        "enseigne": "Michelin Thai street food deck 999/9",
+        "adresse": " เซ็นทรัลเวิลด์์์ ชั้น 3 โซน E Ratchadamri Rd,  Pathum Wan,  Pathum Wan District,  Bangkok 10330,  Thaïlande",
+        "longitude": "100.5398333",
+        "latitude": "13.7459444"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Rayong (RYG) ตำบล หนองละลอก อำเภอบ้านค่าย",
+        "adresse": " จังหวัด ระยอง Thaïlande",
+        "longitude": "101.2444004",
+        "latitude": "12.8267059"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Sanayi Mah. Gazali Cad,  40. Sk. D: 1,  38010 Kocasinan,  Turquie",
+        "longitude": "35.4392926",
+        "latitude": "38.7359588"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin Head Office",
+        "adresse": " Levent Mah. Meltem Sok. No:14 İş Kuleleri Sitesi Kule 3 Blok Kat:13,  34394 Şişli/İstanbul,  Turquie",
+        "longitude": "29.0123893",
+        "latitude": "41.0827386"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Sanayi Mah. Yeni Sanayi Sitesi Fatih Cad. Cömertler İş Merkezi K:6 D:6,  D:7,  68200 Aksaray,  Turquie",
+        "longitude": "33.9961179",
+        "latitude": "38.373509"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Erler Mah.",
+        "adresse": " Michelin,  Eskişehir Yolu 14. Km 380/A,  06790 Etimesgut/Ankara,  Turquie",
+        "longitude": "32.704276",
+        "latitude": "39.905616"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Yenimahalle Mah. Eski Sanayi Sitesi 27. Sok. D: 24,  55080 Canik/Samsun,  Turquie",
+        "longitude": "36.3575629",
+        "latitude": "41.274121"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " İlbade Mah. 2. Sanayi Sitesi 132. Sok. D: 19,  20010 Merkezefendi,  Turquie",
+        "longitude": "29.0806635",
+        "latitude": "37.7936644"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " M.Akif Ersoy Mah. Yeni Sanayi Sitesi No:47,  D:51,  50100 Merkez/Nevşehir,  Turquie",
+        "longitude": "34.6987743",
+        "latitude": "38.6147766"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Küçükköy Mah. Yeni Sanayi Sitesi A1 Blok No:5,  10410 Ayvalık/Balıkesir,  Turquie",
+        "longitude": "26.715232",
+        "latitude": "39.327214"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Anbar Mah. Nakliyeciler Sitesi,  Altınok Cd. D: 44,  38070 Melikgazi,  Turquie",
+        "longitude": "35.3867356",
+        "latitude": "38.7561912"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "H. Rıfat Paşa",
+        "adresse": " Michelin,  H.Rıfat Paşa Mah. Piyale Paşa Bulv,  Dereboyu 1 Sk. No:24,  34384 Şişli/İstanbul,  Turquie",
+        "longitude": "28.9716867",
+        "latitude": "41.0583289"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Orhanlı",
+        "adresse": " Michelin - Güncan Oto Euromaster,  Katip Çelebi Cd. No:41,  34956 Tuzla/İstanbul,  Turquie",
+        "longitude": "29.3533496",
+        "latitude": "40.9139141"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Armağan Evler",
+        "adresse": " Michelin - Vatan Lastik,  Atakent,  Alemdağ Cd No: 454/B,  34760 Ümraniye/İstanbul,  Turquie",
+        "longitude": "29.1184702",
+        "latitude": "41.0212907"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Cebeci Mah,  2. Cebeci Yolu No: 80,  34270 Sultangazi,  Turquie",
+        "longitude": "28.8620751",
+        "latitude": "41.1176302"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Zübeyde Hanım",
+        "adresse": " Michelin,  Sebze Bahçeleri Cd. No: 29,  06070 Altındağ/Ankara,  Turquie",
+        "longitude": "32.8414453",
+        "latitude": "39.9490674"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Şeyhosman Mah. Atatürk Yolu Çemsan Sitesi No: 3,  66100 Merkez/Yozgat,  Turquie",
+        "longitude": "34.785529",
+        "latitude": "39.815081"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Sandy Springs Manufacturing",
+        "adresse": " 6301 US-76,  Pendleton,  SC 29670,  États-Unis",
+        "longitude": "-82.7612778",
+        "latitude": "34.5988895"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin North America Headquarters",
+        "adresse": " 1 Parkway S,  Greenville,  SC 29615,  États-Unis",
+        "longitude": "-82.2581886",
+        "latitude": "34.8609544"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin North America - Conference Center",
+        "adresse": " 515 Michelin Rd,  Greenville,  SC 29605,  États-Unis",
+        "longitude": "-82.366107",
+        "latitude": "34.729404"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Greenville Manufacturing",
+        "adresse": " 1401 Antioch Church Rd,  Greenville,  SC 29605,  États-Unis",
+        "longitude": "-82.3698981",
+        "latitude": "34.7313599"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Americas Research-Development",
+        "adresse": " 515 Michelin Rd,  Greenville,  SC 29605,  États-Unis",
+        "longitude": "-82.3658822",
+        "latitude": "34.7264362"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Ardmore Manufacturing",
+        "adresse": " 1101 Michelin Road,  Ardmore,  OK 73401,  États-Unis",
+        "longitude": "-97.1712134",
+        "latitude": "34.1822118"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Spartanburg Manufacturing",
+        "adresse": " 1000 International Dr,  Spartanburg,  SC 29303,  États-Unis",
+        "longitude": "-82.0127661",
+        "latitude": "34.9834017"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Michelin North America Lexington Manufacturing Site",
+        "adresse": " 2420 Two Notch Rd,  Lexington,  SC 29072,  États-Unis",
+        "longitude": "-81.2864843",
+        "latitude": "33.9373416"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin Americas Small Tires",
+        "adresse": " 8800 Citypark Loop,  Houston,  TX 77013,  États-Unis",
+        "longitude": "-95.2697919",
+        "latitude": "29.8008395"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin North America Inc",
+        "adresse": " 1785 New Cut Rd,  Spartanburg,  SC 29303,  États-Unis",
+        "longitude": "-82.0104675",
+        "latitude": "34.9873733"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " Wichita,  KS 67210,  États-Unis",
+        "longitude": "-97.2982269",
+        "latitude": "37.6368132"
+    },
+    {
+        "activity": "Services aux entreprises",
+        "enseigne": "U70 Michelin North America - South East National DC",
+        "adresse": " 3601 SC-101,  Woodruff,  SC 29388,  États-Unis",
+        "longitude": "-82.1400097",
+        "latitude": "34.8221276"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Michelin Starr Manufacturing",
+        "adresse": " 1 P-9-206,  Anderson,  SC 29626,  États-Unis",
+        "longitude": "-82.7032757",
+        "latitude": "34.4658063"
+    },
+    {
+        "activity": "Centre d'affaires",
+        "enseigne": "MSTC (Michelin North America Sales Training Center)",
+        "adresse": " 505 Michelin Rd,  Greenville,  SC 29605,  États-Unis",
+        "longitude": "-82.3642316",
+        "latitude": "34.7255165"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Michelin",
+        "adresse": " W Camperdown Way,  Greenville,  SC 29601,  États-Unis",
+        "longitude": "-82.4022017",
+        "latitude": "34.8455504"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "Fursan Tires Center",
+        "adresse": " شارع الامير مساعد بن جلوي,  Al Olaya,  Riyadh 11564,  Arabie saoudite‭",
+        "longitude": "46.7013284",
+        "latitude": "24.692904"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "ميشلان شركة الأمجاد للتجارة، Dirab Rd",
+        "adresse": " Ash Shifa,  Riyadh 11564,  Arabie saoudite‭",
+        "longitude": "46.6888683",
+        "latitude": "24.5680974"
+    },
+    {
+        "activity": "Magasin de pneus",
+        "enseigne": "ميشلان، Al Aqiq",
+        "adresse": " Riyadh 13515,  Arabie saoudite‭",
+        "longitude": "46.6306649",
+        "latitude": "24.7928102"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Shop",
+        "adresse": " Nirala Bazar Rd,  Bahadurpura,  Banjara Colony,  Aurangabad,  Maharashtra 431001,  Inde",
+        "longitude": "75.3335711",
+        "latitude": "19.8779224"
+    },
+    {
+        "activity": "Fabricant de pneu",
+        "enseigne": "Michelin Tyre",
+        "adresse": " Puthanathani,  Kerala 676552,  Inde",
+        "longitude": "76.0082366",
+        "latitude": "10.9345288"
+    }
+]

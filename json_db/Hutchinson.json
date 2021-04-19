@@ -1,0 +1,548 @@
+[
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson - Av. José de Paulo Eduardo",
+        "adresse": " 1250,  Monte Alto - São Paulo,  15910-000,  Brésil",
+        "longitude": "-48.4680186",
+        "latitude": "-21.2630566"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Hba Hutchinson Brasil Automotive - Rua Carlos Kielander",
+        "adresse": " 2 - Jardim California,  Monte Alto - SP,  15910-000,  Brésil",
+        "longitude": "-48.5025525",
+        "latitude": "-21.2618313"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hba Hutchinson Brasil Automotive - R. Cica",
+        "adresse": " 350 - Centro,  Monte Alto - SP,  15910-000,  Brésil",
+        "longitude": "-48.5060804",
+        "latitude": "-21.2635068"
+    },
+    {
+        "activity": "",
+        "enseigne": "Hba Hutchinson Brasil Automotive - Fábrica II - R. das Palmas",
+        "adresse": " 84 - Jardim Primavera,  Monte Alto - SP,  15910-000,  Brésil",
+        "longitude": "-48.5028502",
+        "latitude": "-21.2739007"
+    },
+    {
+        "activity": "Atelier de réparation automobile",
+        "enseigne": "Hba Hutchinson Brasil Automotive - Av. José de Paulo Eduardo",
+        "adresse": " 1250,  Monte Alto - SP,  15910-000,  Brésil",
+        "longitude": "-48.4675599",
+        "latitude": "-21.2630168"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson - Estrada do Barreiro",
+        "adresse": " CP 141,  Extrema - MG,  37640-000,  Brésil",
+        "longitude": "-46.314068",
+        "latitude": "-22.840417"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson - Rua Antonio Ribeiro Fialho 699",
+        "adresse": " Casa Branca - SP,  13700-000,  Brésil",
+        "longitude": "-47.068124",
+        "latitude": "-21.78834"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 2 Rue Balzac,  75008 Paris",
+        "longitude": "2.2999602",
+        "latitude": "48.8727568"
+    },
+    {
+        "activity": "Entreprise",
+        "enseigne": "Hutchinson & Co India Private Limited",
+        "adresse": " No 37/5,  Ground Floor,  Aga Abbas Ali Road,  Alson,  Aga Abbas Ali Road,  Bengaluru,  Karnataka 560042,  Inde",
+        "longitude": "77.6177024",
+        "latitude": "12.9769076"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " OFFICE SPACE 1114 Galleria DLF City Phase IV Gurgaon Haryana,  New Dehli,  Haryana 122009,  Inde",
+        "longitude": "77.0813",
+        "latitude": "28.468"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Hutchinson",
+        "adresse": " Panrutti,  Tamil Nadu 631605,  Inde",
+        "longitude": "79.9125716",
+        "latitude": "12.8328334"
+    },
+    {
+        "activity": "Back office",
+        "enseigne": "Hutchinson",
+        "adresse": " Gurugram,  Sector 7,  Imt Manesar,  Gurugram,  Haryana 122052,  Inde",
+        "longitude": "76.9091929",
+        "latitude": "28.3791814"
+    },
+    {
+        "activity": "",
+        "enseigne": "Hutchinson CP. PT",
+        "adresse": " Plaza Semanggi Lantai 1 No. 15-16,  JL Jend. Sudirman,  RT.1/RW.4,  Karet Semanggi,  Kecamatan Setiabudi,  Kota Jakarta Selatan,  Daerah Khusus Ibukota Jakarta 12930,  Indonésie",
+        "longitude": "106.8139911",
+        "latitude": "-6.2211863"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "PT. Hutchinson Telecommunications",
+        "adresse": " Graha Pena,  Jl. Ahmad Yani No.88,  Ketintang,  Kec. Gayungan,  Kota SBY,  Jawa Timur 60234,  Indonésie",
+        "longitude": "112.7325222",
+        "latitude": "-7.320554"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "MGW Hutchinson 3 Manado",
+        "adresse": " Unnamed Road,  Tikala Baru,  Tikala,  Manado City,  North Sulawesi,  Indonésie",
+        "longitude": "124.8558762",
+        "latitude": "1.4669664"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson Japan",
+        "adresse": " 2 Chome-13-34 Konan,  Minato City,  Tokyo 108-0075,  Japon",
+        "longitude": "139.7453443",
+        "latitude": "35.62777"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson Seal de Mexico",
+        "adresse": " Pelícanos 313,  Lomas de San Fernando,  22785 Ensenada,  B.C.,  Mexique",
+        "longitude": "-116.5848508",
+        "latitude": "31.775684"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Tramo,  Carretera Panamericana Km 288.5 2 MX,  Celaya - Salamanca,  Colonia La Esperanza,  38020 Celaya,  Mexique",
+        "longitude": "-100.931455",
+        "latitude": "20.510967"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Avenida Industrial Rio Bravo Parque del Norte,  88730 Reynosa,  Mexique",
+        "longitude": "-98.3706359",
+        "latitude": "26.0498886"
+    },
+    {
+        "activity": "Fournisseur de roulements",
+        "enseigne": "Hutchinson Mangueras",
+        "adresse": " Carretera,  Celaya-Villagrán Km. 3.8,  Celaya,  Gto.,  Mexique",
+        "longitude": "-100.8743351",
+        "latitude": "20.5191721"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Hutchinson Seal de Mexico Planta 2",
+        "adresse": " Juan Rulfo 88,  Chapultepec,  22785 Ensenada,  Baja California,  Mexique",
+        "longitude": "-116.5891686",
+        "latitude": "31.7839739"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 2 Rue Balzac,  75008 Paris",
+        "longitude": "2.2999294",
+        "latitude": "48.8727664"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 32 bis Rue Gutenberg,  91070 Bondoufle",
+        "longitude": "2.3765349",
+        "latitude": "48.621171"
+    },
+    {
+        "activity": "Entreprise de construction",
+        "enseigne": "Hutchinson Builders",
+        "adresse": " 584 Milton Rd,  Toowong QLD 4066,  Australie",
+        "longitude": "152.9857928",
+        "latitude": "-27.4789492"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Axisparc Business Center,  2/1.2 rue Fond Cattelain,  1435 Mont-Saint-Guibert,  Belgique",
+        "longitude": "4.625244",
+        "latitude": "50.657507"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 3600 Boulevard du Tricentenaire,  Montréal,  QC H1B 5M8,  Canada",
+        "longitude": "-73.514809",
+        "latitude": "45.65312"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 173 Rue Jules Guesde,  59100 Roubaix",
+        "longitude": "3.185339",
+        "latitude": "50.6857399"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Klostermannova 995,  337 01 Rokycany,  Tchéquie",
+        "longitude": "13.5862898",
+        "latitude": "49.7455421"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 26 Boulevard de Peringondas,  28207 Châteaudun",
+        "longitude": "1.341203",
+        "latitude": "48.0798079"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Rue Gustave Nourry,  45120 Châlette-sur-Loing",
+        "longitude": "2.7211866",
+        "latitude": "48.0229636"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 59 Rue Marius Aufan,  92300 Levallois-Perret",
+        "longitude": "2.2837635",
+        "latitude": "48.891001"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 4 Rue de Londres,  95340 Persan",
+        "longitude": "2.2683823",
+        "latitude": "49.1457732"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 3 Rue des Cerisiers,  91090 Lisses",
+        "longitude": "2.4352348",
+        "latitude": "48.5979602"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 3 Rue du Gué,  72130 Sougé-le-Ganelon",
+        "longitude": "-0.0641212",
+        "latitude": "48.3099265"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 16 Champtier de Vilsain,  28200 Châteaudun",
+        "longitude": "1.3605999",
+        "latitude": "48.0712518"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 110 Rue André Durouchez,  80015 Amiens",
+        "longitude": "2.2759544",
+        "latitude": "49.9340553"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " ZI Ouest,  Rue Gutenberg,  53200 Château-Gontier-sur-Mayenne",
+        "longitude": "-0.7307328",
+        "latitude": "47.8360487"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 54 Route d'Ousson,  45250 Briare",
+        "longitude": "2.7444256",
+        "latitude": "47.6284991"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " ZI,  86107 Ingrandes",
+        "longitude": "0.5772171",
+        "latitude": "46.8993233"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 62 Rue Henri Barbusse,  18108 Vierzon",
+        "longitude": "2.0668928",
+        "latitude": "47.2334889"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Le Joint Français Hutchinson",
+        "adresse": " 116 Rue Salvador Allende 84,  95870 Bezons",
+        "longitude": "2.2051223",
+        "latitude": "48.9149258"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 22 Rue de Curembourg,  45400 Fleury-les-Aubrais",
+        "longitude": "1.9243441",
+        "latitude": "47.9430676"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 1 Route d'Aviré,  49500 Segré-en-Anjou Bleu",
+        "longitude": "-0.8604935",
+        "latitude": "47.6926581"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson Département Fit Profilés",
+        "adresse": " Route de la Gare,  38430 Moirans",
+        "longitude": "5.5852391",
+        "latitude": "45.3213848"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 23 Rue des Martyrs,  37300 Joué-lès-Tours",
+        "longitude": "0.6677415",
+        "latitude": "47.3558047"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Hansastraße 66,  68169 Mannheim,  Allemagne",
+        "longitude": "8.4663257",
+        "latitude": "49.5114822"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Benzstraße 42,  71272 Renningen,  Allemagne",
+        "longitude": "8.9257801",
+        "latitude": "48.7771138"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Zeppelinstraße 68,  52068 Aachen,  Allemagne",
+        "longitude": "6.1274695",
+        "latitude": "50.7709884"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "PT. Hutchinson Telecommunications",
+        "adresse": " Graha Pena,  Jl. Ahmad Yani No.88,  Ketintang,  Kec. Gayungan,  Kota SBY,  Jawa Timur 60234,  Indonésie",
+        "longitude": "112.7323034",
+        "latitude": "-7.3205151"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Via N. Bruno,  32,  10090 Rivoli TO,  Italie",
+        "longitude": "7.5357449",
+        "latitude": "45.064378"
+    },
+    {
+        "activity": "Fournisseur de matériel pétrolier",
+        "enseigne": "Hutchinson - Gasket International Spa",
+        "adresse": " Via Bartolomeo Colleoni,  5,  24060 Castelli Calepio BG,  Italie",
+        "longitude": "9.8876891",
+        "latitude": "45.6091903"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Via Tribolina,  4,  24064 Grumello del Monte BG,  Italie",
+        "longitude": "9.8813968",
+        "latitude": "45.6288369"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 173 Rue Jules Guesde,  59100 Roubaix",
+        "longitude": "3.1853364",
+        "latitude": "50.6857417"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Parc Industriel Tawfik,  Casablanca 20180,  Maroc",
+        "longitude": "-7.628025",
+        "latitude": "33.556358"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Hutchinson",
+        "adresse": " Bouskoura,  Maroc",
+        "longitude": "-7.656503",
+        "latitude": "33.439537"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson Aeroservices",
+        "adresse": " Calle Pincel D9 Poligono Industrial Nuevo,  41007 Seville,  Sevilla,  Espagne",
+        "longitude": "-5.9508987",
+        "latitude": "37.4172611"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Hutchinson (Porto) - Tubos Flexíveis",
+        "adresse": " Sociedade Unipessoal,  Lda - Armazém,  R. Central da Ribeira 1820,  4440-031 Campo,  Portugal",
+        "longitude": "-8.4437752",
+        "latitude": "41.1726564"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Rua Eng Mira Amaral Zona Industrial,  7300-058 Portalegre,  Portugal",
+        "longitude": "-7.433068",
+        "latitude": "39.2630398"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Zona Industrial - A 25-36,  7370-114 Campo Maior,  Portugal",
+        "longitude": "-7.060867",
+        "latitude": "39.023521"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " R.D. Afonso Henriques n°153 Zona Industrial de Gandra,  4585-237 Porto,  Portugal",
+        "longitude": "-8.4378755",
+        "latitude": "41.1733564"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " DN73 Km. 128-150,  Cristian 507055,  Roumanie",
+        "longitude": "25.5202975",
+        "latitude": "45.646722"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Hutchinson Brasov",
+        "adresse": " Ghimbav,  Roumanie",
+        "longitude": "25.5290145",
+        "latitude": "45.6511019"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " 180-6 Bangi-2dong Rogadis Building,  Songpa-gu,  Seoul,  Corée du Sud",
+        "longitude": "127.116",
+        "latitude": "37.5157"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Hutchinson",
+        "adresse": " 651-4 Samjeong-ri,  Daeso-myeon,  Eumseong-gun,  Chungcheongbuk-do,  Corée du Sud",
+        "longitude": "127.4871316",
+        "latitude": "36.9600623"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Carretera Campo Real,  28500 Arganda del Rey,  Madrid,  Espagne",
+        "longitude": "-3.463259",
+        "latitude": "40.31895"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Carretera Vitoria Logrono Km 26,  01220 Armiñon,  Araba,  Espagne",
+        "longitude": "-2.87659",
+        "latitude": "42.698373"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Camí de Bell-lloc Paratge La Pietat,  17230 Palamós,  Girona,  Espagne",
+        "longitude": "3.122537",
+        "latitude": "41.873515"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Poligono Industrial Las Capellanías,  Calle Molinero,  s/n,  10005 Cáceres,  Espagne",
+        "longitude": "-6.4159202",
+        "latitude": "39.4907554"
+    },
+    {
+        "activity": "Entreprise de télécommunications",
+        "enseigne": "Hutchinson Hutch Regional Office Trincomalee",
+        "adresse": " 218A Customs Rd,  Trincomalee,  Sri Lanka",
+        "longitude": "81.2332917",
+        "latitude": "8.5667662"
+    },
+    {
+        "activity": "Magasin d'électronique",
+        "enseigne": "Hutchinson/Etisalat Negombo Branch",
+        "adresse": " Archbishop Nicholas Marcus Fernando Mawatha,  Negombo,  Sri Lanka",
+        "longitude": "79.8409882",
+        "latitude": "7.2063568"
+    },
+    {
+        "activity": "Fournisseur de produits en caoutchouc",
+        "enseigne": "Hutchinson",
+        "adresse": " Sidi Abdelhamid Sousse ibn Khaldoun,  Sousse 4061,  Tunisie",
+        "longitude": "10.658455",
+        "latitude": "35.791222"
+    },
+    {
+        "activity": "Boucherie",
+        "enseigne": "Hutchinson R & Sons",
+        "adresse": " 27 Millburn St,  Cookstown BT80 8EG,  Royaume-Uni",
+        "longitude": "-6.7454048",
+        "latitude": "54.6508983"
+    },
+    {
+        "activity": "Boucherie",
+        "enseigne": "P D Hutchinson",
+        "adresse": " Fair View,  Main St,  Greenodd,  Ulverston LA12 7RD,  Royaume-Uni",
+        "longitude": "-3.0546856",
+        "latitude": "54.2345707"
+    },
+    {
+        "activity": "Boucherie",
+        "enseigne": "W F Hutchinson Ltd",
+        "adresse": " Kirkdale House,  Tilberthwaite Ave,  Coniston LA21 8ED,  Royaume-Uni",
+        "longitude": "-3.0750098",
+        "latitude": "54.3691734"
+    },
+    {
+        "activity": "Boucherie",
+        "enseigne": "J Hutchinson Butchers",
+        "adresse": " Oastler Square John Street Market Unit 218,  Bradford BD1 3SR,  Royaume-Uni",
+        "longitude": "-1.7593053",
+        "latitude": "53.7970794"
+    },
+    {
+        "activity": "Metal fabricator",
+        "enseigne": "Hutchinson Engineering",
+        "adresse": " 58A Drumagarner Rd,  Kilrea,  Coleraine BT51 5TE,  Royaume-Uni",
+        "longitude": "-6.5679958",
+        "latitude": "54.9396646"
+    },
+    {
+        "activity": "Metal fabricator",
+        "enseigne": "SJC Hutchinson Engineering Ltd.",
+        "adresse": " 58A Drumagarner Rd,  Coleraine BT51 5TE,  Royaume-Uni",
+        "longitude": "-6.5685876",
+        "latitude": "54.9407412"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Hutchinson",
+        "adresse": " Ngọc Lâm,  Mỹ Hào,  Hưng Yên,  Viêt Nam",
+        "longitude": "106.1201486",
+        "latitude": "20.9090051"
+    }
+]

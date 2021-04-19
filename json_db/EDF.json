@@ -1,0 +1,149 @@
+[
+    {
+        "activity": "Poste électrique",
+        "enseigne": "Centrale EDF",
+        "adresse": " 46Z Rue Pasteur,  59152 Anstaing",
+        "longitude": "3.1844262",
+        "latitude": "50.6067459"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "CNPE - Centre Nucléaire de Production d'Électricite de Gravelines",
+        "adresse": " Route des Enrochements,  59820 Gravelines",
+        "longitude": "2.1392659",
+        "latitude": "51.0126707"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "EDF Centrale Nucléaire de Chooz",
+        "adresse": " La Centrale,  08600 Chooz",
+        "longitude": "4.7895774",
+        "latitude": "50.0903302"
+    },
+    {
+        "activity": "Fournisseur d'électricité",
+        "enseigne": "EDF Site thermique de Bouchain",
+        "adresse": " Allée de la Vigilance,  59111 Bouchain",
+        "longitude": "3.316308",
+        "latitude": "50.2952553"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centre Nucléaire de Production d'Électricite de Penly",
+        "adresse": " Route de la centrale,  76630 Petit-Caux",
+        "longitude": "1.2102422",
+        "latitude": "49.9759828"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale Nucléaire EDF de Nogent-sur-Seine",
+        "adresse": " Centrale Nucléaire,  10400 Nogent-sur-Seine",
+        "longitude": "3.5215005",
+        "latitude": "48.5142745"
+    },
+    {
+        "activity": "Centrale électrique",
+        "enseigne": "EDF",
+        "adresse": " Centrale de Gravelines,  Route de la Digue Level,  59820 Gravelines",
+        "longitude": "2.1342539",
+        "latitude": "51.0097485"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale nucléaire EDF de Dampierre",
+        "adresse": " 45570 Dampierre-en-Burly",
+        "longitude": "2.5177699",
+        "latitude": "47.7325158"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale nucléaire EDF de Belleville",
+        "adresse": " 18240 Belleville-sur-Loire",
+        "longitude": "2.875708",
+        "latitude": "47.508772"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "CNPE de Paluel",
+        "adresse": " Hameau de,  Conteville FR,  76450 Cany-Barville",
+        "longitude": "0.6347824",
+        "latitude": "49.8584456"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "CNPE - Centre Nucléaire de Production d'Électricite de Cattenom",
+        "adresse": " 57570 Cattenom",
+        "longitude": "6.2182709",
+        "latitude": "49.4157857"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale Nucléaire EDF de Belleville",
+        "adresse": " La Petite Glas,  18240 Belleville-sur-Loire",
+        "longitude": "2.8692718",
+        "latitude": "47.5104179"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "CNPE de Nogent-sur-Seine EDF",
+        "adresse": " Avenue Henri Becquerel,  10400 Nogent-sur-Seine",
+        "longitude": "3.5243816",
+        "latitude": "48.51437"
+    },
+    {
+        "activity": "Centrale électrique",
+        "enseigne": "Centrale thermique EDF",
+        "adresse": " 7 Rue des Fusillés,  94400 Vitry-sur-Seine",
+        "longitude": "2.4171608",
+        "latitude": "48.7914972"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "CNPE - Centre Nucléaire de Production d'Électricite de Flamanville",
+        "adresse": " Centrale EDF,  50340 Flamanville",
+        "longitude": "-1.883254",
+        "latitude": "49.535678"
+    },
+    {
+        "activity": "Centrale électrique",
+        "enseigne": "Centrale EDF Le Havre",
+        "adresse": " 1 Route du Môle Central,  76600 Le Havre",
+        "longitude": "0.1457853",
+        "latitude": "49.473119"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "EDF Site Nucléaire Creys Malville Superphénix",
+        "adresse": " Hameau de,  38510 Creys-Mépieu",
+        "longitude": "5.4722785",
+        "latitude": "45.7612876"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "EDF C.N.P.E - Centre Nucléaire de Production d'Electricité",
+        "adresse": " Centrale Nucléaire,  82400 Golfech",
+        "longitude": "0.8450707",
+        "latitude": "44.1067363"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale Nucléaire du Blayais",
+        "adresse": " 33820 Braud-et-Saint-Louis",
+        "longitude": "-0.690649",
+        "latitude": "45.257431"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Ancienne Centrale Nucléaire de Brennilis",
+        "adresse": " 29530 Loqueffret",
+        "longitude": "-3.873125",
+        "latitude": "48.3534698"
+    },
+    {
+        "activity": "Centrale nucléaire",
+        "enseigne": "Centrale nucléaire de Civaux",
+        "adresse": " Route de la Centrale Nucléaire,  86320 Civaux",
+        "longitude": "0.6489015",
+        "latitude": "46.462114"
+    }
+]

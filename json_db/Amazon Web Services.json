@@ -1,0 +1,93 @@
+[
+    {
+        "activity": "Services aux entreprises",
+        "enseigne": "Amazon Web Services",
+        "adresse": " Kungsgatan 49,  111 22 Stockholm,  Suède",
+        "longitude": "18.0602332",
+        "latitude": "59.3346238"
+    },
+    {
+        "activity": "Entreprise de logiciels",
+        "enseigne": "Amazon Web Services",
+        "adresse": " Sapir St 1,  Herzliya,  Israël",
+        "longitude": "34.8112106",
+        "latitude": "32.1629447"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services (HOU14)",
+        "adresse": " 825 Town & Country Ln Suite 1000,  Houston,  TX 77024,  États-Unis",
+        "longitude": "-95.5594841",
+        "latitude": "29.7817237"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services",
+        "adresse": " 3333 Piedmont Rd NE,  Atlanta,  GA 30305,  États-Unis",
+        "longitude": "-84.3719253",
+        "latitude": "33.846025"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services",
+        "adresse": " At&T Center,  227 W Monroe St,  Chicago,  IL 60606,  États-Unis",
+        "longitude": "-87.6347111",
+        "latitude": "41.8802854"
+    },
+    {
+        "activity": "Service d'hébergement de site Web",
+        "enseigne": "Amazon Web Services",
+        "adresse": " Plain City,  OH 43064,  États-Unis",
+        "longitude": "-83.2000122",
+        "latitude": "40.0998344"
+    },
+    {
+        "activity": "Entreprise de logiciels",
+        "enseigne": "Amazon Web Services",
+        "adresse": " 12900 Worldgate Dr,  Herndon,  VA 20170,  États-Unis",
+        "longitude": "-77.3963883",
+        "latitude": "38.9557916"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "AWS - Amazon Web Services",
+        "adresse": " Oskar-von-Miller-Ring 20,  80333 München,  Allemagne",
+        "longitude": "11.5763893",
+        "latitude": "48.1448981"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services - ZRH",
+        "adresse": " Bleicherweg 10,  8002 Zürich,  Suisse",
+        "longitude": "8.5366397",
+        "latitude": "47.3686291"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services Taiwan Limited",
+        "adresse": " No. 32號,  Songren Road,  Xinyi District,  Taipei City,  Taïwan 110",
+        "longitude": "121.5682074",
+        "latitude": "25.0387836"
+    },
+    {
+        "activity": "Meat processor",
+        "enseigne": "Amazon Web Services",
+        "adresse": " 2 Park St,  Sydney NSW 2000,  Australie",
+        "longitude": "151.207657",
+        "latitude": "-33.8727631"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Amazon Web Services Australia",
+        "adresse": " Lot Fourteen,  Level 1,  Margaret Graham Building/1a Frome Rd,  Adelaide SA 5000,  Australie",
+        "longitude": "138.6077052",
+        "latitude": "-34.920473"
+    },
+    {
+        "activity": "Concepteur de sites Web",
+        "enseigne": "Amazon Web Services",
+        "adresse": " 31 Place des Corolles,  92400 Courbevoie",
+        "longitude": "2.2455333",
+        "latitude": "48.891469"
+    }
+]

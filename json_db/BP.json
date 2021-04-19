@@ -1,0 +1,926 @@
+[
+    {
+        "activity": "École d'éducation spécialisée",
+        "enseigne": "Complexo Escolar Envagélico da Zona Comercial Lobito",
+        "adresse": " Lobito,  Angola",
+        "longitude": "13.5458604",
+        "latitude": "-12.3519943"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Air BP Brasil - Av. Ayrton Senna",
+        "adresse": " 2541 - Barra da Tijuca,  Rio de Janeiro - RJ,  22775-002,  Brésil",
+        "longitude": "-43.3667022",
+        "latitude": "-22.9866026"
+    },
+    {
+        "activity": "Site d'entreprise",
+        "enseigne": "BP Developments",
+        "adresse": " 240 St Georges Terrace,  Perth WA 6000,  Australie",
+        "longitude": "115.8518991",
+        "latitude": "-31.9528257"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Lot 94 Victoria Hwy,  Timber Creek NT 0852,  Australie",
+        "longitude": "130.4805353",
+        "latitude": "-15.6618234"
+    },
+    {
+        "activity": "Station essence de carburants alternatifs",
+        "enseigne": "Air BP - Av. Olavo Fontoura",
+        "adresse": " 1078 - Santana,  São Paulo - SP,  02012-000,  Brésil",
+        "longitude": "-46.6367909",
+        "latitude": "-23.5128774"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Usina BP Biocombustíveis",
+        "adresse": " Ituiutaba - MG,  Brésil",
+        "longitude": "-49.6738793",
+        "latitude": "-19.0184062"
+    },
+    {
+        "activity": "Centre de diagnostic",
+        "enseigne": "BP Cambodia Lab",
+        "adresse": " # 13,  12201 Russian Federation Blvd. (110),  Phnom Penh,  Cambodge",
+        "longitude": "104.9148507",
+        "latitude": "11.5714322"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Cherry Point Refinery",
+        "adresse": " 4519 Grandview Rd,  Blaine,  WA 98230,  États-Unis",
+        "longitude": "-122.72935",
+        "latitude": "48.8910174"
+    },
+    {
+        "activity": "Société gazière",
+        "enseigne": "BP Canada Energy Group",
+        "adresse": " 240 4 Ave SW,  Calgary,  AB T2P 4H4,  Canada",
+        "longitude": "-114.0672171",
+        "latitude": "51.0497762"
+    },
+    {
+        "activity": "Poste",
+        "enseigne": "BP Canada Energy Co",
+        "adresse": " 3015 5 Ave NE,  Calgary,  AB T2A 6T8,  Canada",
+        "longitude": "-113.9902932",
+        "latitude": "51.0557729"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Calle Palencia,  1,  35500 Las Palmas,  Espagne",
+        "longitude": "-13.549199",
+        "latitude": "28.959092"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Fajã do Penedo,  9240-000 São Vicente,  Portugal",
+        "longitude": "-16.966658",
+        "latitude": "32.805"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Caminho do Pilar 45,  9000-174 Funchal,  Portugal",
+        "longitude": "-16.9321537",
+        "latitude": "32.6549541"
+    },
+    {
+        "activity": "Grossiste",
+        "enseigne": "BP Lubricants Pvt. Ltd.",
+        "adresse": " C/201,  Signature-2,  Near Sanand Circle,  Sanand - Sarkhej Rd,  Sarkhej,  Ahmedabad,  Gujarat 382210,  Inde",
+        "longitude": "72.4934667",
+        "latitude": "22.9877152"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP Lubricants USA Inc",
+        "adresse": " 9300 Pulaski Hwy,  Baltimore,  MD 21220,  États-Unis",
+        "longitude": "-76.461134",
+        "latitude": "39.3485916"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 1802 S Island Rd,  Georgetown,  SC 29440,  États-Unis",
+        "longitude": "-79.2944071",
+        "latitude": "33.3479934"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 315 Church St,  Georgetown,  SC 29440,  États-Unis",
+        "longitude": "-79.2741676",
+        "latitude": "33.3672822"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 2602 Highmarket St,  Georgetown,  SC 29440,  États-Unis",
+        "longitude": "-79.3067591",
+        "latitude": "33.3835201"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 10105 N,  US-17,  McClellanville,  SC 29458,  États-Unis",
+        "longitude": "-79.4756973",
+        "latitude": "33.09513"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 1003 French Santee Rd,  Jamestown,  SC 29453,  États-Unis",
+        "longitude": "-79.6939234",
+        "latitude": "33.2859593"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "BP Lubricants",
+        "adresse": " 1500 Valley Rd,  Wayne,  NJ 07470,  États-Unis",
+        "longitude": "-74.2228414",
+        "latitude": "40.9647143"
+    },
+    {
+        "activity": "Société gazière",
+        "enseigne": "BP",
+        "adresse": " 945 5th St,  Miami Beach,  FL 33139,  États-Unis",
+        "longitude": "-80.138008",
+        "latitude": "25.774884"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 875 71st St,  Miami Beach,  FL 33141,  États-Unis",
+        "longitude": "-80.127685",
+        "latitude": "25.856213"
+    },
+    {
+        "activity": "Société gazière",
+        "enseigne": "BP",
+        "adresse": " 17790 Collins Ave,  Sunny Isles Beach,  FL 33160,  États-Unis",
+        "longitude": "-80.1215931",
+        "latitude": "25.9410874"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 14590 Biscayne Blvd,  North Miami,  FL 33181,  États-Unis",
+        "longitude": "-80.1577666",
+        "latitude": "25.9101689"
+    },
+    {
+        "activity": "Magasin d'articles aéronautiques",
+        "enseigne": "Air BP Lubricants",
+        "adresse": " 6 Campus Dr # 4,  Parsippany,  NJ 07054,  États-Unis",
+        "longitude": "-74.4549608",
+        "latitude": "40.8452153"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "BP Egypt",
+        "adresse": " First New Cairo,  Cairo Governorate,  Égypte",
+        "longitude": "31.4148309",
+        "latitude": "30.0209162"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP France",
+        "adresse": " A26 Aire de Baralle,  62860 Marquion",
+        "longitude": "3.065124",
+        "latitude": "50.2273384"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Autoroute des Anglais Aire Dangres,  A26,  62143 Angres",
+        "longitude": "2.7448572",
+        "latitude": "50.40456"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP France",
+        "adresse": " 6 Rue de la Gare,  62112 Corbehem",
+        "longitude": "3.0466864",
+        "latitude": "50.3379517"
+    },
+    {
+        "activity": "Usine chimique",
+        "enseigne": "BP France",
+        "adresse": " 38 Rue de l'Industrie,  80200 Péronne",
+        "longitude": "2.9281468",
+        "latitude": "49.9169127"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Route des Estuaires Voie du Courgain Roc Sud,  59760 Grande-Synthe",
+        "longitude": "2.3038849",
+        "latitude": "51.0038348"
+    },
+    {
+        "activity": "",
+        "enseigne": "BP France",
+        "adresse": " 1 rue touria chaoul,  63510 Aulnat",
+        "longitude": "3.1638795",
+        "latitude": "45.7913408"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station service BP",
+        "adresse": " Aire de Coeur des Hauts-de-France Est,  A1,  80200 Assevillers",
+        "longitude": "2.8401468",
+        "latitude": "49.8887808"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station BP Villeneuve d'Ascq",
+        "adresse": " Boulevard de Mons,  59650 Villeneuve-d'Ascq",
+        "longitude": "3.1437999",
+        "latitude": "50.6433903"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Aire De,  Autoroute,  Chemin du Saint-Laurent,  A25,  59114 Steenvoorde",
+        "longitude": "2.5857401",
+        "latitude": "50.825981"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Autoroute du Nord A1,  Aire de Wancourt Est,  62128 Monchy-le-Preux",
+        "longitude": "2.8642147",
+        "latitude": "50.261364"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station BP Valencienne",
+        "adresse": " 36 Avenue de Saint-Amand,  59300 Valenciennes",
+        "longitude": "3.512972",
+        "latitude": "50.3663492"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 320 Rue de Saint-Omer,  62100 Calais",
+        "longitude": "1.8820284",
+        "latitude": "50.938034"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Autoroute des Anglais Aire De,  Autoroute A 26,  62860 Baralle",
+        "longitude": "3.0686786",
+        "latitude": "50.2255379"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 7 Avenue Roger Dumoulin,  80046 Amiens",
+        "longitude": "2.2867781",
+        "latitude": "49.9278058"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "BP France",
+        "adresse": " Campus Saint-Christophe Bâtiment Galilée,  10 Avenue de l'Entreprise 3,  95863 Cergy",
+        "longitude": "2.0312401",
+        "latitude": "49.0410834"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Rue Mollien,  62100 Calais",
+        "longitude": "1.864499",
+        "latitude": "50.955613"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station-service BP",
+        "adresse": " A29 Aire de,  80800 Villers-Bretonneux",
+        "longitude": "2.5222006",
+        "latitude": "49.8545656"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL",
+        "adresse": " Route de Béthune,  62136 Lestrem",
+        "longitude": "2.6864118",
+        "latitude": "50.616641"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " D643 Le Jeune Bois,  59157 Beauvois-en-Cambrésis",
+        "longitude": "3.3947266",
+        "latitude": "50.1382198"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " L'Occitane Aire Des Champs D Amour,  D920,  A20,  36150 Meunet-sur-Vatan",
+        "longitude": "1.8449358",
+        "latitude": "47.0902364"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "AVIA",
+        "adresse": " Aire de Phalempin Est,  Autoroute du Nord,  59113 Seclin",
+        "longitude": "3.0456274",
+        "latitude": "50.5289181"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Refining & Petrochemicals GmbH",
+        "adresse": " Johannastraße 2-8,  45899 Gelsenkirchen,  Allemagne",
+        "longitude": "7.0376204",
+        "latitude": "51.5390864"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Gelsenkirchen",
+        "adresse": " Pawiker Str. 30,  45896 Gelsenkirchen,  Allemagne",
+        "longitude": "7.0283973",
+        "latitude": "51.5969317"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Gelsenkirchen Horst",
+        "adresse": " Gelsenbergstraße 1,  45899 Gelsenkirchen,  Allemagne",
+        "longitude": "7.0399576",
+        "latitude": "51.5303361"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "bp in Lingen",
+        "adresse": " Raffineriestraße 1,  49808 Lingen (Ems),  Allemagne",
+        "longitude": "7.30985",
+        "latitude": "52.55852"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP/Aral Forschung",
+        "adresse": " Querenburger Str. 46,  44789 Bochum,  Allemagne",
+        "longitude": "7.2303346",
+        "latitude": "51.4669873"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Ruhr Oel GmbH",
+        "adresse": " 45896 Gelsenkirchen,  Allemagne",
+        "longitude": "7.026116",
+        "latitude": "51.5973223"
+    },
+    {
+        "activity": "",
+        "enseigne": "Deutsche BP AG",
+        "adresse": " Dubelohstraße 143,  33104 Paderborn,  Allemagne",
+        "longitude": "8.73133",
+        "latitude": "51.74514"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "BP Europa SE",
+        "adresse": " Überseeallee 1,  20457 Hamburg,  Allemagne",
+        "longitude": "9.9969395",
+        "latitude": "53.5416583"
+    },
+    {
+        "activity": "",
+        "enseigne": "Deutsche BP AG",
+        "adresse": " Hanauer Str. 8,  36381 Schlüchtern,  Allemagne",
+        "longitude": "9.5255534",
+        "latitude": "50.3432996"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "BP Europa SE / Aral AG",
+        "adresse": " Wittener Str. 45,  44789 Bochum,  Allemagne",
+        "longitude": "7.2286057",
+        "latitude": "51.4787254"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Deutsche BP Aktiengesellschaft",
+        "adresse": " Bürener Str. 70,  33142 Steinhausen an der Rottum,  Allemagne",
+        "longitude": "8.5257",
+        "latitude": "51.5783"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Deutsche BP AG",
+        "adresse": " Neuhäuser Str. 84,  33102 Paderborn,  Allemagne",
+        "longitude": "8.7366118",
+        "latitude": "51.7249351"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP Oil Deutschland GmbH",
+        "adresse": " Günter-Raphael-Straße 15,  98617 Meiningen,  Allemagne",
+        "longitude": "10.4237425",
+        "latitude": "50.5701058"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Deutsche BP AG",
+        "adresse": " Hofheimer Str. 17,  65795 Hattersheim am Main,  Allemagne",
+        "longitude": "8.48109",
+        "latitude": "50.07065"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " PEO Athinon Thessalonikis 1St Km N.R Larisa-Athens,  Larisa 415 00,  Grèce",
+        "longitude": "22.4321777",
+        "latitude": "39.6262055"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " EO Karditsas Larisa 195,  Larisa 413 35,  Grèce",
+        "longitude": "22.4037899",
+        "latitude": "39.6174371"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Periferiaki Artas,  Floriada 471 00,  Grèce",
+        "longitude": "21.1598722",
+        "latitude": "39.1060861"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Leof. Dimokratias 22,  Karditsa 431 00,  Grèce",
+        "longitude": "21.9347474",
+        "latitude": "39.3639047"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP *ΧΑΡΑΛΑΜΠΙΔΗΣ ΧΑΡΆΛΑΜΠΟΣ*",
+        "adresse": " 2 χλμ. Ε.Ο. ΞΆΝΘΗΣ,  EO Kavalas Xanthis 671 00,  Xanthi 671 00,  Grèce",
+        "longitude": "24.8784156",
+        "latitude": "41.1212652"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Dim. Lappa Str,  Karditsa 431 00,  Grèce",
+        "longitude": "21.92002",
+        "latitude": "39.361848"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " 30th Km N.R,  EO Trikalon Ioanninon,  Kalampaka 422 00,  Grèce",
+        "longitude": "21.6493917",
+        "latitude": "39.6862444"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Georgiou Athanasiadi Nova 22 N.R.Antirio,  Nafpaktos 303 00,  Grèce",
+        "longitude": "21.8180861",
+        "latitude": "38.3895778"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " PEO Athinon Thessalonikis 174 Km O.N.R. Athens,  Kamena Vourla 350 08,  Grèce",
+        "longitude": "22.7918917",
+        "latitude": "38.7805257"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Papapostolou 65,  Lamia 351 00,  Grèce",
+        "longitude": "22.4483472",
+        "latitude": "38.9004667"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " EO Karditsas Volou,  Neo Monastiri 350 10,  Grèce",
+        "longitude": "22.2706889",
+        "latitude": "39.2394694"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " N,  Ethniki Odos Karditsas Volou 17th Km,  Sofades 433 00,  Grèce",
+        "longitude": "22.1041",
+        "latitude": "39.3235556"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " 5Th Km N.R.Lamia,  A/D PAThE,  Athina 351 00,  Grèce",
+        "longitude": "22.4600379",
+        "latitude": "38.8646604"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Trikalon 196,  Karditsa 431 00,  Grèce",
+        "longitude": "21.9167361",
+        "latitude": "39.3715861"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Zinopoulou,  Karpenisi 361 00,  Grèce",
+        "longitude": "21.8028123",
+        "latitude": "38.9127888"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " EO Athinon Thessalonikis,  Achinos 353 00,  Grèce",
+        "longitude": "22.7169972",
+        "latitude": "38.8895139"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Km N.R,  EO Karditsas Larisa 8,  Karditsa 431 00,  Grèce",
+        "longitude": "22.022666",
+        "latitude": "39.377427"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " EO Karditsas Larisa,  Stavros 431 00,  Grèce",
+        "longitude": "21.969523",
+        "latitude": "39.3600972"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " A-D PAThE E75,  230rd Km N.R. Athens,  Stilida 350 03,  Grèce",
+        "longitude": "22.6563417",
+        "latitude": "38.8973944"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Par. Eth. Odou Agriniou Artas N.R.Antirrio,  Agrinio 301 00,  Grèce",
+        "longitude": "21.3955013",
+        "latitude": "38.6263802"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Toledo Refinery",
+        "adresse": " 4001 Cedar Point Rd,  Oregon,  OH 43616,  États-Unis",
+        "longitude": "-83.457429",
+        "latitude": "41.674344"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Whiting Refinery",
+        "adresse": " 2815 Indianapolis Blvd,  Whiting,  IN 46394,  États-Unis",
+        "longitude": "-87.483183",
+        "latitude": "41.6624668"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "BP Lubricants",
+        "adresse": " 1500 Valley Rd,  Wayne,  NJ 07470,  États-Unis",
+        "longitude": "-74.2227076",
+        "latitude": "40.9647425"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP Lubricants USA Inc",
+        "adresse": " 9300 Pulaski Hwy,  Baltimore,  MD 21220,  États-Unis",
+        "longitude": "-76.4610338",
+        "latitude": "39.3486647"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Bp Refineries",
+        "adresse": " Madan Mansion,  57/59,  2Nd,  Zaveri Bazaar,  Kalbadevi,  Mumbai,  Maharashtra 400002,  Inde",
+        "longitude": "72.8304341",
+        "latitude": "18.9519239"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Wakanpada,  Vasai East,  Pelhar,  Maharashtra 401208,  Inde",
+        "longitude": "72.8812536",
+        "latitude": "19.4454213"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Anagha Transport BPCL Bunk",
+        "adresse": " Bangalore - Hyderabad Hwy,  Andhra Pradesh 518004,  Inde",
+        "longitude": "78.0046434",
+        "latitude": "15.8508114"
+    },
+    {
+        "activity": "Société d'import-export",
+        "enseigne": "BP CHEMICALS",
+        "adresse": " 301,  Gladdiola,  Hanuman Rd,  Vile Parle East,  Vile Parle,  Mumbai,  Maharashtra 400057,  Inde",
+        "longitude": "72.8485994",
+        "latitude": "19.1034305"
+    },
+    {
+        "activity": "Entrepôt",
+        "enseigne": "B. P. Chemicals Bhiwandi",
+        "adresse": " A 9 ,  gala no. 23 24 25,  Parasnath Complex Road Dapoda,  Mankoli,  Bhiwandi,  Maharashtra 421302,  Inde",
+        "longitude": "73.0502184",
+        "latitude": "19.2633354"
+    },
+    {
+        "activity": "Magasin de gros",
+        "enseigne": "B.P. House B.P. Chemicals",
+        "adresse": " 6,  Pocket 1,  Sector 5,  Faridabad,  Haryana 121001,  Inde",
+        "longitude": "77.3112339",
+        "latitude": "28.3630824"
+    },
+    {
+        "activity": "Industrial chemicals wholesaler",
+        "enseigne": "B.P. Chemicals",
+        "adresse": " Plot no. 176,  Adinath Trade Complex Adinath Nagar,  Madhavaram,  Chennai,  Tamil Nadu 600060,  Inde",
+        "longitude": "80.2222063",
+        "latitude": "13.1571855"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "BP - Corporate Office",
+        "adresse": " DKI,  Jl. TB Simatupang Jakarta No.Kav 88,  RT.1/RW.1,  Kebagusan,  Pasar Minggu,  South Jakarta City,  Jakarta 12520,  Indonésie",
+        "longitude": "106.8329423",
+        "latitude": "-6.3010683"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "PT.BP Petrochemicals Indonesia",
+        "adresse": " Jl. Raya Merak KM 116,  Rawa Alum,  Grogol,  Rw. Arum,  Kec. Gerogol,  Kota Cilegon,  Banten 42436,  Indonésie",
+        "longitude": "106.003148",
+        "latitude": "-5.9760128"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Cibatu,  South Cikarang,  Bekasi,  West Java 17530,  Indonésie",
+        "longitude": "107.1533566",
+        "latitude": "-6.3386226"
+    },
+    {
+        "activity": "Bureau",
+        "enseigne": "BP Petrochemicals Indonesia",
+        "adresse": " Summitmas I,  Jl. Jend. Sudirman No.61,  RT.5/RW.3,  Senayan,  Kec. Kby. Baru,  Kota Jakarta Selatan,  Daerah Khusus Ibukota Jakarta 12190,  Indonésie",
+        "longitude": "106.8034225",
+        "latitude": "-6.2266657"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "SPBU BP - AKR Gubeng",
+        "adresse": " Jl. Jawa No.12-14,  Gubeng,  Kec. Gubeng,  Kota SBY,  Jawa Timur 60281,  Indonésie",
+        "longitude": "112.7476607",
+        "latitude": "-7.2730555"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "BP Italia S.p.A.",
+        "adresse": " Via Verona,  12,  20007 Cornaredo MI,  Italie",
+        "longitude": "9.037392",
+        "latitude": "45.484243"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Shell BP",
+        "adresse": " 69465,  Nairobi,  Kenya",
+        "longitude": "36.7406681",
+        "latitude": "-1.28675"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP Petrol Station",
+        "adresse": " Musoma,  Tanzanie",
+        "longitude": "33.8061225",
+        "latitude": "-1.4966204"
+    },
+    {
+        "activity": "Petrochemical engineer",
+        "enseigne": "BP Environmental Lab",
+        "adresse": " Temasya @ Glenmarie,  Lot 2,  Jalan Pendaftar U1/54,  Kawasan Perindustrian Temasya,  40150 Shah Alam,  Selangor,  Malaisie",
+        "longitude": "101.5776149",
+        "latitude": "3.0898285"
+    },
+    {
+        "activity": "Industrie chimique",
+        "enseigne": "BP PETRONAS Acetyls Sdn. Bhd.",
+        "adresse": " Kompleks Pentadbiran Petrokimia Petronas,  Kertih,  Kerteh,  Malaysia,  24300 Kerteh,  Terengganu,  Malaisie",
+        "longitude": "103.4502804",
+        "latitude": "4.5848095"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "BP Castrol Lubricants (M) Sdn. Bhd.",
+        "adresse": " Level 9,  Tower 5,  Avenue 7,  The Horizon,  Bangsar South City,  No. 8,  Jalan Kerinchi,  Bangsar South,  59200 Kuala Lumpur,  Wilayah Persekutuan Kuala Lumpur,  Malaisie",
+        "longitude": "101.6676863",
+        "latitude": "3.1125168"
+    },
+    {
+        "activity": "Automobile",
+        "enseigne": "BP Lubricants",
+        "adresse": " Jalan Petaling,  Kawasan Perindustrian Dato Onn,  80350 Johor Bahru,  Johor,  Malaisie",
+        "longitude": "103.7403382",
+        "latitude": "1.509435"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Adria Oil BP Mali Lošinj",
+        "adresse": " Rujnica ul. 4b,  51550,  Mali Lošinj,  Croatie",
+        "longitude": "14.4554674",
+        "latitude": "44.5453817"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Combustibles BP",
+        "adresse": " Avenida Isidoro Sepúlveda,  J. M. 500,  Parque Industrial,  66600 Cd Apodaca,  N.L.,  Mexique",
+        "longitude": "-100.217806",
+        "latitude": "25.7426342"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Carretera Aguascalientes – Zacatecas km. 34.5 El Salitrillo,  Las Norias,  20400 Pabellón de Hidalgo,  Ags.,  Mexique",
+        "longitude": "-102.295885",
+        "latitude": "22.1786974"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " MEX-45 Carretera Panamericana km7.8,  98170 Zac.,  Mexique",
+        "longitude": "-102.6246546",
+        "latitude": "22.7755633"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Gasolinera BP Combustibles",
+        "adresse": " Ojo de Agua 200,  Moderno Apodaca II,  66612 Cd Apodaca,  N.L.,  Mexique",
+        "longitude": "-100.2174008",
+        "latitude": "25.7744856"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Gasolinera BP JALPA",
+        "adresse": " Carretera Aguascalientes Jalpa km 900+300,  La Mezquitera,  99600 Jalpa,  Zac.,  Mexique",
+        "longitude": "-102.9676119",
+        "latitude": "21.6507253"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Fuel Station BP",
+        "adresse": " Av. 24 de Julho,  Maputo,  Mozambique",
+        "longitude": "32.5659603",
+        "latitude": "-25.9616042"
+    },
+    {
+        "activity": "",
+        "enseigne": "Óleos Moçambique Lda (BP / Castrol Lubrificantes",
+        "adresse": " Mann Filter,  Filtron),  Matola - Rua dos Combustíveis,  n. 11.115,  porta 97,  Mozambique",
+        "longitude": "32.4848644",
+        "latitude": "-25.9464714"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "BP Refinery Rotterdam B.V.",
+        "adresse": " D'arcyweg 76,  3198 NA Europoort Rotterdam,  Pays-Bas",
+        "longitude": "4.1019495",
+        "latitude": "51.9537195"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Nieuwe Hemweg 11,  1013 BG Amsterdam,  Pays-Bas",
+        "longitude": "4.8651507",
+        "latitude": "52.3935099"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP Express",
+        "adresse": " Amersfoortsestraat 13,  3769 AD Soesterberg,  Pays-Bas",
+        "longitude": "5.2871472",
+        "latitude": "52.1235906"
+    },
+    {
+        "activity": "Station de lavage automobile",
+        "enseigne": "BP car wash",
+        "adresse": " Herculesplein 300,  3584 AA Utrecht,  Pays-Bas",
+        "longitude": "5.1431499",
+        "latitude": "52.0789175"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Lemmerweg 63,  8608 JL Sneek,  Pays-Bas",
+        "longitude": "5.6544833",
+        "latitude": "53.0196322"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Oude Haagseweg 18,  1066 BW Amsterdam,  Pays-Bas",
+        "longitude": "4.8182101",
+        "latitude": "52.3374512"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Singel 3,  3633 CW Vreeland,  Pays-Bas",
+        "longitude": "5.0257284",
+        "latitude": "52.2277669"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Nieuwe Hemweg 11,  1013 BG Amsterdam,  Pays-Bas",
+        "longitude": "4.8652051",
+        "latitude": "52.3934856"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Wageningsestraat 32a,  6673 DD Andelst,  Pays-Bas",
+        "longitude": "5.7236832",
+        "latitude": "51.9131069"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Baronieweg 4,  5321 JW Hedel,  Pays-Bas",
+        "longitude": "5.2598277",
+        "latitude": "51.7540229"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Parnassusweg 850,  1081 LC Amsterdam,  Pays-Bas",
+        "longitude": "4.8684862",
+        "latitude": "52.3359721"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " De Kronkels 3,  3752 LM Bunschoten-Spakenburg,  Pays-Bas",
+        "longitude": "5.3670812",
+        "latitude": "52.2336558"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Herculesplein 300,  3584 AA Utrecht,  Pays-Bas",
+        "longitude": "5.143199",
+        "latitude": "52.0787071"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Beatrixplein 4,  7462 GN Rijssen,  Pays-Bas",
+        "longitude": "6.5099165",
+        "latitude": "52.3043524"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Verlengde Tuurluur 2,  3466 NV Waarder,  Pays-Bas",
+        "longitude": "4.8241161",
+        "latitude": "52.0648684"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "bp",
+        "adresse": " Zuiderzeeweg 1000,  1023 NW Amsterdam,  Pays-Bas",
+        "longitude": "4.9644048",
+        "latitude": "52.3891515"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Station Service BP",
+        "adresse": " Industrieweg 2A,  4561 GH Hulst,  Pays-Bas",
+        "longitude": "4.0401584",
+        "latitude": "51.2744999"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " Avenida Professor Doutor Egas Moniz,  R. Nova da Cruz de Montalvão,  6000-459 Castelo Branco,  Portugal",
+        "longitude": "-7.5148975",
+        "latitude": "39.8099251"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "BP",
+        "adresse": " E. N. 115 - Km 64, 600,  2630-000 Arruda dos Vinhos,  Portugal",
+        "longitude": "-9.133089",
+        "latitude": "38.963473"
+    }
+]
