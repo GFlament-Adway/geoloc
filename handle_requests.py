@@ -49,6 +49,6 @@ def get_requetes(comp_name, mapping):
             activities = [" "]
         data = read_data("settings/countries_data.json")
         print(data)
-        countries = [country["name"] for country in data if country["population"] > 20000000]
-        gps_locs =  [country["latlng"] for country in data if country["population"] > 20000000]
+        countries = [country["name"] for country in data if country["population"] > 200000]
+        gps_locs =  [country["latlng"] for country in data if country["population"] > 200000]
         return list(np.array([[comp_name + " " + activity + " " + country for activity in activities if activity != ""]for country in countries if country != ""]).flatten()), gps_locs

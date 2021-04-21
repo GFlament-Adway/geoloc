@@ -244,7 +244,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                         print("failed to find activity")
                         activity = ""
                     driver.find_element_by_xpath(
-                        "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[1]/div").click()
+                        "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div").click()
                     WebDriverWait(driver, timeout).until(
                         EC.presence_of_element_located((By.XPATH,
                                                         "/html/body/jsl/div[3]/div[9]/div[3]/div[1]/div[2]/div/div[3]/div[1]/div[2]/div[2]/div/div/input")))
@@ -270,5 +270,5 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v2(timeout=5, comp_name="BNP", mapping="departement", driver_options=True, verif=True)
+    get_loc_comp_v2(timeout=5, comp_name="Total", mapping="world", driver_options=True, verif=True)
     print("Temps de scrapping : ", time.time() - debut)

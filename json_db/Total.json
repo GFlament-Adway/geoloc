@@ -9682,5 +9682,3999 @@
         "enseigne": "TOTAL",
         "longitude": "49.0826288",
         "latitude": "1.5022698"
+    },
+    {
+        "activity": "Entrepôt",
+        "enseigne": "Dépôt Lubrifiants TOTAL Cameroun, Douala",
+        "longitude": "4.0316216",
+        "latitude": "9.6809092"
+    },
+    {
+        "activity": "Station-service · Station de Pesage de Mbankomo",
+        "enseigne": "TOTAL NOMAYOS",
+        "longitude": "3.7888889",
+        "latitude": "11.4233333"
+    },
+    {
+        "activity": "Station-service · Ave Charles Atangana",
+        "enseigne": "TOTAL",
+        "longitude": "3.8572218",
+        "latitude": "11.521121"
+    },
+    {
+        "activity": "Siège social · 4048 Douala, 589, boulevard de la liberté AKWA",
+        "enseigne": "TOTAL CAMEROUN SA",
+        "longitude": "4.0478548",
+        "latitude": "9.6939929"
+    },
+    {
+        "activity": "Station-service · Sortie de la ville Ngaoundéerée, Direction Garoua",
+        "enseigne": "TOTAL ROUTE GAROUA",
+        "longitude": "7.3654167",
+        "latitude": "13.5676944"
+    },
+    {
+        "activity": "Station-service · Avenue Des Banques, Situéée Entre la Sociéetée Fokou et Quifferou",
+        "enseigne": "TOTAL MAROUA 2",
+        "longitude": "10.6055",
+        "latitude": "14.33294"
+    },
+    {
+        "activity": "Oil wholesaler · Biashara Sirikwa St KPC Building",
+        "enseigne": "Total Kenya Ltd",
+        "longitude": "-0.286408",
+        "latitude": "36.071055"
+    },
+    {
+        "activity": "Station-service · Mombasa Rd,Airport",
+        "enseigne": "Total service station-refinery mombasa",
+        "longitude": "-4.025309",
+        "latitude": "39.633763"
+    },
+    {
+        "activity": "Station-service · Limuru Rd",
+        "enseigne": "Total kenya headquarters",
+        "longitude": "-1.256972",
+        "latitude": "36.829455"
+    },
+    {
+        "activity": "Siège social · Limuru Rd",
+        "enseigne": "Total kenya headquarters",
+        "longitude": "-1.2573115",
+        "latitude": "36.827003"
+    },
+    {
+        "activity": "Station-service · Limuru Rd",
+        "enseigne": "Total Limuru Road Service Station",
+        "longitude": "-1.2592865",
+        "latitude": "36.826377"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Milimani Service Station",
+        "longitude": "0.0508651",
+        "latitude": "37.6457191"
+    },
+    {
+        "activity": "Station-service · P.O. Box 2000, Chania Bridge",
+        "enseigne": "Total Petrol Station",
+        "longitude": "-0.4193095",
+        "latitude": "36.9494216"
+    },
+    {
+        "activity": "Station-service · Nyeri - Nanyuki Rd",
+        "enseigne": "Laikipia Total Service Station",
+        "longitude": "0.015855",
+        "latitude": "37.078923"
+    },
+    {
+        "activity": "Station-service · Meru",
+        "enseigne": "Total Kathwana Service Station",
+        "longitude": "0.064432",
+        "latitude": "37.647364"
+    },
+    {
+        "activity": "Station-service · Embu, Meru Hwy",
+        "enseigne": "Total service station-meru,milimani",
+        "longitude": "0.049594",
+        "latitude": "37.646992"
+    },
+    {
+        "activity": "Station-service · A2",
+        "enseigne": "Total Naro Moru Service Station",
+        "longitude": "-0.170907",
+        "latitude": "37.02242"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Church Rd Service Station",
+        "longitude": "-0.4823171",
+        "latitude": "37.122334"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Runyenjes Service Station",
+        "longitude": "-0.425166",
+        "latitude": "37.570348"
+    },
+    {
+        "activity": "Station-service · Next To Mosque, Shariani Shopping Centre, Shariani, Malindi Road",
+        "enseigne": "Total Petrol Station",
+        "longitude": "-3.7891586",
+        "latitude": "39.821348"
+    },
+    {
+        "activity": "Station-service · Road",
+        "enseigne": "Total Isiolo Service Station",
+        "longitude": "0.3472877",
+        "latitude": "37.5820562"
+    },
+    {
+        "activity": "Station-service · Njuri Ncheke Street",
+        "enseigne": "Total CMC Meru Service Station",
+        "longitude": "0.0473189",
+        "latitude": "37.6571916"
+    },
+    {
+        "activity": "Station-service · Mombasa Road",
+        "enseigne": "Total Coast Petrol Station",
+        "longitude": "-4.0557254",
+        "latitude": "39.6681959"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Nkubu Service Station",
+        "longitude": "-0.065385",
+        "latitude": "37.663826"
+    },
+    {
+        "activity": "Station-service · B5",
+        "enseigne": "Total Temple Road Service Station",
+        "longitude": "-0.428645",
+        "latitude": "36.955818"
+    },
+    {
+        "activity": "Station-service · Mutarakwa Limuru Rd",
+        "enseigne": "Total Ngenia Service Station",
+        "longitude": "-0.023559",
+        "latitude": "37.906193"
+    },
+    {
+        "activity": "Station-service · Njuri Ncheke Street",
+        "enseigne": "Total CMC Meru II Service Station",
+        "longitude": "0.05138",
+        "latitude": "37.659318"
+    },
+    {
+        "activity": "Distributeur de billets · Refinery Rd",
+        "enseigne": "Ecobank ATM Total Changamwe",
+        "longitude": "-4.0252085",
+        "latitude": "39.6336602"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Eighth St",
+        "enseigne": "Total Uganda Limited",
+        "longitude": "0.3143198",
+        "latitude": "32.5975985"
+    },
+    {
+        "activity": "Siège social · Yusuf Lule Road",
+        "enseigne": "Total E&P Uganda B.V.",
+        "longitude": "0.327531",
+        "latitude": "32.5837029"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL KYALIWAJJALA SERVICE STATION",
+        "longitude": "0.385634",
+        "latitude": "32.6439046"
+    },
+    {
+        "activity": "Station-service · Jinja - Kampala Rd",
+        "enseigne": "TOTAL SEETA HIGHWAY SERVICE STATION",
+        "longitude": "0.3683419",
+        "latitude": "32.711792"
+    },
+    {
+        "activity": "Station-service · Kampala - Gulu Hwy",
+        "enseigne": "TOTAL KIGUMBA SERVICE STATION",
+        "longitude": "1.8093379",
+        "latitude": "32.0112814"
+    },
+    {
+        "activity": "Station-service · Kasese, Fort Portal-Mpondwe Rd",
+        "enseigne": "TOTAL KASESE STAR",
+        "longitude": "0.172518",
+        "latitude": "30.086199"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Bourke Place, 600 Bourke St",
+        "enseigne": "Total Oil Australia Pty Ltd",
+        "longitude": "-37.815936",
+        "latitude": "144.955989"
+    },
+    {
+        "activity": "Station-service · 165 Cremorne St",
+        "enseigne": "Total",
+        "longitude": "-37.8302862",
+        "latitude": "144.9903912"
+    },
+    {
+        "activity": "Station-service · 34 Flora St",
+        "enseigne": "Total",
+        "longitude": "-34.0341825",
+        "latitude": "151.0730391"
+    },
+    {
+        "activity": "Raffinerie de pétrole · &, FM366 & 32nd St",
+        "enseigne": "Total Refinery",
+        "longitude": "29.9555023",
+        "latitude": "-93.8974741"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 7600 32nd St",
+        "enseigne": "Total Petrochemicals & Rfnng",
+        "longitude": "29.9602411",
+        "latitude": "-93.8884417"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 12212 Port Rd",
+        "enseigne": "Total Petrochemicals USA Inc",
+        "longitude": "29.6025792",
+        "latitude": "-95.0147721"
+    },
+    {
+        "activity": "Usine chimique · 1902 Independence Pkwy",
+        "enseigne": "Total Petrochemicals & Refinning",
+        "longitude": "29.7286338",
+        "latitude": "-95.0856018"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 1201 Louisiana St",
+        "enseigne": "Total",
+        "longitude": "29.7568316",
+        "latitude": "-95.3686627"
+    },
+    {
+        "activity": "Raffinerie de pétrole · 2260 Atlantic Rd",
+        "enseigne": "BASF Total Petrochemicals LLC",
+        "longitude": "29.9530063",
+        "latitude": "-93.8851201"
+    },
+    {
+        "activity": "Entrepôt · 550 Long Beach Blvd",
+        "enseigne": "Total Cray Valley",
+        "longitude": "41.1648145",
+        "latitude": "-73.156406"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total",
+        "longitude": "9.0872943",
+        "latitude": "40.8657154"
+    },
+    {
+        "activity": "Station-service · 00251-930102141",
+        "enseigne": "TOTAL ASEBETEFERI SERVICE STATION",
+        "longitude": "9.083886",
+        "latitude": "40.865758"
+    },
+    {
+        "activity": "Station-service · 00251-940209475 00251-222240012 Awash Sebat",
+        "enseigne": "TOTAL AWASH SEBAT SERVICE STATION",
+        "longitude": "8.996234",
+        "latitude": "40.169909"
+    },
+    {
+        "activity": "Station-service · 00251-914300470 00251-344400925",
+        "enseigne": "TOTAL MEKELLE PIASSA SERVICE STATION",
+        "longitude": "9.136138",
+        "latitude": "40.162225"
+    },
+    {
+        "activity": "Station-service · 00251-930102087",
+        "enseigne": "TOTAL BEDESSA Manaharia SEFER SERVICE STATION",
+        "longitude": "8.90368",
+        "latitude": "40.768668"
+    },
+    {
+        "activity": "Station-service · 00251-910070455 00251-255570012",
+        "enseigne": "TOTAL MICHETA SERVICE STATION",
+        "longitude": "8.637522",
+        "latitude": "40.336017"
+    },
+    {
+        "activity": "Station-service · 1 Hulbert Rd",
+        "enseigne": "Total Eloff Street Auto Services",
+        "longitude": "-26.2173296",
+        "latitude": "28.0442057"
+    },
+    {
+        "activity": "Station-service · 7 Chrysler St",
+        "enseigne": "Total Lubes & Fuel",
+        "longitude": "-33.808283",
+        "latitude": "25.631673"
+    },
+    {
+        "activity": "Station-service · 304 Kreupelhout St",
+        "enseigne": "Total Dekema Motors",
+        "longitude": "-26.2736152",
+        "latitude": "28.1793461"
+    },
+    {
+        "activity": "Station-service · 189 Main Rd",
+        "enseigne": "Total Sophiatown",
+        "longitude": "-26.1768255",
+        "latitude": "27.9720631"
+    },
+    {
+        "activity": "Station-service · Cnr Ikageng Rd &, Agaat St",
+        "enseigne": "Total Madiba Motors",
+        "longitude": "-26.7181882",
+        "latitude": "27.0728754"
+    },
+    {
+        "activity": "Station-service · Cnr Potgieter St &, Beryllium Rd",
+        "enseigne": "Total Alrode",
+        "longitude": "-26.3174325",
+        "latitude": "28.1317178"
+    },
+    {
+        "activity": "Station-service · Cnr Hendrik Potgieter &, Gordon Rd",
+        "enseigne": "Total Gordon Road",
+        "longitude": "-26.1678892",
+        "latitude": "27.9382136"
+    },
+    {
+        "activity": "Station-service · 35 Main St",
+        "enseigne": "Total Port Alfred",
+        "longitude": "-33.592932",
+        "latitude": "26.883738"
+    },
+    {
+        "activity": "Station-service · 275 Smit St",
+        "enseigne": "Total Joubert Park Motors",
+        "longitude": "-26.1937093",
+        "latitude": "28.0466757"
+    },
+    {
+        "activity": "Station-service · R56 Portion 5 Of The Farm, Ebute, No 156",
+        "enseigne": "Total Madlanduna",
+        "longitude": "-30.2743353",
+        "latitude": "29.9343306"
+    },
+    {
+        "activity": "Station-service · Cnr Black Reef &, Dekema Rd",
+        "enseigne": "Total Mike's Tune-Up Centre",
+        "longitude": "-26.2758237",
+        "latitude": "28.1690667"
+    },
+    {
+        "activity": "Station-service · Cnr Paul Kruger &, Barney Molokwane",
+        "enseigne": "Total Teksa Motors",
+        "longitude": "-26.4865009",
+        "latitude": "29.2270957"
+    },
+    {
+        "activity": "Station-service · Cnr Beyers Naude Dr & Alice St",
+        "enseigne": "Total Northcliff",
+        "longitude": "-26.1250843",
+        "latitude": "27.965655"
+    },
+    {
+        "activity": "Station-service · Cnr Xavier &, Vleiroos St",
+        "enseigne": "Total Winchester Hills",
+        "longitude": "-26.2583565",
+        "latitude": "28.008025"
+    },
+    {
+        "activity": "Station-service · 63 Beyers Naudé Dr",
+        "enseigne": "Total Beyers Naude",
+        "longitude": "-26.1526143",
+        "latitude": "27.989149"
+    },
+    {
+        "activity": "Station-service · 15 Voortrekker St",
+        "enseigne": "Total SOVS",
+        "longitude": "-30.419495",
+        "latitude": "26.832087"
+    },
+    {
+        "activity": "Station-service · 256 Turf Rd",
+        "enseigne": "Total La Rochelle",
+        "longitude": "-26.2379488",
+        "latitude": "28.0532927"
+    },
+    {
+        "activity": "Station-service · 712 6th St",
+        "enseigne": "Total Deutsche Auto",
+        "longitude": "-26.1122108",
+        "latitude": "28.0797297"
+    },
+    {
+        "activity": "Station-service · 54 Bokomo St",
+        "enseigne": "Total J B's Nissan",
+        "longitude": "-33.4656974",
+        "latitude": "18.7194529"
+    },
+    {
+        "activity": "Station-service · Cnr Columbine Ave &, John Masefield Dr",
+        "enseigne": "Total Nu-South Service Station",
+        "longitude": "-26.2702183",
+        "latitude": "27.9877995"
+    },
+    {
+        "activity": "Station-service · 25 Albertina Sisulu Rd",
+        "enseigne": "Total Portugal Motors",
+        "longitude": "-26.199068",
+        "latitude": "28.066525"
+    },
+    {
+        "activity": "Station-service · 120 Plane Rd",
+        "enseigne": "Total Spartan",
+        "longitude": "-26.1113994",
+        "latitude": "28.2186479"
+    },
+    {
+        "activity": "Station-service · 1 Beechcraft Ave",
+        "enseigne": "Total Speedway Service Station",
+        "longitude": "-26.1660506",
+        "latitude": "28.2581289"
+    },
+    {
+        "activity": "Station-service · Cnr Jim Fouche Rd &, Wilhelmina Ave",
+        "enseigne": "Total Constantia Kloof",
+        "longitude": "-26.1379546",
+        "latitude": "27.9092697"
+    },
+    {
+        "activity": "Station-service · 27 Willowton Rd",
+        "enseigne": "Total Willowton Motors",
+        "longitude": "-29.592638",
+        "latitude": "30.403396"
+    },
+    {
+        "activity": "Siège social · 3 Biermann Ave",
+        "enseigne": "Total South Africa (Pty) Ltd",
+        "longitude": "-26.1429576",
+        "latitude": "28.0409145"
+    },
+    {
+        "activity": "Station-service · 46 Montague Drive",
+        "enseigne": "Total Montague Gardens",
+        "longitude": "-33.87374",
+        "latitude": "18.51952"
+    },
+    {
+        "activity": "Station-service · Bafokeng Dr",
+        "enseigne": "Total Vaal",
+        "longitude": "-26.9340072",
+        "latitude": "26.7308701"
+    },
+    {
+        "activity": "Station-service · Morningside St",
+        "enseigne": "Total Greenside",
+        "longitude": "-33.9291087",
+        "latitude": "18.5006755"
+    },
+    {
+        "activity": "Station-service · Cnr Railway &, Voortrekker St",
+        "enseigne": "Total Carbo Service Station (Temporarily Closed)",
+        "longitude": "-26.213205",
+        "latitude": "28.1693757"
+    },
+    {
+        "activity": "Station-service · Kalkoentjie Rd",
+        "enseigne": "Total Brackenhurst",
+        "longitude": "-26.32754",
+        "latitude": "28.099519"
+    },
+    {
+        "activity": "Station-service · Cnr Old Pretoria Rd &, Broadwalk St",
+        "enseigne": "Total Midrand",
+        "longitude": "-25.9930581",
+        "latitude": "28.1298479"
+    },
+    {
+        "activity": "Station-service · Bushveld Rd",
+        "enseigne": "Total Mabopane",
+        "longitude": "-25.5097443",
+        "latitude": "28.0793441"
+    },
+    {
+        "activity": "Station-service · Cnr Sebe & Johannesburg Rd",
+        "enseigne": "Total Orange Farm",
+        "longitude": "-26.5356462",
+        "latitude": "27.8841975"
+    },
+    {
+        "activity": "Station-service · Hamman Street",
+        "enseigne": "Total Renbro Service Centre",
+        "longitude": "-25.4048998",
+        "latitude": "28.2840729"
+    },
+    {
+        "activity": "Station-service · 74 Somerset St",
+        "enseigne": "Total Aliwal",
+        "longitude": "-30.6939",
+        "latitude": "26.708665"
+    },
+    {
+        "activity": "Station-service · Cnr Andries Rd &, Newberry St",
+        "enseigne": "Total Brackendowns",
+        "longitude": "-26.3445406",
+        "latitude": "28.0930972"
+    },
+    {
+        "activity": "Station-service · The Palm Plaza, Cnr Rutgers &, Spoorweg St",
+        "enseigne": "Total Madibeng",
+        "longitude": "-25.6439259",
+        "latitude": "27.7756416"
+    },
+    {
+        "activity": "Station-service · 3 Bainskloof",
+        "enseigne": "Total Bainskloof Service Station",
+        "longitude": "-26.3863953",
+        "latitude": "27.6037268"
+    },
+    {
+        "activity": "Station-service · Masakhane St",
+        "enseigne": "Total Mabandla Service Station",
+        "longitude": "-26.3078399",
+        "latitude": "28.1579234"
+    },
+    {
+        "activity": "Station-service · 33 Lorne St",
+        "enseigne": "Total Ritz Motors",
+        "longitude": "-29.013024",
+        "latitude": "29.881955"
+    },
+    {
+        "activity": "Station-service · 39 General Alberts Ave",
+        "enseigne": "Total Randhart",
+        "longitude": "-26.28714",
+        "latitude": "28.114637"
+    },
+    {
+        "activity": "Station-service · R503",
+        "enseigne": "Total Elandsfontien",
+        "longitude": "-26.1439525",
+        "latitude": "26.1456195"
+    },
+    {
+        "activity": "Station-service · Cnr Fourie &, Oos St",
+        "enseigne": "Total Fourie Street",
+        "longitude": "-26.5109548",
+        "latitude": "30.0024399"
+    },
+    {
+        "activity": "Station-service · Cnr Finch St &, Nightingale Rd",
+        "enseigne": "Total Atlasville",
+        "longitude": "-26.159846",
+        "latitude": "28.284799"
+    },
+    {
+        "activity": "Station-service · 58 Church St",
+        "enseigne": "Total Wellington",
+        "longitude": "-33.638905",
+        "latitude": "19.010574"
+    },
+    {
+        "activity": "Station-service · 154 Main Rd",
+        "enseigne": "Total Helderberg",
+        "longitude": "-34.0804804",
+        "latitude": "18.8488269"
+    },
+    {
+        "activity": "Station-service · Osmium St",
+        "enseigne": "Total Gateway Mall Service Centre",
+        "longitude": "-26.3531929",
+        "latitude": "27.3979813"
+    },
+    {
+        "activity": "Station-service · 1025 Park St",
+        "enseigne": "Total Ambassador Duty Fuel",
+        "longitude": "-25.7495286",
+        "latitude": "28.2318573"
+    },
+    {
+        "activity": "Station-service · Cnr Hans Strydom &, Gasel Ave",
+        "enseigne": "Total Plaza Filling Station",
+        "longitude": "-25.9080501",
+        "latitude": "29.2510704"
+    },
+    {
+        "activity": "Station-service · Main Rd",
+        "enseigne": "Total Z M Motors",
+        "longitude": "-26.0501322",
+        "latitude": "30.8143651"
+    },
+    {
+        "activity": "Station-service · Cnr Richards Dr & Church St",
+        "enseigne": "Total Richards Drive",
+        "longitude": "-25.9994819",
+        "latitude": "28.1339187"
+    },
+    {
+        "activity": "Station-service · Cnr Luipaard &, Kruger St",
+        "enseigne": "Total Krugersdorp",
+        "longitude": "-26.1057955",
+        "latitude": "27.7696619"
+    },
+    {
+        "activity": "Station-service · 2 Hoof St",
+        "enseigne": "Total Garage",
+        "longitude": "-32.1543162",
+        "latitude": "18.6047831"
+    },
+    {
+        "activity": "Station-service · Glenugie Rd",
+        "enseigne": "Total Motovation Motors",
+        "longitude": "-29.8116818",
+        "latitude": "30.8592705"
+    },
+    {
+        "activity": "Station-service · 49 Tanner Rd",
+        "enseigne": "Total Emric Motors",
+        "longitude": "-28.7707567",
+        "latitude": "31.9053126"
+    },
+    {
+        "activity": "Station-service · 75 Chief Albert Luthuli St",
+        "enseigne": "Total Maritzburg",
+        "longitude": "-29.5985821",
+        "latitude": "30.3761422"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Parklands",
+        "longitude": "-33.812526",
+        "latitude": "18.506468"
+    },
+    {
+        "activity": "Station-service · Cnr Chichester &, Garfield Rd",
+        "enseigne": "Total Kenilworth",
+        "longitude": "-33.9874424",
+        "latitude": "18.484033"
+    },
+    {
+        "activity": "Station-service · 449 Gerrit Maritz Rd",
+        "enseigne": "Total Pretoria North",
+        "longitude": "-25.6751526",
+        "latitude": "28.17771"
+    },
+    {
+        "activity": "Station-service · Stanford Rd",
+        "enseigne": "Total Gelvandale",
+        "longitude": "-33.912777",
+        "latitude": "25.559985"
+    },
+    {
+        "activity": "Station-service · Cnr Lois &, Amanda Ave",
+        "enseigne": "Total Glen 2",
+        "longitude": "-26.2689658",
+        "latitude": "28.0476438"
+    },
+    {
+        "activity": "Station-service · Baden Powell Dr",
+        "enseigne": "Total Lynedoch",
+        "longitude": "-33.982112",
+        "latitude": "18.771266"
+    },
+    {
+        "activity": "Station-service · Cnr J.G. Strydom Rd &, Lobelia Ave",
+        "enseigne": "Total Weltevredenpark",
+        "longitude": "-26.112347",
+        "latitude": "27.931051"
+    },
+    {
+        "activity": "Station-service · Cnr Columbine Ave & Main St",
+        "enseigne": "Total Meredale",
+        "longitude": "-26.2685213",
+        "latitude": "27.9773819"
+    },
+    {
+        "activity": "Station-service · Keya Rona Mall, R556",
+        "enseigne": "Total Ke Ya Rona",
+        "longitude": "-25.720732",
+        "latitude": "27.655396"
+    },
+    {
+        "activity": "Station-service · 136 Settlers Way",
+        "enseigne": "Total Settlers Way Motors",
+        "longitude": "-33.031775",
+        "latitude": "27.8842191"
+    },
+    {
+        "activity": "Station-service · 209 Stormvoël Rd",
+        "enseigne": "Total Silvertondale",
+        "longitude": "-25.7180616",
+        "latitude": "28.3023316"
+    },
+    {
+        "activity": "Station-service · Cnr Pongola River Dr &, Breerivier St",
+        "enseigne": "Total Norkem Park",
+        "longitude": "-26.0450918",
+        "latitude": "28.2182831"
+    },
+    {
+        "activity": "Station-service · Cnr West Burger &, Cricket St",
+        "enseigne": "Total Central",
+        "longitude": "-29.1126723",
+        "latitude": "26.2218996"
+    },
+    {
+        "activity": "Station-service · Cnr Skukusa Rd &, Lois Ave",
+        "enseigne": "Total Glen 1",
+        "longitude": "-26.2718667",
+        "latitude": "28.0479746"
+    },
+    {
+        "activity": "Station-service · 73 Voortrekker Rd",
+        "enseigne": "Total New Redruth Motors",
+        "longitude": "-26.271322",
+        "latitude": "28.1224809"
+    },
+    {
+        "activity": "Station-service · Cnr Leslie Ave &, Douglas Dr",
+        "enseigne": "Total Douglasdale",
+        "longitude": "-26.0394134",
+        "latitude": "27.9943489"
+    },
+    {
+        "activity": "Station-service · 253 Bremer St",
+        "enseigne": "Total Daspoort Tunnel",
+        "longitude": "-25.7238691",
+        "latitude": "28.1346891"
+    },
+    {
+        "activity": "Station-service · Selbourne Rd",
+        "enseigne": "Total Evaton",
+        "longitude": "-26.5471488",
+        "latitude": "27.8510582"
+    },
+    {
+        "activity": "Station-service · 37 First Ave",
+        "enseigne": "Total Dyna Tune-Up Centre",
+        "longitude": "-33.359501",
+        "latitude": "19.306721"
+    },
+    {
+        "activity": "Station-service · Republic Rd",
+        "enseigne": "Total Waterfront",
+        "longitude": "-26.0983973",
+        "latitude": "27.9923415"
+    },
+    {
+        "activity": "Station-service · Cnr R566 &, Ernest Oppenheimer St",
+        "enseigne": "Total Rosslyn Service Centre",
+        "longitude": "-25.6251841",
+        "latitude": "28.0769993"
+    },
+    {
+        "activity": "Station-service · Cnr Albertina Sisulu &, Fourth Rd",
+        "enseigne": "Total Florida Lake Motors",
+        "longitude": "-26.1817513",
+        "latitude": "27.9092087"
+    },
+    {
+        "activity": "Station-service · Cnr Stateway &, Tempest Rd",
+        "enseigne": "Total Park Motors",
+        "longitude": "-27.978862",
+        "latitude": "26.7325475"
+    },
+    {
+        "activity": "Station-service · Helen Joseph Dr",
+        "enseigne": "Total Pitstop",
+        "longitude": "-26.506496",
+        "latitude": "29.200003"
+    },
+    {
+        "activity": "Station-service · 55 Main Rd",
+        "enseigne": "Total Diepriver",
+        "longitude": "-34.0308295",
+        "latitude": "18.465797"
+    },
+    {
+        "activity": "Station-service · R512",
+        "enseigne": "Total Lanseria",
+        "longitude": "-25.9575783",
+        "latitude": "27.9165061"
+    },
+    {
+        "activity": "Station-service · Moroka Nancefield Rd",
+        "enseigne": "Total Dube",
+        "longitude": "-26.25035",
+        "latitude": "27.893864"
+    },
+    {
+        "activity": "Station-service · 536 Moot St",
+        "enseigne": "Total Moot Street Motors (Pty) Ltd",
+        "longitude": "-25.711727",
+        "latitude": "28.155425"
+    },
+    {
+        "activity": "Station-service · Dr Ft Molaldse Rd",
+        "enseigne": "Total Jabulani Garage",
+        "longitude": "-27.7480841",
+        "latitude": "30.0366642"
+    },
+    {
+        "activity": "Station-service · Heald St",
+        "enseigne": "Total Daveyton Service Station",
+        "longitude": "-26.1633919",
+        "latitude": "28.3995881"
+    },
+    {
+        "activity": "Station-service · 51 Skippie Botha Rd",
+        "enseigne": "Total Mons Motors",
+        "longitude": "-26.614971",
+        "latitude": "27.8958151"
+    },
+    {
+        "activity": "Station-service · Cnr Springs &, 20th Rd",
+        "enseigne": "Total Springs Road (Henry's)",
+        "longitude": "-26.2624423",
+        "latitude": "28.3633202"
+    },
+    {
+        "activity": "Station-service · Garstfontein Rd",
+        "enseigne": "Total Menlyn",
+        "longitude": "-25.789184",
+        "latitude": "28.275848"
+    },
+    {
+        "activity": "Station-service · 154 Elsburg Rd",
+        "enseigne": "Total Delville Motors",
+        "longitude": "-26.235008",
+        "latitude": "28.1894969"
+    },
+    {
+        "activity": "Station-service · Cnr Nkoane Rd & Mangosuthu Buthelezi Way",
+        "enseigne": "Total Thabong",
+        "longitude": "-27.9654975",
+        "latitude": "26.8316263"
+    },
+    {
+        "activity": "Station-service · 726 Main St",
+        "enseigne": "Total Malanda Service Station",
+        "longitude": "-30.259388",
+        "latitude": "29.9408905"
+    },
+    {
+        "activity": "Station-service · Cnr Merrydale &, Hazeldene Ave",
+        "enseigne": "Total Portlands Service Station",
+        "longitude": "-34.0505276",
+        "latitude": "18.6161516"
+    },
+    {
+        "activity": "Station-service · Mthombothi St",
+        "enseigne": "Total Esikhawini (LD Motors)",
+        "longitude": "-28.8728739",
+        "latitude": "31.9010434"
+    },
+    {
+        "activity": "Station-service · Cnr Olifantsfontein Rd &, Southward Dr",
+        "enseigne": "Total Clayville",
+        "longitude": "-25.9661236",
+        "latitude": "28.2152443"
+    },
+    {
+        "activity": "Station-service · R555",
+        "enseigne": "Total Highway Motors Steelpoort",
+        "longitude": "-24.7329753",
+        "latitude": "30.2068566"
+    },
+    {
+        "activity": "Station-service · 39 Greenhills Ave",
+        "enseigne": "Total Greenhills (Temporarily Closed)",
+        "longitude": "-26.155613",
+        "latitude": "27.698609"
+    },
+    {
+        "activity": "Station-service · Central Ave",
+        "enseigne": "Total Klerksdorp",
+        "longitude": "-26.854462",
+        "latitude": "26.6768788"
+    },
+    {
+        "activity": "Station-service · Lucas Mangope Rd",
+        "enseigne": "Total IM Filling Station",
+        "longitude": "-25.3931645",
+        "latitude": "28.1576395"
+    },
+    {
+        "activity": "Station-service · Cnr Main Service Rd &, Kingfisher Dr",
+        "enseigne": "Total Sedgefield",
+        "longitude": "-34.0147393",
+        "latitude": "22.8022645"
+    },
+    {
+        "activity": "Station-service · 65 Main Rd",
+        "enseigne": "Total Avo MTS",
+        "longitude": "-33.832467",
+        "latitude": "20.070007"
+    },
+    {
+        "activity": "Station-service · Cnr Strumosa Rd &, Kremetart Ave",
+        "enseigne": "Total Strumosa",
+        "longitude": "-25.6600978",
+        "latitude": "27.2048641"
+    },
+    {
+        "activity": "Station-service · 24 Aiken St",
+        "enseigne": "Total South Coast",
+        "longitude": "-30.7399715",
+        "latitude": "30.4536616"
+    },
+    {
+        "activity": "Station-service · Aubert St",
+        "enseigne": "Total Alexanders Service Station",
+        "longitude": "-31.1635292",
+        "latitude": "28.8677967"
+    },
+    {
+        "activity": "Station-service · Cnr Atlas Rd &, Silver Wings Blvd",
+        "enseigne": "Total Atlas Road",
+        "longitude": "-26.132204",
+        "latitude": "28.267486"
+    },
+    {
+        "activity": "Station-service · 60 Elm St",
+        "enseigne": "Total Dowerglen Service Station",
+        "longitude": "-26.1393693",
+        "latitude": "28.1375257"
+    },
+    {
+        "activity": "Station-service · Cnr M39 &, Aubrey Matlakala St",
+        "enseigne": "Total Entrance",
+        "longitude": "-25.527569",
+        "latitude": "28.1094136"
+    },
+    {
+        "activity": "Station-service · Stratford Ave",
+        "enseigne": "Total Beverly Park Service Station",
+        "longitude": "-34.013458",
+        "latitude": "18.735279"
+    },
+    {
+        "activity": "Station-service · 27 Titren Rd Southway Mall",
+        "enseigne": "Total Rossburgh Service Station",
+        "longitude": "-29.8970526",
+        "latitude": "30.9735303"
+    },
+    {
+        "activity": "Station-service · Cnr General Pienaar Ave &, Ham St",
+        "enseigne": "Total Witpoortjie Service Station",
+        "longitude": "-26.134219",
+        "latitude": "27.834237"
+    },
+    {
+        "activity": "Station-service · Cnr Hatfield Ave &, Onyx Pl",
+        "enseigne": "Total Albermarle",
+        "longitude": "-26.2649289",
+        "latitude": "28.1540509"
+    },
+    {
+        "activity": "Station-service · R573",
+        "enseigne": "Total Jakkalsdans Petroleum",
+        "longitude": "-25.4774396",
+        "latitude": "28.6012191"
+    },
+    {
+        "activity": "Station-service · Cnr Harry Gwala Ave & R101",
+        "enseigne": "Total Three Way Motors",
+        "longitude": "-25.4017146",
+        "latitude": "28.2825195"
+    },
+    {
+        "activity": "Station-service · 4 John Parks Rd",
+        "enseigne": "Total Auto Park",
+        "longitude": "-27.731045",
+        "latitude": "29.9410673"
+    },
+    {
+        "activity": "Station-service · 1 Thokwane Village",
+        "enseigne": "Total Mohlala Filling Station (Temporarily Closed)",
+        "longitude": "-24.593482",
+        "latitude": "30.1611202"
+    },
+    {
+        "activity": "Station-service · Voortrekker St",
+        "enseigne": "Total Karoo Diensstasie",
+        "longitude": "-30.647432",
+        "latitude": "24.010913"
+    },
+    {
+        "activity": "Station-service · 35 Lyell St",
+        "enseigne": "Total Nambiti Motors CC",
+        "longitude": "-28.5664516",
+        "latitude": "29.7780693"
+    },
+    {
+        "activity": "Station-service · Cnr Ouklip &, Wilgerood Rd",
+        "enseigne": "Total Helderkruin Motors",
+        "longitude": "-26.1241935",
+        "latitude": "27.8753362"
+    },
+    {
+        "activity": "Station-service · Lucas Mangope Rd",
+        "enseigne": "Total Ga-Rankuwa",
+        "longitude": "-25.5597563",
+        "latitude": "28.0028652"
+    },
+    {
+        "activity": "Station-service · 5 Sampson St",
+        "enseigne": "Total Parkview Garage",
+        "longitude": "-33.6579182",
+        "latitude": "19.4515896"
+    },
+    {
+        "activity": "Station-service · 28 Market St",
+        "enseigne": "Total Vryburg",
+        "longitude": "-26.957387",
+        "latitude": "24.723291"
+    },
+    {
+        "activity": "Station-service · Cnr Viljoen & 7th St",
+        "enseigne": "Total Quellerie Park",
+        "longitude": "-26.089228",
+        "latitude": "27.7610664"
+    },
+    {
+        "activity": "Station-service · Cnr Nelson Mandela Dr & Du Plessis Rd",
+        "enseigne": "Total Spitskop",
+        "longitude": "-29.0825362",
+        "latitude": "26.1586851"
+    },
+    {
+        "activity": "Station-service · 1 Voortrekker Rd",
+        "enseigne": "Total Diensstasie (Temporarily Closed)",
+        "longitude": "-28.319551",
+        "latitude": "27.622935"
+    },
+    {
+        "activity": "Station-service · 51 Voortrekker St",
+        "enseigne": "Total Elite Auto",
+        "longitude": "-33.593455",
+        "latitude": "22.206212"
+    },
+    {
+        "activity": "Station-service · 77 Dr Nelson Mandela Dr",
+        "enseigne": "Total Westvaal VW (Noordwes VW)",
+        "longitude": "-26.1555058",
+        "latitude": "26.1610793"
+    },
+    {
+        "activity": "Station-service · 8 Devereux Ave",
+        "enseigne": "Total Devereux",
+        "longitude": "-32.9841706",
+        "latitude": "27.9004801"
+    },
+    {
+        "activity": "Station-service · Cnr Nelson Mandela Dr &, Shippard St",
+        "enseigne": "Total Mafikeng",
+        "longitude": "-25.8642421",
+        "latitude": "25.64639"
+    },
+    {
+        "activity": "Station-service · N4, Alzu Petroport",
+        "enseigne": "Total Petroport N4 Alzu",
+        "longitude": "-25.833723",
+        "latitude": "29.793747"
+    },
+    {
+        "activity": "Station-service · Cnr Rissik &, Bok St",
+        "enseigne": "Total Auto Stop",
+        "longitude": "-23.9036379",
+        "latitude": "29.446722"
+    },
+    {
+        "activity": "Station-service · Cnr Nelson Mandela Dr &, Ryder St",
+        "enseigne": "Total Rhino Service Station",
+        "longitude": "-30.7396675",
+        "latitude": "30.447974"
+    },
+    {
+        "activity": "Station-service · 76 Clarendon Dr",
+        "enseigne": "Total Clarendon Auto",
+        "longitude": "-26.1683404",
+        "latitude": "27.899035"
+    },
+    {
+        "activity": "Station-service · Cnr Curie Ave &, Pasteur Dr",
+        "enseigne": "Total Tollas",
+        "longitude": "-29.137234",
+        "latitude": "26.202936"
+    },
+    {
+        "activity": "Station-service · 45 Walter Sisulu Dr",
+        "enseigne": "Total Allegro Vulstasie",
+        "longitude": "-26.9495403",
+        "latitude": "29.2360836"
+    },
+    {
+        "activity": "Station-service · 6640 Masopha St",
+        "enseigne": "Total Orlando",
+        "longitude": "-26.2437004",
+        "latitude": "27.9301254"
+    },
+    {
+        "activity": "Station-service · Dr Yusuf Dadoo St",
+        "enseigne": "Total Broad Street Service Station",
+        "longitude": "-29.8625086",
+        "latitude": "31.0186114"
+    },
+    {
+        "activity": "Station-service · 112 Ray Nkonyeni Rd",
+        "enseigne": "Total Gamalakhe (Closed For Revamp)",
+        "longitude": "-30.8002788",
+        "latitude": "30.3424208"
+    },
+    {
+        "activity": "Station-service · 1111 Zazi Rd",
+        "enseigne": "Total Clermont Service Station",
+        "longitude": "-29.7938243",
+        "latitude": "30.8934089"
+    },
+    {
+        "activity": "Station-service · 126 Cathcart Rd",
+        "enseigne": "Total Queenstown",
+        "longitude": "-31.8947533",
+        "latitude": "26.8669362"
+    },
+    {
+        "activity": "Station-service · Main Rd Bopedi Shopping Centre",
+        "enseigne": "Total Bopedi",
+        "longitude": "-24.4198895",
+        "latitude": "29.7894295"
+    },
+    {
+        "activity": "Station-service · Cnr Steve Biko St &, Klipfontein Rd",
+        "enseigne": "Total Gugulethu",
+        "longitude": "-33.9740649",
+        "latitude": "18.5637361"
+    },
+    {
+        "activity": "Station-service · 90 Tokai Rd",
+        "enseigne": "Total Tokai",
+        "longitude": "-34.0618988",
+        "latitude": "18.4356403"
+    },
+    {
+        "activity": "Station-service · 49 Caledon St",
+        "enseigne": "Total Graaff Reinet",
+        "longitude": "-32.249714",
+        "latitude": "24.533333"
+    },
+    {
+        "activity": "Station-service · Sondal Rd",
+        "enseigne": "Total Eversdal",
+        "longitude": "-33.8583344",
+        "latitude": "18.6525061"
+    },
+    {
+        "activity": "Station-service · 1 Main St",
+        "enseigne": "Total Black Rock Service Station",
+        "longitude": "-27.120681",
+        "latitude": "22.835908"
+    },
+    {
+        "activity": "Station-service · 18 Langmark St",
+        "enseigne": "Total Heilbron",
+        "longitude": "-27.2802815",
+        "latitude": "27.9690034"
+    },
+    {
+        "activity": "Station-service · 2402 President Mangope Dr",
+        "enseigne": "Total Itsoseng Motors",
+        "longitude": "-26.073367",
+        "latitude": "25.886766"
+    },
+    {
+        "activity": "Station-service · Morning Star Dr",
+        "enseigne": "Total Nono's Service Centre",
+        "longitude": "-34.009082",
+        "latitude": "18.6351781"
+    },
+    {
+        "activity": "Station-service · Cnr R551 &, Falcon Rd",
+        "enseigne": "Total Palm Springs",
+        "longitude": "-26.4969174",
+        "latitude": "27.8458552"
+    },
+    {
+        "activity": "Station-service · 264 Louis Trichardt Blvd",
+        "enseigne": "Total Wilcor Motors",
+        "longitude": "-26.7115964",
+        "latitude": "27.8460206"
+    },
+    {
+        "activity": "Station-service · Unit 12, Westham Dr",
+        "enseigne": "Total Ohlanga Auto City",
+        "longitude": "-29.6934442",
+        "latitude": "30.9794155"
+    },
+    {
+        "activity": "Station-service · Adcock St",
+        "enseigne": "Total Leratong Service Station",
+        "longitude": "-26.1691541",
+        "latitude": "27.8071476"
+    },
+    {
+        "activity": "Station-service · Klipspruit Valley Rd",
+        "enseigne": "Total Volta",
+        "longitude": "-26.341938",
+        "latitude": "27.855462"
+    },
+    {
+        "activity": "Station-service · 30 Laurie Rd",
+        "enseigne": "Total Sanel Service Station",
+        "longitude": "-26.1163243",
+        "latitude": "28.1689007"
+    },
+    {
+        "activity": "Station-service · 247 Barnett Street",
+        "enseigne": "Total Devon",
+        "longitude": "-26.3618436",
+        "latitude": "28.783717"
+    },
+    {
+        "activity": "Station-service · Shopping Centre, 1033 Saxby Ave",
+        "enseigne": "Total Eldoraigne",
+        "longitude": "-25.8420239",
+        "latitude": "28.161392"
+    },
+    {
+        "activity": "Station-service · Cnr Mbona St &, Makabeni Rd",
+        "enseigne": "Total Khayelitsha",
+        "longitude": "-34.0424479",
+        "latitude": "18.6606325"
+    },
+    {
+        "activity": "Station-service · Cnr Rose Ave &, Flamingo St",
+        "enseigne": "Total Lenasia",
+        "longitude": "-26.3223263",
+        "latitude": "27.8362678"
+    },
+    {
+        "activity": "Station-service · R573",
+        "enseigne": "Total Lucky Sam",
+        "longitude": "-25.3856361",
+        "latitude": "28.8290766"
+    },
+    {
+        "activity": "Station-service · Main St",
+        "enseigne": "Total St Helena Bay",
+        "longitude": "-32.744621",
+        "latitude": "18.007985"
+    },
+    {
+        "activity": "Station-service · Stand 477, Solomon Mahlangu Rd",
+        "enseigne": "Total KwaMhlanga",
+        "longitude": "-25.4292233",
+        "latitude": "28.7130427"
+    },
+    {
+        "activity": "Station-service · N2",
+        "enseigne": "Total Petroport Mossel Bay",
+        "longitude": "-34.1802133",
+        "latitude": "22.0287861"
+    },
+    {
+        "activity": "Station-service · Cnr Nuwe Vlei & Cecilia St",
+        "enseigne": "Total Paarl Mall",
+        "longitude": "-33.7638259",
+        "latitude": "18.9698804"
+    },
+    {
+        "activity": "Station-service · 88 Main St",
+        "enseigne": "Total CP Motors Bizana",
+        "longitude": "-30.861022",
+        "latitude": "29.8524969"
+    },
+    {
+        "activity": "Société gazière · Van Riebeck Road",
+        "enseigne": "Totalgaz - Blackheath Depot",
+        "longitude": "-33.9902954",
+        "latitude": "18.7231178"
+    },
+    {
+        "activity": "Station-service · 127 Van Riebeeck Rd",
+        "enseigne": "Total Kuilsrivier",
+        "longitude": "-33.9407587",
+        "latitude": "18.6893522"
+    },
+    {
+        "activity": "Station-service · R515",
+        "enseigne": "Total Jan Ellis Motors",
+        "longitude": "-25.7930159",
+        "latitude": "28.5178074"
+    },
+    {
+        "activity": "Station-service · Cnr N7 & R44",
+        "enseigne": "Total Petroport Piketberg",
+        "longitude": "-32.9076531",
+        "latitude": "18.7663457"
+    },
+    {
+        "activity": "Station-service · N12",
+        "enseigne": "Total Petroport N12 Witbank (South)",
+        "longitude": "-26.0460122",
+        "latitude": "28.8324661"
+    },
+    {
+        "activity": "Station-service · Tsamaya Ave, Denneboom Station",
+        "enseigne": "Total Ali's Centre",
+        "longitude": "-25.71884",
+        "latitude": "28.3386799"
+    },
+    {
+        "activity": "Station-service · 71 Baron Van Reede St",
+        "enseigne": "Total Swartberg",
+        "longitude": "-33.58654",
+        "latitude": "22.20334"
+    },
+    {
+        "activity": "Station-service · N12",
+        "enseigne": "Total Petroport N12 Witbank (North)",
+        "longitude": "-26.0438705",
+        "latitude": "28.8324216"
+    },
+    {
+        "activity": "Station-service · Kitchener Ave",
+        "enseigne": "Total Darras",
+        "longitude": "-26.191607",
+        "latitude": "28.08762"
+    },
+    {
+        "activity": "Station-service · N3 Heidelberg-Balfour Rd",
+        "enseigne": "Total N3 Star",
+        "longitude": "-26.5617012",
+        "latitude": "28.3919862"
+    },
+    {
+        "activity": "Station-service · Cnr Highlands Dr &, Fulham Rd",
+        "enseigne": "Total Highlands Drive",
+        "longitude": "-34.0317227",
+        "latitude": "18.5838104"
+    },
+    {
+        "activity": "Station-service · 51 Oostewal Rd",
+        "enseigne": "Total Langebaan",
+        "longitude": "-33.0896997",
+        "latitude": "18.0340299"
+    },
+    {
+        "activity": "Station-service · Cnr Robert Broom Dr &, Norden Rd",
+        "enseigne": "Total Rangeview",
+        "longitude": "-26.0925756",
+        "latitude": "27.8264931"
+    },
+    {
+        "activity": "Station-service · Cnr Kellner St &, Parfitt Ave",
+        "enseigne": "Total Westdene",
+        "longitude": "-29.1082784",
+        "latitude": "26.2021386"
+    },
+    {
+        "activity": "Station-service · Bonza Bay Rd, Beacon Bay Retail Park",
+        "enseigne": "Total Beacon Bay",
+        "longitude": "-32.9547067",
+        "latitude": "27.9336122"
+    },
+    {
+        "activity": "Station-service · Cnr Voortrekker &, Pienaar St",
+        "enseigne": "Total Petroport Ventersburg",
+        "longitude": "-28.0879471",
+        "latitude": "27.140763"
+    },
+    {
+        "activity": "Station-service · 144 North Rand Rd",
+        "enseigne": "Total Sizan Service Station",
+        "longitude": "-26.1786293",
+        "latitude": "28.2570011"
+    },
+    {
+        "activity": "Station-service · N2",
+        "enseigne": "Total Petroport Tsitsikama",
+        "longitude": "-33.967522",
+        "latitude": "23.93023"
+    },
+    {
+        "activity": "Station-service · Cnr Asibasabi St & Dr Crossing Centre, Calvin Ngobeni",
+        "enseigne": "Total Namakgale",
+        "longitude": "-23.927488",
+        "latitude": "31.025633"
+    },
+    {
+        "activity": "Station-service · R61",
+        "enseigne": "Total Brite Star Service Station",
+        "longitude": "-31.675705",
+        "latitude": "27.996129"
+    },
+    {
+        "activity": "Station-service · 1 Main St",
+        "enseigne": "Total Steady Service Station",
+        "longitude": "-30.89803",
+        "latitude": "28.98222"
+    },
+    {
+        "activity": "Station-service · 16 Main Rd",
+        "enseigne": "Total Onrus Garage",
+        "longitude": "-34.411146",
+        "latitude": "19.175979"
+    },
+    {
+        "activity": "Station-service · Main St",
+        "enseigne": "Total Mkuze Plaza Service Station",
+        "longitude": "-27.6180871",
+        "latitude": "32.0333401"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Dg. 97 ##17-60",
+        "enseigne": "Total Colombia",
+        "longitude": "4.6840154",
+        "latitude": "-74.0506211"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra 52 ##35-66",
+        "enseigne": "LUBRICANTES TOTAL - EUROTECNICENTRO",
+        "longitude": "6.2372937",
+        "latitude": "-75.5739405"
+    },
+    {
+        "activity": "Service de vidange d'huile · CL 175&nbsp #22-13",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS NORTE",
+        "longitude": "4.7556106",
+        "latitude": "-74.0440438"
+    },
+    {
+        "activity": "Station-service · Cra. 24 #No. 12-50",
+        "enseigne": "Gasolinera - Total gas palo Blanco | Primax",
+        "longitude": "3.9085846",
+        "latitude": "-76.3066304"
+    },
+    {
+        "activity": "Station-service · VJVJ+C9",
+        "enseigne": "EDS Mediacanoa Primax | Total Gas S.A.",
+        "longitude": "3.8935625",
+        "latitude": "-76.3690625"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 41 ##195-08",
+        "enseigne": "LUBRICANTES TOTAL- ZONA NORTE",
+        "longitude": "4.6083371",
+        "latitude": "-74.1169082"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 23 ## 8-31",
+        "enseigne": "LUBRICANTES TOTAL - LLANTAS BETO",
+        "longitude": "4.6050111",
+        "latitude": "-74.09105"
+    },
+    {
+        "activity": "Service de vidange d'huile · carrera 20 B N° 76-79",
+        "enseigne": "LUBRICANTES TOTAL - DACAR",
+        "longitude": "4.6651273",
+        "latitude": "-74.0613008"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 22 ##26a26",
+        "enseigne": "LUBRICANTES TOTAL- KELUILLANTAS",
+        "longitude": "6.1721718",
+        "latitude": "-75.3442594"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 52 ##29 - 29",
+        "enseigne": "LUBRICANTES TOTAL - ARDILLANTAS",
+        "longitude": "4.664124",
+        "latitude": "-74.078757"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 15 ##4A-27",
+        "enseigne": "LUBRICANTES TOTAL- ARDILLANTAS",
+        "longitude": "4.717218",
+        "latitude": "-74.211647"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 44 ##66-07",
+        "enseigne": "LUBRICANTES TOTAL - CASA GRANDE",
+        "longitude": "6.2484339",
+        "latitude": "-75.5843601"
+    },
+    {
+        "activity": "Service de vidange d'huile · Av. 30 de Agosto ##26-72",
+        "enseigne": "LUBRICANTES TOTAL - EDS PEREIRA",
+        "longitude": "4.8105438",
+        "latitude": "-75.701213"
+    },
+    {
+        "activity": "Service de vidange d'huile · Av. 8 Nte. ##20-32",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS CALI",
+        "longitude": "3.4623109",
+        "latitude": "-76.5322127"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 38A Sur #07",
+        "enseigne": "LUBRICANTES TOTAL-INTERLLANTAS VILLA MAYOR",
+        "longitude": "4.592627",
+        "latitude": "-74.124756"
+    },
+    {
+        "activity": "Service de vidange d'huile · CRA 1, AV PANAMERICANA #12-106",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "0.8299206",
+        "latitude": "-77.6360072"
+    },
+    {
+        "activity": "Service de vidange d'huile · AV AMERICAS #27-11",
+        "enseigne": "LUBRICANTES TOTAL- INTERLLANTAS DUITAMA",
+        "longitude": "5.8190582",
+        "latitude": "-73.0352688"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 72 ##56b-5",
+        "enseigne": "LUBRICANTES TOTAL- ITALIANA DE LLANTAS",
+        "longitude": "4.670549",
+        "latitude": "-74.0773297"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 11 ## 12 -58",
+        "enseigne": "LUBRICANTES TOTAL-INPROLLANTAS",
+        "longitude": "5.5265214",
+        "latitude": "-73.3652691"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 16 ## 17 -56",
+        "enseigne": "LUBRICANTES TOTAL - TUNING TIRES",
+        "longitude": "7.1314312",
+        "latitude": "-73.1281266"
+    },
+    {
+        "activity": "Service de vidange d'huile · Av. Centenario#40 #50",
+        "enseigne": "LUBRICANTES TOTAL- TODO EN LLANTAS",
+        "longitude": "5.057653",
+        "latitude": "-75.5280221"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 25A ##28-73",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS",
+        "longitude": "9.3035182",
+        "latitude": "-75.3828548"
+    },
+    {
+        "activity": "Service de vidange d'huile · Dg. 51 ## 35 - 120",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS",
+        "longitude": "6.3384976",
+        "latitude": "-75.5434529"
+    },
+    {
+        "activity": "Service de vidange d'huile · CLLE 15# #18- 41",
+        "enseigne": "LUBRICANTES TOTAL - CALL LLANTAS",
+        "longitude": "3.4403072",
+        "latitude": "-76.5257988"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 20 ## 10-86",
+        "enseigne": "LUBRICANTES TOTAL - MUNDILLANTAS",
+        "longitude": "5.7187793",
+        "latitude": "-72.9361085"
+    },
+    {
+        "activity": "Service de vidange d'huile · CRA 59 A&nbsp ##79-30",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS CALLE 80",
+        "longitude": "4.6837264",
+        "latitude": "-74.0800981"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 56 ##39 112",
+        "enseigne": "LUBRICANTES TOTAL - MAXLLANTAS",
+        "longitude": "6.1441103",
+        "latitude": "-75.3796503"
+    },
+    {
+        "activity": "Service de vidange d'huile · Av. 3 ##0-83",
+        "enseigne": "LUBRICANTES TOTAL - MULTICAUCHOS Y NEUMATICOS",
+        "longitude": "7.8965529",
+        "latitude": "-72.5033772"
+    },
+    {
+        "activity": "Service de vidange d'huile · Av. de las Américas ##77-19",
+        "enseigne": "LUBRICANTES TOTAL - EDS CORALES",
+        "longitude": "4.8058937",
+        "latitude": "-75.7264346"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 2 #22B -60 LOC 5",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "1.2083702",
+        "latitude": "-77.2840028"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Service Station",
+        "longitude": "9.8003426",
+        "latitude": "-74.401109"
+    },
+    {
+        "activity": "Service de vidange d'huile · CRA 9 NRO 6, N 03",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "2.4573219",
+        "latitude": "-76.5948676"
+    },
+    {
+        "activity": "Service de vidange d'huile · CRA 14 NO 16-02 ESQUINA CHAMPAGNAT",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "1.2040533",
+        "latitude": "-77.275525"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 10 ##14 - 71",
+        "enseigne": "LUBRICANTES TOTAL - INTERLLANTAS ÉXITO VICTORIA",
+        "longitude": "4.8117403",
+        "latitude": "-75.6908492"
+    },
+    {
+        "activity": "Service de vidange d'huile · LC LAS PALMAS, Cra. 19 #2 24",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "4.5437376",
+        "latitude": "-75.6663312"
+    },
+    {
+        "activity": "Service de vidange d'huile · PARQUE CAFETERO, CR 15 CL 26 ESQ BRR",
+        "enseigne": "LUBRICANTES TOTAL BATERICARS",
+        "longitude": "4.5313279",
+        "latitude": "-75.6767589"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cra. 9 ## 9 -17",
+        "enseigne": "LUBRICANTES TOTAL - SERVITECA GOMEZ VELASQUEZ",
+        "longitude": "4.7453258",
+        "latitude": "-75.9104694"
+    },
+    {
+        "activity": "Service de vidange d'huile · Cl. 9 ##6-23",
+        "enseigne": "LUBRICANTES TOTAL TRANSPIEDECUESTA",
+        "longitude": "6.985856",
+        "latitude": "-73.0512"
+    },
+    {
+        "activity": "Fabricant · 173/5 อาคาร Asia Centre ชั้น 12 S Sathorn Rd",
+        "enseigne": "Total Oil (Thailand) Co.,LTD.",
+        "longitude": "13.7221141",
+        "latitude": "100.5324658"
+    },
+    {
+        "activity": "Siège social · 3 Moo 2, Asia Industrial Estate",
+        "enseigne": "Total Corbion PLA (Thailand) Ltd.",
+        "longitude": "12.6985245",
+        "latitude": "101.0989149"
+    },
+    {
+        "activity": "Atelier de machines et outils · 16 Nak Niwat 48 Alley, Lane 10",
+        "enseigne": "Total Flow​ Solutions Ltd.",
+        "longitude": "13.8194684",
+        "latitude": "100.612801"
+    },
+    {
+        "activity": "Siège social · 15th floor, Unit 1501-1502, AIA Capital Center, ,Dindaeng,, ถนนรัชดาภิเษก - ซอย รัชดาภิเษก 28",
+        "enseigne": "TOTAL E&P Thailand",
+        "longitude": "13.7647194",
+        "latitude": "100.5681938"
+    },
+    {
+        "activity": "Siège social · A1",
+        "enseigne": "Total Ethiopia Head Office",
+        "longitude": "8.9677654",
+        "latitude": "38.7620659"
+    },
+    {
+        "activity": "Installation de stockage",
+        "enseigne": "TOTAL Ethiopia Goteral Lubricants Store",
+        "longitude": "8.9825412",
+        "latitude": "38.758359"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Ethiopia, ARAT KILO S",
+        "longitude": "9.0305081",
+        "latitude": "38.7626754"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Ayat 1",
+        "enseigne": "Total Ethiopia Ayat 1",
+        "longitude": "9.0156295",
+        "latitude": "38.7692511"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "CENTRAL TOTAL LUBRICANTS",
+        "longitude": "9.0162702",
+        "latitude": "38.7380588"
+    },
+    {
+        "activity": "Fuel supplier",
+        "enseigne": "Total Ethiopia Dukam Fuel Depot",
+        "longitude": "8.8133959",
+        "latitude": "38.897205"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Ethiopia ABATTOIRS",
+        "longitude": "8.9884098",
+        "latitude": "38.7463192"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Ethiopia, YEKA",
+        "longitude": "9.023887",
+        "latitude": "38.7985068"
+    },
+    {
+        "activity": "Station-service · 00251-911754554 Addis Ababa",
+        "enseigne": "TOTAL STADIUM LALIBELA HOTEL SERVICE STATION",
+        "longitude": "9.011625",
+        "latitude": "38.755667"
+    },
+    {
+        "activity": "Centre commercial · Geja Sefer",
+        "enseigne": "CENTRAL TOTAL LUBRICANTS",
+        "longitude": "9.0161733",
+        "latitude": "38.7379711"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 240 4 Ave SW",
+        "enseigne": "Total E&P Canada Ltd",
+        "longitude": "51.0499673",
+        "latitude": "-114.0672171"
+    },
+    {
+        "activity": "Station-service · 3100 114 Ave SE",
+        "enseigne": "Total",
+        "longitude": "50.9509414",
+        "latitude": "-113.9943496"
+    },
+    {
+        "activity": "Safety equipment supplier · 206 Pembina Rd #120",
+        "enseigne": "Total Safety Services Inc.",
+        "longitude": "53.5667014",
+        "latitude": "-113.3105083"
+    },
+    {
+        "activity": "Service de détection d'amiante · 4595 Canada Way #112",
+        "enseigne": "Total Safety Services, Inc.",
+        "longitude": "49.2550333",
+        "latitude": "-122.9962456"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Plot No. A-6, North West Industrial Zone,، Port Qasim Authority",
+        "enseigne": "Total Parco Pakistan Limited- Lube Oil Blending Plant",
+        "longitude": "24.8237017",
+        "latitude": "67.2876207"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Lahore - Sargodha Rd",
+        "enseigne": "Total Parco Terminal T-1",
+        "longitude": "31.7357558",
+        "latitude": "73.8861372"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Total Parco Pakistan Limited",
+        "enseigne": "PARCO Terminal Machike",
+        "longitude": "31.7355506",
+        "latitude": "73.8808303"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Office No.1, 1st Floor City Square Plaza, LMQ Rd",
+        "enseigne": "Total Parco Pakistan Ltd. Lubricants",
+        "longitude": "30.2102007",
+        "latitude": "71.4866883"
+    },
+    {
+        "activity": "Fuel supplier · Accra - Aflao Rd",
+        "enseigne": "Tsopoli Total Filling Station",
+        "longitude": "5.8405508",
+        "latitude": "0.2301359"
+    },
+    {
+        "activity": "Station-service · 50 Bogoso - Tarkwa Rd",
+        "enseigne": "Bogoso Total Service Station",
+        "longitude": "5.569023",
+        "latitude": "-2.0161304"
+    },
+    {
+        "activity": "Station-service · 8.052905, -1.726675",
+        "enseigne": "KINTAMPO TOTAL SERVICE STATION",
+        "longitude": "8.0528367",
+        "latitude": "-1.7267473"
+    },
+    {
+        "activity": "Station-service · Unnamed Road",
+        "enseigne": "Teiman Total Service Station",
+        "longitude": "5.7499954",
+        "latitude": "-0.1834266"
+    },
+    {
+        "activity": "Station-service · Cnr Power St &, Refinery Rd",
+        "enseigne": "Total Auto Power",
+        "longitude": "-26.223108",
+        "latitude": "28.159914"
+    },
+    {
+        "activity": "Station-service · Thulamahashe, Main Rd",
+        "enseigne": "Total Acornbush Motors",
+        "longitude": "-24.5953564",
+        "latitude": "31.062228"
+    },
+    {
+        "activity": "Station-service · 50 Magaliesberg Rd",
+        "enseigne": "Total Elandsrand",
+        "longitude": "-25.6158615",
+        "latitude": "27.8143303"
+    },
+    {
+        "activity": "Station-service · 55 Escom Rd",
+        "enseigne": "Total Pinetown (Temporarily Closed)",
+        "longitude": "-29.8147028",
+        "latitude": "30.8794413"
+    },
+    {
+        "activity": "Station-service · Voortrekker St",
+        "enseigne": "Total Vallei (Temporarily Closed)",
+        "longitude": "-25.1679951",
+        "latitude": "29.3988516"
+    },
+    {
+        "activity": "Station-service · R555",
+        "enseigne": "Total Highway Motors South",
+        "longitude": "-24.7327104",
+        "latitude": "30.2054056"
+    },
+    {
+        "activity": "Station-service · 18 Blackburrow Rd",
+        "enseigne": "Total The Autoworld",
+        "longitude": "-29.623274",
+        "latitude": "30.407083"
+    },
+    {
+        "activity": "Station-service · Main Rd",
+        "enseigne": "Total Ekandustria",
+        "longitude": "-25.6859485",
+        "latitude": "28.7191981"
+    },
+    {
+        "activity": "Station-service · 190 Quagga Rd",
+        "enseigne": "Total Quagga Road Service Station",
+        "longitude": "-25.7622183",
+        "latitude": "28.131798"
+    },
+    {
+        "activity": "Station-service · R101",
+        "enseigne": "Total Merli Motors (Temporarily Closed)",
+        "longitude": "-25.2112547",
+        "latitude": "28.2947558"
+    },
+    {
+        "activity": "Station-service · Main Rd",
+        "enseigne": "Total Dennilton",
+        "longitude": "-25.2575551",
+        "latitude": "29.1433875"
+    },
+    {
+        "activity": "Station-service · 2 Beacon Rd",
+        "enseigne": "Total Kliptown",
+        "longitude": "-26.2794759",
+        "latitude": "27.8895148"
+    },
+    {
+        "activity": "Station-service · N11",
+        "enseigne": "Total Roedtan",
+        "longitude": "-24.6006686",
+        "latitude": "29.0822513"
+    },
+    {
+        "activity": "Station-service · Main Rd",
+        "enseigne": "Total Malamulele Motors",
+        "longitude": "-23.000071",
+        "latitude": "30.691026"
+    },
+    {
+        "activity": "Station-service · 17 Voortrekker St",
+        "enseigne": "Total Lydenburg Toyota",
+        "longitude": "-25.0934722",
+        "latitude": "30.4499288"
+    },
+    {
+        "activity": "Siège social · Runyejes Rd",
+        "enseigne": "Total Kenya Nairobi Lubes Warehouse",
+        "longitude": "-1.3040569",
+        "latitude": "36.8709469"
+    },
+    {
+        "activity": "Station-service · Thika Rd",
+        "enseigne": "Total Survey Service Station",
+        "longitude": "-1.253393",
+        "latitude": "36.857902"
+    },
+    {
+        "activity": "Oil wholesaler · Parklands/Highridge 6 Avenue Parklands Regal Plaza building",
+        "enseigne": "Total Kenya Ltd",
+        "longitude": "-1.257784",
+        "latitude": "36.825667"
+    },
+    {
+        "activity": "Petroleum products company · Regal Plaza building, Limuru Rd",
+        "enseigne": "Total Kenya Customer Care",
+        "longitude": "-1.257651",
+        "latitude": "36.827399"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Kenya limited",
+        "longitude": "-4.034961",
+        "latitude": "39.6511608"
+    },
+    {
+        "activity": "Station-service · Thika Rd",
+        "enseigne": "Total Thika Road Service Station",
+        "longitude": "-1.2299138",
+        "latitude": "36.8784715"
+    },
+    {
+        "activity": "Oil wholesaler · Total Aviation Depot",
+        "enseigne": "Total Kenya Ltd",
+        "longitude": "4.20617",
+        "latitude": "34.341907"
+    },
+    {
+        "activity": "Station-service · Kangundo Rd",
+        "enseigne": "Total Kayole Service Station",
+        "longitude": "-1.277747",
+        "latitude": "36.883018"
+    },
+    {
+        "activity": "Station-service · Gacharage Junction - Gachiraini Stage",
+        "enseigne": "Total Ruaka Service Station",
+        "longitude": "-1.2008892",
+        "latitude": "36.7610128"
+    },
+    {
+        "activity": "Station-service · Mombasa Road",
+        "enseigne": "Total Spaki Service Station",
+        "longitude": "-4.0435077",
+        "latitude": "39.659745"
+    },
+    {
+        "activity": "Station-service · Limuru Rd",
+        "enseigne": "Total Rosslyn Service Station",
+        "longitude": "-1.2106474",
+        "latitude": "36.7894119"
+    },
+    {
+        "activity": "Station-service · Koma Rock Rd",
+        "enseigne": "Total Dandora Service Station",
+        "longitude": "-1.258633",
+        "latitude": "36.892615"
+    },
+    {
+        "activity": "Station-service · Kisii - Kilgoris Rd",
+        "enseigne": "Total Kisii Mashauri Service Station",
+        "longitude": "-0.6794144",
+        "latitude": "34.7737626"
+    },
+    {
+        "activity": "Station-service · Oloo St",
+        "enseigne": "Total Eldoret Service Station",
+        "longitude": "0.5181563",
+        "latitude": "35.2732043"
+    },
+    {
+        "activity": "Station-service · Nyeri - Nanyuki Rd",
+        "enseigne": "Total New Laikipia Road Service Station",
+        "longitude": "0.0153245",
+        "latitude": "37.078403"
+    },
+    {
+        "activity": "Supérette",
+        "enseigne": "Bonjour Total Shop",
+        "longitude": "-0.6866344",
+        "latitude": "35.1156439"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Karatina Service Station",
+        "longitude": "-0.4832804",
+        "latitude": "37.125708"
+    },
+    {
+        "activity": "Station-service · Mai Mahiu",
+        "enseigne": "Mai Mahiu Total Service Station",
+        "longitude": "-0.9827484",
+        "latitude": "36.5856857"
+    },
+    {
+        "activity": "Station-service · Dennis Pritt Rd",
+        "enseigne": "Total Statehouse Service Station",
+        "longitude": "-1.286279",
+        "latitude": "36.796549"
+    },
+    {
+        "activity": "Station-service · B3",
+        "enseigne": "Total",
+        "longitude": "-1.0990335",
+        "latitude": "35.8618425"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL BUKESA SERVICE STATION",
+        "longitude": "0.3205558",
+        "latitude": "32.5629804"
+    },
+    {
+        "activity": "Station-service · Jinja Road",
+        "enseigne": "TOTAL NAKAWA SERVICE STATION",
+        "longitude": "0.3268339",
+        "latitude": "32.6110054"
+    },
+    {
+        "activity": "Station-service · Hoima Rd",
+        "enseigne": "TOTAL NAKULABYE SERVICE STATION",
+        "longitude": "0.32504",
+        "latitude": "32.559918"
+    },
+    {
+        "activity": "Station-service · A109",
+        "enseigne": "Total Magamaga",
+        "longitude": "0.523611",
+        "latitude": "33.372653"
+    },
+    {
+        "activity": "Station-service · 18° 53' 05.75\" S 47° 31' 21.60\" E, Rue Ravoninahitriniarivo",
+        "enseigne": "Station-service Total Fitaratra",
+        "longitude": "-18.884933",
+        "latitude": "47.522667"
+    },
+    {
+        "activity": "Station-service · 18° 56' 41.39\" S 47° 33' 25.52\" E boulevard de Tokyo, by pass",
+        "enseigne": "Station-service Total Kianja",
+        "longitude": "-18.9448333",
+        "latitude": "47.5570889"
+    },
+    {
+        "activity": "Station-service · 18° 50' 38.76\" S 47° 28' 17.04\" E",
+        "enseigne": "Station-service Total Ambohibao",
+        "longitude": "-18.8441",
+        "latitude": "47.4714"
+    },
+    {
+        "activity": "Station-service · 18° 54' 05.75\" S 47° 31' 43.02\" E",
+        "enseigne": "Station-service Total Kininina",
+        "longitude": "-18.9016",
+        "latitude": "47.528617"
+    },
+    {
+        "activity": "Station-service · 18° 53' 31.19\" S 47° 33' 33.11\" E",
+        "enseigne": "Station-service Total Voahirana",
+        "longitude": "-18.892",
+        "latitude": "47.5592"
+    },
+    {
+        "activity": "Station-service · 18° 53' 31.67\" S 47° 29' 30.18\" E",
+        "enseigne": "Station-service Total Digue",
+        "longitude": "-18.892133",
+        "latitude": "47.491717"
+    },
+    {
+        "activity": "Station-service · 18° 52' 25.25\" S 47° 33' 00.83\" E",
+        "enseigne": "Station-service Total Miarintsoa",
+        "longitude": "-18.873683",
+        "latitude": "47.550233"
+    },
+    {
+        "activity": "Station-service · 18° 54' 43.02\" S 47° 31' 04.26\" E, Lalana Ranaivo Jules",
+        "enseigne": "Station-service Total Manja",
+        "longitude": "-18.91195",
+        "latitude": "47.51785"
+    },
+    {
+        "activity": "Station-service · 18° 59' 31.15\" S 47° 31' 56.56\" E ANDOHARANOFOTSY",
+        "enseigne": "Station-service Total Mahery",
+        "longitude": "-18.991988",
+        "latitude": "47.532378"
+    },
+    {
+        "activity": "Station-service · 18° 47' 36.71\" S 47° 25' 33.84\" E AMBOHIDRATRIMO",
+        "enseigne": "Station-service Total Tsaradia",
+        "longitude": "-18.793533",
+        "latitude": "47.426067"
+    },
+    {
+        "activity": "Station-service · 18° 53' 59.93\" S 47° 32' 41.70\" E",
+        "enseigne": "Station-service Total Avaradoha",
+        "longitude": "-18.899983",
+        "latitude": "47.544917"
+    },
+    {
+        "activity": "Station-service · 18° 53' 11.21\" S 47° 30' 38.15\" E",
+        "enseigne": "Station-service Total Volombato",
+        "longitude": "-18.88645",
+        "latitude": "47.5106"
+    },
+    {
+        "activity": "Station-service · 18° 56' 22.80\" S 47° 31' 19.77\" E",
+        "enseigne": "Station-service Total Soanierana",
+        "longitude": "-18.939668",
+        "latitude": "47.522161"
+    },
+    {
+        "activity": "Station-service · 18° 54' 10.86\" S 47° 31' 30.98\" E",
+        "enseigne": "Station-service Total Ampitazanana",
+        "longitude": "-18.9030982",
+        "latitude": "47.5253106"
+    },
+    {
+        "activity": "Station-service · 18° 54' 29.22\" S 47° 32' 05.64\" E",
+        "enseigne": "Station-service Total Tsararivotra",
+        "longitude": "-18.908117",
+        "latitude": "47.5349"
+    },
+    {
+        "activity": "Station-service · 18° 53' 33.78\" S 47° 31' 51.71\" E",
+        "enseigne": "Station-service Total Taxi brousse",
+        "longitude": "-18.892717",
+        "latitude": "47.531033"
+    },
+    {
+        "activity": "Station-service · 19° 10' 15.89\" S 46° 44' 18.64\" E",
+        "enseigne": "Station-service Total Mandrindrano",
+        "longitude": "-19.171083",
+        "latitude": "46.738513"
+    },
+    {
+        "activity": "Station-service · 18° 53' 49.55\" S 47° 31' 06.35\" E, Rue R.P. Muthyion",
+        "enseigne": "Station-service Total Fivoarana",
+        "longitude": "-18.8971",
+        "latitude": "47.518433"
+    },
+    {
+        "activity": "Station-service · 18° 55' 54.97\" S 47° 26' 12.03\" E",
+        "enseigne": "Station-service Total Madera",
+        "longitude": "-18.931937",
+        "latitude": "47.4366755"
+    },
+    {
+        "activity": "Station-service · 18° 58' 51.36\" S 47° 19' 21.78\" E",
+        "enseigne": "Station-service Total Tosika",
+        "longitude": "-18.980936",
+        "latitude": "47.322717"
+    },
+    {
+        "activity": "Station-service · 18° 54' 12.96\" S 47° 31' 02.88\" E",
+        "enseigne": "Station-service Total Balisama",
+        "longitude": "-18.9036",
+        "latitude": "47.517467"
+    },
+    {
+        "activity": "Station-service · 19° 22' 58.27\" S 47° 25' 38.62\" E",
+        "enseigne": "Station-service Total Mimosa",
+        "longitude": "-19.3828528",
+        "latitude": "47.4273972"
+    },
+    {
+        "activity": "Station-service · 18° 54' 23.33\" S 47° 30' 42.59\" E Rue Dr Charles Rabemanajara",
+        "enseigne": "Station-service Total Isoanifanaovana",
+        "longitude": "-18.906483",
+        "latitude": "47.511833"
+    },
+    {
+        "activity": "Station-service · 18° 55' 04.55\" S 47° 32' 19.50\" E",
+        "enseigne": "Station-service Total Fierenana",
+        "longitude": "-18.9178165",
+        "latitude": "47.538794"
+    },
+    {
+        "activity": "Station-service · 18° 58' 13.55\" S 46° 43' 15.20\" E",
+        "enseigne": "Station-service Total Lova",
+        "longitude": "-18.970433",
+        "latitude": "46.720889"
+    },
+    {
+        "activity": "Station-service · 18° 44' 51.78\" S 47° 20' 41.88\" E",
+        "enseigne": "Station-service Total Mahitsy",
+        "longitude": "-18.747717",
+        "latitude": "47.344967"
+    },
+    {
+        "activity": "Station-service · 18° 55' 00.90\" S 47° 32' 08.70\" E",
+        "enseigne": "Station-service Total Santa Anna",
+        "longitude": "-18.916917",
+        "latitude": "47.53575"
+    },
+    {
+        "activity": "Station-service · 10 A",
+        "enseigne": "Total Petrol Pump",
+        "longitude": "31.4955806",
+        "latitude": "74.3131747"
+    },
+    {
+        "activity": "· Multan Rd, Chung, Lahore, Punjab",
+        "enseigne": "Total Atlas Lubricants Pakistan Pvt Ltd",
+        "longitude": "31.4454",
+        "latitude": "74.20012"
+    },
+    {
+        "activity": "Station-service · Factory Area, Sir Syed Town, Faisalabad, Punjab",
+        "enseigne": "Total Atlas Lubricants Pakistan Pvt Ltd",
+        "longitude": "31.4118767",
+        "latitude": "73.0880334"
+    },
+    {
+        "activity": "Siège social · Office # 1-2, Khalid Business Centre (Opposite Expo Centre)",
+        "enseigne": "Lube House - Total Parco Distribution",
+        "longitude": "31.4698218",
+        "latitude": "74.2600736"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Parco",
+        "longitude": "32.1051525",
+        "latitude": "73.8822134"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Parco Petrol Pump And Service Station",
+        "longitude": "33.6595285",
+        "latitude": "73.0528261"
+    },
+    {
+        "activity": "Station-service · Plot# 68 & 69، Samanabad Main Boulevard",
+        "enseigne": "Pakistan Filling Station- Total Petrol Station",
+        "longitude": "31.5434147",
+        "latitude": "74.2967445"
+    },
+    {
+        "activity": "Station-service · Ghotki Bypass",
+        "enseigne": "Murshid Filling Station Ghotki (Total Parco)",
+        "longitude": "27.994406",
+        "latitude": "69.2965296"
+    },
+    {
+        "activity": "Civil engineering company · Benazir Plaza, Jinnah Ave",
+        "enseigne": "Total Engineering (Pvt) Ltd.",
+        "longitude": "33.7129281",
+        "latitude": "73.0630329"
+    },
+    {
+        "activity": "Siège social · Via Rombon, 11",
+        "enseigne": "Total Italia",
+        "longitude": "45.48656",
+        "latitude": "9.2418492"
+    },
+    {
+        "activity": "Station-service · Via Appia Lato Itri",
+        "enseigne": "Total",
+        "longitude": "41.3368729",
+        "latitude": "13.4581447"
+    },
+    {
+        "activity": "Station-service · Via Nazionale Appia",
+        "enseigne": "Total",
+        "longitude": "41.0401",
+        "latitude": "14.2372"
+    },
+    {
+        "activity": "Station-service · SS7",
+        "enseigne": "Total",
+        "longitude": "40.971",
+        "latitude": "14.8404"
+    },
+    {
+        "activity": "Station-service · Via Vigentina",
+        "enseigne": "Total",
+        "longitude": "45.2035",
+        "latitude": "9.1708"
+    },
+    {
+        "activity": "Station-service · Via Per Latiano",
+        "enseigne": "Total",
+        "longitude": "40.5042192",
+        "latitude": "17.6491616"
+    },
+    {
+        "activity": "Station-service · Piazza Roma, 33",
+        "enseigne": "Total",
+        "longitude": "44.8318",
+        "latitude": "9.7299"
+    },
+    {
+        "activity": "Station-service · Via Fuori Porta Roma",
+        "enseigne": "Total",
+        "longitude": "41.1113",
+        "latitude": "14.2028"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Total E&P Italia",
+        "longitude": "40.3525191",
+        "latitude": "16.0827673"
+    },
+    {
+        "activity": "Station-service · Via della Croce, 2",
+        "enseigne": "Total",
+        "longitude": "42.2203182",
+        "latitude": "12.0938515"
+    },
+    {
+        "activity": "",
+        "enseigne": "Total Tempa Rossa TE-1",
+        "longitude": "40.4334337",
+        "latitude": "16.0686999"
+    },
+    {
+        "activity": "Station-service · Via Aldo Moro",
+        "enseigne": "Total",
+        "longitude": "41.5471066",
+        "latitude": "13.5125989"
+    },
+    {
+        "activity": "Magasin de pièces de rechange automobiles · 4 Total House, Churchgate St",
+        "enseigne": "Total Nigeria Plc",
+        "longitude": "6.4291",
+        "latitude": "3.486301"
+    },
+    {
+        "activity": "Siège social · 5 Afribank Street",
+        "enseigne": "Total Nigeria Plc",
+        "longitude": "6.4343463",
+        "latitude": "3.4271465"
+    },
+    {
+        "activity": "Magasin de pièces de rechange automobiles · Mokola Roundabout, Adekunle Fajuyi Way",
+        "enseigne": "Total Nigeria Plc",
+        "longitude": "7.398756",
+        "latitude": "3.888672"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Beside Dankogi Motor Park Along Zuba Express Way, Zuba, Abuja, FCT",
+        "enseigne": "Total Oil Centre",
+        "longitude": "9.0962992",
+        "latitude": "7.218617"
+    },
+    {
+        "activity": "Service de distribution · 270 Trans-Amadi Industrial Layout Rd",
+        "enseigne": "Auburn oil - Authorised Total Lubricant Distributors",
+        "longitude": "4.8062057",
+        "latitude": "7.037234"
+    },
+    {
+        "activity": "Oil store · Opp. Total Depot, Shamrock house, 10 Apapa-Oshodi Express Way",
+        "enseigne": "The Grease Shop",
+        "longitude": "6.5154086",
+        "latitude": "3.3336714"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "9.1170599",
+        "latitude": "7.4544972"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Plot 25, Trans Amadi Industrial Layout, P.M.B 5160",
+        "enseigne": "Total E&P Nigeria Limited",
+        "longitude": "4.817357",
+        "latitude": "7.0295107"
+    },
+    {
+        "activity": "Station-service · Opposite Nnpc Towers, Herbert Macaulay Way",
+        "enseigne": "Total House",
+        "longitude": "9.0533901",
+        "latitude": "7.4842914"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Kaduna Blending Plant",
+        "longitude": "10.4726913",
+        "latitude": "7.4189781"
+    },
+    {
+        "activity": "Station-service · Unicem Plant",
+        "enseigne": "Total Filling Station, Unicem Plant Mfamosing",
+        "longitude": "5.0689381",
+        "latitude": "8.5072825"
+    },
+    {
+        "activity": "Station-service · Bisway St",
+        "enseigne": "Total Gas Station Lekki 1",
+        "longitude": "6.4362108",
+        "latitude": "3.4501849"
+    },
+    {
+        "activity": "Station-service · Akowonjo Street",
+        "enseigne": "Total Petrol Station",
+        "longitude": "6.52915",
+        "latitude": "3.3206865"
+    },
+    {
+        "activity": "Station-service · 151/152 Murtala Muhammed Way",
+        "enseigne": "TOTAL Service Station,MM WAY",
+        "longitude": "6.4904628",
+        "latitude": "3.3796381"
+    },
+    {
+        "activity": "Station-service · Rev. Manii Street",
+        "enseigne": "Total Filling Station",
+        "longitude": "5.8283883",
+        "latitude": "7.3501432"
+    },
+    {
+        "activity": "Service de vidange d'huile",
+        "enseigne": "Total Filling Station",
+        "longitude": "7.2524743",
+        "latitude": "5.1974773"
+    },
+    {
+        "activity": "Station-service · Along Port Harcourt/ Aba Expressway, Rumuobiakani, At Slaughter Round About, Transamadi, Aba Road",
+        "enseigne": "Total Rumuobiakani Service Station",
+        "longitude": "9.0667169",
+        "latitude": "8.6780149"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "9.6689956",
+        "latitude": "6.5122999"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "10.3202339",
+        "latitude": "9.8183911"
+    },
+    {
+        "activity": "Station-service · Ahmadiyya Line",
+        "enseigne": "Total Panisau Service Station",
+        "longitude": "12.0322635",
+        "latitude": "8.5426428"
+    },
+    {
+        "activity": "Usine chimique · Kirikiri Rd",
+        "enseigne": "Total Blending Plant",
+        "longitude": "6.4482582",
+        "latitude": "3.3311414"
+    },
+    {
+        "activity": "Station-service · Industrial Crescent, Off Town Planning Way, By Nestle Foods, Ilupeju",
+        "enseigne": "Total - Ilupeju Service Station",
+        "longitude": "6.5524302",
+        "latitude": "3.3570028"
+    },
+    {
+        "activity": "Station-service · 29-9 Olakunle Ajibade St",
+        "enseigne": "Total Gas Station Alapere 2",
+        "longitude": "6.5873657",
+        "latitude": "3.3862815"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "7.3580167",
+        "latitude": "3.8724205"
+    },
+    {
+        "activity": "Usine chimique · Karimu St",
+        "enseigne": "Total Blending Plant",
+        "longitude": "6.4469254",
+        "latitude": "3.3122227"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "10.4450985",
+        "latitude": "7.4241723"
+    },
+    {
+        "activity": "Station-service · Imamu Rd",
+        "enseigne": "TOTAL Filling Station",
+        "longitude": "11.5447019",
+        "latitude": "7.2940042"
+    },
+    {
+        "activity": "Station-service · 52, St Finbarrs Road, Akoka, Bye Chemist Bus Stop,",
+        "enseigne": "Total Akoka Service Station",
+        "longitude": "6.5282903",
+        "latitude": "3.3868878"
+    },
+    {
+        "activity": "Station-service · 171 Aba/Phc Expressway, Gra Phc, Obioakpor Rivers State, After Nndc Office, Aba Road",
+        "enseigne": "Total GRA Service Station",
+        "longitude": "4.8210417",
+        "latitude": "7.0070933"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "5.5096864",
+        "latitude": "7.4894449"
+    },
+    {
+        "activity": "Station-service · Owerri - Onitsha Express Road,, Opposite UBA,",
+        "enseigne": "Total Ihiala Service Station",
+        "longitude": "5.8542722",
+        "latitude": "6.8596128"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "11.1285373",
+        "latitude": "7.7040375"
+    },
+    {
+        "activity": "Station-service · Lekki",
+        "enseigne": "Total Service Station,Eleko",
+        "longitude": "6.4410423",
+        "latitude": "3.8713282"
+    },
+    {
+        "activity": "Station-service · Adekunle Fajuyi Road, Tantalizer, Mokola Roundabout",
+        "enseigne": "Total - Mokola Service Station",
+        "longitude": "7.400053",
+        "latitude": "3.8900419"
+    },
+    {
+        "activity": "Station-service · Oyeagu Junction Bus Stop",
+        "enseigne": "Total filling station",
+        "longitude": "6.1839618",
+        "latitude": "6.954044"
+    },
+    {
+        "activity": "Station-service · Herbert Macaulay Way",
+        "enseigne": "Total Petrol Station",
+        "longitude": "6.5023309",
+        "latitude": "3.3774755"
+    },
+    {
+        "activity": "Station-service · Mobolaji Johnson Ave",
+        "enseigne": "Total Alausa Service Station",
+        "longitude": "6.6076122",
+        "latitude": "3.369604"
+    },
+    {
+        "activity": "Station-service · Kaduna Bypass Road, By Kaura Motors",
+        "enseigne": "Total - Kaduna Bypass Service Station",
+        "longitude": "9.6321773",
+        "latitude": "8.5034561"
+    },
+    {
+        "activity": "Station-service · Lewis Street, Lagos Island, Near Sura Market",
+        "enseigne": "Total - Lewis Service Station",
+        "longitude": "6.4504842",
+        "latitude": "3.4041617"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total - Filling Station Oregun Lagos",
+        "longitude": "6.6111605",
+        "latitude": "3.3687734"
+    },
+    {
+        "activity": "Station-service · Bauchi Roundabout, Gidan - Mai",
+        "enseigne": "Total - Bauchi Roundabout Service Station",
+        "longitude": "10.3484638",
+        "latitude": "9.8707313"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Station",
+        "longitude": "6.6478477",
+        "latitude": "3.3141055"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Station",
+        "longitude": "6.5588964",
+        "latitude": "3.3640752"
+    },
+    {
+        "activity": "Station-service · Arab Rd",
+        "enseigne": "Total Arab Road Service Station",
+        "longitude": "9.1592871",
+        "latitude": "7.3116864"
+    },
+    {
+        "activity": "Station-service · 50 Old Aba Rd",
+        "enseigne": "Total Filling Station",
+        "longitude": "4.8451025",
+        "latitude": "7.0412032"
+    },
+    {
+        "activity": "Station-service · OFF RAILWAY STATION BODIJA, BODIJA OJURIN, IBADAN, BY GLORY TERBANACLE",
+        "enseigne": "Total Bodija Service Station",
+        "longitude": "7.4311002",
+        "latitude": "3.9126037"
+    },
+    {
+        "activity": "Station-service · 195 Ikorodu Rd Service Ln",
+        "enseigne": "Total Station",
+        "longitude": "6.5398167",
+        "latitude": "3.3668821"
+    },
+    {
+        "activity": "Station-service · Kaduna Road, After Kontagora Junction",
+        "enseigne": "Total Tegina Service Station",
+        "longitude": "10.0805006",
+        "latitude": "6.1752377"
+    },
+    {
+        "activity": "Station-service · 20 Airport Road, Rumuodomaya, Close To Obioakpor LGA Headquarters",
+        "enseigne": "Total Airport Road 1 Phc.",
+        "longitude": "4.9054239",
+        "latitude": "7.0001741"
+    },
+    {
+        "activity": "Fabricant · Airport Road Abuja, NNPC Mega Station after total Filing Station, Kaduna-Kano Rd",
+        "enseigne": "Lampex Global Resources Ltd",
+        "longitude": "8.9449941",
+        "latitude": "7.2872218"
+    },
+    {
+        "activity": "Station-service · Jericho Rd. Ibadan, Along Eleyele-Sango Rd, CLOSE TO FAN MILK PLC",
+        "enseigne": "Total Eleyele II Service Station",
+        "longitude": "7.4245115",
+        "latitude": "3.8824237"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station, Akure-Owo Road",
+        "longitude": "7.2814914",
+        "latitude": "5.2219524"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Station",
+        "longitude": "9.0970395",
+        "latitude": "7.2183008"
+    },
+    {
+        "activity": "Station-service · Douglas Road by Owerri central market",
+        "enseigne": "TOTAL OWERRI CENTRE SERVICE STATION",
+        "longitude": "5.48464",
+        "latitude": "7.03167"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station Bauchi",
+        "longitude": "10.2762014",
+        "latitude": "9.7955716"
+    },
+    {
+        "activity": "Station-service · Zuba - Kubwa Expressway, Opposite Urban Shelter,",
+        "enseigne": "Total Dankat Service Station",
+        "longitude": "9.1502844",
+        "latitude": "7.3308099"
+    },
+    {
+        "activity": "Station-service · Kuje Town,",
+        "enseigne": "Total Kuje Service Station",
+        "longitude": "8.879172",
+        "latitude": "7.239659"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Filling Station",
+        "longitude": "6.3158884",
+        "latitude": "8.1186472"
+    },
+    {
+        "activity": "Station-service · Port Harcourt - Aba Expy, off Chief Aguma St",
+        "enseigne": "Total Filling Station With Bonjour Store",
+        "longitude": "4.8035833",
+        "latitude": "7.0082534"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 1st Main Rd",
+        "enseigne": "Total Lubricants India Limited",
+        "longitude": "13.0477246",
+        "latitude": "77.6442077"
+    },
+    {
+        "activity": "Entreprise · 301/302, Scheme No 54, Vijay Nagar, Vijay Nagar",
+        "enseigne": "Total Lubricants India",
+        "longitude": "22.7585381",
+        "latitude": "75.8912118"
+    },
+    {
+        "activity": "Siège social · 3rd Floor, The Leela Galleria, Opposite Airport Road Metro Station",
+        "enseigne": "Total Oil India Pvt Ltd.",
+        "longitude": "19.1095465",
+        "latitude": "72.8745836"
+    },
+    {
+        "activity": "Chemical manufacturer",
+        "enseigne": "TOTAL OIL INDIA PRIVATE LIMITED",
+        "longitude": "19.1095047",
+        "latitude": "73.0215244"
+    },
+    {
+        "activity": "Oil store · Gurukul Rd",
+        "enseigne": "Total Oil India Limited",
+        "longitude": "28.4752345",
+        "latitude": "77.2974484"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Oil (Lubricants) India PVT. LTD.",
+        "longitude": "25.5985182",
+        "latitude": "85.192145"
+    },
+    {
+        "activity": "Automobile · 10/1 B, Taas Mahal 1st Floor, Montieth Road Egmore Chennai, 600008",
+        "enseigne": "Total Lubricants India Ltd",
+        "longitude": "13.0684098",
+        "latitude": "80.2583082"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "TOTAL OIL INDIA PVT LTD",
+        "longitude": "25.9265773",
+        "latitude": "73.105967"
+    },
+    {
+        "activity": "Siège social · Supreme Headquarters, 4th floor - 406",
+        "enseigne": "Total Oil India Pvt. Ltd. - Pune",
+        "longitude": "18.5538155",
+        "latitude": "73.7710942"
+    },
+    {
+        "activity": "Energy supplier · #135, Total Oil India Pvt Ltd, Yelechegere Village, Nelamangala Taluk",
+        "enseigne": "Total Oil India Pvt Ltd (LPG Bottling Plant)",
+        "longitude": "13.1002518",
+        "latitude": "77.3593363"
+    },
+    {
+        "activity": "Siège social · #138, Ground and First Floor, Raheja Paramount, Residency Rd",
+        "enseigne": "Total Oil India Private Limited",
+        "longitude": "12.9653587",
+        "latitude": "77.5976856"
+    },
+    {
+        "activity": "Station-service · Ungerath 301",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2084022",
+        "latitude": "6.2806526"
+    },
+    {
+        "activity": "Station-service · Carl-Benz-Straße 3",
+        "enseigne": "TOTAL Truckstop",
+        "longitude": "50.8582084",
+        "latitude": "9.7228585"
+    },
+    {
+        "activity": "Station-service · Walter-Althoff-Str 2",
+        "enseigne": "TOTAL Truckstop",
+        "longitude": "52.0015378",
+        "latitude": "10.1449863"
+    },
+    {
+        "activity": "Station-service · Magdeburger Str. 39-45",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9424353",
+        "latitude": "10.7006694"
+    },
+    {
+        "activity": "Station-service · Homberger Str. 5",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.1247121",
+        "latitude": "10.5817294"
+    },
+    {
+        "activity": "Station-service · Walldorfer Str. 59",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.5835936",
+        "latitude": "10.3387065"
+    },
+    {
+        "activity": "Station-service · A4 1 BAB Suedseite",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.948016",
+        "latitude": "11.1934052"
+    },
+    {
+        "activity": "Station-service · Westerhäuser Str. 38",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.7928279",
+        "latitude": "11.1282664"
+    },
+    {
+        "activity": "Station-service · Edinger Riedweg 8-12",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "49.4218794",
+        "latitude": "8.5339349"
+    },
+    {
+        "activity": "Station-service · Erfurter Str. 60",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.6913129",
+        "latitude": "10.9048879"
+    },
+    {
+        "activity": "Station-service · Wolfhager Str. 276",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.3313639",
+        "latitude": "9.4556937"
+    },
+    {
+        "activity": "Station-service · Werrastraße 1",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.5595397",
+        "latitude": "10.4130658"
+    },
+    {
+        "activity": "Station-service · Nordhäuser Str. 9",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.4474169",
+        "latitude": "10.5841816"
+    },
+    {
+        "activity": "Station-service · Borscher Str. 21",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.7229516",
+        "latitude": "9.9586667"
+    },
+    {
+        "activity": "Station-service · Ascherslebener Str. 60",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.6571055",
+        "latitude": "11.4950623"
+    },
+    {
+        "activity": "Station-service · Augsburger Str. 2",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.0024144",
+        "latitude": "11.0024079"
+    },
+    {
+        "activity": "Station-service · Göckingstraße 29b",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.5798265",
+        "latitude": "10.6770712"
+    },
+    {
+        "activity": "Station-service · Nordhäuser Str. 19",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.6890106",
+        "latitude": "10.8448078"
+    },
+    {
+        "activity": "Station-service · Naumburger Str. 1",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.1389928",
+        "latitude": "11.7300242"
+    },
+    {
+        "activity": "Station-service · Osterlange 1",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2084022",
+        "latitude": "6.2806526"
+    },
+    {
+        "activity": "Station-service · Acheringer Hauptstraße 20",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "48.3445891",
+        "latitude": "11.7095741"
+    },
+    {
+        "activity": "Station-service · Schützenstraße 1a",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.588417",
+        "latitude": "10.7193939"
+    },
+    {
+        "activity": "Station-service · Braunschweiger Str. 36a",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9424353",
+        "latitude": "10.7006694"
+    },
+    {
+        "activity": "Station-service · Rhoenhof 5",
+        "enseigne": "TOTAL Autohof",
+        "longitude": "50.4884294",
+        "latitude": "9.7080118"
+    },
+    {
+        "activity": "Station-service · Halberstädter Str. 87",
+        "enseigne": "TOTAL Truckstop",
+        "longitude": "51.8089462",
+        "latitude": "11.12859"
+    },
+    {
+        "activity": "Station-service · Nordring 4",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.4631157",
+        "latitude": "11.0556887"
+    },
+    {
+        "activity": "Station-service · Nürnberger Str. 67",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9907886",
+        "latitude": "9.7757617"
+    },
+    {
+        "activity": "Station-service · Am Anger",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.8379017",
+        "latitude": "10.7948184"
+    },
+    {
+        "activity": "Station-service · Dingelstädter Str. 33",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.3753199",
+        "latitude": "10.1482796"
+    },
+    {
+        "activity": "Station-service · Erfurter Landstraße 49",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.0462089",
+        "latitude": "11.042218"
+    },
+    {
+        "activity": "Station-service · A4 1",
+        "enseigne": "TOTAL",
+        "longitude": "50.949884",
+        "latitude": "11.1973866"
+    },
+    {
+        "activity": "Station-service · An der, B62 2",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.825981",
+        "latitude": "10.1596805"
+    },
+    {
+        "activity": "Station-service · Ilmenauer Str. 2",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.7677174",
+        "latitude": "11.0649378"
+    },
+    {
+        "activity": "Station-service · Osterwalder Str. 63",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "52.4435878",
+        "latitude": "9.6086409"
+    },
+    {
+        "activity": "Station-service · Zur Thüringer Pforte 10",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2998007",
+        "latitude": "11.2019318"
+    },
+    {
+        "activity": "Station-service · Lauenförder Str. 3",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.6264568",
+        "latitude": "9.9343684"
+    },
+    {
+        "activity": "Station-service · Göschwitzer Str. 1",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.8980254",
+        "latitude": "11.5933423"
+    },
+    {
+        "activity": "Station-service · Am Urbicher Kreuz 34",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9492473",
+        "latitude": "11.0935843"
+    },
+    {
+        "activity": "Station-service · Binderslebener Landstraße 98",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9724096",
+        "latitude": "10.9728234"
+    },
+    {
+        "activity": "Station-service · Mittelhäuser Str. 69",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2084022",
+        "latitude": "6.2806526"
+    },
+    {
+        "activity": "Station-service · Arnstädter Str. 36",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "48.3445891",
+        "latitude": "11.7095741"
+    },
+    {
+        "activity": "Station-service · Grenzhammer 4",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.588417",
+        "latitude": "10.7193939"
+    },
+    {
+        "activity": "Station-service · Rudolstädter Str. 13",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9424353",
+        "latitude": "10.7006694"
+    },
+    {
+        "activity": "Station-service · Poststraße 12",
+        "enseigne": "Total gas station Oberhof",
+        "longitude": "50.7050489",
+        "latitude": "10.731459"
+    },
+    {
+        "activity": "Station-service · Hünfelder Str. 4",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.8242934",
+        "latitude": "9.7323076"
+    },
+    {
+        "activity": "Station-service · Schlachthofstraße 14",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9861671",
+        "latitude": "11.0380129"
+    },
+    {
+        "activity": "Station-service · Tonnaer Str. 28",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.1043201",
+        "latitude": "10.6642437"
+    },
+    {
+        "activity": "Station-service · 162/34A, Tran Quang Dieu Street, An Thoi Ward, Binh Thuy District, Can Tho City",
+        "enseigne": "Total Vietnam Lubricants Co., Ltd",
+        "longitude": "10.0587215",
+        "latitude": "105.7646201"
+    },
+    {
+        "activity": "Fabricant · 2 Ngô Quyền",
+        "enseigne": "Total Lubricants Vietnam Co.",
+        "longitude": "20.8730576",
+        "latitude": "106.7024159"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Đường Số 6",
+        "enseigne": "Total Vietnam Co. Ltd.",
+        "longitude": "10.6591598",
+        "latitude": "107.0260965"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Lầu 16, Sailing Tower, 111A Pasteur, Quận 1",
+        "enseigne": "Total Vietnam",
+        "longitude": "10.7802992",
+        "latitude": "106.6954104"
+    },
+    {
+        "activity": "Agence de location de bureaux · Menara FIF, Lt. 15, Jl. TB Simatupang, RT.4/RW.1",
+        "enseigne": "PT. Total Oil Indonesia",
+        "longitude": "-6.2926466",
+        "latitude": "106.7831993"
+    },
+    {
+        "activity": "· SPBU Marchelia, Jalan Laksamana Bintan No. 08 (Total Lubricants Samping",
+        "enseigne": "Total Lubricants (PT Tommindo Luna Perkasa)",
+        "longitude": "1.1228861",
+        "latitude": "104.0325948"
+    },
+    {
+        "activity": "· Jl. Pengasinan, RT.002/RW.002",
+        "enseigne": "Total Lubricants",
+        "longitude": "-6.2713131",
+        "latitude": "107.0068557"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Jl. Jend Sudirman Kav 1 Karet Tengsin Tanah Abang Jakarta Pusat DKI Jakarta, RT.10/RW.11",
+        "enseigne": "Total Oil Indonesia",
+        "longitude": "-6.2035093",
+        "latitude": "106.8210125"
+    },
+    {
+        "activity": "· Pergudangan Parangloe Blok C3/18 Biringkanaya",
+        "enseigne": "PT. Nabel Sakha Gemilang Makassar (Distributor Resmi Total Oil)",
+        "longitude": "-5.0897876",
+        "latitude": "119.4585565"
+    },
+    {
+        "activity": "Siège social · Jl. Kima Raya II",
+        "enseigne": "PT Nabel Sakha Makassar (Distributor Resmi Total Oil di Makassar)",
+        "longitude": "-5.1019477",
+        "latitude": "119.5094726"
+    },
+    {
+        "activity": "Siège social · Kawasan Industri SIRIE Blok E-05",
+        "enseigne": "PT Nabel Sakha Surabaya Distributor Resmi Total Oil JATIM",
+        "longitude": "-7.4599373",
+        "latitude": "112.7365342"
+    },
+    {
+        "activity": "Siège social · Komplek Pergudangan Volvo Penta. Blok D No. 1 Jln. Raya Bitung, Maumbi Minahasa Utara, SULUT",
+        "enseigne": "PT Nabel Sakha Gemilang Manado (Distributor Oli - Distributor Resmi Total Oil Manado)",
+        "longitude": "1.4798069",
+        "latitude": "124.9055698"
+    },
+    {
+        "activity": "Siège social · Rua Fidêncio Ramos, 302, 3º Andar, Torre B",
+        "enseigne": "Total Brasil",
+        "longitude": "-23.5946918",
+        "latitude": "-46.6860024"
+    },
+    {
+        "activity": "Empresa de Lubrificante · Avenida Tobias Salgado, 45 - Pólo Industrial de Pindamonhangaba",
+        "enseigne": "Total Lubricants in Brazil",
+        "longitude": "-22.9767619",
+        "latitude": "-45.4625747"
+    },
+    {
+        "activity": "Siège social · Av. República do Chile, 500",
+        "enseigne": "Total E & P do Brasil",
+        "longitude": "-22.9095039",
+        "latitude": "-43.1825781"
+    },
+    {
+        "activity": "Station-service · Av. Aurora Forti Neves, 499 - Q 16 LT",
+        "enseigne": "Posto Total Puttini",
+        "longitude": "-20.730167",
+        "latitude": "-48.914056"
+    },
+    {
+        "activity": "Station-service · Avenida Niterói - s/n s/n Qd 4 lt R 1",
+        "enseigne": "Station-service Total",
+        "longitude": "-16.7088406",
+        "latitude": "-49.0918919"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total",
+        "longitude": "-16.9542666",
+        "latitude": "-50.4390249"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total",
+        "longitude": "-17.0470824",
+        "latitude": "-50.1381327"
+    },
+    {
+        "activity": "Station-service · GO-326",
+        "enseigne": "Total",
+        "longitude": "-16.1974646",
+        "latitude": "-50.3264863"
+    },
+    {
+        "activity": "Station-service · R. Vinte e Seis de Julho, 442",
+        "enseigne": "Total",
+        "longitude": "-8.9730862",
+        "latitude": "-48.1743628"
+    },
+    {
+        "activity": "Siège social · Calle de la Ribera del Loira, 46, Planta 3",
+        "enseigne": "TOTAL España",
+        "longitude": "40.4617283",
+        "latitude": "-3.6213053"
+    },
+    {
+        "activity": "Station-service · Paseo de la Dirección, 24",
+        "enseigne": "Total",
+        "longitude": "40.4587261",
+        "latitude": "-3.7086564"
+    },
+    {
+        "activity": "Atelier de mécanique automobile · Pog Puerto Lumbreras-Parc5-6- Fase",
+        "enseigne": "Total Rapid Oil Change Beycris",
+        "longitude": "37.561521",
+        "latitude": "-1.810588"
+    },
+    {
+        "activity": "Station-service · Calle Verano, 39",
+        "enseigne": "Total",
+        "longitude": "40.4447032",
+        "latitude": "-3.4857004"
+    },
+    {
+        "activity": "Atelier de réparation automobile · Calle Gremio de los Canteros, 17 - Polg. Ind. de Hontoria",
+        "enseigne": "Total Rapid Oil Change AUTOTEC",
+        "longitude": "40.9055933",
+        "latitude": "-4.1125796"
+    },
+    {
+        "activity": "Fabricant · Plaza-Industrial Aldea, 6",
+        "enseigne": "Quiva (Total España)",
+        "longitude": "43.2472177",
+        "latitude": "-2.3934003"
+    },
+    {
+        "activity": "Atelier de réparation automobile · Pol.Ind. La Mata, Ctra. Miraflores-Guadalix Km. 4.800",
+        "enseigne": "Motor Campos Total Rapid Oil Change",
+        "longitude": "40.7985396",
+        "latitude": "-3.754326"
+    },
+    {
+        "activity": "Atelier de réparation automobile · Calle Merkatondoa, 18",
+        "enseigne": "TOTAL Rapid Oil Change | Conica Motor",
+        "longitude": "42.6613056",
+        "latitude": "-2.0307468"
+    },
+    {
+        "activity": "Atelier de mécanique automobile · Av. Andalucía, KM 93, 3",
+        "enseigne": "TOTAL RAPID OIL CHANGE TALLERES PICHON",
+        "longitude": "39.69118",
+        "latitude": "-3.50139"
+    },
+    {
+        "activity": "Siège social · 7th floor, 11th Corporate Center, 11th Avenue, corner Triangle Dr",
+        "enseigne": "Total (Philippines) Corporation",
+        "longitude": "14.5599005",
+        "latitude": "121.0566769"
+    },
+    {
+        "activity": "Station-service · Pan-Philippine Hwy",
+        "enseigne": "Total (Candelaria)",
+        "longitude": "13.9348232",
+        "latitude": "121.3933294"
+    },
+    {
+        "activity": "Station-service · Pan-Philippine Hwy cor. Tiaong By Pass Rd.",
+        "enseigne": "Total (Tiaong)",
+        "longitude": "13.974293",
+        "latitude": "121.324372"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · 183 Eversholt St",
+        "enseigne": "Total",
+        "longitude": "51.5315878",
+        "latitude": "-0.1357281"
+    },
+    {
+        "activity": "Fabricant · Pottery Ln",
+        "enseigne": "Total Lubricants Ltd",
+        "longitude": "53.7105229",
+        "latitude": "-1.2623574"
+    },
+    {
+        "activity": "Station-service · Boulevard Robert Schuman",
+        "enseigne": "TOTAL ACCESS",
+        "longitude": "50.6511619",
+        "latitude": "3.0623546"
+    },
+    {
+        "activity": "Station-service · Aswan Western Agricultural Rd",
+        "enseigne": "Total Egypt",
+        "longitude": "27.5607113",
+        "latitude": "30.8157112"
+    },
+    {
+        "activity": "Station-service · horreya road -dalga -markz deer mwas",
+        "enseigne": "Total Gas Station - توتال دلجا‭",
+        "longitude": "27.6419",
+        "latitude": "30.703"
+    },
+    {
+        "activity": "Station-service · Aswan Western Agricultural Rd",
+        "enseigne": "Total Gas Station - توتال أسيوط‭",
+        "longitude": "27.179461",
+        "latitude": "31.1867439"
+    },
+    {
+        "activity": "Bureau de topographie · Building No.8,Tiba Maadi Buildings, Zahraa Maadi in front of Carrefour",
+        "enseigne": "Total Surveying Office",
+        "longitude": "29.978594",
+        "latitude": "31.3203017"
+    },
+    {
+        "activity": "Station-service · Mohammed Sabry Mbdy",
+        "enseigne": "Total Services",
+        "longitude": "30.6182385",
+        "latitude": "32.2880284"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Via Livornese Ovest, 81",
+        "enseigne": "TotalErg",
+        "longitude": "43.6035",
+        "latitude": "10.5704"
+    },
+    {
+        "activity": "Raffinerie de pétrole · Corso Caduti In Guerra 23",
+        "enseigne": "TotalErg",
+        "longitude": "44.2724",
+        "latitude": "7.3962"
+    },
+    {
+        "activity": "Station-service · Via Pratica di Mare",
+        "enseigne": "Total",
+        "longitude": "41.6080866",
+        "latitude": "12.5014973"
+    },
+    {
+        "activity": "Station-service · Via Casilina",
+        "enseigne": "Total",
+        "longitude": "41.5626",
+        "latitude": "13.6061"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel",
+        "enseigne": "Total Austria GmbH",
+        "adresse": " Modecenterstraße 17,  1110 Wien,  Autriche",
+        "longitude": "16.4138366",
+        "latitude": "48.1837376"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL ACCESS",
+        "adresse": " 91 Rue du Faubourg de Béthune,  59000 Lille",
+        "longitude": "3.0245945",
+        "latitude": "50.6169121"
+    },
+    {
+        "activity": "Station-service · 69, bd de la paix, B.P 312",
+        "enseigne": "DIRECTION TOTAL TOGO",
+        "longitude": "6.1629236",
+        "latitude": "1.244558"
+    },
+    {
+        "activity": "Station-service · Sogbossito",
+        "enseigne": "TOTAL SOGBOSSITO",
+        "longitude": "6.2507633",
+        "latitude": "1.1772026"
+    },
+    {
+        "activity": "Station-service · Avenue Pya, Totsi",
+        "enseigne": "TOTAL TOTSI",
+        "longitude": "6.1955654",
+        "latitude": "1.1893029"
+    },
+    {
+        "activity": "Station-service · Avenue de la Chance, GTA",
+        "enseigne": "TOTAL LOME II",
+        "longitude": "6.1919659",
+        "latitude": "1.2090718"
+    },
+    {
+        "activity": "Station-service · Nationale N2, Eglise Catholique, Kpogan",
+        "enseigne": "TOTAL ATLANTIQUE",
+        "longitude": "6.1802326",
+        "latitude": "1.3858667"
+    },
+    {
+        "activity": "Station-service · Avenue du R.P.T., Akossombo",
+        "enseigne": "TOTAL AKOSSOMBO",
+        "longitude": "6.1658477",
+        "latitude": "1.2024644"
+    },
+    {
+        "activity": "Station-service · Hédzranawoé, Boulevard du Haho",
+        "enseigne": "TOTAL HEDZRANAWOE",
+        "longitude": "6.1884485",
+        "latitude": "1.2429702"
+    },
+    {
+        "activity": "Station-service · 08 BP 8040",
+        "enseigne": "Total Lubrifiant-Amadahome",
+        "longitude": "6.205511",
+        "latitude": "1.14662"
+    },
+    {
+        "activity": "Station-service · Route principale, Sortie",
+        "enseigne": "TOTAL KAMBOLI",
+        "longitude": "8.7476733",
+        "latitude": "1.5931192"
+    },
+    {
+        "activity": "Station-service · Agoè Zongo, Nationale N1, Golf Club",
+        "enseigne": "TOTAL AGOE ZONGO",
+        "longitude": "6.250267",
+        "latitude": "1.2087214"
+    },
+    {
+        "activity": "Station-service · Avenue de la Libération, Fréau Jardin",
+        "enseigne": "TOTAL FREAU JARDIN",
+        "longitude": "6.1321609",
+        "latitude": "1.2236973"
+    },
+    {
+        "activity": "Station-service · Agoè Assiyéyé",
+        "enseigne": "TOTAL AGOE ASSIYEYE",
+        "longitude": "6.2345465",
+        "latitude": "1.1952943"
+    },
+    {
+        "activity": "Station-service · Autopista Duarte Km 22",
+        "enseigne": "Total Duarte",
+        "longitude": "18.551251",
+        "latitude": "-70.054004"
+    },
+    {
+        "activity": "Station-service · Calle Duarte # 22",
+        "enseigne": "Fuel Station TOTAL Alcarrizos",
+        "longitude": "18.5215979",
+        "latitude": "-70.0118203"
+    },
+    {
+        "activity": "Station-service · Aut. Duarte km 24",
+        "enseigne": "Total Pedregal",
+        "longitude": "18.562161",
+        "latitude": "-70.065853"
+    },
+    {
+        "activity": "Station-service · Carr. la Isabela",
+        "enseigne": "Total Pantoja",
+        "longitude": "18.5259483",
+        "latitude": "-69.9998165"
+    },
+    {
+        "activity": "Station-service · Unnamed Road",
+        "enseigne": "Total",
+        "longitude": "-29.3398661",
+        "latitude": "28.4997539"
+    },
+    {
+        "activity": "Station-service · 161 Bloem St",
+        "enseigne": "Total A F G Motors (Temporarily Closed)",
+        "longitude": "-28.8814233",
+        "latitude": "27.8862813"
+    },
+    {
+        "activity": "Station-service · Grenzhöfer Weg 35",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2163027",
+        "latitude": "10.4635852"
+    },
+    {
+        "activity": "Station-service · Magdeburger Str. 39-45",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.1247121",
+        "latitude": "10.5817294"
+    },
+    {
+        "activity": "Station-service · Homberger Str. 5",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.8397361",
+        "latitude": "10.955938"
+    },
+    {
+        "activity": "Station-service · Osterlange 1",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.048168",
+        "latitude": "10.9420751"
+    },
+    {
+        "activity": "Station-service · Tunibergstraße 2",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "47.9536742",
+        "latitude": "7.6697724"
+    },
+    {
+        "activity": "Station-service · Braunschweiger Str. 36a",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2163027",
+        "latitude": "10.4635852"
+    },
+    {
+        "activity": "Station-service · Nordring 4",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.8397361",
+        "latitude": "10.955938"
+    },
+    {
+        "activity": "Station-service · Kemnader Str. 315",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.4286212",
+        "latitude": "7.2424399"
+    },
+    {
+        "activity": "Station-service · Landsberger Allee 526",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "52.5449992",
+        "latitude": "13.5689012"
+    },
+    {
+        "activity": "Station-service · Böblinger Str. 6",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "48.6388181",
+        "latitude": "8.9102888"
+    },
+    {
+        "activity": "Station-service · Griedeler Str. 72",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.4365283",
+        "latitude": "8.68148"
+    },
+    {
+        "activity": "Station-service · Am Urbicher Kreuz 34",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "47.9536742",
+        "latitude": "7.6697724"
+    },
+    {
+        "activity": "Station-service · Binderslebener Landstraße 98",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2163027",
+        "latitude": "10.4635852"
+    },
+    {
+        "activity": "Station-service · Mittelhäuser Str. 69",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.588417",
+        "latitude": "10.7193939"
+    },
+    {
+        "activity": "Station-service · Arnstädter Str. 36",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.96287",
+        "latitude": "11.03339"
+    },
+    {
+        "activity": "Station-service · Rudolstädter Str. 13",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.8397361",
+        "latitude": "10.955938"
+    },
+    {
+        "activity": "Station-service · Grenzhammer 4",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.6786856",
+        "latitude": "10.9358171"
+    },
+    {
+        "activity": "Station-service · Großbeerenstraße 137",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "52.3855174",
+        "latitude": "13.1096279"
+    },
+    {
+        "activity": "Station-service · Saalfelder Straße 90 98724 Neuhaus am Rennweg",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.525278",
+        "latitude": "11.2236299"
+    },
+    {
+        "activity": "Station-service · Apfelweg 2",
+        "enseigne": "Total-Tankstelle",
+        "longitude": "51.8732778",
+        "latitude": "10.6922144"
+    },
+    {
+        "activity": "Station-service · August-Bebel-Straße 31",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.9320131",
+        "latitude": "11.5720642"
+    },
+    {
+        "activity": "Station-service · Bundesstraße 80",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.47942",
+        "latitude": "11.7841093"
+    },
+    {
+        "activity": "Station-service · Sonneberger Str. 86",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.422213",
+        "latitude": "11.1660307"
+    },
+    {
+        "activity": "Station-service · B102 2",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "52.5250884",
+        "latitude": "12.3580924"
+    },
+    {
+        "activity": "Station-service · Esbaum 2",
+        "enseigne": "Total",
+        "longitude": "47.7639845",
+        "latitude": "12.1975092"
+    },
+    {
+        "activity": "Station-service · Haupstraße 121",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.5043601",
+        "latitude": "10.8337018"
+    },
+    {
+        "activity": "Station-service · Coburger Str. 42",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "50.3408451",
+        "latitude": "10.7840352"
+    },
+    {
+        "activity": "Station-service · Römerstraße 16",
+        "enseigne": "TOTAL Tankstelle",
+        "longitude": "51.2163027",
+        "latitude": "10.4635852"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL",
+        "adresse": " 112 Rue de la Bassée,  59000 Lille",
+        "longitude": "3.0356136",
+        "latitude": "50.6258304"
+    },
+    {
+        "activity": "Siège social · Rue de l'Industrie 52",
+        "enseigne": "Total Petrochemicals & Refining",
+        "longitude": "50.8446382",
+        "latitude": "4.3704706"
+    },
+    {
+        "activity": "Société pétrolière et de gaz naturel · Chaussée de",
+        "enseigne": "Total Petrochemicals Feluy",
+        "longitude": "50.5508825",
+        "latitude": "4.2255777"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL ACCESS",
+        "adresse": " 2 Rue de Turenne,  59000 Lille",
+        "longitude": "3.0355829",
+        "latitude": "50.6296283"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "TOTAL Lubricants Taiwan",
+        "adresse": " No. 178,  Section 3,  Minquan East Road,  Songshan District,  Taipei City,  Taïwan 105",
+        "longitude": "121.5494527",
+        "latitude": "25.061374"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total Cambodge",
+        "adresse": " No 240 Street 271,  Phnom Penh,  Cambodge",
+        "longitude": "104.8870726",
+        "latitude": "11.5508658"
+    },
+    {
+        "activity": "Station-service · 36 - 40 Manchester Avenue",
+        "enseigne": "Total Manchester Avenue - May Pen",
+        "longitude": "17.973503",
+        "latitude": "-77.251358"
+    },
+    {
+        "activity": "Station-service · Old Harbour Roundabout",
+        "enseigne": "Total A1 Motorway",
+        "longitude": "17.9947465",
+        "latitude": "-76.9671497"
+    },
+    {
+        "activity": "Station-service · 57 ½ Waltham Park Rd",
+        "enseigne": "Total Waltham Park",
+        "longitude": "18.002556",
+        "latitude": "-76.81836"
+    },
+    {
+        "activity": "Station-service · Greenvale Main Road, Winston Jones Highway",
+        "enseigne": "Total Greenvale",
+        "longitude": "18.045993",
+        "latitude": "-77.532723"
+    },
+    {
+        "activity": "Station-service · 99 Barnett St",
+        "enseigne": "Total 99 Barnett Street",
+        "longitude": "18.466256",
+        "latitude": "-77.91697"
+    },
+    {
+        "activity": "Station-service · #1 Duhaney Park Plaza, Duhaney Drive",
+        "enseigne": "Total Duhaney Park",
+        "longitude": "18.026984",
+        "latitude": "-76.847751"
+    },
+    {
+        "activity": "Station-service · 94F Old Hope Rd",
+        "enseigne": "Total Stanton Terrace",
+        "longitude": "18.0076413",
+        "latitude": "-76.7732501"
+    },
+    {
+        "activity": "Station-service · Darliston Road",
+        "enseigne": "Total Darliston",
+        "longitude": "18.239691",
+        "latitude": "-77.976108"
+    },
+    {
+        "activity": "Station-service · 77 Old Harbour Road",
+        "enseigne": "Total Featherbed Lane",
+        "longitude": "17.986612",
+        "latitude": "-76.993955"
+    },
+    {
+        "activity": "Station-service · Corner of Eltham and, Brunswick Ave",
+        "enseigne": "Total Brunswick First Venture",
+        "longitude": "18.0130835",
+        "latitude": "-76.9722017"
+    },
+    {
+        "activity": "Station-service · 60 Gilmour Drive",
+        "enseigne": "Total Gilmour Drive",
+        "longitude": "18.025252",
+        "latitude": "-76.821184"
+    },
+    {
+        "activity": "Station-service · 2 Main St",
+        "enseigne": "Total St Ann's Bay",
+        "longitude": "18.4366387",
+        "latitude": "-77.2037075"
+    },
+    {
+        "activity": "Station-service · 54 Main St",
+        "enseigne": "Total Main Street - May Pen",
+        "longitude": "17.969985",
+        "latitude": "-77.243525"
+    },
+    {
+        "activity": "Station-service · Brunswick Ave",
+        "enseigne": "Total 3A Brunswick",
+        "longitude": "18.001371",
+        "latitude": "-76.961307"
+    },
+    {
+        "activity": "Station-service · 11 Heroes Circle",
+        "enseigne": "Total Heroes Circle",
+        "longitude": "17.9824712",
+        "latitude": "-76.7909069"
+    },
+    {
+        "activity": "Station-service · 7 Sun Valley Road, Glendevon",
+        "enseigne": "Total Albion",
+        "longitude": "18.480615",
+        "latitude": "-77.904738"
+    },
+    {
+        "activity": "Station-service · Fort Nugent Drive, Harbour View Shopping Centre",
+        "enseigne": "Total Harbour View Shopping Centre",
+        "longitude": "17.95029",
+        "latitude": "-76.720008"
+    },
+    {
+        "activity": "Station-service · A2",
+        "enseigne": "Total Clarendon Park",
+        "longitude": "17.99562",
+        "latitude": "-77.374702"
+    },
+    {
+        "activity": "Station-service · 19 Seaton St",
+        "enseigne": "Total Seaton Street",
+        "longitude": "18.228365",
+        "latitude": "-78.136283"
+    },
+    {
+        "activity": "Station-service · 58 West Main Drive, Washington Boulevard",
+        "enseigne": "Total Washington Boulevard",
+        "longitude": "18.025548",
+        "latitude": "-76.831377"
+    },
+    {
+        "activity": "Station-service · Mandela Hwy",
+        "enseigne": "Total Central Village",
+        "longitude": "17.996504",
+        "latitude": "-76.91956"
+    },
+    {
+        "activity": "Station-service · A4",
+        "enseigne": "Total Yallahs",
+        "longitude": "17.8735353",
+        "latitude": "-76.5643464"
+    },
+    {
+        "activity": "Station-service · 186C Constant Spring Rd",
+        "enseigne": "Total Manor Park",
+        "longitude": "18.051061",
+        "latitude": "-76.792969"
+    },
+    {
+        "activity": "Station-service · Lot 1 Cooksen Pen",
+        "enseigne": "Total Portmore Pines",
+        "longitude": "17.960526",
+        "latitude": "-76.900003"
+    },
+    {
+        "activity": "Station-service · Main Street",
+        "enseigne": "Total Discovery Bay",
+        "longitude": "18.460227",
+        "latitude": "-77.398567"
+    },
+    {
+        "activity": "Station-service · 37 Deanery Rd",
+        "enseigne": "Total Deanery Road",
+        "longitude": "17.981916",
+        "latitude": "-76.772383"
+    },
+    {
+        "activity": "Station-service · Dunbar's River",
+        "enseigne": "Total Dunbar's River",
+        "longitude": "18.225061",
+        "latitude": "-78.125945"
+    },
+    {
+        "activity": "Station-service · 29 Mackville Terrace",
+        "enseigne": "Total Mackville Terrace",
+        "longitude": "18.045124",
+        "latitude": "-76.822926"
+    },
+    {
+        "activity": "Station-service · 85 Constant Spring Rd",
+        "enseigne": "Total Dunrobin",
+        "longitude": "18.025265",
+        "latitude": "-76.796752"
+    },
+    {
+        "activity": "Station-service · Spur Tree Rd",
+        "enseigne": "Total Spur Tree",
+        "longitude": "17.9971627",
+        "latitude": "-77.5589011"
+    },
+    {
+        "activity": "Station-service · 5 Water Square",
+        "enseigne": "Total Falmouth",
+        "longitude": "18.492818",
+        "latitude": "-77.652771"
+    },
+    {
+        "activity": "Station-service · Holland Bamboo Main Road",
+        "enseigne": "Total Holland Bamboo",
+        "longitude": "18.113831",
+        "latitude": "-77.81301"
+    },
+    {
+        "activity": "Station-service · Luana",
+        "enseigne": "Total Luana",
+        "longitude": "18.071122",
+        "latitude": "-77.855823"
+    },
+    {
+        "activity": "Station-service · Church Corner",
+        "enseigne": "Total Morant Bay",
+        "longitude": "17.8852454",
+        "latitude": "-76.4182782"
+    },
+    {
+        "activity": "Station-service · 22 - 24, 10 Little Kew Rd",
+        "enseigne": "Total, Kew Road",
+        "longitude": "18.0032682",
+        "latitude": "-76.8010877"
+    },
+    {
+        "activity": "Station-service · 106 - 107 Greenwood",
+        "enseigne": "Total Greenwood",
+        "longitude": "18.511875",
+        "latitude": "-77.739863"
+    },
+    {
+        "activity": "Station-service · 4 Weston Park Rd",
+        "enseigne": "Total Weston Park Road - May Pen",
+        "longitude": "17.9749048",
+        "latitude": "-77.2547294"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "Total, Lucky Hill",
+        "longitude": "18.318779",
+        "latitude": "-76.997631"
+    },
+    {
+        "activity": "Station-service · B8, Montpelier",
+        "enseigne": "Total Montpelier",
+        "longitude": "18.372816",
+        "latitude": "-77.933061"
+    },
+    {
+        "activity": "Station-service · B 4, Main Street",
+        "enseigne": "Total Spaldings",
+        "longitude": "18.155619",
+        "latitude": "-77.459243"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL,Drax Hall",
+        "longitude": "18.427824",
+        "latitude": "-77.162108"
+    },
+    {
+        "activity": "Station-service · 188, 1/2 Orange St",
+        "enseigne": "TOTAL,Orange Street",
+        "longitude": "17.985499",
+        "latitude": "-76.789422"
+    },
+    {
+        "activity": "Station-service · 24 Great George Street",
+        "enseigne": "Total Great George's Street",
+        "longitude": "18.2116",
+        "latitude": "-78.133645"
+    },
+    {
+        "activity": "Station-service · Golden Spring Square",
+        "enseigne": "Total Golden Spring",
+        "longitude": "18.096298",
+        "latitude": "-76.805204"
+    },
+    {
+        "activity": "Station-service · Bryan's Bay, Port Antonio",
+        "enseigne": "Bryan's Bay , Total",
+        "longitude": "18.184121",
+        "latitude": "-76.4655681"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL, White River",
+        "longitude": "18.409298",
+        "latitude": "-77.07041"
+    },
+    {
+        "activity": "Siège social · Unnamed Road",
+        "enseigne": "Total Lubricantes Internacionales",
+        "longitude": "-0.1061913",
+        "latitude": "-78.4465442"
+    },
+    {
+        "activity": "Garage automobile · Av. Rumichaca Ñan s27-124",
+        "enseigne": "Total Lubricantes",
+        "longitude": "-0.2781937",
+        "latitude": "-78.547391"
+    },
+    {
+        "activity": "Mécanicien",
+        "enseigne": "Lubricantes TOTAL UIO",
+        "longitude": "-0.3294243",
+        "latitude": "-78.5337397"
+    },
+    {
+        "activity": "Station de lavage automobile · Cusubamba Oe4-20",
+        "enseigne": "LUBRICANTES TOTAL QUARTZ (CUSUBAMBA)",
+        "longitude": "-0.2742015",
+        "latitude": "-78.5444529"
+    },
+    {
+        "activity": "Station de lavage automobile",
+        "enseigne": "Lubricantes TOTAL QUARTZ",
+        "longitude": "-0.2823067",
+        "latitude": "-78.5610665"
+    },
+    {
+        "activity": "Station de lavage automobile · Borbón",
+        "enseigne": "Lubricantes TOTAL QUARTZ (10)",
+        "longitude": "-0.2804335",
+        "latitude": "-78.5473953"
+    },
+    {
+        "activity": "Service de vidange d'huile",
+        "enseigne": "LUBRICANTES TOTAL QUARTZ 1",
+        "longitude": "-0.2841071",
+        "latitude": "-78.5596379"
+    },
+    {
+        "activity": "Mécanicien · Luis Urdaneta S14-397",
+        "enseigne": "LUBRICANTES TOTAL \" HINO\"",
+        "longitude": "-0.2658717",
+        "latitude": "-78.5280361"
+    },
+    {
+        "activity": "Station de lavage automobile · Diego Céspedes Oe8-90 entre Ambrosio Acosta, y",
+        "enseigne": "Multiservicios del sur- Lubricantes TOTAL",
+        "longitude": "-0.274339",
+        "latitude": "-78.5540117"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Total Petroleum Ghana Limited",
+        "adresse": " Accra,  Ghana",
+        "longitude": "-0.2030798",
+        "latitude": "5.5558444"
+    },
+    {
+        "activity": "Raffinerie de pétrole",
+        "enseigne": "Total Lubrificantes do Brasil - Av. Nossa Sra. do Bonsucesso",
+        "adresse": " 1904 - Lot. Alfredo Abilio Flores,  Pindamonhangaba - SP,  12420-010,  Brésil",
+        "longitude": "-45.462279",
+        "latitude": "-22.9758892"
+    },
+    {
+        "activity": "",
+        "enseigne": "Total Petrochemicals & Refining SA/NV Zweigniederlassung Deutschland",
+        "adresse": " Tersteegenstraße 28,  40474 Düsseldorf,  Allemagne",
+        "longitude": "6.763466",
+        "latitude": "51.2529013"
+    },
+    {
+        "activity": "Station-service",
+        "enseigne": "TOTAL JAMBETTE",
+        "adresse": " Z. I. de la,  Zone de Gros la Jambette,  Le Lamentin 97232,  Martinique",
+        "longitude": "-61.0355088",
+        "latitude": "14.6170303"
     }
 ]
