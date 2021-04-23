@@ -1,3 +1,23 @@
+from urllib.parse import unquote
+
+import numpy as np
+import selenium
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
+from utils.handle_requests import get_requetes
+from utils.write_data import append_data
+
+from utils.scraping_utilities import check_agreement_google, unscroll, check_comp_name, check_n_results
+import warnings
+import time
+
+
+
 def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
     """
     Version améliorée.
@@ -15,7 +35,6 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
     else:
         options = Options()
     requete = comp_name
-    kb = Controller()
     failed_agreement = False
     new_agreement_form = False
     # On lance le navigateur.

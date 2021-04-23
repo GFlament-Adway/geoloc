@@ -15,3 +15,9 @@ JavaScript warning: https://www.google.fr/maps/search/Generali%20%20%20Haiti/@33
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619163551186	geckodriver	INFO	Listening on 127.0.0.1:40641
+1619163551191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletQ9CGK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
