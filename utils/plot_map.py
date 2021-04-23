@@ -16,7 +16,7 @@ if __name__ == "__main__":
     map.drawcoastlines()
     map.drawcountries()
     plt.title("{comp_name} ".format(comp_name=entreprise))
-    data = read_data("json_db/{entreprise}.json".format(entreprise=entreprise))
+    data = read_data("../json_db/{entreprise}.json".format(entreprise=entreprise))
     # map.bluemarble()
     map.drawcountries()
     gps_coordinates = np.array([[np.float(loc["longitude"]), np.float(loc["latitude"])] for loc in data])

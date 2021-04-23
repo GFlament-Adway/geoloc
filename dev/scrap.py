@@ -3,19 +3,17 @@ from urllib.parse import unquote
 import numpy as np
 import selenium
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from utils.handle_requests import get_requetes
-from utils.write_data import append_data
+from utils.write_data import append_data, write_data
 
-from utils.scraping_utilities import check_agreement_google, unscroll, check_comp_name, check_n_results
+from utils.scraping_utilities import check_agreement_google, unscroll, scroll, check_comp_name, check_n_results, wait_new_url
 import warnings
 import time
 
+from utils.math import distance
 
 
 def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
@@ -55,7 +53,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
     if failed_agreement:
         try:
             driver.find_element_by_xpath(
-                "/html/body/div/c-wiz/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button").click()
+                "/html/body/div/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button").click()
             failed_agreement = False
             new_agreement_form = True
             time.sleep(2.5)
@@ -63,17 +61,26 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
             failed_agreement = True
             print("last check failed")
     print("agreement : ", failed_agreement)
-    unscroll(driver, '//*[@id="widget-zoom-out"]', 5)
+    unscroll(driver, '//*[@id="widget-zoom-out"]', scroll)
     try:
-        driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[3]/button").click()
+        driver.find_element_by_xpath(
+            "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[3]/button").click()
     except selenium.common.exceptions.NoSuchElementException:
-        driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[3]/button").click()
+        driver.find_element_by_xpath(
+            "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[3]/button").click()
+    prop_new_loc = []
+    max_dist = 300
+    n_move = 0
     while 1:
         maps = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[1]/div[3]")
-        move_map(maps, 3)
         webdriver.ActionChains(driver).double_click(maps).perform()
         n = check_n_results(driver)
+        if prop_new_loc.count(False) > 0:
+            print(prop_new_loc.count(True) / prop_new_loc.count(False))
+        obj_lat, obj_long = move_map(maps, 3, driver, max_dist)
+        prop_new_loc = []
         print("is type 1 : ", n)
+        n_move += 1
         if n:
             k = 1
             # k permet de parcourir la liste des résultats renvoyés par Google.
@@ -100,7 +107,9 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                                         k=k)).text
                             except selenium.common.exceptions.NoSuchElementException:
                                 try:
-                                    activity = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[1]/div[{k}]/div/div[2]/div[2]/div[1]/div/div/div/div[1]/div".format(k=k+4)).text
+                                    activity = driver.find_element_by_xpath(
+                                        "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[1]/div[{k}]/div/div[2]/div[2]/div[1]/div/div/div/div[1]/div".format(
+                                            k=k + 4)).text
                                 except:
                                     warnings.warn("Can't find activity")
                                     activity = ""
@@ -111,6 +120,9 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                         print(add)
                         gps = [lat[2:] for lat in add.split("!")[-2:]]
                         gps[1] = gps[1].split("?")[0]
+                        print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
+                        if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > max_dist:
+                            k = 42
                         add = add.replace("+", " ")
                         enseigne = add.split("/")[5]
                     except AttributeError:
@@ -122,6 +134,9 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                             print(add)
                             gps = [lat[2:] for lat in add.split("!")[-2:]]
                             gps[1] = gps[1].split("?")[0]
+                            print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
+                            if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 150:
+                                k = 42
                             add = add.replace("+", " ")
                             enseigne = add.split("/")[5]
                         except:
@@ -140,10 +155,12 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                     if is_comp and save:
                         # On l'ajoute à la base de données.
                         add = ", ".join(add.split(",")[1:])
-                        append_data(
+                        is_new = append_data(
                             {"activity": unquote(activity), "enseigne": unquote(enseigne),
                              "longitude": unquote(gps[0]), "latitude": unquote(gps[1])},
-                            comp_name)
+                            comp_name, path = "dev_db/")
+                        prop_new_loc += [is_new]
+
                     try:
                         time.sleep(0.5)
                         for _ in range(k):
@@ -151,15 +168,20 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                                 "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]")[
                                 -1].send_keys(Keys.DOWN)
                     except selenium.common.exceptions.ElementNotInteractableException:
+                        print("Can't scroll, testing something else")
                         try:
                             for _ in range(k):
-                                driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[4]").send_keys(Keys.DOWN)
+                                driver.find_element_by_xpath(
+                                    "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[4]").send_keys(
+                                    Keys.DOWN)
                         except selenium.common.exceptions.ElementNotInteractableException:
                             warnings.warn("Can't scroll below")
                     except:
                         print("problem")
                 except selenium.common.exceptions.NoSuchElementException:
+                    print("click for next results")
                     try:
+                        time.sleep(2)
                         driver.find_element_by_xpath(
                             '//*[@id="n7lv7yjyC35__section-pagination-button-next"]').click()
                         time.sleep(2.5)
@@ -170,51 +192,91 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                     pass
                 except selenium.common.exceptions.TimeoutException:
                     warnings.warn("TimeoutException")
+            if prop_new_loc.count(False) + prop_new_loc.count(True) > 0:
+                append_data({"requete": {"loc": [obj_long, obj_lat],
+                                         "requete": n_move,
+                                         "taux_pos": prop_new_loc.count(True) / (prop_new_loc.count(False) + prop_new_loc.count(True))}},
+                            file="requests", path = "dev_db/")
+            else :
+                append_data({"requete": {"loc": [obj_long, obj_lat],
+                                         "requete": n_move,
+                                         "taux_pos": 0}},
+                            file="requests", path="dev_db/")
         else:
-            # Dans ce cas, il n'y a qu'un résultat, il y a beaucoup moins de travail à faire.
-            try:
-                time.sleep(0.5 + np.random.uniform(0.1, 0.4))
-                try:
-                    """/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div[3]/div/a """
-                    activity = driver.find_element_by_xpath(
-                        "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[1]/div[2]/div/div[2]/span[1]/span[1]/button").text
-                except selenium.common.exceptions.NoSuchElementException:
-                    print("failed to find activity")
-                    activity = ""
-                driver.find_element_by_xpath(
-                    "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div").click()
-                WebDriverWait(driver, timeout).until(
-                    EC.presence_of_element_located((By.XPATH,
-                                                    "/html/body/jsl/div[3]/div[9]/div[3]/div[1]/div[2]/div/div[3]/div[1]/div[2]/div[2]/div/div/input")))
-                time.sleep(0.3 + np.random.uniform(0.05, 0.2))
-                add = driver.current_url.split("/")[6]
-                add = add.replace("+", " ")
-                gps = [lat[2:] for lat in driver.current_url.split("!")[-2:]]
-                enseigne = add.split(",")[0]
-                add = ", ".join(add.split(",")[1:])
-                if verif:
-                    is_comp = check_comp_name(driver, comp_name, unquote(enseigne), unquote(activity),
-                                              x_path="/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[10]/div[3]/button/div[1]/div[2]/div[1]")
-                else:
-                    is_comp = True
-                if is_comp:
-                    append_data(
-                        {"activity": unquote(activity), "enseigne": unquote(enseigne), "adresse": unquote(add),
-                         "longitude": unquote(gps[0]), "latitude": unquote(gps[1])},
-                        comp_name)
-                driver.find_element_by_xpath('/html/body/jsl/div[3]/div[9]/div[3]/div[1]/div[1]/div[1]/div[3]/div/div[1]/div/div/button').click()
-                time.sleep(2)
-            except selenium.common.exceptions.NoSuchElementException:
-                print("failed adress")
-        unscroll(driver, '//*[@id="widget-zoom-out"]', 3)
-        move_map(maps, 3)
+            move_map(maps, 0, driver, max_dist)
+        unscroll(driver, '//*[@id="widget-zoom-out"]', 1)
 
-def move_map(maps, n_key_press):
-    keys = [Keys.ARROW_DOWN, Keys.ARROW_LEFT, Keys.ARROW_RIGHT, Keys.ARROW_UP]
-    for _ in range(n_key_press):
-        maps.send_keys(keys[np.random.randint(0,4)])
-        time.sleep(0.5)
-    time.sleep(7)
+
+def move_map(maps, n_key_press, driver, max_dist):
+    url = driver.current_url
+    lon = float(url.split("@")[1].split(",")[0])
+    lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
+    dist = 0.2
+    obj_lat = lat + np.random.uniform(-1, 1) * np.random.normal() * 10
+    obj_lon = lon + np.random.uniform(-1, 1) * np.random.normal() * 10
+    print(obj_lat, obj_lon)
+    while distance(obj_lon, obj_lat, lon, lat) > max_dist / 3:
+        should_unscroll = False
+        should_scroll = False
+        url = driver.current_url
+        if lon - obj_lon > 0.2:
+            maps.send_keys(Keys.ARROW_DOWN)
+            got_new_url = wait_new_url(driver, url)
+            while not got_new_url:
+                maps.send_keys(Keys.ARROW_DOWN)
+                got_new_url = wait_new_url(driver, url)
+            url = driver.current_url
+            if abs(lon - float(url.split("@")[1].split(",")[0])) < dist:
+                should_unscroll = True
+            if abs(lon - float(url.split("@")[1].split(",")[0])) > 5*dist:
+                should_scroll = True
+            lon = float(url.split("@")[1].split(",")[0])
+        elif lon - obj_lon < -dist:
+            maps.send_keys(Keys.ARROW_UP)
+            got_new_url = wait_new_url(driver, url)
+            while not got_new_url:
+                maps.send_keys(Keys.ARROW_DOWN)
+                got_new_url = wait_new_url(driver, url)
+            url = driver.current_url
+            if abs(lon - float(url.split("@")[1].split(",")[0])) < dist:
+                should_unscroll = True
+            if abs(lon - float(url.split("@")[1].split(",")[0])) > 5*dist:
+                should_scroll = True
+            lon = float(url.split("@")[1].split(",")[0])
+        if lat - obj_lat > dist:
+            maps.send_keys(Keys.ARROW_LEFT)
+            got_new_url = wait_new_url(driver, url)
+            while not got_new_url:
+                maps.send_keys(Keys.ARROW_DOWN)
+                got_new_url = wait_new_url(driver, url)
+            url = driver.current_url
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) < dist:
+                should_unscroll = True
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 5*dist:
+                should_scroll = True
+            lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
+        elif lat - obj_lat < -dist:
+            maps.send_keys(Keys.ARROW_RIGHT)
+            got_new_url = wait_new_url(driver, url)
+            while not got_new_url:
+                maps.send_keys(Keys.ARROW_DOWN)
+                got_new_url = wait_new_url(driver, url)
+            url = driver.current_url
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) < dist:
+                should_unscroll = True
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 5*dist:
+                should_scroll
+            lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
+        if should_unscroll:
+            unscroll(driver)
+        if should_scroll:
+            scroll(driver)
+    time.sleep(3)
+    if not check_n_results(driver):
+        driver.find_element_by_xpath('//*[@id="searchbox-searchbutton"]').click()
+        print("click on research button")
+    time.sleep(2)
+    return obj_lat, obj_lon
 
 
 if __name__ == "__main__":

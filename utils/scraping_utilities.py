@@ -10,14 +10,20 @@ import warnings
 import time
 
 
-def unscroll(driver, xpath='//*[@id="widget-zoom-out"]', n_click=3):
+def unscroll(driver, xpath='//*[@id="widget-zoom-out"]', n_click=1):
     for _ in range(n_click):
         try:
             time.sleep(0.5)
             driver.find_element_by_xpath(xpath).click()
         except selenium.common.exceptions.NoSuchElementException:
             pass
-
+def scroll(driver, xpath='//*[@id="widget-zoom-in"]', n_click=1):
+    for _ in range(n_click):
+        try:
+            time.sleep(0.5)
+            driver.find_element_by_xpath(xpath).click()
+        except selenium.common.exceptions.NoSuchElementException:
+            pass
 
 def check_n_results(driver):
     """
@@ -76,6 +82,19 @@ def check_comp_name(driver, comp_name, enseigne, activity, x_path, authorized_ac
     except TypeError:
         return comp_name in enseigne or comp_name in activity
 
+def wait_new_url(driver, old_url):
+    """
+
+    :param driver: un objet webdriver
+    :param old_url: l'ancienne URL
+    :return: True lorsqu'une nouvelle URL a été chargée
+    """
+    try:
+        wait = WebDriverWait(driver, 10)
+        wait.until(lambda driver: driver.current_url != old_url)
+        return True
+    except selenium.common.exceptions.TimeoutException:
+        return False
 
 def check_agreement_google(driver, timeout=20):
     """

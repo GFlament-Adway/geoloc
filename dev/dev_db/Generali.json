@@ -1,0 +1,656 @@
+[
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "50.6555816",
+        "latitude": "3.0648557"
+    },
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "50.5096938",
+        "latitude": "3.0165173"
+    },
+    {
+        "activity": "Compagnie d'assurance · Immeuble B1 ZAC du Grand Cottignies, 8 Rue Konrad Adenauer",
+        "enseigne": "Generali France - Wasquehal",
+        "longitude": "50.6839882",
+        "latitude": "3.1303184"
+    },
+    {
+        "activity": "Agence d'assurance · 25 Boulevard de la Liberté",
+        "enseigne": "Assurance Generali - Sarl Tetard Assurances",
+        "longitude": "50.6364217",
+        "latitude": "3.0537563"
+    },
+    {
+        "activity": "Agence d'assurance · 50 Rue de la Vignette",
+        "enseigne": "Assurance Generali - Sarl ar2 Assurances",
+        "longitude": "50.6317721",
+        "latitude": "3.0654703"
+    },
+    {
+        "activity": "Agence d'assurance · 141 Avenue de la République",
+        "enseigne": "Assurance Generali - Jose de Almeida",
+        "longitude": "50.6477704",
+        "latitude": "3.0768543"
+    },
+    {
+        "activity": "Agence d'assurance · 300 Rue de Lille Batiment B",
+        "enseigne": "Assurance Generali - Adh",
+        "longitude": "50.6639278",
+        "latitude": "3.0622202"
+    },
+    {
+        "activity": "Agence d'assurance · 48 Rue Fidèle Lehoucq",
+        "enseigne": "Assurance Generali - Assurances Hubert",
+        "longitude": "50.7200987",
+        "latitude": "3.1600069"
+    },
+    {
+        "activity": "Agence d'assurance · 5 Place du Général de Gaulle",
+        "enseigne": "Assurance Generali - Assurances a.Pensuet",
+        "longitude": "50.6861683",
+        "latitude": "2.8825171"
+    },
+    {
+        "activity": "Agence d'assurance · 91 Avenue de Flandre",
+        "enseigne": "Assurance Generali - Gr Assurances",
+        "longitude": "50.6642887",
+        "latitude": "3.1450192"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Rue Marceau",
+        "enseigne": "Assurance Generali - Assureurs Conseils Wavrin",
+        "longitude": "50.5685889",
+        "latitude": "2.9317588"
+    },
+    {
+        "activity": "Agence d'assurance · Avenue de la République",
+        "enseigne": "Assurance Generali - Assureurs Conseils Seclin",
+        "longitude": "50.5556944",
+        "latitude": "3.034048"
+    },
+    {
+        "activity": "Agence d'assurance · 1043 Avenue du Général de Gaulle",
+        "enseigne": "Assurance Generali - Thiriez Eric",
+        "longitude": "50.7044396",
+        "latitude": "3.0991686"
+    },
+    {
+        "activity": "Agence d'assurance · 39 T Rue Turgot",
+        "enseigne": "Assurance Generali - Sarl Palisse et Associes",
+        "longitude": "50.7094555",
+        "latitude": "3.1373411"
+    },
+    {
+        "activity": "Agence d'assurance · 2 Boulevard Carnot Bp 229",
+        "enseigne": "Assurance Generali - Mugnier Motte",
+        "longitude": "50.6382369",
+        "latitude": "3.0655594"
+    },
+    {
+        "activity": "Agence d'assurance · 4 Rue Konrad Adenauer",
+        "enseigne": "Generali Vie",
+        "longitude": "50.6840257",
+        "latitude": "3.1302564"
+    },
+    {
+        "activity": "Agence d'assurance · 12 Boulevard Gambetta",
+        "enseigne": "Assurance Generali - Sarl Eric Palisse Assurances Tourcoing",
+        "longitude": "50.7160568",
+        "latitude": "3.158286"
+    },
+    {
+        "activity": "Agence d'assurance · 63 Rue du Bosquiel",
+        "enseigne": "Assurance Generali - Michel Destombes Assurances",
+        "longitude": "50.7005045",
+        "latitude": "3.0942552"
+    },
+    {
+        "activity": "Agence d'assurance · 42 Rue du Maréchal Foch",
+        "enseigne": "Assurance Generali - Jj Toupet",
+        "longitude": "50.6896094",
+        "latitude": "3.1735968"
+    },
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "50.473852",
+        "latitude": "3.2423937"
+    },
+    {
+        "activity": "Agence d'assurance · 4 Rue des Canonniers",
+        "enseigne": "Assurance Generali - Bap Burggraeve Lafitte",
+        "longitude": "50.6679268",
+        "latitude": "3.2108004"
+    },
+    {
+        "activity": "Agence d'assurance · 5 Rue du Tilleul",
+        "enseigne": "Assurance Generali - Challenge Assurances Hem",
+        "longitude": "50.6518541",
+        "latitude": "3.1891929"
+    },
+    {
+        "activity": "Agence d'assurance · 9 Rue Voltaire",
+        "enseigne": "Assurance Generali - Assurance Bacqueville - Duflos",
+        "longitude": "50.4955923",
+        "latitude": "2.8582373"
+    },
+    {
+        "activity": "Agence d'assurance · 67 Rue de la Gare",
+        "enseigne": "Assurance Generali - Sep Bacqueville-Duflos",
+        "longitude": "50.5128274",
+        "latitude": "2.8999667"
+    },
+    {
+        "activity": "Agence d'assurance · 2 B Avenue Fernand Darchicourt",
+        "enseigne": "Assurance Generali - Cabinet Philippe Adam Oignies",
+        "longitude": "50.4684814",
+        "latitude": "2.9897517"
+    },
+    {
+        "activity": "Agence d'assurance · 50 Rue Voltaire",
+        "enseigne": "Assurance Generali - Cabinet Philippe Adam",
+        "longitude": "50.4400888",
+        "latitude": "3.0574657"
+    },
+    {
+        "activity": "Agence d'assurance · 10 Place Général de Gaulle",
+        "enseigne": "Assurance Generali - Orchies / Sarl Hdf Assur",
+        "longitude": "50.4738962",
+        "latitude": "3.2424619"
+    },
+    {
+        "activity": "Agence d'assurance · 95 Rue du Général de Gaulle",
+        "enseigne": "Assurance Generali - Eventia Assurances",
+        "longitude": "50.5096836",
+        "latitude": "3.0165071"
+    },
+    {
+        "activity": "Compagnie d'assurance",
+        "enseigne": "Generali",
+        "longitude": "51.510324",
+        "latitude": "-0.0803507"
+    },
+    {
+        "activity": "Compagnie d'assurance · 100 Leman St",
+        "enseigne": "GEB Generali Employee Benefits - UK",
+        "longitude": "51.512047",
+        "latitude": "-0.069437"
+    },
+    {
+        "activity": "Agence immobilière · Fenchurch St",
+        "enseigne": "Generali Real Estate",
+        "longitude": "51.512101",
+        "latitude": "-0.0805488"
+    },
+    {
+        "activity": "Siège social · 4 Thomas More Square",
+        "enseigne": "Generali Global Health",
+        "longitude": "51.507708",
+        "latitude": "-0.0673083"
+    },
+    {
+        "activity": "· 39 King St",
+        "enseigne": "Generali Saxon Land Development Co Ltd",
+        "longitude": "51.514035",
+        "latitude": "-0.092606"
+    },
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "45.3853166",
+        "latitude": "4.2825626"
+    },
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "45.0452364",
+        "latitude": "3.8798644"
+    },
+    {
+        "activity": "Courtier d'assurances · 29 Cours Tolstoï",
+        "enseigne": "Generali France",
+        "longitude": "45.763875",
+        "latitude": "4.8732515"
+    },
+    {
+        "activity": "Compagnie d'assurance · 52 Rue Duquesne",
+        "enseigne": "Generali France - Lyon",
+        "longitude": "45.7729068",
+        "latitude": "4.8490939"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Rue Ferdinand Buisson",
+        "enseigne": "Assurance Generali - Sleiman Claude",
+        "longitude": "45.747546",
+        "latitude": "4.8825125"
+    },
+    {
+        "activity": "Agence d'assurance · 35 Rue de la Charité",
+        "enseigne": "Assurance Generali - Assurances Stephane Tissot",
+        "longitude": "45.7519534",
+        "latitude": "4.8311775"
+    },
+    {
+        "activity": "Agence d'assurance · 20 Place Chavanelle",
+        "enseigne": "Assurance Generali - Saint Etienne",
+        "longitude": "45.4341424",
+        "latitude": "4.3922867"
+    },
+    {
+        "activity": "Agence d'assurance · Imm David, 1 Allée du Rond Point",
+        "enseigne": "Assurance Generali - Cab Ph Perrin Assurances St E",
+        "longitude": "45.4203314",
+        "latitude": "4.4123046"
+    },
+    {
+        "activity": "Agence d'assurance · 23 Rue Gensoul Bp 6",
+        "enseigne": "Assurance Generali - Sarl Cp Assurances",
+        "longitude": "45.7347994",
+        "latitude": "4.8043619"
+    },
+    {
+        "activity": "Agence d'assurance · 21 Boulevard Carnot",
+        "enseigne": "Assurance Generali - Celle Velay Assurances",
+        "longitude": "45.0452282",
+        "latitude": "3.8798346"
+    },
+    {
+        "activity": "Agence d'assurance · 6 Rue des Métiers Zac des",
+        "enseigne": "Assurance Generali - Savigneux -Assurances Guillot",
+        "longitude": "45.6099904",
+        "latitude": "4.0978205"
+    },
+    {
+        "activity": "Agence d'assurance · 3 Che de, Chemin de l'Orée du Bois",
+        "enseigne": "Assurance Generali - Sarl Cp Assurances",
+        "longitude": "45.7976971",
+        "latitude": "4.7573222"
+    },
+    {
+        "activity": "Agence d'assurance · 112 Cours Vitton",
+        "enseigne": "Assurance Generali - Sarl Assurances Concept",
+        "longitude": "45.7702885",
+        "latitude": "4.8620788"
+    },
+    {
+        "activity": "Agence d'assurance · 9 Rue de L Hôpital",
+        "enseigne": "Assurance Generali - Brunel et Associes Assureurs",
+        "longitude": "44.8999868",
+        "latitude": "5.0183941"
+    },
+    {
+        "activity": "Agence d'assurance · 42 Rue Victor Hugo",
+        "enseigne": "Assurance Generali - Cabinet Ph Perrin Assurances",
+        "longitude": "45.3852465",
+        "latitude": "4.2824889"
+    },
+    {
+        "activity": "Agence d'assurance · 140 N7",
+        "enseigne": "Assurance Generali - Conseil Prest'Assur",
+        "longitude": "45.4991996",
+        "latitude": "4.8480016"
+    },
+    {
+        "activity": "Agence d'assurance · 16 Rue Notre Dame",
+        "enseigne": "Assurance Generali - Christophe Palmasi Assurances",
+        "longitude": "45.6053069",
+        "latitude": "4.0654644"
+    },
+    {
+        "activity": "Agence d'assurance · 24 Rue de la République",
+        "enseigne": "Assurance Generali - Assurances Eric Dalle",
+        "longitude": "45.7632405",
+        "latitude": "4.8356522"
+    },
+    {
+        "activity": "Agence d'assurance · 9 Route de Romans",
+        "enseigne": "Assurance Generali - Sarl Val' Assurances",
+        "longitude": "44.9326372",
+        "latitude": "4.8984342"
+    },
+    {
+        "activity": "Agence d'assurance · 34 Rue Alexandre Séon",
+        "enseigne": "Assurance Generali - Cabinet Crouzet",
+        "longitude": "45.6382097",
+        "latitude": "4.3905863"
+    },
+    {
+        "activity": "Agence d'assurance · 25 Rue de la République",
+        "enseigne": "Assurance Generali - Givaudan-Mazabrard Assurances",
+        "longitude": "45.7497379",
+        "latitude": "5.1770333"
+    },
+    {
+        "activity": "Agence d'assurance · 4 Rue Benoît Malon",
+        "enseigne": "Assurance Generali - Roanne - Assurances Guillot",
+        "longitude": "46.0341555",
+        "latitude": "4.0715933"
+    },
+    {
+        "activity": "Agence d'assurance · 117 Avenue Léo Lagrange",
+        "enseigne": "Assurance Generali - Mertins Assurances & Associes",
+        "longitude": "45.8450867",
+        "latitude": "3.5212389"
+    },
+    {
+        "activity": "Agence d'assurance · Rue Victor Hugo",
+        "enseigne": "Assurance Generali - Montpezat",
+        "longitude": "44.7114352",
+        "latitude": "4.2072581"
+    },
+    {
+        "activity": "Agence d'assurance · 15 Cours a, Cours Alexandre Borodine",
+        "enseigne": "Assurance Generali - C.G.R.a Assureurs",
+        "longitude": "44.9336866",
+        "latitude": "4.9300166"
+    },
+    {
+        "activity": "Agence d'assurance · 38 Boulevard Saint-Didier",
+        "enseigne": "Assurance Generali - Eirl Yann Baracand",
+        "longitude": "44.6180851",
+        "latitude": "4.3934075"
+    },
+    {
+        "activity": "Agence d'assurance · 12 Place Rampon Bp 3",
+        "enseigne": "Assurance Generali - Cabinet Martin Lamastre",
+        "longitude": "44.9866483",
+        "latitude": "4.5823835"
+    },
+    {
+        "activity": "Agence d'assurance · 142 Avenue Général Leclerc",
+        "enseigne": "Assurance Generali - Afcs Audit & Conseil",
+        "longitude": "45.5014146",
+        "latitude": "4.850593"
+    },
+    {
+        "activity": "Agence d'assurance · 6 Place Jean Jaurès",
+        "enseigne": "Assurance Generali - Cgra Assureurs",
+        "longitude": "44.772178",
+        "latitude": "4.8417319"
+    },
+    {
+        "activity": "Agence d'assurance · 3 Avenue du 8 Mai 1945",
+        "enseigne": "Assurance Generali - Cabinet Martin Tournon",
+        "longitude": "45.0641334",
+        "latitude": "4.8360678"
+    },
+    {
+        "activity": "Agence d'assurance · 13 Rue Balay",
+        "enseigne": "Assurance Generali - Marchand Assurances",
+        "longitude": "45.4437066",
+        "latitude": "4.3864894"
+    },
+    {
+        "activity": "Agence d'assurance · 28 Rte de Lyon Domarin 38307",
+        "enseigne": "Assurance Generali - c2b Assurances Bourgoin",
+        "longitude": "45.5850176",
+        "latitude": "5.2645256"
+    },
+    {
+        "activity": "Agence d'assurance · 29 Ave Jeanne d Arc Bp 90615 43008",
+        "enseigne": "Assurance Generali - Cabinet Bruno Vigouroux",
+        "longitude": "45.027851",
+        "latitude": "3.8804968"
+    },
+    {
+        "activity": "Agence d'assurance · 4 Place Gabriel Peri",
+        "enseigne": "Assurance Generali - Mr Lemaille Denis",
+        "longitude": "45.6228371",
+        "latitude": "5.2312496"
+    },
+    {
+        "activity": "Agence d'assurance · 17 Rue d'Austerlitz",
+        "enseigne": "Assurance Generali - Lyon Croix Rousse",
+        "longitude": "45.7755077",
+        "latitude": "4.8353211"
+    },
+    {
+        "activity": "Agence d'assurance · 1bis Place Dorian",
+        "enseigne": "Assurance Generali - Feurs",
+        "longitude": "45.7444366",
+        "latitude": "4.2216792"
+    },
+    {
+        "activity": "Agence d'assurance · Immeuble Saint Nicolas, 5 Côte Garenne",
+        "enseigne": "Assurance Generali - Cabinet Troullier-Pinet Mf",
+        "longitude": "45.0427084",
+        "latitude": "5.0559021"
+    },
+    {
+        "activity": "Agence d'assurance · 46 A, 48 Chemin de la Bruyère",
+        "enseigne": "Generali Vie",
+        "longitude": "45.8116304",
+        "latitude": "4.7690176"
+    },
+    {
+        "activity": "Agence d'assurance · Sortie 12, 45 Che de Pompey Rond Point du Sardon a46",
+        "enseigne": "Assurance Generali - Sarl Alexandre Thomas",
+        "longitude": "45.519527",
+        "latitude": "4.5932237"
+    },
+    {
+        "activity": "Agence d'assurance · 80 Rue Henri Depagneux Zac du Martelet",
+        "enseigne": "Assurance Generali - Villefranche sur Saone - Sebastien Toulet",
+        "longitude": "45.9766251",
+        "latitude": "4.7170742"
+    },
+    {
+        "activity": "Agence d'assurance · 12 Place d'Armes",
+        "enseigne": "Assurance Generali - Berard Alexandre",
+        "longitude": "45.1542115",
+        "latitude": "5.3208079"
+    },
+    {
+        "activity": "Agence d'assurance · 17 Avenue Raymond Tézier",
+        "enseigne": "Assurance Generali - D. Badin et E. Henry",
+        "longitude": "45.3674304",
+        "latitude": "5.5900486"
+    },
+    {
+        "activity": "Agence d'assurance · 10 Avenue Gabriel Péri",
+        "enseigne": "Assurance Generali - Conseil Prest'Assur",
+        "longitude": "45.3682207",
+        "latitude": "4.799631"
+    },
+    {
+        "activity": "Agence d'assurance · 1070 Rue Augustin Blanchet",
+        "enseigne": "Assurance Generali - Colombe",
+        "longitude": "45.3868874",
+        "latitude": "5.4747235"
+    },
+    {
+        "activity": "Agence d'assurance · 32 Avenue des Auréats",
+        "enseigne": "Assurance Generali - Kircher Assurances Eirl",
+        "longitude": "44.9015322",
+        "latitude": "4.8834885"
+    },
+    {
+        "activity": "Agence d'assurance · 52 Rue Duquesne",
+        "enseigne": "Generali Vie",
+        "longitude": "45.7728312",
+        "latitude": "4.849161"
+    },
+    {
+        "activity": "Agence d'assurance · 7 Place Victor Hugo Bp.117",
+        "enseigne": "Assurance Generali - Brunel & Associes Assureurs",
+        "longitude": "44.7348956",
+        "latitude": "4.5963234"
+    },
+    {
+        "activity": "Agence d'assurance · 13 Place du Pontel",
+        "enseigne": "Assurance Generali - Cabinet Bruno Vigouroux Ambert",
+        "longitude": "45.5500201",
+        "latitude": "3.7435518"
+    },
+    {
+        "activity": "Agence d'assurance · 4 Rue Claude Drivon",
+        "enseigne": "Assurance Generali - Cabinet Rabin",
+        "longitude": "45.5284905",
+        "latitude": "4.6136066"
+    },
+    {
+        "activity": "Agence d'assurance · 39 Rue de la République Bp. 27",
+        "enseigne": "Assurance Generali - c2b Assurances Beaurepaire",
+        "longitude": "45.3386968",
+        "latitude": "5.0552877"
+    },
+    {
+        "activity": "Agence d'assurance · 24 Rue Michel Servet",
+        "enseigne": "Assurance Generali - Cabinet Richard",
+        "longitude": "45.7676852",
+        "latitude": "4.8787706"
+    },
+    {
+        "activity": "Agence d'assurance · 23 Boulevard George Sand",
+        "enseigne": "Rémi MARTIN - Generali Assurances - Le Puy",
+        "longitude": "45.0474174",
+        "latitude": "3.8782314"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Place Jean Jaurès",
+        "enseigne": "Assurance Generali - Cabinet Philippe Rabin",
+        "longitude": "45.5822039",
+        "latitude": "4.7745235"
+    },
+    {
+        "activity": "Agence d'assurance · 13 Avenue de la Libération",
+        "enseigne": "Assurance Generali - Cabinet Morel David Montbrison",
+        "longitude": "45.6044264",
+        "latitude": "4.0687291"
+    },
+    {
+        "activity": "Agence d'assurance · Rue du Girondan",
+        "enseigne": "Assurance Generali - Cabinet Barteldt Eric",
+        "longitude": "45.7576347",
+        "latitude": "5.2203353"
+    },
+    {
+        "activity": "Agence d'assurance · 42 Grande Rue",
+        "enseigne": "Assurance Generali - Gie Generali Agences - Vinay",
+        "longitude": "45.2096438",
+        "latitude": "5.4010405"
+    },
+    {
+        "activity": "Agence d'assurance · 6 Rue de Molina",
+        "enseigne": "Assurance Generali - Cbt Alunni et Associes",
+        "longitude": "45.466379",
+        "latitude": "4.3961022"
+    },
+    {
+        "activity": "Agence d'assurance · 45 Avenue Professeur Tixier",
+        "enseigne": "Assurance Generali - Antea Bourgoin Jallieu",
+        "longitude": "45.5893727",
+        "latitude": "5.2807469"
+    },
+    {
+        "activity": "Agence d'assurance · 15 Rue du 11 Novembre 1918",
+        "enseigne": "Assurance Generali - La Tour du Pin",
+        "longitude": "45.5626777",
+        "latitude": "5.4453217"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Rue de la République",
+        "enseigne": "Assurance Generali - Gie Generali Agences Tullins",
+        "longitude": "45.2980105",
+        "latitude": "5.4831342"
+    },
+    {
+        "activity": "Agence d'assurance · 2 Rue de Paris",
+        "enseigne": "generali, MARIE CHRISTINE SANNAJUST",
+        "longitude": "45.859998",
+        "latitude": "3.5457904"
+    },
+    {
+        "activity": "Agence d'assurance · 142 Avenue Léon Marie Fournet",
+        "enseigne": "Assurance Generali - Jassans Riottier",
+        "longitude": "45.9855035",
+        "latitude": "4.7559112"
+    },
+    {
+        "activity": "Agence d'assurance · 6 Rue de Molina",
+        "enseigne": "Assurance Generali - Cabinet Borel et Giraudier",
+        "longitude": "45.4663714",
+        "latitude": "4.3959815"
+    },
+    {
+        "activity": "Agence d'assurance · 2 Rue du Besset",
+        "enseigne": "Assurance Generali - Montalieu Vercieu",
+        "longitude": "45.8148743",
+        "latitude": "5.4041264"
+    },
+    {
+        "activity": "Agence d'assurance · 39 Rue Jean Moulin Bp 172",
+        "enseigne": "Assurance Generali - Cabinet Morel David Roanne",
+        "longitude": "46.0316317",
+        "latitude": "4.0741332"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Rue de L Hôtel de ville",
+        "enseigne": "generali, OLIVIER BOUVEAU",
+        "longitude": "45.1788907",
+        "latitude": "4.8156825"
+    },
+    {
+        "activity": "Agence d'assurance · 28 Rue du Faubourg Vinay",
+        "enseigne": "Assurance Generali - Cabinet Villard",
+        "longitude": "45.1550314",
+        "latitude": "5.3236668"
+    },
+    {
+        "activity": "Agence d'assurance · 9 Rue de L Hôpital",
+        "enseigne": "generali, BRUNEL ET ASSOCIES ASSUREURS",
+        "longitude": "44.8999732",
+        "latitude": "5.0183836"
+    },
+    {
+        "activity": "Agence d'assurance · 171 Place Bernigal Guillermin",
+        "enseigne": "Assurance Generali - Sarl Herve Latour Assurances",
+        "longitude": "45.9205427",
+        "latitude": "4.585819"
+    },
+    {
+        "activity": "Agence d'assurance · 80 Rue Henri Depagneux",
+        "enseigne": "generali, SEBASTIEN TOULET",
+        "longitude": "45.9769829",
+        "latitude": "4.7166447"
+    },
+    {
+        "activity": "Agence d'assurance · 31 Boulevard Jean Mathon",
+        "enseigne": "generali w acces clients",
+        "longitude": "44.6189098",
+        "latitude": "4.3864884"
+    },
+    {
+        "activity": "Courtier d'assurances · 5 Rue de l'Industrie",
+        "enseigne": "GENERALI Courtier RISK SOLUTIONS",
+        "longitude": "44.6186788",
+        "latitude": "4.3894491"
+    },
+    {
+        "activity": "Agence d'assurance · 1 Rue de l'Hotel de Ville",
+        "enseigne": "Assurance Generali - Gie Generali Agence St Vallier",
+        "longitude": "45.1788905",
+        "latitude": "4.8157037"
+    },
+    {
+        "activity": "Avocat en droit des assurances · 39 Rue Jean Moulin",
+        "enseigne": "agence generali",
+        "longitude": "46.031609",
+        "latitude": "4.0738828"
+    },
+    {
+        "activity": "Agence d'assurance",
+        "enseigne": "Generali",
+        "longitude": "44.8936244",
+        "latitude": "6.6361399"
+    },
+    {
+        "activity": "Compagnie d'assurance · Ashford House, Tara St",
+        "enseigne": "Generali PanEurope",
+        "longitude": "53.3464782",
+        "latitude": "-6.2548597"
+    }
+]
