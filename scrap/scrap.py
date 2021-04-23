@@ -1,7 +1,3 @@
-import time
-from urllib.parse import unquote
-
-import time
 from urllib.parse import unquote
 
 import numpy as np
@@ -13,89 +9,15 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from handle_requests import get_requetes
-from write_data import append_data
+from utils.handle_requests import get_requetes
+from utils.write_data import append_data
 
+from utils.scraping_utilities import check_agreement_google, unscroll, check_comp_name, check_n_results
 import warnings
 import time
 
-def check_n_results(driver):
-    """
 
-    :param driver: une instance webdriver
-    :return: True s'il y a une liste de résultat à la requête, false s'il n'y a qu'un résultat.
-    Cette distinction est nécessaire puisque l'affichage sur google est différent.
-    """
-    try:
-        elem = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[1]/div[1]/button/img")
-        size = elem.size["width"]
-        if size == 408.0 or size == 426.0:
-            print("One result")
-            return False
-        else:
-            
-            warnings.warn("Never saw this before ! Check this query ! Image format : " + str(size))
-            return True
-    except:
-        return True
-    #return max(len(driver.find_elements_by_xpath("//img[contains(@class,'section-result-action-icon')]")),
-    #           len(driver.find_elements_by_xpath("//img[contains(@class, 'iRxY3GoUYUY__icon')]")))
-
-
-def check_comp_name(driver, comp_name, enseigne, activity, x_path, authorized_activites = None):
-    """
-
-    :param driver: Une instance webdriver
-    :param comp_name: Le nom de l'entreprise a scrapper
-    :param enseigne: Le nom de l'enseigne à cette adresse, par exemple le premier résultat de carrefour ile de France renvoie l'adresse : Carrefour bercy
-    :param activity: L'activité à cette adresse, (hypermarché, supermarché, station service, banque ....)
-    par exemple le premier résultat de carrefour ile de France est, renvoie l'adresse : Hypermarché, centre commercial bercy 2, Place de l'Europe.
-    :param x_path: le x_path à examiner
-    :param authorized_activites: Les activités authorisées pour cette enseigne, à faire !
-    :return: True si l'adresse appartient à l'entreprise
-    False sinon.
-    """
-    comp_name = comp_name.lower()
-    enseigne = unquote(enseigne.lower())
-    activity = unquote(activity.lower())
-    if authorized_activites is None:
-        authorized_activites = [activity]
-
-
-    try:
-        return ((comp_name in activity or comp_name in enseigne or comp_name.lower() in driver.find_element_by_xpath(
-            x_path).get_attribute("href")) & np.sum([activity in auth_activity for auth_activity in authorized_activites]) >= 1)
-    except selenium.common.exceptions.NoSuchElementException:
-        try:
-            return ((comp_name in activity or comp_name in enseigne or comp_name in driver.find_element_by_xpath(
-                x_path).text ) and np.sum([activity in auth_activity for auth_activity in authorized_activites]) >= 1)
-        except selenium.common.exceptions.NoSuchElementException:
-            return (comp_name in enseigne or comp_name in activity) and np.sum([activity in auth_activity for auth_activity in authorized_activites]) >= 1
-    except TypeError:
-        return comp_name in enseigne or comp_name in activity
-
-
-def check_agreement_google(driver, timeout=20):
-    """
-
-    :param driver: Une instance webdriver
-    :param timeout: Un temps d'attente maximal
-    :return: Une instance webdriver après avoir accepté les conditions google.
-    """
-    try:
-        # WebDriverWait(driver, timeout).until(
-        # EC.frame_to_be_available_and_switch_to_it((By.XPATH, "/html/body/jsl/div[2]/div/div[1]/iframe")))
-        WebDriverWait(driver, timeout).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="introAgreeButton"]')))
-        driver.switch_to.frame(driver.find_elements_by_xpath("/html/body/jsl/div[2]/div/div[1]/iframe"))
-        driver.find_element_by_xpath('//*[@id="introAgreeButton"]').click()
-    except selenium.common.exceptions.TimeoutException:
-        WebDriverWait(driver, timeout).until(
-            EC.frame_to_be_available_and_switch_to_it((By.XPATH, "/html/body/jsl/div[2]/div/div[1]/iframe")))
-        driver.find_element_by_xpath('//*[@id="introAgreeButton"]').click()
-    driver.switch_to.parent_frame()
-    return driver
-
-def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping = "World", verif=True):
+def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping = "World", verif=True, scroll=True):
     """
     Version améliorée.
     :param timeout: Temps d'attente maximal
@@ -117,20 +39,19 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
     n_activities = len(requetes) // len(gps_loc)
     np.random.shuffle(requetes)
     print(requetes)
-
-
+    requete = requetes[0]
+    failed_agreement = False
+    new_agreement_form = False
     for i, requete in enumerate(requetes):
+        # On lance le navigateur.
+        driver = webdriver.Firefox(options=options)
         print("-----------------------------")
         print("Requete {n}/{n_requetes}".format(n=i+1, n_requetes=len(requetes)))
         print("-----------------------------")
-        failed_agreement = False
-        new_agreement_form = False
-        #On lance le navigateur.
-        driver = webdriver.Firefox(options=options)
         print("requests : ", requete)
-        #On met la recherche directement dans l'URL et on place la carte sur cette requête.
+        # On met la recherche directement dans l'URL et on place la carte sur cette requête.
         url = "https://www.google.fr/maps/search/{requete}/@{lat},{long},3z".format(
-            requete=requete, lat=gps_loc[i // n_activities][0], long=gps_loc[i // n_activities][1])
+            requete=requete, lat=gps_loc[0][0], long=gps_loc[0][1])
         driver.get(url)
         try:
             driver = check_agreement_google(driver, timeout)
@@ -142,12 +63,13 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
             print("Check agreement took to long, failed")
         if failed_agreement:
             try:
-                driver.find_element_by_xpath("/html/body/div/c-wiz/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button").click()
+                driver.find_element_by_xpath(
+                    "/html/body/div/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button").click()
                 failed_agreement = False
                 new_agreement_form = True
                 time.sleep(2.5)
             except:
-                failed_agreement=True
+                failed_agreement = True
                 print("last check failed")
         print("agreement : ", failed_agreement)
         #Si on a passé la première étape (accpeter les cookies/CGU ...)
@@ -268,7 +190,8 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                     print("failed adress")
         driver.quit()
 
+
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v2(timeout=5, comp_name="Total", mapping="world", driver_options=True, verif=True)
+    get_loc_comp_v2(timeout=5, comp_name="Generali", driver_options=False, verif=True, scroll=True)
     print("Temps de scrapping : ", time.time() - debut)

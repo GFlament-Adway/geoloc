@@ -11,17 +11,17 @@ def append_data(data, file):
     comp_name = file
     file += ".json"
     try:
-        with open("json_db/" + file, "r", encoding="utf-8") as json_file:
+        with open("../json_db/" + file, "r", encoding="utf-8") as json_file:
             past_data = json.load(json_file)
             if data not in past_data:
                 print("adding to db : ", data)
                 past_data += [data]
-                with open("json_db/" + file, "w", encoding="utf-8") as json_file:
+                with open("../json_db/" + file, "w", encoding="utf-8") as json_file:
                     json.dump(past_data, json_file, indent=4, ensure_ascii=False)
             else :
                 print("Already in db : ", data)
     except FileNotFoundError:
-        with open("json_db/" + file, "w", encoding="utf-8") as json_file:
+        with open("../json_db/" + file, "w", encoding="utf-8") as json_file:
             json.dump([data], json_file, indent=4, ensure_ascii=False)
 
 def read_data(path):
