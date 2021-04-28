@@ -4372,5 +4372,82 @@
             "taux_pos": 0,
             "positive_requests": 0
         }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.90877833878202,
+                20.37724175268363
+            ],
+            "requete": 20,
+            "taux_pos": 0.3333333333333333,
+            "positive_requests": 12
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.850794313043565,
+                18.966219397668354
+            ],
+            "requete": 21,
+            "taux_pos": 0.3111111111111111,
+            "positive_requests": 45
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.850794313043565,
+                11.558352033838158
+            ],
+            "requete": 22,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.587891529439155,
+                -4.315649460083689
+            ],
+            "requete": 23,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.97708459140401,
+                0.2701731937159568
+            ],
+            "requete": 24,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.96676236452048,
+                -2.551871516314595
+            ],
+            "requete": 25,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.47192347796224,
+                -0.7880935725455007
+            ],
+            "requete": 26,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
     }
 ]

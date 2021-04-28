@@ -8,18 +8,20 @@ from utils.write_data import read_data
 if __name__ == "__main__":
     colors = list(BASE_COLORS.keys()) + list(TABLEAU_COLORS.keys()) + list(CSS4_COLORS.keys())
     entreprise = "Aldi"
-    map = Basemap(projection='merc', llcrnrlat=-80, urcrnrlat=80, \
-                  llcrnrlon=-180, urcrnrlon=180, lat_ts=10, resolution='l')
+
     #map = Basemap(projection='merc', llcrnrlat=39, urcrnrlat=53.697, \
     #              llcrnrlon=-14, urcrnrlon=18.259, lat_ts=10, resolution='l')
 
-    map.drawcoastlines()
-    map.drawcountries()
+
     plt.title("{comp_name} ".format(comp_name=entreprise))
     data = read_data("../dev/dev_db/{entreprise}.json".format(entreprise=entreprise))
-    # map.bluemarble()
-    map.drawcountries()
     gps_coordinates = np.array([[np.float(loc["longitude"]), np.float(loc["latitude"])] for loc in data])
+    map = Basemap(projection='merc', llcrnrlat=np.min(gps_coordinates.T[0]), urcrnrlat=np.max(gps_coordinates.T[0]), \
+                  llcrnrlon=np.min(gps_coordinates.T[1]), urcrnrlon=np.max(gps_coordinates.T[1]), lat_ts=20, resolution='l')
+    # map.bluemarble()
+    map.drawcoastlines()
+    map.drawcountries()
+
     loc_activities = [line["activity"] for line in data]
     activities = list(dict.fromkeys(loc_activities))
     label_plotted = {activity: 0 for activity in activities}

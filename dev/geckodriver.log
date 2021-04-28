@@ -3194,3 +3194,11 @@ JavaScript warning: https://www.google.fr/maps/search/Aldi line 1346 > injectedS
 JavaScript warning: https://www.google.fr/maps/search/Aldi line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
 JavaScript warning: https://www.google.fr/maps/search/Aldi line 1346 > injectedScript, line 5174: After reporting 32, no further warnings will be reported for this WebGL context.
 JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.pkhXakaLvKg.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGt7TOlwtDGhsA9VV6V6exPXsBENw, line 6705: TypeError: f is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.pkhXakaLvKg.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGt7TOlwtDGhsA9VV6V6exPXsBENw, line 6705: TypeError: f is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619605126542	Marionette	INFO	Stopped listening on port 35969
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

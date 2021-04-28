@@ -36424,5 +36424,113 @@
         "enseigne": "ALDI",
         "longitude": "50.2425603",
         "latitude": "19.1601975"
+    },
+    {
+        "activity": "Supermarché · Stanisława Żółkiewskiego 8",
+        "enseigne": "Aldi",
+        "longitude": "50.2339606",
+        "latitude": "18.6613802"
+    },
+    {
+        "activity": "Pharmacie · 1905 Roku 2/8",
+        "enseigne": "Apteka (ALDI)",
+        "longitude": "51.3924362",
+        "latitude": "21.1474598"
+    },
+    {
+        "activity": "Primeur · Wesoła 4",
+        "enseigne": "Hurtowania Warzyw i Owoców Aldi Fresh",
+        "longitude": "50.852571",
+        "latitude": "19.9654299"
+    },
+    {
+        "activity": "Boulangerie · Świętego Antoniego 71",
+        "enseigne": "Cukiernia Mazurek (przy ALDI)",
+        "longitude": "51.5234324",
+        "latitude": "20.0176673"
+    },
+    {
+        "activity": "Épicerie · Pasaréti út 98",
+        "enseigne": "ALDI",
+        "longitude": "47.5130867",
+        "latitude": "19.0573552"
+    },
+    {
+        "activity": "Épicerie · Huszti út 33",
+        "enseigne": "ALDI",
+        "longitude": "47.5061389",
+        "latitude": "19.0502389"
+    },
+    {
+        "activity": "Épicerie · Gödöllői út 2",
+        "enseigne": "ALDI",
+        "longitude": "47.4541911",
+        "latitude": "19.0882966"
+    },
+    {
+        "activity": "Épicerie · Hadak útja 9",
+        "enseigne": "ALDI",
+        "longitude": "47.4890959",
+        "latitude": "19.0645679"
+    },
+    {
+        "activity": "Épicerie · Sopron út 60",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Kerepesi út 73",
+        "enseigne": "ALDI",
+        "longitude": "47.4913225",
+        "latitude": "19.0310277"
+    },
+    {
+        "activity": "Épicerie · Fehérkő u. 5",
+        "enseigne": "ALDI",
+        "longitude": "47.5130867",
+        "latitude": "19.0573552"
+    },
+    {
+        "activity": "Épicerie · Szabadság út 1/e",
+        "enseigne": "ALDI",
+        "longitude": "47.5061389",
+        "latitude": "19.0502389"
+    },
+    {
+        "activity": "Épicerie · Hofherr Albert u. 40/a",
+        "enseigne": "ALDI",
+        "longitude": "47.4541911",
+        "latitude": "19.0882966"
+    },
+    {
+        "activity": "Épicerie · Kondorosi út 7",
+        "enseigne": "ALDI",
+        "longitude": "47.4890959",
+        "latitude": "19.0645679"
+    },
+    {
+        "activity": "Épicerie · Régi Fóti út 64",
+        "enseigne": "ALDI",
+        "longitude": "47.4879159",
+        "latitude": "19.8876071"
+    },
+    {
+        "activity": "Épicerie · Bökényföldi út 102",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Bécsi út 35-36",
+        "enseigne": "ALDI",
+        "longitude": "47.4913225",
+        "latitude": "19.0310277"
+    },
+    {
+        "activity": "Borne de recharge de véhicules électriques · Jászberény, Jászberény, 26",
+        "enseigne": "ALDI Charging Station",
+        "longitude": "47.4876928",
+        "latitude": "19.8872793"
     }
 ]

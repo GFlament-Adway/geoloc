@@ -36,13 +36,12 @@ def check_n_results(driver):
         elem = driver.find_element_by_xpath(
             "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[1]/div[1]/button/img")
         size = elem.size["width"]
-        if size == 408.0 or size == 426.0:
+        if size == 408.0 or size == 426.0 or size == 480.0:
             print("One result")
             return False
         else:
-
             warnings.warn("Never saw this before ! Check this query ! Image format : " + str(size))
-            return True
+            return False
     except:
         return True
     # return max(len(driver.find_elements_by_xpath("//img[contains(@class,'section-result-action-icon')]")),
