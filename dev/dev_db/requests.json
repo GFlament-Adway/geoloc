@@ -2,18 +2,19 @@
     {
         "requete": {
             "loc": [
-                50.5625194950764,
-                2.642129866687501
+                52.6142007591458,
+                1.6287053469879254
             ],
             "requete": 1,
-            "taux_pos": 1.0
+            "taux_pos": 1.0,
+            "positive_requests": 26
         }
     },
     {
         "requete": {
             "loc": [
-                53.01055520466621,
-                1.0010461588255886
+                47.83557774706192,
+                -6.547271970627348
             ],
             "requete": 2,
             "taux_pos": 0
@@ -22,18 +23,39 @@
     {
         "requete": {
             "loc": [
-                51.058442592411524,
-                -0.13963592112829493
+                51.241571980039446,
+                0.026719431717468822
             ],
-            "requete": 3,
-            "taux_pos": 1.0
+            "requete": 1,
+            "taux_pos": 0
         }
     },
     {
         "requete": {
             "loc": [
-                50.31829819936175,
-                -3.8931101678297972
+                46.76170120289687,
+                -2.219588328824095
+            ],
+            "requete": 2,
+            "taux_pos": 1.0,
+            "positive_requests": 8
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.470264737327696,
+                -7.125982837658292
+            ],
+            "requete": 3,
+            "taux_pos": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.4515046480704,
+                -9.609931195340351
             ],
             "requete": 4,
             "taux_pos": 0
@@ -42,18 +64,19 @@
     {
         "requete": {
             "loc": [
-                54.94234954106186,
-                2.759689539583535
+                43.744911741366316,
+                -6.894159134426001
             ],
             "requete": 5,
-            "taux_pos": 0
+            "taux_pos": 0.5934065934065934,
+            "positive_requests": 91
         }
     },
     {
         "requete": {
             "loc": [
-                58.73465458913312,
-                2.6339547648769126
+                57.3039127753974,
+                -6.061320974119912
             ],
             "requete": 6,
             "taux_pos": 0
@@ -62,28 +85,28 @@
     {
         "requete": {
             "loc": [
-                44.82394992985773,
-                3.877397810396647
+                58.25255508175498,
+                3.125521593864109
             ],
             "requete": 7,
-            "taux_pos": 0.7956989247311828
+            "taux_pos": 0
         }
     },
     {
         "requete": {
             "loc": [
-                47.51737038202701,
-                2.577727005485422
+                57.67061035082672,
+                6.863434912721888
             ],
             "requete": 8,
-            "taux_pos": 1.0
+            "taux_pos": 0
         }
     },
     {
         "requete": {
             "loc": [
-                51.95708992160784,
-                -0.039423786080589274
+                58.23537875855058,
+                7.915215317787746
             ],
             "requete": 9,
             "taux_pos": 0
@@ -92,18 +115,18 @@
     {
         "requete": {
             "loc": [
-                53.17099391525765,
-                -3.651059327046483
+                73.62523110141055,
+                3.316246751972674
             ],
             "requete": 10,
-            "taux_pos": 1.0
+            "taux_pos": 0
         }
     },
     {
         "requete": {
             "loc": [
-                64.8757381171159,
-                -17.673382555068287
+                71.19633786755263,
+                4.630952456978791
             ],
             "requete": 11,
             "taux_pos": 0
@@ -112,8 +135,8 @@
     {
         "requete": {
             "loc": [
-                76.39095154505154,
-                -10.978167182838677
+                62.34609492585565,
+                2.877980238036706
             ],
             "requete": 12,
             "taux_pos": 0
@@ -122,8 +145,8 @@
     {
         "requete": {
             "loc": [
-                74.16895932938446,
-                -9.208535545858153
+                60.7603473660405,
+                -0.3319284425344633
             ],
             "requete": 13,
             "taux_pos": 0
@@ -132,8 +155,8 @@
     {
         "requete": {
             "loc": [
-                73.86013962176617,
-                -3.7188990460528144
+                67.89433907609381,
+                1.146810487225199
             ],
             "requete": 14,
             "taux_pos": 0
@@ -142,11 +165,4212 @@
     {
         "requete": {
             "loc": [
-                75.17028915000814,
-                -6.541274730919069
+                64.01358756632804,
+                -0.14223650266307586
             ],
             "requete": 15,
             "taux_pos": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                71.55541196499175,
+                -5.431122706743499
+            ],
+            "requete": 16,
+            "taux_pos": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.82768175611673,
+                2.5316473451110078
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                58.65434732700943,
+                3.604705909070673
+            ],
+            "requete": 2,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.3099627090623,
+                5.309095155364494
+            ],
+            "requete": 3,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.45213805279916,
+                1.5500273618140081
+            ],
+            "requete": 4,
+            "taux_pos": 1.0,
+            "positive_requests": 88
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.52055571847966,
+                6.065117716575757
+            ],
+            "requete": 5,
+            "taux_pos": 1.0,
+            "positive_requests": 64
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.889517395881086,
+                12.844461122595305
+            ],
+            "requete": 6,
+            "taux_pos": 0.9646017699115044,
+            "positive_requests": 226
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.303483920347105,
+                7.01071872342405
+            ],
+            "requete": 7,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.27387149036568,
+                9.59277126596249
+            ],
+            "requete": 8,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.36559873540471,
+                10.894373781520056
+            ],
+            "requete": 9,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.841471091043736,
+                7.898853922400199
+            ],
+            "requete": 10,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.9780810983776,
+                4.053570109175209
+            ],
+            "requete": 11,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.10577461796132,
+                5.937137871479788
+            ],
+            "requete": 12,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.265427030743695,
+                6.204696386262127
+            ],
+            "requete": 13,
+            "taux_pos": 0.6923076923076923,
+            "positive_requests": 26
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                55.123094171723324,
+                0.7559630045233043
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.521392849801465,
+                2.4199172136544473
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 7
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.888802808938635,
+                2.4199172136544473
+            ],
+            "requete": 2,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.29426725465657,
+                12.934111903011171
+            ],
+            "requete": 1,
+            "taux_pos": 0.7022900763358778,
+            "positive_requests": 131
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.632035375611814,
+                12.934111903011171
+            ],
+            "requete": 2,
+            "taux_pos": 0.8461538461538461,
+            "positive_requests": 182
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.62753138324218,
+                0.36141895288116155
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.480080023946925,
+                16.647715674374485
+            ],
+            "requete": 2,
+            "taux_pos": 0.8819875776397516,
+            "positive_requests": 161
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.480080023946925,
+                16.647715674374485
+            ],
+            "requete": 3,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 4,
+            "taux_pos": 0.4380952380952381,
+            "positive_requests": 105
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 5,
+            "taux_pos": 0.5909090909090909,
+            "positive_requests": 154
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 6,
+            "taux_pos": 0.24528301886792453,
+            "positive_requests": 159
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 7,
+            "taux_pos": 0.37446808510638296,
+            "positive_requests": 235
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 8,
+            "taux_pos": 0.08849557522123894,
+            "positive_requests": 113
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.064563764683754,
+                15.348009379633904
+            ],
+            "requete": 9,
+            "taux_pos": 0.25630252100840334,
+            "positive_requests": 238
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.51028248289276,
+                3.7265183624530365
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.02937764268968,
+                3.7265183624530365
+            ],
+            "requete": 2,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.5546222783415,
+                3.7265183624530365
+            ],
+            "requete": 3,
+            "taux_pos": 0.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.614188791630816,
+                3.7265183624530365
+            ],
+            "requete": 4,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.517229170198654,
+                3.7265183624530365
+            ],
+            "requete": 5,
+            "taux_pos": 0.9047619047619048,
+            "positive_requests": 21
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.598093976879355,
+                3.7265183624530365
+            ],
+            "requete": 6,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.639836647574384,
+                3.7265183624530365
+            ],
+            "requete": 7,
+            "taux_pos": 1.0,
+            "positive_requests": 5
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.68057118988547,
+                3.7265183624530365
+            ],
+            "requete": 8,
+            "taux_pos": 0.72,
+            "positive_requests": 50
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.189112929841315,
+                3.7265183624530365
+            ],
+            "requete": 9,
+            "taux_pos": 0.3898305084745763,
+            "positive_requests": 236
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.95538604778611,
+                3.7265183624530365
+            ],
+            "requete": 10,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 11,
+            "taux_pos": 0.9625,
+            "positive_requests": 80
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 12,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 13,
+            "taux_pos": 0.5185185185185185,
+            "positive_requests": 54
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 14,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 15,
+            "taux_pos": 0.1,
+            "positive_requests": 80
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.65833708589864,
+                7.815373405128035
+            ],
+            "requete": 16,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.82717256994348,
+                11.00341803583952
+            ],
+            "requete": 17,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 18,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 19,
+            "taux_pos": 0.6956521739130435,
+            "positive_requests": 69
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 20,
+            "taux_pos": 0.17307692307692307,
+            "positive_requests": 52
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 21,
+            "taux_pos": 0.19444444444444445,
+            "positive_requests": 36
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 22,
+            "taux_pos": 0.0,
+            "positive_requests": 42
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 23,
+            "taux_pos": 0.36,
+            "positive_requests": 50
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 24,
+            "taux_pos": 0.0,
+            "positive_requests": 56
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 25,
+            "taux_pos": 0.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.75206482297035,
+                18.79680510443334
+            ],
+            "requete": 26,
+            "taux_pos": 0.0,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.395189913224286,
+                0.021466666237230925
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.28379691971469,
+                15.826549697016368
+            ],
+            "requete": 2,
+            "taux_pos": 0.8931297709923665,
+            "positive_requests": 131
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.28379691971469,
+                15.826549697016368
+            ],
+            "requete": 3,
+            "taux_pos": 0.017699115044247787,
+            "positive_requests": 113
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.28379691971469,
+                15.826549697016368
+            ],
+            "requete": 4,
+            "taux_pos": 1.0,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.28379691971469,
+                15.826549697016368
+            ],
+            "requete": 5,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 6,
+            "taux_pos": 1.0,
+            "positive_requests": 7
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 7,
+            "taux_pos": 0.961038961038961,
+            "positive_requests": 77
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 8,
+            "taux_pos": 0.8636363636363636,
+            "positive_requests": 22
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 9,
+            "taux_pos": 0.2631578947368421,
+            "positive_requests": 57
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 10,
+            "taux_pos": 0.20689655172413793,
+            "positive_requests": 87
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 11,
+            "taux_pos": 0.13157894736842105,
+            "positive_requests": 38
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.82416226707155,
+                -3.49948278718953
+            ],
+            "requete": 12,
+            "taux_pos": 0.14130434782608695,
+            "positive_requests": 92
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.7350159271308,
+                2.8800289846621685
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 17
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.93294863791671,
+                2.8800289846621685
+            ],
+            "requete": 2,
+            "taux_pos": 0.7721518987341772,
+            "positive_requests": 158
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.14623396067204,
+                2.8800289846621685
+            ],
+            "requete": 3,
+            "taux_pos": 0.2826086956521739,
+            "positive_requests": 92
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.75154575945566,
+                2.8800289846621685
+            ],
+            "requete": 4,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 5,
+            "taux_pos": 0.0,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 6,
+            "taux_pos": 0.037037037037037035,
+            "positive_requests": 27
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 7,
+            "taux_pos": 0.2,
+            "positive_requests": 5
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 8,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 9,
+            "taux_pos": 0.0,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 10,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 11,
+            "taux_pos": 0.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 12,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 13,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 14,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 15,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 16,
+            "taux_pos": 0.06451612903225806,
+            "positive_requests": 31
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 17,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.035516262180096,
+                20.723837186125582
+            ],
+            "requete": 18,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.97663836248769,
+                11.923464155334678
+            ],
+            "requete": 19,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.82800691580668,
+                4.123425847334358
+            ],
+            "requete": 20,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 21,
+            "taux_pos": 0.8571428571428571,
+            "positive_requests": 7
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 22,
+            "taux_pos": 0.7142857142857143,
+            "positive_requests": 7
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 23,
+            "taux_pos": 0.8387096774193549,
+            "positive_requests": 124
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 24,
+            "taux_pos": 0.27941176470588236,
+            "positive_requests": 204
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 25,
+            "taux_pos": 0.23404255319148937,
+            "positive_requests": 94
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 26,
+            "taux_pos": 0.22377622377622378,
+            "positive_requests": 143
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 27,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 28,
+            "taux_pos": 0.6428571428571429,
+            "positive_requests": 56
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 29,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 30,
+            "taux_pos": 0.5,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 31,
+            "taux_pos": 0.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.157993962720084,
+                -1.6089397532292846
+            ],
+            "requete": 32,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.13980465243739,
+                -7.591580749079512
+            ],
+            "requete": 33,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.312993878091774,
+                -1.2112523489079532
+            ],
+            "requete": 34,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.240639196426386,
+                12.646267399802237
+            ],
+            "requete": 35,
+            "taux_pos": 0.6277372262773723,
+            "positive_requests": 137
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.240639196426386,
+                12.646267399802237
+            ],
+            "requete": 36,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.061870839299104,
+                15.000817070529706
+            ],
+            "requete": 37,
+            "taux_pos": 0.8714285714285714,
+            "positive_requests": 70
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.061870839299104,
+                15.000817070529706
+            ],
+            "requete": 38,
+            "taux_pos": 0.6363636363636364,
+            "positive_requests": 132
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.061870839299104,
+                15.000817070529706
+            ],
+            "requete": 39,
+            "taux_pos": 0.3392857142857143,
+            "positive_requests": 56
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.061870839299104,
+                15.000817070529706
+            ],
+            "requete": 40,
+            "taux_pos": 0.54,
+            "positive_requests": 200
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.061870839299104,
+                15.000817070529706
+            ],
+            "requete": 41,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.18326880822116,
+                1.8314790038865343
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 2,
+            "taux_pos": 0.937984496124031,
+            "positive_requests": 258
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 3,
+            "taux_pos": 0.8947368421052632,
+            "positive_requests": 152
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 4,
+            "taux_pos": 0.5859872611464968,
+            "positive_requests": 157
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 5,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 6,
+            "taux_pos": 0.6561264822134387,
+            "positive_requests": 253
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 7,
+            "taux_pos": 0.23529411764705882,
+            "positive_requests": 238
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 8,
+            "taux_pos": 0.8677685950413223,
+            "positive_requests": 121
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 9,
+            "taux_pos": 0.45714285714285713,
+            "positive_requests": 140
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 10,
+            "taux_pos": 0.5535714285714286,
+            "positive_requests": 224
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 11,
+            "taux_pos": 0.21875,
+            "positive_requests": 192
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.135933470503545,
+                6.0245915788633795
+            ],
+            "requete": 12,
+            "taux_pos": 0.3120567375886525,
+            "positive_requests": 141
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.24557872195783,
+                2.1216566509092774
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 2,
+            "taux_pos": 1.0,
+            "positive_requests": 21
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 3,
+            "taux_pos": 0.5895953757225434,
+            "positive_requests": 346
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 4,
+            "taux_pos": 0.25,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 5,
+            "taux_pos": 0.37662337662337664,
+            "positive_requests": 77
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 6,
+            "taux_pos": 0.5,
+            "positive_requests": 18
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.098029021789415,
+                14.773501138136194
+            ],
+            "requete": 7,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 8,
+            "taux_pos": 1.0,
+            "positive_requests": 9
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 9,
+            "taux_pos": 0.25,
+            "positive_requests": 12
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 10,
+            "taux_pos": 0.5789473684210527,
+            "positive_requests": 38
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 11,
+            "taux_pos": 0.4,
+            "positive_requests": 15
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 12,
+            "taux_pos": 0.5517241379310345,
+            "positive_requests": 29
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 13,
+            "taux_pos": 0.3333333333333333,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.315570046614894,
+                12.775237190778657
+            ],
+            "requete": 14,
+            "taux_pos": 0.0,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.89027665665474,
+                3.4473195844064604
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.95933438766923,
+                3.4473195844064604
+            ],
+            "requete": 2,
+            "taux_pos": 0.9827586206896551,
+            "positive_requests": 58
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.62146160224504,
+                3.4473195844064604
+            ],
+            "requete": 3,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.507399389126036,
+                18.212476321388703
+            ],
+            "requete": 4,
+            "taux_pos": 1.0,
+            "positive_requests": 80
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.507399389126036,
+                18.212476321388703
+            ],
+            "requete": 5,
+            "taux_pos": 0.4418604651162791,
+            "positive_requests": 129
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.507399389126036,
+                18.212476321388703
+            ],
+            "requete": 6,
+            "taux_pos": 0.03875968992248062,
+            "positive_requests": 129
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.81825777953446,
+                -1.1088087387301404
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 53
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.42488972870272,
+                -8.670156096702723
+            ],
+            "requete": 2,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.13872793227738,
+                4.092829558042316
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.02271509000011,
+                -6.701183304804987
+            ],
+            "requete": 2,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.28910698029161,
+                2.5751084370850164
+            ],
+            "requete": 1,
+            "taux_pos": 0.6349206349206349,
+            "positive_requests": 126
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.68019415898597,
+                9.368347154477608
+            ],
+            "requete": 2,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                55.49175629165546,
+                23.12388067247477
+            ],
+            "requete": 3,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.82054021128826,
+                17.91297862304955
+            ],
+            "requete": 4,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.62115592851647,
+                14.887911260056331
+            ],
+            "requete": 5,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.280821976146456,
+                24.2312631562598
+            ],
+            "requete": 6,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.78347416379955,
+                18.413512593159975
+            ],
+            "requete": 7,
+            "taux_pos": 0.09333333333333334,
+            "positive_requests": 75
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.745193624863646,
+                17.607658880834844
+            ],
+            "requete": 8,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.87441682002565,
+                -4.11470740692001
+            ],
+            "requete": 9,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.26882003107022,
+                -9.092636665881908
+            ],
+            "requete": 10,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.766463203749154,
+                22.337123123931228
+            ],
+            "requete": 11,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.197287328843046,
+                10.397473703842937
+            ],
+            "requete": 12,
+            "taux_pos": 1.0,
+            "positive_requests": 175
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.949713013960825,
+                -1.406259299151456
+            ],
+            "requete": 13,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.77604448956254,
+                -1.8382326372742597
+            ],
+            "requete": 14,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.9023734029083,
+                7.5157459801024835
+            ],
+            "requete": 15,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                33.83187414091657,
+                -1.9062714229052595
+            ],
+            "requete": 16,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.63335073914187,
+                -9.44721040601102
+            ],
+            "requete": 17,
+            "taux_pos": 1.0,
+            "positive_requests": 39
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.03703036028782,
+                22.187964435824732
+            ],
+            "requete": 18,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.996343071269294,
+                13.857969734968396
+            ],
+            "requete": 19,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.93434819187764,
+                20.94566955077981
+            ],
+            "requete": 20,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.0490441285666,
+                14.776229288477051
+            ],
+            "requete": 21,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                31.86475704032767,
+                10.068539791738491
+            ],
+            "requete": 22,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.4629889675303,
+                15.96722807768763
+            ],
+            "requete": 23,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.59888672138418,
+                -0.5652247101111136
+            ],
+            "requete": 24,
+            "taux_pos": 1.0,
+            "positive_requests": 36
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.39172616637033,
+                -5.76430311661577
+            ],
+            "requete": 25,
+            "taux_pos": 0.946236559139785,
+            "positive_requests": 93
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                33.46243800217105,
+                15.840417826528334
+            ],
+            "requete": 26,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.12334515595548,
+                11.256873779239363
+            ],
+            "requete": 27,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.474246532077814,
+                12.139315750395642
+            ],
+            "requete": 28,
+            "taux_pos": 0.676056338028169,
+            "positive_requests": 71
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                55.93541256676873,
+                9.795532222655257
+            ],
+            "requete": 29,
+            "taux_pos": 1.0,
+            "positive_requests": 52
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.675790095234504,
+                1.1240698955475548
+            ],
+            "requete": 30,
+            "taux_pos": 0.8617021276595744,
+            "positive_requests": 94
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.94208671648519,
+                9.273725139455578
+            ],
+            "requete": 31,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.039821662867666,
+                7.889101269446627
+            ],
+            "requete": 32,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.03185169402197,
+                10.220799574467051
+            ],
+            "requete": 33,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.41998204926584,
+                24.963064406483277
+            ],
+            "requete": 34,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.132159311434734,
+                23.307712925492133
+            ],
+            "requete": 35,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.12978889197367,
+                10.347557129839164
+            ],
+            "requete": 36,
+            "taux_pos": 0.9797297297297297,
+            "positive_requests": 148
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                36.28198870603333,
+                11.926151099956932
+            ],
+            "requete": 37,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.7712675224646,
+                13.493424789374572
+            ],
+            "requete": 38,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.451041676287204,
+                21.120314804726576
+            ],
+            "requete": 39,
+            "taux_pos": 1.0,
+            "positive_requests": 16
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                33.51561347877868,
+                9.049889239116101
+            ],
+            "requete": 40,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.8848792469756,
+                10.389809307859647
+            ],
+            "requete": 41,
+            "taux_pos": 0.972972972972973,
+            "positive_requests": 37
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                36.40835271216188,
+                -7.13602246504664
+            ],
+            "requete": 42,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.606287289393954,
+                3.556530919008054
+            ],
+            "requete": 43,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                31.61331860784172,
+                -3.002705365585731
+            ],
+            "requete": 44,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.57618092444974,
+                11.105677168457895
+            ],
+            "requete": 45,
+            "taux_pos": 0.5072463768115942,
+            "positive_requests": 138
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.86868738673853,
+                13.818421870990392
+            ],
+            "requete": 46,
+            "taux_pos": 0.8636363636363636,
+            "positive_requests": 88
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.589650181665384,
+                10.845133408033298
+            ],
+            "requete": 47,
+            "taux_pos": 1.0,
+            "positive_requests": 19
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.339026963031294,
+                5.1559547593389325
+            ],
+            "requete": 48,
+            "taux_pos": 1.0,
+            "positive_requests": 34
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.47514722011946,
+                -2.740308190134207
+            ],
+            "requete": 49,
+            "taux_pos": 0.8842975206611571,
+            "positive_requests": 121
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.88979270472118,
+                8.895234346988577
+            ],
+            "requete": 50,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                30.779311648206004,
+                2.711040553938391
+            ],
+            "requete": 51,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                33.45854506009484,
+                13.443120297225562
+            ],
+            "requete": 52,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.221665910697446,
+                14.29302710781873
+            ],
+            "requete": 53,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.968566398498396,
+                -6.4823463151435226
+            ],
+            "requete": 54,
+            "taux_pos": 0.85,
+            "positive_requests": 20
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.291947547928416,
+                17.079945104238696
+            ],
+            "requete": 55,
+            "taux_pos": 0.8888888888888888,
+            "positive_requests": 9
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.787966576285214,
+                20.42925323308664
+            ],
+            "requete": 56,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.773660148070206,
+                -9.395081960331733
+            ],
+            "requete": 57,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.173541284124184,
+                -8.148565672097906
+            ],
+            "requete": 58,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.84048478342721,
+                10.568595252580877
+            ],
+            "requete": 1,
+            "taux_pos": 0.6165413533834586,
+            "positive_requests": 133
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.07736811192165,
+                -4.199049265845204
+            ],
+            "requete": 2,
+            "taux_pos": 0.9060773480662984,
+            "positive_requests": 181
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.13697399135829,
+                22.08818366782227
+            ],
+            "requete": 3,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.752649744695916,
+                7.6261252630084755
+            ],
+            "requete": 4,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.843033353657276,
+                -4.005775450362111
+            ],
+            "requete": 5,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.87840237531721,
+                9.659929119478083
+            ],
+            "requete": 6,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.51956718225473,
+                -9.807144877816038
+            ],
+            "requete": 7,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.382590486370056,
+                14.934502778901404
+            ],
+            "requete": 8,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.92633774137021,
+                23.30753559053172
+            ],
+            "requete": 9,
+            "taux_pos": 1.0,
+            "positive_requests": 11
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.08785096992193,
+                18.255157293064553
+            ],
+            "requete": 10,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.49529022550369,
+                6.299043452792141
+            ],
+            "requete": 11,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.02177637660351,
+                -8.644477286608582
+            ],
+            "requete": 12,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.90765925160042,
+                21.802503770391095
+            ],
+            "requete": 13,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.283212606306535,
+                21.704628001813347
+            ],
+            "requete": 14,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.39484359873987,
+                -9.95973888014479
+            ],
+            "requete": 15,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.40664351676777,
+                -1.3114629196828407
+            ],
+            "requete": 16,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                31.999029113914585,
+                1.1625775084065548
+            ],
+            "requete": 17,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.43189350792931,
+                6.40644393006016
+            ],
+            "requete": 1,
+            "taux_pos": 0.31333333333333335,
+            "positive_requests": 150
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.652094989506814,
+                6.249612947642227
+            ],
+            "requete": 2,
+            "taux_pos": 0.9411764705882353,
+            "positive_requests": 17
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.28182581152752,
+                3.209058805010782
+            ],
+            "requete": 1,
+            "taux_pos": 0.18032786885245902,
+            "positive_requests": 61
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.40256902055347,
+                3.209058805010782
+            ],
+            "requete": 2,
+            "taux_pos": 0.16666666666666666,
+            "positive_requests": 66
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.84874102483304,
+                3.209058805010782
+            ],
+            "requete": 3,
+            "taux_pos": 0.9852941176470589,
+            "positive_requests": 68
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.44373826369511,
+                3.209058805010782
+            ],
+            "requete": 4,
+            "taux_pos": 0.2,
+            "positive_requests": 65
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.12974386347498,
+                1.9787566224409514
+            ],
+            "requete": 1,
+            "taux_pos": 0.49019607843137253,
+            "positive_requests": 102
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.22219790323869,
+                1.9787566224409514
+            ],
+            "requete": 2,
+            "taux_pos": 0.0,
+            "positive_requests": 102
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.08340008925029,
+                2.6840941584562437
+            ],
+            "requete": 3,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.43738799483999,
+                3.9818336724137673
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.19048378898236,
+                5.324501807391572
+            ],
+            "requete": 2,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 3,
+            "taux_pos": 0.5786516853932584,
+            "positive_requests": 178
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 4,
+            "taux_pos": 0.9929577464788732,
+            "positive_requests": 142
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 5,
+            "taux_pos": 0.4166666666666667,
+            "positive_requests": 12
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 6,
+            "taux_pos": 0.3522012578616352,
+            "positive_requests": 159
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 7,
+            "taux_pos": 0.3333333333333333,
+            "positive_requests": 60
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.02458479668307,
+                8.43206501951325
+            ],
+            "requete": 8,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.254495418700216,
+                17.310233801369993
+            ],
+            "requete": 9,
+            "taux_pos": 0.5,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.72103501969768,
+                1.8016770362649863
+            ],
+            "requete": 1,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.694021361687945,
+                1.9018154540896566
+            ],
+            "requete": 1,
+            "taux_pos": 0.6853932584269663,
+            "positive_requests": 89
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.22004606331853,
+                1.9018154540896566
+            ],
+            "requete": 2,
+            "taux_pos": 0.7804878048780488,
+            "positive_requests": 164
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.02028011303846,
+                1.9018154540896566
+            ],
+            "requete": 3,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.24453028367694,
+                -9.679159909821365
+            ],
+            "requete": 4,
+            "taux_pos": 0.4,
+            "positive_requests": 45
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.24453028367694,
+                -9.679159909821365
+            ],
+            "requete": 5,
+            "taux_pos": 0.3173076923076923,
+            "positive_requests": 104
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.24453028367694,
+                -9.679159909821365
+            ],
+            "requete": 6,
+            "taux_pos": 0.1566265060240964,
+            "positive_requests": 83
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.24453028367694,
+                -9.679159909821365
+            ],
+            "requete": 7,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                31.087797049063912,
+                4.298387632775643
+            ],
+            "requete": 8,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 9,
+            "taux_pos": 1.0,
+            "positive_requests": 54
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 10,
+            "taux_pos": 0.9130434782608695,
+            "positive_requests": 23
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 11,
+            "taux_pos": 0.6666666666666666,
+            "positive_requests": 3
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 12,
+            "taux_pos": 0.43478260869565216,
+            "positive_requests": 23
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 13,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 14,
+            "taux_pos": 0.7228915662650602,
+            "positive_requests": 166
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 15,
+            "taux_pos": 0.36363636363636365,
+            "positive_requests": 22
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 16,
+            "taux_pos": 0.68,
+            "positive_requests": 25
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 17,
+            "taux_pos": 0.75,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.75584529174358,
+                3.628548879257613
+            ],
+            "requete": 18,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.40049975312263,
+                0.004586634911643017
+            ],
+            "requete": 19,
+            "taux_pos": 1.0,
+            "positive_requests": 5
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.40049975312263,
+                0.004586634911643017
+            ],
+            "requete": 20,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.44050500869901,
+                3.266983322090004
+            ],
+            "requete": 21,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.90714410949574,
+                2.304375961579481
+            ],
+            "requete": 22,
+            "taux_pos": 0.6666666666666666,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.90714410949574,
+                2.304375961579481
+            ],
+            "requete": 23,
+            "taux_pos": 0.16666666666666666,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.90714410949574,
+                2.304375961579481
+            ],
+            "requete": 24,
+            "taux_pos": 0.6666666666666666,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.90714410949574,
+                2.304375961579481
+            ],
+            "requete": 25,
+            "taux_pos": 0.09230769230769231,
+            "positive_requests": 65
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.319136416950855,
+                -3.930578876424107
+            ],
+            "requete": 26,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.25074536014796,
+                -4.932526261673467
+            ],
+            "requete": 27,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.943477792915424,
+                23.129683964598293
+            ],
+            "requete": 28,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.080376199825,
+                16.349745665491447
+            ],
+            "requete": 29,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.621906503284634,
+                -1.0343728762989883
+            ],
+            "requete": 30,
+            "taux_pos": 0.8461538461538461,
+            "positive_requests": 13
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.621906503284634,
+                -1.0343728762989883
+            ],
+            "requete": 31,
+            "taux_pos": 0.76,
+            "positive_requests": 25
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.621906503284634,
+                -1.0343728762989883
+            ],
+            "requete": 32,
+            "taux_pos": 0.5897435897435898,
+            "positive_requests": 39
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.621906503284634,
+                -1.0343728762989883
+            ],
+            "requete": 33,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.540348835367645,
+                14.862752557687664
+            ],
+            "requete": 34,
+            "taux_pos": 1.0,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.540348835367645,
+                14.862752557687664
+            ],
+            "requete": 35,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.93619686676732,
+                5.959516606949361
+            ],
+            "requete": 36,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.780659882307816,
+                -2.708181823904864
+            ],
+            "requete": 37,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.73290191983666,
+                0.2988760249608795
+            ],
+            "requete": 38,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.640795996560364,
+                14.219146209586864
+            ],
+            "requete": 39,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.644063889731854,
+                11.880995574409276
+            ],
+            "requete": 40,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.0276142470161,
+                6.227630328243389
+            ],
+            "requete": 41,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.59044227550764,
+                0.18538823012976735
+            ],
+            "requete": 42,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.79584473099688,
+                0.475745095670117
+            ],
+            "requete": 43,
+            "taux_pos": 0.6326530612244898,
+            "positive_requests": 49
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.79584473099688,
+                0.475745095670117
+            ],
+            "requete": 44,
+            "taux_pos": 0.30864197530864196,
+            "positive_requests": 81
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.79584473099688,
+                0.475745095670117
+            ],
+            "requete": 45,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                33.80557463377485,
+                13.51889033672322
+            ],
+            "requete": 46,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.65153300027203,
+                17.141535532683463
+            ],
+            "requete": 47,
+            "taux_pos": 0.0,
+            "positive_requests": 26
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.25424748349023,
+                -6.652283905649693
+            ],
+            "requete": 48,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.95390139027198,
+                17.54879965286216
+            ],
+            "requete": 49,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.95390139027198,
+                17.54879965286216
+            ],
+            "requete": 50,
+            "taux_pos": 0.8846153846153846,
+            "positive_requests": 26
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.95390139027198,
+                17.54879965286216
+            ],
+            "requete": 51,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.69994870132513,
+                -0.9496437608007557
+            ],
+            "requete": 53,
+            "taux_pos": 0.7866666666666666,
+            "positive_requests": 150
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.69994870132513,
+                -0.9496437608007557
+            ],
+            "requete": 54,
+            "taux_pos": 1.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.69994870132513,
+                -0.9496437608007557
+            ],
+            "requete": 55,
+            "taux_pos": 0.39361702127659576,
+            "positive_requests": 94
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.69994870132513,
+                -0.9496437608007557
+            ],
+            "requete": 56,
+            "taux_pos": 0.4315068493150685,
+            "positive_requests": 146
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.69994870132513,
+                -0.9496437608007557
+            ],
+            "requete": 57,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.31708158296465,
+                -1.7478240841164183
+            ],
+            "requete": 58,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.28998737176696,
+                -0.796662007475673
+            ],
+            "requete": 59,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.869094080423764,
+                24.206819537280715
+            ],
+            "requete": 60,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.76719117220607,
+                -0.9659368597972371
+            ],
+            "requete": 61,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                34.7145552016283,
+                24.75555978017705
+            ],
+            "requete": 62,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.65630087457948,
+                5.847523825794015
+            ],
+            "requete": 63,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                36.730551643343986,
+                1.1323987836340823
+            ],
+            "requete": 64,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                36.730551643343986,
+                1.1323987836340823
+            ],
+            "requete": 65,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                30.37659988025239,
+                24.35807626832578
+            ],
+            "requete": 66,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.922336022169624,
+                7.639375859725934
+            ],
+            "requete": 67,
+            "taux_pos": 0.7204968944099379,
+            "positive_requests": 161
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.922336022169624,
+                7.639375859725934
+            ],
+            "requete": 68,
+            "taux_pos": 0.17370892018779344,
+            "positive_requests": 213
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.922336022169624,
+                7.639375859725934
+            ],
+            "requete": 69,
+            "taux_pos": 0.09401709401709402,
+            "positive_requests": 234
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 70,
+            "taux_pos": 0.8191489361702128,
+            "positive_requests": 188
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 71,
+            "taux_pos": 0.7413793103448276,
+            "positive_requests": 174
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 72,
+            "taux_pos": 0.5595854922279793,
+            "positive_requests": 193
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 73,
+            "taux_pos": 0.5248618784530387,
+            "positive_requests": 181
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 74,
+            "taux_pos": 0.8458333333333333,
+            "positive_requests": 240
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.447022239719175,
+                8.952655660378287
+            ],
+            "requete": 75,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.416640942586646,
+                17.56340918517828
+            ],
+            "requete": 76,
+            "taux_pos": 0.75,
+            "positive_requests": 16
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.416640942586646,
+                17.56340918517828
+            ],
+            "requete": 77,
+            "taux_pos": 0.05555555555555555,
+            "positive_requests": 18
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.732198524377736,
+                23.428561067870433
+            ],
+            "requete": 78,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                45.33707175120188,
+                11.159718639994086
+            ],
+            "requete": 79,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.17059728344401,
+                -7.084392095562055
+            ],
+            "requete": 80,
+            "taux_pos": 0.0,
+            "positive_requests": 2
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.05719520151618,
+                22.79280072477401
+            ],
+            "requete": 81,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.67406304830526,
+                18.11060824608873
+            ],
+            "requete": 82,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 83,
+            "taux_pos": 0.7377049180327869,
+            "positive_requests": 122
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 84,
+            "taux_pos": 0.29411764705882354,
+            "positive_requests": 34
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 85,
+            "taux_pos": 0.12121212121212122,
+            "positive_requests": 33
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 86,
+            "taux_pos": 0.2773109243697479,
+            "positive_requests": 119
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 87,
+            "taux_pos": 0.18666666666666668,
+            "positive_requests": 75
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 88,
+            "taux_pos": 0.42953020134228187,
+            "positive_requests": 149
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 89,
+            "taux_pos": 0.3305084745762712,
+            "positive_requests": 118
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 90,
+            "taux_pos": 0.8,
+            "positive_requests": 5
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 91,
+            "taux_pos": 0.17857142857142858,
+            "positive_requests": 28
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 92,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                47.77534640184578,
+                18.979871583209047
+            ],
+            "requete": 93,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.475231681461196,
+                5.481748761210767
+            ],
+            "requete": 94,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.969710120700995,
+                6.595122210117122
+            ],
+            "requete": 95,
+            "taux_pos": 1.0,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.969710120700995,
+                6.595122210117122
+            ],
+            "requete": 96,
+            "taux_pos": 0.5166666666666667,
+            "positive_requests": 240
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.969710120700995,
+                6.595122210117122
+            ],
+            "requete": 97,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.42488093802652,
+                4.407066457961797
+            ],
+            "requete": 98,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                56.35679092708147,
+                1.8750214083207357
+            ],
+            "requete": 99,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.94681705669007,
+                6.260194004876002
+            ],
+            "requete": 100,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.959312021043075,
+                19.779611846445633
+            ],
+            "requete": 101,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.43893793084511,
+                5.630597799383818
+            ],
+            "requete": 102,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.238226314175606,
+                -3.956961571060164
+            ],
+            "requete": 103,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                57.15077145829778,
+                0.865613835499417
+            ],
+            "requete": 104,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.60694340598481,
+                4.073338249479246
+            ],
+            "requete": 105,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.74884397117104,
+                7.501168153718229
+            ],
+            "requete": 106,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.47690932518963,
+                24.87525137509703
+            ],
+            "requete": 107,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.696765527538005,
+                8.973023637437823
+            ],
+            "requete": 108,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.50098205659087,
+                13.459845523700487
+            ],
+            "requete": 109,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.49631305066674,
+                -1.061822991328837
+            ],
+            "requete": 110,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.92392311781353,
+                23.221365028713592
+            ],
+            "requete": 111,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.022391068787044,
+                -4.422980326604587
+            ],
+            "requete": 112,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.18259641136602,
+                22.041597637071476
+            ],
+            "requete": 113,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                44.98297190110453,
+                24.373529717367703
+            ],
+            "requete": 114,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.45212801271073,
+                -3.6265579146218885
+            ],
+            "requete": 115,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.370197373124256,
+                21.057687612998176
+            ],
+            "requete": 116,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.512582477197235,
+                10.73623351027804
+            ],
+            "requete": 117,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                35.75583183550306,
+                6.947333310061076
+            ],
+            "requete": 118,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.659848409870406,
+                -4.86606632496326
+            ],
+            "requete": 119,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                49.78283547629239,
+                15.309580334992965
+            ],
+            "requete": 120,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                32.95098871773632,
+                21.418486394845324
+            ],
+            "requete": 121,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.824827920313204,
+                -5.624617509332008
+            ],
+            "requete": 122,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                41.038852607618736,
+                10.387029845907307
+            ],
+            "requete": 123,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.43858209194563,
+                16.899741510996098
+            ],
+            "requete": 124,
+            "taux_pos": 0.8,
+            "positive_requests": 10
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.43858209194563,
+                16.899741510996098
+            ],
+            "requete": 125,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.27681801684821,
+                -3.784995947092841
+            ],
+            "requete": 126,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                38.27558421698277,
+                22.77919938508748
+            ],
+            "requete": 127,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.93885081135244,
+                11.48363031595079
+            ],
+            "requete": 128,
+            "taux_pos": 0.775,
+            "positive_requests": 40
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                39.98740681828754,
+                13.322129977607254
+            ],
+            "requete": 1,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.47192347796224,
+                10.147329678822885
+            ],
+            "requete": 2,
+            "taux_pos": 0.5882352941176471,
+            "positive_requests": 34
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                52.21934292124136,
+                7.678040557546151
+            ],
+            "requete": 3,
+            "taux_pos": 0.7037037037037037,
+            "positive_requests": 135
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                48.72450403468312,
+                7.678040557546151
+            ],
+            "requete": 4,
+            "taux_pos": 0.6,
+            "positive_requests": 65
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                40.42426167910732,
+                16.496930276391623
+            ],
+            "requete": 5,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.90877833878202,
+                5.20875143626942
+            ],
+            "requete": 6,
+            "taux_pos": 0.417910447761194,
+            "positive_requests": 67
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.96676236452048,
+                5.561507025023239
+            ],
+            "requete": 7,
+            "taux_pos": 0.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                37.36627765336886,
+                16.144174687637804
+            ],
+            "requete": 8,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.09305264288092,
+                12.263863211345797
+            ],
+            "requete": 9,
+            "taux_pos": 0.6666666666666666,
+            "positive_requests": 15
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.035068617142464,
+                13.322129977607254
+            ],
+            "requete": 10,
+            "taux_pos": 1.0,
+            "positive_requests": 1
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.09305264288092,
+                -6.7849385813604215
+            ],
+            "requete": 11,
+            "taux_pos": 1.0,
+            "positive_requests": 6
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                43.91910056566555,
+                -3.96289387132987
+            ],
+            "requete": 12,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                54.840472086160034,
+                8.736307323807608
+            ],
+            "requete": 13,
+            "taux_pos": 0.9222222222222223,
+            "positive_requests": 90
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                42.60853598320621,
+                14.380396743868712
+            ],
+            "requete": 14,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                46.10337486976445,
+                9.441818501315247
+            ],
+            "requete": 15,
+            "taux_pos": 1.0,
+            "positive_requests": 4
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                55.71418180779959,
+                14.380396743868712
+            ],
+            "requete": 16,
+            "taux_pos": 0,
+            "positive_requests": 0
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.47192347796224,
+                17.55519704265308
+            ],
+            "requete": 17,
+            "taux_pos": 0.1282051282051282,
+            "positive_requests": 78
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                53.09305264288092,
+                15.438663510130166
+            ],
+            "requete": 18,
+            "taux_pos": 0,
+            "positive_requests": 0
         }
     }
 ]

@@ -7,16 +7,45 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 
-from utils.write_data import append_data, write_data
-
-from utils.scraping_utilities import check_agreement_google, unscroll, scroll, check_comp_name, check_n_results, wait_new_url
+from utils.write_data import append_data, write_data, read_data
+from utils.scraping_utilities import check_agreement_google, unscroll, scroll, check_comp_name, check_n_results, \
+    wait_new_url
 import warnings
 import time
 
 from utils.math import distance
+from kde import kernel_ridge
+
+def get_new_loc(past_loc, max_dist=300):
+    """
+
+    :param past_loc:
+    :param max_dist:
+    :param comp: Nom de l'entreprise
+    :return:
+    """
+
+    data = read_data("../dev/dev_db/requests.json")
+    loc = np.array([[data[i]["requete"]["loc"][1], data[i]["requete"]["loc"][0]] for i in range(len(data))])
+    n_positives = []
+    for k in range(len(data)):
+        try:
+            n_positives += [float(data[k]["requete"]["positive_requests"])]
+        except KeyError:
+            n_positives += [0]
+    xx, yy, z, kde = kernel_ridge(loc, n_positives)
+    lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
+    i = 1
+    while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist for k in range(len(past_loc))]):
+        i += 1
+        lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i], z.shape)
+    return xx[lat, lon], yy[lat,lon]
 
 
-def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
+
+
+
+def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat = 25, lower_lat= -10, upper_lon = 58, lower_lon = 30):
     """
     Version améliorée.
     :param timeout: Temps d'attente maximal
@@ -71,13 +100,16 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
     prop_new_loc = []
     max_dist = 300
     n_move = 0
+    past_loc = []
     while 1:
         maps = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[1]/div[3]")
         webdriver.ActionChains(driver).double_click(maps).perform()
         n = check_n_results(driver)
         if prop_new_loc.count(False) > 0:
             print(prop_new_loc.count(True) / prop_new_loc.count(False))
-        obj_lat, obj_long = move_map(maps, 3, driver, max_dist)
+        print("############ Moving map ##################")
+        obj_lat, obj_long = move_map(maps, 3, driver, max_dist, past_loc)
+        past_loc += [[obj_lat, obj_long]]
         prop_new_loc = []
         print("is type 1 : ", n)
         n_move += 1
@@ -123,6 +155,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                         print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
                         if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > max_dist:
                             k = 42
+                            save = False
                         add = add.replace("+", " ")
                         enseigne = add.split("/")[5]
                     except AttributeError:
@@ -158,7 +191,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
                         is_new = append_data(
                             {"activity": unquote(activity), "enseigne": unquote(enseigne),
                              "longitude": unquote(gps[0]), "latitude": unquote(gps[1])},
-                            comp_name, path = "dev_db/")
+                            comp_name, path="dev_db/")
                         prop_new_loc += [is_new]
 
                     try:
@@ -195,27 +228,28 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll):
             if prop_new_loc.count(False) + prop_new_loc.count(True) > 0:
                 append_data({"requete": {"loc": [obj_long, obj_lat],
                                          "requete": n_move,
-                                         "taux_pos": prop_new_loc.count(True) / (prop_new_loc.count(False) + prop_new_loc.count(True))}},
-                            file="requests", path = "dev_db/")
-            else :
+                                         "taux_pos": prop_new_loc.count(True) / (
+                                                     prop_new_loc.count(False) + prop_new_loc.count(True)),
+                                         "positive_requests": len(prop_new_loc)}},
+                            file="requests", path="dev_db/")
+            elif prop_new_loc.count(False) + prop_new_loc.count(True) == 0:
                 append_data({"requete": {"loc": [obj_long, obj_lat],
                                          "requete": n_move,
-                                         "taux_pos": 0}},
+                                         "taux_pos": 0,
+                                         "positive_requests": 0}},
                             file="requests", path="dev_db/")
-        else:
-            move_map(maps, 0, driver, max_dist)
         unscroll(driver, '//*[@id="widget-zoom-out"]', 1)
 
 
-def move_map(maps, n_key_press, driver, max_dist):
+def move_map(maps, n_key_press, driver, max_dist, past_loc, obj_lat = None, obj_lon = None):
     url = driver.current_url
     lon = float(url.split("@")[1].split(",")[0])
     lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
     dist = 0.2
-    obj_lat = lat + np.random.uniform(-1, 1) * np.random.normal() * 10
-    obj_lon = lon + np.random.uniform(-1, 1) * np.random.normal() * 10
-    print(obj_lat, obj_lon)
-    while distance(obj_lon, obj_lat, lon, lat) > max_dist / 3:
+    if obj_lat is None and obj_lon is None:
+        obj_lat, obj_lon = get_new_loc(past_loc, max_dist)
+    print("going to : ", obj_lat, obj_lon, "from : ", lat, lon)
+    while distance(obj_lon, obj_lat, lon, lat) > max_dist / 3 or abs(obj_lon - lon) > 2*dist or abs(obj_lat - lat) > 2*dist:
         should_unscroll = False
         should_scroll = False
         url = driver.current_url
@@ -228,7 +262,7 @@ def move_map(maps, n_key_press, driver, max_dist):
             url = driver.current_url
             if abs(lon - float(url.split("@")[1].split(",")[0])) < dist:
                 should_unscroll = True
-            if abs(lon - float(url.split("@")[1].split(",")[0])) > 5*dist:
+            if abs(lon - float(url.split("@")[1].split(",")[0])) > 3 * dist:
                 should_scroll = True
             lon = float(url.split("@")[1].split(",")[0])
         elif lon - obj_lon < -dist:
@@ -240,7 +274,7 @@ def move_map(maps, n_key_press, driver, max_dist):
             url = driver.current_url
             if abs(lon - float(url.split("@")[1].split(",")[0])) < dist:
                 should_unscroll = True
-            if abs(lon - float(url.split("@")[1].split(",")[0])) > 5*dist:
+            if abs(lon - float(url.split("@")[1].split(",")[0])) > 3 * dist:
                 should_scroll = True
             lon = float(url.split("@")[1].split(",")[0])
         if lat - obj_lat > dist:
@@ -252,7 +286,7 @@ def move_map(maps, n_key_press, driver, max_dist):
             url = driver.current_url
             if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) < dist:
                 should_unscroll = True
-            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 5*dist:
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 3 * dist:
                 should_scroll = True
             lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
         elif lat - obj_lat < -dist:
@@ -264,7 +298,7 @@ def move_map(maps, n_key_press, driver, max_dist):
             url = driver.current_url
             if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) < dist:
                 should_unscroll = True
-            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 5*dist:
+            if abs(lat - float(url.split("@")[1].split(",")[1].replace("z", ""))) > 3 * dist:
                 should_scroll
             lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
         if should_unscroll:
@@ -273,13 +307,15 @@ def move_map(maps, n_key_press, driver, max_dist):
             scroll(driver)
     time.sleep(3)
     if not check_n_results(driver):
+        time.sleep(1)
         driver.find_element_by_xpath('//*[@id="searchbox-searchbutton"]').click()
         print("click on research button")
-    time.sleep(2)
+
+    time.sleep(4)
     return obj_lat, obj_lon
 
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v3(timeout=5, comp_name="Generali", driver_options=False, verif=True, scroll=True)
+    get_loc_comp_v3(timeout=5, comp_name="Aldi", driver_options=False, verif=True, scroll=True)
     print("Temps de scrapping : ", time.time() - debut)

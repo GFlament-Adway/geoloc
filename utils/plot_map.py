@@ -7,7 +7,7 @@ from utils.write_data import read_data
 
 if __name__ == "__main__":
     colors = list(BASE_COLORS.keys()) + list(TABLEAU_COLORS.keys()) + list(CSS4_COLORS.keys())
-    entreprise = "Generali"
+    entreprise = "Aldi"
     map = Basemap(projection='merc', llcrnrlat=-80, urcrnrlat=80, \
                   llcrnrlon=-180, urcrnrlon=180, lat_ts=10, resolution='l')
     #map = Basemap(projection='merc', llcrnrlat=39, urcrnrlat=53.697, \
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     map.drawcoastlines()
     map.drawcountries()
     plt.title("{comp_name} ".format(comp_name=entreprise))
-    data = read_data("../json_db/{entreprise}.json".format(entreprise=entreprise))
+    data = read_data("../dev/dev_db/{entreprise}.json".format(entreprise=entreprise))
     # map.bluemarble()
     map.drawcountries()
     gps_coordinates = np.array([[np.float(loc["longitude"]), np.float(loc["latitude"])] for loc in data])
