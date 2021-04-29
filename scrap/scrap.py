@@ -145,7 +145,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                             pass
                     except selenium.common.exceptions.NoSuchElementException:
                         try:
-                            driver.find_element_by_xpath('//*[@id="n7lv7yjyC35__section-pagination-button-next"]').click()
+                            driver.find_element_by_xpath('//*[@id="mapsConsumerUiSubviewSectionGm2Pagination__section-pagination-button-next"]').click()
                             time.sleep(2.5)
                             k = 1
                         except:
@@ -193,5 +193,5 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v2(timeout=5, comp_name="Generali", driver_options=False, verif=True, scroll=True)
+    get_loc_comp_v2(timeout=5, comp_name="boulangerie", driver_options=True, verif=True, scroll=True, mapping="departement")
     print("Temps de scrapping : ", time.time() - debut)

@@ -35,7 +35,7 @@ def kde2D(x, y, bandwith=1, xbins=500j, ybins=500j, **kwargs):
     return xx, yy, np.reshape(z, xx.shape), kde_skl
 
 def kernel_ridge(loc, Y, xbins=100j, ybins=100j):
-    neigh = RadiusNeighborsRegressor(radius=3)
+    neigh = RadiusNeighborsRegressor(radius=2)
     print(len(Y))
     neigh.fit(loc, Y)
 
@@ -71,7 +71,6 @@ if __name__ == "__main__":
                 n_positives += [0]
         xx, yy, zz, kde = kernel_ridge(loc, n_positives)
     plt.figure()
-    print(yy.min(), yy.max(), xx.min(), xx.max())
     m = Basemap(projection='cyl', llcrnrlat=max(yy.min(), -90), urcrnrlat=min(yy.max(), 90), llcrnrlon=max(xx.min(), - 180), urcrnrlon=min(180, xx.max()),
                 resolution='l', lat_ts=20)
     m.drawcoastlines()

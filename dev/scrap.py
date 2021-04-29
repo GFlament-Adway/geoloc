@@ -16,7 +16,7 @@ import time
 from utils.math import distance
 from kde import kernel_ridge
 
-def get_new_loc(past_loc, max_dist=300):
+def get_new_loc(past_loc, max_dist=300, threshold = 0.9):
     """
 
     :param past_loc:
@@ -34,12 +34,22 @@ def get_new_loc(past_loc, max_dist=300):
         except KeyError:
             n_positives += [0]
     xx, yy, z, kde = kernel_ridge(loc, n_positives)
-    lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
-    i = 1
-    while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist for k in range(len(past_loc))]):
-        i += 1
-        lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i], z.shape)
-    return xx[lat, lon], yy[lat,lon]
+    if np.random.uniform(0,1) > threshold:
+        lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
+        i = 1
+        while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist/2 for k in range(len(past_loc))]):
+            i += 1
+            lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i], z.shape)
+        return xx[lat, lon], yy[lat,lon]
+    else:
+        lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
+        i = 1
+        while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist for k in
+                      range(len(past_loc))]):
+            i += 1
+            lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i-np.random.randint(20, 50)], z.shape)
+        return xx[lat, lon], yy[lat, lon]
+
 
 
 
@@ -126,22 +136,25 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                         activity = driver.find_element_by_xpath(
                             "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div[2]/div[1]/div[2]/span[4]".format(
                                 k=k)).text
+                        activity = activity.split("·")[0]
                     except selenium.common.exceptions.NoSuchElementException:
                         try:
                             activity = driver.find_element_by_xpath(
                                 "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div[{k}]/div[2]/div[1]/div[2]/span[4]".format(
                                     k=k)).text
-
+                            activity = activity.split("·")[0]
                         except selenium.common.exceptions.NoSuchElementException:
                             try:
                                 activity = driver.find_element_by_xpath(
                                     "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div[{k}]/div/div/div[2]/div[1]/div/div/div/div[4]/div[1]".format(
                                         k=k)).text
+                                activity = activity.split("·")[0]
                             except selenium.common.exceptions.NoSuchElementException:
                                 try:
                                     activity = driver.find_element_by_xpath(
                                         "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[1]/div[{k}]/div/div[2]/div[2]/div[1]/div/div/div/div[1]/div".format(
                                             k=k + 4)).text
+                                    activity = activity.split("·")[0]
                                 except:
                                     warnings.warn("Can't find activity")
                                     activity = ""
@@ -153,8 +166,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                         gps = [lat[2:] for lat in add.split("!")[-2:]]
                         gps[1] = gps[1].split("?")[0]
                         print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
-                        if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > max_dist:
-                            k = 42
+                        if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 2*max_dist:
                             save = False
                         add = add.replace("+", " ")
                         enseigne = add.split("/")[5]
@@ -168,8 +180,8 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                             gps = [lat[2:] for lat in add.split("!")[-2:]]
                             gps[1] = gps[1].split("?")[0]
                             print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
-                            if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 150:
-                                k = 42
+                            if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 2*max_dist:
+                                save = False
                             add = add.replace("+", " ")
                             enseigne = add.split("/")[5]
                         except:
@@ -180,7 +192,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                     k += 2
                     # On vérifie si le point appartient bien à l'entreprise.
                     if verif:
-                        print(comp_name, enseigne, activity)
+                        print(activity)
                         is_comp = check_comp_name(driver, comp_name, enseigne, activity, x_path)
                     else:
                         is_comp = True
@@ -217,9 +229,11 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                         time.sleep(2)
                         driver.find_element_by_xpath(
                             '//*[@id="n7lv7yjyC35__section-pagination-button-next"]').click()
-                        time.sleep(2.5)
+                        time.sleep(4.5)
                         k = 1
                     except:
+                        print("Next page failed")
+                        time.sleep(2)
                         warnings.warn("Unable to find destination and next button")
                         k = 42
                     pass
@@ -311,11 +325,21 @@ def move_map(maps, n_key_press, driver, max_dist, past_loc, obj_lat = None, obj_
         driver.find_element_by_xpath('//*[@id="searchbox-searchbutton"]').click()
         print("click on research button")
 
+        try :
+            time.sleep(2)
+            driver.find_element_by_xpath(
+                '//*[@id="n7lv7yjyC35__section-pagination-button-next"]').click()
+            time.sleep(2)
+            driver.find_element_by_xpath(
+                '//*[@id="n7lv7yjyC35__section-pagination-button-prev"]').click()
+        except:
+            pass
+        time.sleep(2.5)
     time.sleep(4)
     return obj_lat, obj_lon
 
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v3(timeout=5, comp_name="Aldi", driver_options=False, verif=True, scroll=True)
+    get_loc_comp_v3(timeout=5, comp_name="Decathlon", driver_options=False, verif=True, scroll=True)
     print("Temps de scrapping : ", time.time() - debut)

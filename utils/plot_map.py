@@ -7,15 +7,16 @@ from utils.write_data import read_data
 
 if __name__ == "__main__":
     colors = list(BASE_COLORS.keys()) + list(TABLEAU_COLORS.keys()) + list(CSS4_COLORS.keys())
-    entreprise = "Aldi"
+    entreprise = "Decathlon"
 
     #map = Basemap(projection='merc', llcrnrlat=39, urcrnrlat=53.697, \
     #              llcrnrlon=-14, urcrnrlon=18.259, lat_ts=10, resolution='l')
 
 
     plt.title("{comp_name} ".format(comp_name=entreprise))
-    data = read_data("../dev/dev_db/{entreprise}.json".format(entreprise=entreprise))
+    data = read_data("../json_db/{entreprise}.json".format(entreprise=entreprise))
     gps_coordinates = np.array([[np.float(loc["longitude"]), np.float(loc["latitude"])] for loc in data])
+    print(np.min(gps_coordinates.T[0]), np.max(gps_coordinates.T[0]))
     map = Basemap(projection='merc', llcrnrlat=np.min(gps_coordinates.T[0]), urcrnrlat=np.max(gps_coordinates.T[0]), \
                   llcrnrlon=np.min(gps_coordinates.T[1]), urcrnrlon=np.max(gps_coordinates.T[1]), lat_ts=20, resolution='l')
     # map.bluemarble()

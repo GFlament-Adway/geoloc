@@ -36532,5 +36532,3473 @@
         "enseigne": "ALDI Charging Station",
         "longitude": "47.4876928",
         "latitude": "19.8872793"
+    },
+    {
+        "activity": "Parking",
+        "enseigne": "Parkplatz Aldi",
+        "longitude": "50.4023357",
+        "latitude": "10.0173716"
+    },
+    {
+        "activity": "Supermarché · 92 Route de Marienthal",
+        "enseigne": "ALDI",
+        "longitude": "49.1807785",
+        "latitude": "6.8907075"
+    },
+    {
+        "activity": "Supermarché · Martin-Luther-Straße 58",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.3553902",
+        "latitude": "8.1534266"
+    },
+    {
+        "activity": "Supermarché · Berliner Str. 120",
+        "enseigne": "Aldi Süd",
+        "longitude": "49.3394698",
+        "latitude": "7.3371474"
+    },
+    {
+        "activity": "Supermarché · Maximilianstraße 34",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.7993186",
+        "latitude": "8.1179732"
+    },
+    {
+        "activity": "Supermarché · Saar-Pfalz-Straße 63",
+        "enseigne": "Aldi",
+        "longitude": "49.2175273",
+        "latitude": "7.1901481"
+    },
+    {
+        "activity": "Supermarché · Oststraße 82",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.2694181",
+        "latitude": "7.1328418"
+    },
+    {
+        "activity": "Supermarché · Industriestraße 10",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.1370571",
+        "latitude": "7.7993107"
+    },
+    {
+        "activity": "Supermarché · Am Stadtbad 15",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.313576",
+        "latitude": "7.3307994"
+    },
+    {
+        "activity": "Supermarché · Irrgartenstraße 15-17",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.3421855",
+        "latitude": "7.1782079"
+    },
+    {
+        "activity": "Supermarché · Hauptstraße 80A",
+        "enseigne": "Aldi Süd",
+        "longitude": "49.3178861",
+        "latitude": "7.1531217"
+    },
+    {
+        "activity": "Supermarché · Kleinottweilerstraße 75",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.3553902",
+        "latitude": "8.1534266"
+    },
+    {
+        "activity": "Supermarché · Bliestalstraße 114",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.2369897",
+        "latitude": "7.2678919"
+    },
+    {
+        "activity": "Supermarché · Untere Bliesstraße 63a",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.7993186",
+        "latitude": "8.1179732"
+    },
+    {
+        "activity": "Supermarché · Schillerstraße 47",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.3659744",
+        "latitude": "7.1820646"
+    },
+    {
+        "activity": "Supermarché · Obere Kaiserstraße 3",
+        "enseigne": "ALDI SÜD",
+        "longitude": "49.2854612",
+        "latitude": "7.1500443"
+    },
+    {
+        "activity": "Supermarché",
+        "enseigne": "Aldi",
+        "longitude": "48.7718483",
+        "latitude": "7.2407649"
+    },
+    {
+        "activity": "Supermarché · Weisgutstraße 20",
+        "enseigne": "ALDI",
+        "longitude": "51.7591983",
+        "latitude": "8.6630929"
+    },
+    {
+        "activity": "Supermarché · Sassenberger Str. 57",
+        "enseigne": "ALDI",
+        "longitude": "51.957108",
+        "latitude": "8.005907"
+    },
+    {
+        "activity": "Supermarché · Lilienweg 2",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.1217363",
+        "latitude": "7.9017953"
+    },
+    {
+        "activity": "Supermarché · Fürstenberger Str. 26",
+        "enseigne": "ALDI Büren",
+        "longitude": "51.5458276",
+        "latitude": "8.564191"
+    },
+    {
+        "activity": "Supermarché · Zinsdorfer Weg 31",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.5230534",
+        "latitude": "8.705868"
+    },
+    {
+        "activity": "Supermarché · Westfalenstraße 14",
+        "enseigne": "ALDI Nord",
+        "longitude": "51.8231917",
+        "latitude": "8.6584051"
+    },
+    {
+        "activity": "Supermarché · Rosenstraße 8",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.90953",
+        "latitude": "8.73566"
+    },
+    {
+        "activity": "Supermarché · Klingenbergstraße 20",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.949571",
+        "latitude": "8.8535551"
+    },
+    {
+        "activity": "Supermarché · Rabenhof 78",
+        "enseigne": "Aldi Nord",
+        "longitude": "52.0080202",
+        "latitude": "8.5197862"
+    },
+    {
+        "activity": "Supermarché · Lockhauser Str. 113",
+        "enseigne": "ALDI Nord",
+        "longitude": "52.0983022",
+        "latitude": "8.673955"
+    },
+    {
+        "activity": "Supermarché · Oerlinghauser Str. 109",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.9455937",
+        "latitude": "8.7838405"
+    },
+    {
+        "activity": "Supermarché · Alter Kamp 8",
+        "enseigne": "Aldi Hiddenhausen",
+        "longitude": "52.1383013",
+        "latitude": "8.6506825"
+    },
+    {
+        "activity": "Supermarché · Am Beckhof 80",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.9275515",
+        "latitude": "8.5991517"
+    },
+    {
+        "activity": "Supermarché · Uferstraße 18",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.949571",
+        "latitude": "8.8535551"
+    },
+    {
+        "activity": "Supermarché · Windelsbleicher Str. 239a",
+        "enseigne": "Aldi Nord",
+        "longitude": "52.0249211",
+        "latitude": "8.550261"
+    },
+    {
+        "activity": "Supermarché · Am Kalkofen 7",
+        "enseigne": "ALDI Oerlinghausen",
+        "longitude": "51.947567",
+        "latitude": "8.6575021"
+    },
+    {
+        "activity": "Supermarché · Rathenaustraße 9",
+        "enseigne": "ALDI Paderborn",
+        "longitude": "51.723073",
+        "latitude": "8.7386514"
+    },
+    {
+        "activity": "Supermarché · Wemberweg 2",
+        "enseigne": "ALDI Erwitte",
+        "longitude": "51.6143078",
+        "latitude": "8.3524749"
+    },
+    {
+        "activity": "Supermarché · Westring 64",
+        "enseigne": "ALDI Nord",
+        "longitude": "52.1185841",
+        "latitude": "8.6547892"
+    },
+    {
+        "activity": "Supermarché · Marktstraße 5",
+        "enseigne": "ALDI Lippstadt",
+        "longitude": "51.676385",
+        "latitude": "8.3453853"
+    },
+    {
+        "activity": "Supermarché · Lindenweg 5",
+        "enseigne": "ALDI Geseke",
+        "longitude": "51.6455364",
+        "latitude": "8.507908"
+    },
+    {
+        "activity": "Supermarché · Kleiwellenfeld 27",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.9275515",
+        "latitude": "8.5991517"
+    },
+    {
+        "activity": "Supermarché · Senefelderstraße 13",
+        "enseigne": "ALDI Paderborn",
+        "longitude": "51.73433",
+        "latitude": "8.7886461"
+    },
+    {
+        "activity": "Supermarché · Torfbruchstraße 2b",
+        "enseigne": "ALDI Lichtenau",
+        "longitude": "51.6169207",
+        "latitude": "8.9071653"
+    },
+    {
+        "activity": "Supermarché · Remmighauser Str. 109 a",
+        "enseigne": "Aldi Nord",
+        "longitude": "51.9148299",
+        "latitude": "8.9118352"
+    },
+    {
+        "activity": "Supermarché · Lange Str. 136-140",
+        "enseigne": "ALDI Lage",
+        "longitude": "51.9872283",
+        "latitude": "8.7987482"
+    },
+    {
+        "activity": "Supermarché · Am Bexterholz 2",
+        "enseigne": "ALDI Nord",
+        "longitude": "52.0635816",
+        "latitude": "8.6920677"
+    },
+    {
+        "activity": "Supermarché · Wewersches Bruch 100",
+        "enseigne": "ALDI Paderborn-Wewer",
+        "longitude": "51.688284",
+        "latitude": "8.681097"
+    },
+    {
+        "activity": "Supermarché · Sperenberger Str. 1",
+        "enseigne": "ALDI Borchen",
+        "longitude": "51.6654586",
+        "latitude": "8.7252454"
+    },
+    {
+        "activity": "Supermarché · Boleweg 14",
+        "enseigne": "ALDI Soest",
+        "longitude": "51.5609544",
+        "latitude": "8.0853397"
+    },
+    {
+        "activity": "Supermarché · Riga-Ring 11",
+        "enseigne": "ALDI Soest",
+        "longitude": "51.5680395",
+        "latitude": "8.1296258"
+    },
+    {
+        "activity": "Supermarché · Bergenring 5",
+        "enseigne": "ALDI Soest",
+        "longitude": "51.5842371",
+        "latitude": "8.0998704"
+    },
+    {
+        "activity": "Supermarché · Kaiser-Otto-Weg 7",
+        "enseigne": "ALDI Soest",
+        "longitude": "51.5568428",
+        "latitude": "8.1075472"
+    },
+    {
+        "activity": "Supermarché · Am Bahnhof 5",
+        "enseigne": "ALDI Lippetal-Oestinghausen",
+        "longitude": "51.6338828",
+        "latitude": "8.0978251"
+    },
+    {
+        "activity": "Supermarché · Bürgermeister-Brinkmann-Weg 4",
+        "enseigne": "ALDI Leopoldshöhe",
+        "longitude": "52.0110937",
+        "latitude": "8.7003547"
+    },
+    {
+        "activity": "Supermarché · Wewerstraße 27",
+        "enseigne": "ALDI Paderborn-Elsen",
+        "longitude": "51.7297774",
+        "latitude": "8.6931076"
+    },
+    {
+        "activity": "Supermarché · Steinweg 66",
+        "enseigne": "ALDI Lemgo",
+        "longitude": "52.0236358",
+        "latitude": "8.8886098"
+    },
+    {
+        "activity": "Supermarché · Hardehauser Weg 2",
+        "enseigne": "ALDI Paderborn On the Lieth",
+        "longitude": "51.713203",
+        "latitude": "8.7948503"
+    },
+    {
+        "activity": "Supermarché · Mühlenburger Str. 5 - 7",
+        "enseigne": "ALDI Spenge",
+        "longitude": "52.138912",
+        "latitude": "8.4821322"
+    },
+    {
+        "activity": "Supermarché · Hatzfelder Str. 22-24",
+        "enseigne": "ALDI Paderborn-Schloß Neuhaus",
+        "longitude": "51.748901",
+        "latitude": "8.718593"
+    },
+    {
+        "activity": "Supermarché · Wulf-Hefe-Straße 2",
+        "enseigne": "ALDI Werl",
+        "longitude": "51.5474147",
+        "latitude": "7.9176592"
+    },
+    {
+        "activity": "Supermarché · Ingolstädter Weg 13",
+        "enseigne": "ALDI Paderborn-Stadtheide",
+        "longitude": "51.7452501",
+        "latitude": "8.7572574"
+    },
+    {
+        "activity": "Supermarché · Hauptstraße 260C",
+        "enseigne": "ALDI Leopoldshöhe-Asemissen",
+        "longitude": "51.9879089",
+        "latitude": "8.67494"
+    },
+    {
+        "activity": "Supermarché · Schillerstraße 11",
+        "enseigne": "Aldi Nord",
+        "longitude": "52.8521206",
+        "latitude": "11.1657421"
+    },
+    {
+        "activity": "Supermarché · Stendaler Chaussee 35",
+        "enseigne": "Aldi Nord",
+        "longitude": "52.8521206",
+        "latitude": "11.1657421"
+    },
+    {
+        "activity": "Supermarché · Schützenstraße 5",
+        "enseigne": "ALDI Dannenberg",
+        "longitude": "53.0976183",
+        "latitude": "11.0903265"
+    },
+    {
+        "activity": "Supermarché · Drawehner Str. 6",
+        "enseigne": "ALDI Lüchow",
+        "longitude": "52.9672937",
+        "latitude": "11.1503274"
+    },
+    {
+        "activity": "Supermarché · Laascher Str. 30b",
+        "enseigne": "ALDI Neustadt-Glewe",
+        "longitude": "53.3705668",
+        "latitude": "11.5943417"
+    },
+    {
+        "activity": "Parking · Schwarzer Weg 9",
+        "enseigne": "Parkplatz Aldi",
+        "longitude": "53.063967",
+        "latitude": "11.8385771"
+    },
+    {
+        "activity": "Parking · Fliederweg 5",
+        "enseigne": "Parkplatz Aldi",
+        "longitude": "53.2733722",
+        "latitude": "11.5623339"
+    },
+    {
+        "activity": "Parking · Neue Torstraße 12",
+        "enseigne": "Parking Aldi Ludwigstlust",
+        "longitude": "53.3279545",
+        "latitude": "11.502113"
+    },
+    {
+        "activity": "Supermarché · Pirnaer Landstraße 196",
+        "enseigne": "ALDI Nord",
+        "longitude": "51.0058333",
+        "latitude": "13.8363889"
+    },
+    {
+        "activity": "Boulangerie · Pirnaer Landstraße 196",
+        "enseigne": "Bäckerei Sachse Filiale Aldi Markt Dresden",
+        "longitude": "51.0057774",
+        "latitude": "13.8363687"
+    },
+    {
+        "activity": "Entreprise de construction · Via Adriatica Sud, 146",
+        "enseigne": "Aldi Costruzioni Srl",
+        "longitude": "42.4113788",
+        "latitude": "14.3027284"
+    },
+    {
+        "activity": "Épicerie · Via Partigiani, 12",
+        "enseigne": "ALDI",
+        "longitude": "44.2943985",
+        "latitude": "11.8603504"
+    },
+    {
+        "activity": "Épicerie · Via Acqua dei Buoi",
+        "enseigne": "ALDI",
+        "longitude": "44.2270591",
+        "latitude": "12.0647597"
+    },
+    {
+        "activity": "Épicerie · Via Lombardia, 1",
+        "enseigne": "ALDI",
+        "longitude": "44.3653457",
+        "latitude": "11.7259362"
+    },
+    {
+        "activity": "Épicerie · Via Enrico Fermi, 37",
+        "enseigne": "ALDI",
+        "longitude": "44.7768058",
+        "latitude": "10.8774862"
+    },
+    {
+        "activity": "Épicerie · Via XXIV Maggio, 52",
+        "enseigne": "ALDI",
+        "longitude": "44.8496983",
+        "latitude": "11.5895006"
+    },
+    {
+        "activity": "Épicerie · Via Triumplina, 75",
+        "enseigne": "ALDI",
+        "longitude": "45.1643946",
+        "latitude": "10.8289569"
+    },
+    {
+        "activity": "Épicerie · Via Salvador Allende, 1",
+        "enseigne": "ALDI",
+        "longitude": "45.2757759",
+        "latitude": "10.0947833"
+    },
+    {
+        "activity": "Épicerie · Via Ernesto Baslini, 6",
+        "enseigne": "Aldi",
+        "longitude": "45.5168878",
+        "latitude": "9.5856805"
+    },
+    {
+        "activity": "Épicerie · Viale Industria, 291",
+        "enseigne": "ALDI",
+        "longitude": "45.6423645",
+        "latitude": "9.6553687"
+    },
+    {
+        "activity": "Épicerie · Viale Fratelli Kennedy",
+        "enseigne": "ALDI",
+        "longitude": "45.6891021",
+        "latitude": "9.7390489"
+    },
+    {
+        "activity": "Épicerie · Via Italia, 209",
+        "enseigne": "ALDI",
+        "longitude": "45.619462",
+        "latitude": "9.4783194"
+    },
+    {
+        "activity": "Épicerie · Corso Carlo Alberto, 120",
+        "enseigne": "ALDI",
+        "longitude": "45.8403988",
+        "latitude": "9.4086313"
+    },
+    {
+        "activity": "Épicerie · Via Viscardi, 2/4",
+        "enseigne": "ALDI",
+        "longitude": "45.2757759",
+        "latitude": "10.0947833"
+    },
+    {
+        "activity": "Magasin discount · Via Provinciale, snc",
+        "enseigne": "ALDI",
+        "longitude": "45.6510306",
+        "latitude": "9.6199971"
+    },
+    {
+        "activity": "Épicerie · Via Giuseppe Nicolini, 4-8",
+        "enseigne": "Aldi srl",
+        "longitude": "45.5459783",
+        "latitude": "10.1971683"
+    },
+    {
+        "activity": "Service de récupération de données · 36/M Via Verdi, Antegnate, BG 24051",
+        "enseigne": "Aldi Ines",
+        "longitude": "45.48236",
+        "latitude": "9.78737"
+    },
+    {
+        "activity": "Centre commercial · Via XXIV Maggio, 1",
+        "enseigne": "Aldi",
+        "longitude": "45.6941162",
+        "latitude": "9.6495514"
+    },
+    {
+        "activity": "Entreprise de construction · Viale Santuario, 39",
+        "enseigne": "Aldi Albino",
+        "longitude": "45.48182",
+        "latitude": "9.866999"
+    },
+    {
+        "activity": "Glace · Via Papa Giovanni XXIII, 87",
+        "enseigne": "La Casa Del Gelato Di Aldi Ivano",
+        "longitude": "45.507441",
+        "latitude": "9.8503667"
+    },
+    {
+        "activity": "Supermarché · Oskar-Maria-Graf-Ring 14",
+        "enseigne": "ALDI",
+        "longitude": "48.6213068",
+        "latitude": "13.47654"
+    },
+    {
+        "activity": "Supermarché · Schleißheimer Str. 506",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.213349",
+        "latitude": "11.5633114"
+    },
+    {
+        "activity": "Supermarché · Ziegelfeldstraße 2",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.4987865",
+        "latitude": "12.1599169"
+    },
+    {
+        "activity": "Supermarché · Schleißheimer Str. 108a",
+        "enseigne": "Aldi",
+        "longitude": "48.2510005",
+        "latitude": "11.6143838"
+    },
+    {
+        "activity": "Supermarché · Theresienhöhe 12",
+        "enseigne": "Aldi",
+        "longitude": "48.1207752",
+        "latitude": "11.6023464"
+    },
+    {
+        "activity": "Supermarché · Osterfeldstraße 41",
+        "enseigne": "Aldi Süd",
+        "longitude": "48.2309788",
+        "latitude": "11.6875591"
+    },
+    {
+        "activity": "Supermarché · Frankfurter Ring 19",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1826795",
+        "latitude": "11.5309201"
+    },
+    {
+        "activity": "Supermarché · Richard-Strauss-Straße 80+82",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.148439",
+        "latitude": "11.6176485"
+    },
+    {
+        "activity": "Supermarché · Pilgersheimer Str. 38",
+        "enseigne": "ALDI Süd",
+        "longitude": "48.11628",
+        "latitude": "11.57284"
+    },
+    {
+        "activity": "Supermarché · Meglingerstraße 33",
+        "enseigne": "Aldi Süd",
+        "longitude": "48.0901881",
+        "latitude": "11.5063713"
+    },
+    {
+        "activity": "Supermarché · Breslauer Str. 3",
+        "enseigne": "ALDI",
+        "longitude": "48.1813189",
+        "latitude": "11.5082814"
+    },
+    {
+        "activity": "Supermarché · Orleanspl. 2",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1279127",
+        "latitude": "11.6025118"
+    },
+    {
+        "activity": "Supermarché · Am Aicher Feld 2",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.565932",
+        "latitude": "12.10238"
+    },
+    {
+        "activity": "Supermarché · Burgerfeld 10",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1909001",
+        "latitude": "11.8516126"
+    },
+    {
+        "activity": "Supermarché · Gerberstraße 5",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1646323",
+        "latitude": "12.1650089"
+    },
+    {
+        "activity": "Supermarché · Philipp-Reis-Straße 4",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1826795",
+        "latitude": "11.5309201"
+    },
+    {
+        "activity": "Supermarché · Baldhamer Str. 97",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1120676",
+        "latitude": "11.7808478"
+    },
+    {
+        "activity": "Supermarché · Dachauer Str. 507",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1230635",
+        "latitude": "11.549882"
+    },
+    {
+        "activity": "Supermarché · Schwanseestraße 61",
+        "enseigne": "Aldi",
+        "longitude": "48.1049766",
+        "latitude": "11.5972976"
+    },
+    {
+        "activity": "Supermarché · Wittstraße 16",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.148439",
+        "latitude": "11.6176485"
+    },
+    {
+        "activity": "Supermarché · Ohmstraße 4",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.4532778",
+        "latitude": "12.3337229"
+    },
+    {
+        "activity": "Supermarché · Hochstiftsweg 4",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1685074",
+        "latitude": "11.6330426"
+    },
+    {
+        "activity": "Supermarché · Friedenheimer Brücke 23",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1458482",
+        "latitude": "11.5196051"
+    },
+    {
+        "activity": "Supermarché · Baierbrunner Str. 75",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.0924445",
+        "latitude": "11.5313097"
+    },
+    {
+        "activity": "Supermarché · Willy-Brandt-Platz 5",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1326828",
+        "latitude": "11.6892844"
+    },
+    {
+        "activity": "Supermarché · Weinmiller-Straße 5",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.4111611",
+        "latitude": "11.748119"
+    },
+    {
+        "activity": "Supermarché · Kirchlandweg 1 - 3",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.0593779",
+        "latitude": "11.6335714"
+    },
+    {
+        "activity": "Supermarché · Bahnhofstraße 10",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.2091814",
+        "latitude": "12.4190186"
+    },
+    {
+        "activity": "Supermarché · Staudhamer Feld 1",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1646323",
+        "latitude": "12.1650089"
+    },
+    {
+        "activity": "Supermarché · Sonnenleite 14",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.0680171",
+        "latitude": "11.6197601"
+    },
+    {
+        "activity": "Supermarché · Degernpoint A 1",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1826795",
+        "latitude": "11.5309201"
+    },
+    {
+        "activity": "Supermarché · Am Alten Viehmarkt 5",
+        "enseigne": "ALDI",
+        "longitude": "48.5395149",
+        "latitude": "12.1564468"
+    },
+    {
+        "activity": "Supermarché · Glonner Str. 37",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1230635",
+        "latitude": "11.549882"
+    },
+    {
+        "activity": "Supermarché · Carl-von-Linde-Straße 36",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.2820477",
+        "latitude": "11.5680918"
+    },
+    {
+        "activity": "Supermarché · Hopfenstraße 60",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.148439",
+        "latitude": "11.6176485"
+    },
+    {
+        "activity": "Supermarché · Innstraße 3",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.0807389",
+        "latitude": "11.6920725"
+    },
+    {
+        "activity": "Supermarché · Landshuter Str. 43",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.3514598",
+        "latitude": "12.131303"
+    },
+    {
+        "activity": "Supermarché · Wotanstraße 9c",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1469268",
+        "latitude": "11.5029691"
+    },
+    {
+        "activity": "Supermarché · Bürgermeister-Hess-Straße 2",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.252335",
+        "latitude": "12.5276681"
+    },
+    {
+        "activity": "Supermarché · Eiselfinger Str. 10",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.053777",
+        "latitude": "12.2363642"
+    },
+    {
+        "activity": "Supermarché · Ludwig-Erhard-Straße 9",
+        "enseigne": "ALDI",
+        "longitude": "48.540242",
+        "latitude": "12.1020911"
+    },
+    {
+        "activity": "Supermarché · Im Gewerbegebiet 18",
+        "enseigne": "Aldi",
+        "longitude": "47.919099",
+        "latitude": "12.292712"
+    },
+    {
+        "activity": "Supermarché · Daimlerstraße 1",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.5874431",
+        "latitude": "12.1898283"
+    },
+    {
+        "activity": "Supermarché · Hermann-Weinhauser-Straße 90",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1328649",
+        "latitude": "11.6318777"
+    },
+    {
+        "activity": "Supermarché · Haager Str. 61",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.2683241",
+        "latitude": "12.1587075"
+    },
+    {
+        "activity": "Supermarché · Westring 11",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1646323",
+        "latitude": "12.1650089"
+    },
+    {
+        "activity": "Supermarché · Alte Regensburger Str. 59",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.1826795",
+        "latitude": "11.5309201"
+    },
+    {
+        "activity": "Supermarché · Weinmoos 1",
+        "enseigne": "ALDI SÜD",
+        "longitude": "48.4512251",
+        "latitude": "11.7642774"
+    },
+    {
+        "activity": "Siège social · Anzinger Str. 6",
+        "enseigne": "ALDI GmbH & Co. KG Ebersberg",
+        "longitude": "48.0971285",
+        "latitude": "11.9581229"
+    },
+    {
+        "activity": "Station essence de carburants alternatifs · Biberger Str. 66",
+        "enseigne": "ALDI-Ladestation",
+        "longitude": "48.0681763",
+        "latitude": "11.619123"
+    },
+    {
+        "activity": "Supermarché · Reichenbacher Str. 106",
+        "enseigne": "ALDI Nord",
+        "longitude": "51.1488063",
+        "latitude": "14.9470882"
+    },
+    {
+        "activity": "Supermarché · Pontestraße 10",
+        "enseigne": "ALDI Nord",
+        "longitude": "51.158199",
+        "latitude": "14.983635"
+    },
+    {
+        "activity": "Supermarché discount · Berliner Chaussee 101a",
+        "enseigne": "ALDI Frankfurt/Oder",
+        "longitude": "52.3637269",
+        "latitude": "14.5258167"
+    },
+    {
+        "activity": "Supermarché · Karl-Marx-Straße 34",
+        "enseigne": "ALDI Eisenhüttenstadt",
+        "longitude": "52.1476116",
+        "latitude": "14.6378761"
+    },
+    {
+        "activity": "Supermarché · Gdyńska 30",
+        "enseigne": "ALDI",
+        "longitude": "52.4479377",
+        "latitude": "16.9848633"
+    },
+    {
+        "activity": "Supermarché · Bobrzańska 11",
+        "enseigne": "Aldi",
+        "longitude": "52.3868392",
+        "latitude": "16.9678908"
+    },
+    {
+        "activity": "Supermarché · Ofiar Oświęcimskich 21",
+        "enseigne": "Aldi",
+        "longitude": "50.8447199",
+        "latitude": "16.4761119"
+    },
+    {
+        "activity": "Supermarché · Tadeusza Kościuszki 133 A",
+        "enseigne": "ALDI",
+        "longitude": "51.0987477",
+        "latitude": "17.0476547"
+    },
+    {
+        "activity": "Supermarché · ul. M, Marii Skłodowskiej - Curie 10",
+        "enseigne": "Aldi",
+        "longitude": "51.4017406",
+        "latitude": "16.2013467"
+    },
+    {
+        "activity": "Supermarché · Wilczak 19",
+        "enseigne": "ALDI",
+        "longitude": "52.4306013",
+        "latitude": "16.9511082"
+    },
+    {
+        "activity": "Supermarché · Ścinawska 3",
+        "enseigne": "Aldi",
+        "longitude": "51.2151638",
+        "latitude": "16.1642575"
+    },
+    {
+        "activity": "Supermarché · Jugosłowiańska 33",
+        "enseigne": "ALDI",
+        "longitude": "52.3912847",
+        "latitude": "16.8665755"
+    },
+    {
+        "activity": "Supermarché · Strzegomska 11",
+        "enseigne": "ALDI Świebodzice",
+        "longitude": "50.860933",
+        "latitude": "16.3228227"
+    },
+    {
+        "activity": "Supermarché · Jana III Sobieskiego 37",
+        "enseigne": "Aldi",
+        "longitude": "50.9035632",
+        "latitude": "15.7270694"
+    },
+    {
+        "activity": "Supermarché · Tysiąclecia 38",
+        "enseigne": "ALDI",
+        "longitude": "52.4010124",
+        "latitude": "17.066874"
+    },
+    {
+        "activity": "Supermarché · Półwiejska 2",
+        "enseigne": "ALDI Poznan",
+        "longitude": "52.4046998",
+        "latitude": "16.9307029"
+    },
+    {
+        "activity": "Supermarché · Ludwika Zamenhofa 20A",
+        "enseigne": "ALDI Śrem",
+        "longitude": "52.0816374",
+        "latitude": "17.0174524"
+    },
+    {
+        "activity": "Supermarché · Sygietyńskiego 2",
+        "enseigne": "ALDI Jelenia Góra",
+        "longitude": "50.9184781",
+        "latitude": "15.7540921"
+    },
+    {
+        "activity": "Supermarché · Obornicka 136",
+        "enseigne": "Aldi Suchy Las",
+        "longitude": "52.4787109",
+        "latitude": "16.868939"
+    },
+    {
+        "activity": "Épicerie · Boya-Żeleńskiego 65",
+        "enseigne": "Aldi",
+        "longitude": "50.7306254",
+        "latitude": "16.6558744"
+    },
+    {
+        "activity": "Supermarché discount · Grabiszyńska 167",
+        "enseigne": "ALDI Grabiszyńska",
+        "longitude": "51.0986363",
+        "latitude": "16.9954352"
+    },
+    {
+        "activity": "Supermarché discount · Ronda de la Farinera, 9-11",
+        "enseigne": "Aldi",
+        "longitude": "41.5346814",
+        "latitude": "2.2046317"
+    },
+    {
+        "activity": "Supermarché discount · Ctra. de Barcelona, 66",
+        "enseigne": "Aldi",
+        "longitude": "41.5346814",
+        "latitude": "2.2046317"
+    },
+    {
+        "activity": "Supermarché discount · Passeig de Sant Joan Bosco, 45",
+        "enseigne": "Aldi",
+        "longitude": "41.3848421",
+        "latitude": "2.1841461"
+    },
+    {
+        "activity": "Supermarché discount · Passeig de Can Feu, 123",
+        "enseigne": "Aldi",
+        "longitude": "41.5112724",
+        "latitude": "2.131007"
+    },
+    {
+        "activity": "Supermarché discount · Carrer la Volta, 3",
+        "enseigne": "ALDI",
+        "longitude": "41.5589847",
+        "latitude": "2.2303831"
+    },
+    {
+        "activity": "Supermarché discount · Carrer del Berguedà, 4",
+        "enseigne": "ALDI",
+        "longitude": "41.6039494",
+        "latitude": "2.0884111"
+    },
+    {
+        "activity": "Supermarché discount · Manuel de Pedrolo, s/n",
+        "enseigne": "ALDI",
+        "longitude": "40.7009597",
+        "latitude": "0.5756441"
+    },
+    {
+        "activity": "Supermarché discount · Passeig Mossén Jacint Verdaguer, 207",
+        "enseigne": "Aldi",
+        "longitude": "41.5777754",
+        "latitude": "1.6326988"
+    },
+    {
+        "activity": "Supermarché discount · C-17, Km. 27",
+        "enseigne": "Aldi",
+        "longitude": "41.6629788",
+        "latitude": "2.2685327"
+    },
+    {
+        "activity": "Supermarché discount · Ctra. de Vic, 251, 255",
+        "enseigne": "Aldi",
+        "longitude": "41.73551",
+        "latitude": "1.84256"
+    },
+    {
+        "activity": "Supermarché discount · Carrer del Cogul, 4",
+        "enseigne": "Aldi",
+        "longitude": "41.6139815",
+        "latitude": "0.655098"
+    },
+    {
+        "activity": "Supermarché discount · Av. de l'Estatut, 233",
+        "enseigne": "Aldi",
+        "longitude": "41.5346814",
+        "latitude": "2.2046317"
+    },
+    {
+        "activity": "Supermarché discount · Carrer Olivera, 36",
+        "enseigne": "Aldi",
+        "longitude": "41.5346814",
+        "latitude": "2.2046317"
+    },
+    {
+        "activity": "Supermarché discount · Carrer Illes Pitiüses, s/n",
+        "enseigne": "Aldi",
+        "longitude": "41.3848421",
+        "latitude": "2.1841461"
+    },
+    {
+        "activity": "Supermarché discount · crta c-35",
+        "enseigne": "Aldi",
+        "longitude": "41.5112724",
+        "latitude": "2.131007"
+    },
+    {
+        "activity": "Supermarché · Rue du Bazert",
+        "enseigne": "ALDI",
+        "longitude": "40.7009597",
+        "latitude": "0.5756441"
+    },
+    {
+        "activity": "Supermarché · 59 Avenue Alsace Lorraine",
+        "enseigne": "Aldi",
+        "longitude": "42.94266",
+        "latitude": "1.8559"
+    },
+    {
+        "activity": "Supermarché · 1221 Route de Saint-Girons",
+        "enseigne": "ALDI",
+        "longitude": "42.8514202",
+        "latitude": "1.5943704"
+    },
+    {
+        "activity": "Supermarché discount · Carrer de Ramon Albó, 37",
+        "enseigne": "Aldi",
+        "longitude": "41.4257953",
+        "latitude": "2.1771122"
+    },
+    {
+        "activity": "Supermarché discount · Port marina, S/N",
+        "enseigne": "Aldi",
+        "longitude": "41.4910736",
+        "latitude": "2.3680887"
+    },
+    {
+        "activity": "Supermarché discount · Carrer de Mallorca, 458",
+        "enseigne": "Aldi",
+        "longitude": "41.405413",
+        "latitude": "2.1783001"
+    },
+    {
+        "activity": "Supermarché · Avenue Aristide Bergès, D117",
+        "enseigne": "ALDI",
+        "longitude": "42.992191",
+        "latitude": "1.1381249"
+    },
+    {
+        "activity": "Supermarché discount · Av. de la Via Augusta, 129",
+        "enseigne": "Aldi",
+        "longitude": "41.48751",
+        "latitude": "2.0667"
+    },
+    {
+        "activity": "Épicerie · 3 Allée de la Piège",
+        "enseigne": "Aldi",
+        "longitude": "41.5346814",
+        "latitude": "2.2046317"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.6939868",
+        "latitude": "-4.9274653"
+    },
+    {
+        "activity": "Supermarché discount · Francis St",
+        "enseigne": "ALDI",
+        "longitude": "51.6939868",
+        "latitude": "-4.9274653"
+    },
+    {
+        "activity": "Supermarché discount · Loughrea Shopping Centre, 3",
+        "enseigne": "ALDI",
+        "longitude": "51.8028634",
+        "latitude": "-4.9631822"
+    },
+    {
+        "activity": "Supermarché discount · The Clock Tower Site, Mitchell St",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · Cloncollig Industrial Estate",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché discount · Golden Island",
+        "enseigne": "ALDI",
+        "longitude": "53.2880857",
+        "latitude": "-6.3768482"
+    },
+    {
+        "activity": "Supermarché discount · Church St",
+        "enseigne": "ALDI",
+        "longitude": "53.1745904",
+        "latitude": "-6.5289031"
+    },
+    {
+        "activity": "Supermarché discount · Hebron Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Hazelwood Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.9308694",
+        "latitude": "-8.3903424"
+    },
+    {
+        "activity": "Supermarché discount · St Joseph's Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.0914994",
+        "latitude": "-8.2298926"
+    },
+    {
+        "activity": "Supermarché discount · The Glen",
+        "enseigne": "ALDI",
+        "longitude": "52.261932",
+        "latitude": "-7.1194474"
+    },
+    {
+        "activity": "Supermarché discount · Pound St",
+        "enseigne": "ALDI",
+        "longitude": "53.3635669",
+        "latitude": "-6.4928139"
+    },
+    {
+        "activity": "Supermarché discount · Unit 2 Roscommon Retail Pk",
+        "enseigne": "ALDI",
+        "longitude": "53.6331269",
+        "latitude": "-8.1817004"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3446302",
+        "latitude": "-7.0438027"
+    },
+    {
+        "activity": "Supermarché discount · Newbridge Road",
+        "enseigne": "ALDI",
+        "longitude": "53.2137663",
+        "latitude": "-6.6786531"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · Watersedge",
+        "enseigne": "ALDI",
+        "longitude": "51.9123776",
+        "latitude": "-8.176062"
+    },
+    {
+        "activity": "Supermarché discount · Bishopstown Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.880641",
+        "latitude": "-8.5123312"
+    },
+    {
+        "activity": "Supermarché discount · Ryland Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Monread Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.2390754",
+        "latitude": "-6.6591025"
+    },
+    {
+        "activity": "Supermarché discount · Kilcock Road",
+        "enseigne": "ALDI",
+        "longitude": "53.3818937",
+        "latitude": "-6.5964685"
+    },
+    {
+        "activity": "Supermarché discount · 2 Bóthar Átha Cliath",
+        "enseigne": "ALDI",
+        "longitude": "51.6939868",
+        "latitude": "-4.9274653"
+    },
+    {
+        "activity": "Supermarché discount · Cedargrove",
+        "enseigne": "ALDI",
+        "longitude": "51.8028634",
+        "latitude": "-4.9631822"
+    },
+    {
+        "activity": "Supermarché discount · 1 Davis Street",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · The Old Creamery",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Road",
+        "enseigne": "ALDI",
+        "longitude": "53.2880857",
+        "latitude": "-6.3768482"
+    },
+    {
+        "activity": "Supermarché discount · The Deanery",
+        "enseigne": "ALDI",
+        "longitude": "53.1745904",
+        "latitude": "-6.5289031"
+    },
+    {
+        "activity": "Supermarché discount · Waterford Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Newry Rd",
+        "enseigne": "ALDI",
+        "longitude": "54.0166014",
+        "latitude": "-6.3991965"
+    },
+    {
+        "activity": "Supermarché discount · Blackrock Ave",
+        "enseigne": "ALDI",
+        "longitude": "51.8919124",
+        "latitude": "-8.4109455"
+    },
+    {
+        "activity": "Supermarché discount · Cork Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.8764155",
+        "latitude": "-8.3497237"
+    },
+    {
+        "activity": "Supermarché discount · Ardkeen Valley, Dunmore Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.2462389",
+        "latitude": "-7.0856772"
+    },
+    {
+        "activity": "Supermarché discount · Ramparts Road",
+        "enseigne": "ALDI",
+        "longitude": "54.0034027",
+        "latitude": "-6.3956551"
+    },
+    {
+        "activity": "Supermarché discount · Abbey St",
+        "enseigne": "ALDI",
+        "longitude": "52.3770473",
+        "latitude": "-7.9287754"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "51.9147827",
+        "latitude": "-8.4280641"
+    },
+    {
+        "activity": "Supermarché discount · Castle Square",
+        "enseigne": "ALDI",
+        "longitude": "51.9092908",
+        "latitude": "-8.2709224"
+    },
+    {
+        "activity": "Supermarché discount · Kickham St",
+        "enseigne": "ALDI",
+        "longitude": "52.6808187",
+        "latitude": "-7.8008796"
+    },
+    {
+        "activity": "Supermarché discount · Grey Abbey Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.1527479",
+        "latitude": "-6.9125461"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.8044628",
+        "latitude": "-6.7343155"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "52.9967391",
+        "latitude": "-6.9852345"
+    },
+    {
+        "activity": "Supermarché discount · The Square",
+        "enseigne": "ALDI",
+        "longitude": "52.4518039",
+        "latitude": "-9.0627898"
+    },
+    {
+        "activity": "Supermarché discount · The Boulevard at Rockbrook",
+        "enseigne": "ALDI",
+        "longitude": "51.6939868",
+        "latitude": "-4.9274653"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.8028634",
+        "latitude": "-4.9631822"
+    },
+    {
+        "activity": "Supermarché discount · Bolgers Yard, The Parade",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · Boherclogh St",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché discount · Maynooth Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.2880857",
+        "latitude": "-6.3768482"
+    },
+    {
+        "activity": "Supermarché discount · Chapel Ln",
+        "enseigne": "ALDI",
+        "longitude": "53.1745904",
+        "latitude": "-6.5289031"
+    },
+    {
+        "activity": "Supermarché discount · Ashe Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Rossa Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.5487063",
+        "latitude": "-9.2703378"
+    },
+    {
+        "activity": "Supermarché discount · N Quay",
+        "enseigne": "ALDI",
+        "longitude": "52.7981985",
+        "latitude": "-6.1482936"
+    },
+    {
+        "activity": "Supermarché discount · Main St",
+        "enseigne": "ALDI",
+        "longitude": "53.4106157",
+        "latitude": "-6.4383447"
+    },
+    {
+        "activity": "Supermarché discount · Harbour Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3248939",
+        "latitude": "-8.2231216"
+    },
+    {
+        "activity": "Supermarché discount · 84 Terenure Rd E",
+        "enseigne": "ALDI",
+        "longitude": "53.3102822",
+        "latitude": "-6.2824587"
+    },
+    {
+        "activity": "Supermarché discount · Mill Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.1322582",
+        "latitude": "-6.0718989"
+    },
+    {
+        "activity": "Supermarché discount · 10 Pearse St",
+        "enseigne": "ALDI",
+        "longitude": "53.2771055",
+        "latitude": "-6.1400626"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "52.3881974",
+        "latitude": "-6.9522073"
+    },
+    {
+        "activity": "Supermarché discount · Main Street",
+        "enseigne": "ALDI",
+        "longitude": "53.066288",
+        "latitude": "-8.8160517"
+    },
+    {
+        "activity": "Supermarché discount · Coolock Dr",
+        "enseigne": "ALDI",
+        "longitude": "53.392744",
+        "latitude": "-6.203382"
+    },
+    {
+        "activity": "Supermarché discount · Gantly Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.9568659",
+        "latitude": "-7.8000047"
+    },
+    {
+        "activity": "Supermarché discount · Kylemore Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3354641",
+        "latitude": "-6.3457967"
+    },
+    {
+        "activity": "Supermarché discount · Riverside",
+        "enseigne": "ALDI",
+        "longitude": "53.9705616",
+        "latitude": "-6.7160767"
+    },
+    {
+        "activity": "Supermarché discount · Frascati Shopping Centre, Frascati Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.8028634",
+        "latitude": "-4.9631822"
+    },
+    {
+        "activity": "Magasin · Fonthill Retail Park",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · Main St",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché discount · Boghall Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.2880857",
+        "latitude": "-6.3768482"
+    },
+    {
+        "activity": "Supermarché discount · Dublin Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.1745904",
+        "latitude": "-6.5289031"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Prosperous Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.2901193",
+        "latitude": "-6.6870001"
+    },
+    {
+        "activity": "Supermarché discount · 10 Seatown Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.4597146",
+        "latitude": "-6.216429"
+    },
+    {
+        "activity": "Supermarché discount · Ashbourne Court, Bridge Street",
+        "enseigne": "ALDI",
+        "longitude": "53.5096866",
+        "latitude": "-6.3962673"
+    },
+    {
+        "activity": "Supermarché discount · Brews Hill",
+        "enseigne": "ALDI",
+        "longitude": "53.6509681",
+        "latitude": "-6.6911709"
+    },
+    {
+        "activity": "Supermarché discount · Long Mile Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3242615",
+        "latitude": "-6.3360737"
+    },
+    {
+        "activity": "Magasin · Belgard Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.2993606",
+        "latitude": "-6.3732886"
+    },
+    {
+        "activity": "Supermarché discount · Santry Ave",
+        "enseigne": "ALDI",
+        "longitude": "53.3983825",
+        "latitude": "-6.2505821"
+    },
+    {
+        "activity": "Supermarché discount · Old Lucan Road",
+        "enseigne": "ALDI",
+        "longitude": "53.3566187",
+        "latitude": "-6.3757811"
+    },
+    {
+        "activity": "Supermarché discount · St Margaret's Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3986424",
+        "latitude": "-6.3045091"
+    },
+    {
+        "activity": "Supermarché discount · Grange Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.8678595",
+        "latitude": "-8.451103"
+    },
+    {
+        "activity": "Supermarché discount · Cavan Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.7311266",
+        "latitude": "-6.8898473"
+    },
+    {
+        "activity": "Épicerie · 38-41 Parnell St",
+        "enseigne": "Aldi",
+        "longitude": "53.3504443",
+        "latitude": "-6.2657036"
+    },
+    {
+        "activity": "Supermarché discount · Station Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.7459131",
+        "latitude": "-8.7299191"
+    },
+    {
+        "activity": "Supermarché discount · Jonathan Swift Street",
+        "enseigne": "ALDI",
+        "longitude": "51.6939868",
+        "latitude": "-4.9274653"
+    },
+    {
+        "activity": "Supermarché discount · Nutgrove Retail Park",
+        "enseigne": "ALDI Nutgrove",
+        "longitude": "53.2922396",
+        "latitude": "-6.2671759"
+    },
+    {
+        "activity": "Supermarché discount · Newtown Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.6764627",
+        "latitude": "-6.2864685"
+    },
+    {
+        "activity": "Supermarché discount · Main Street",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché discount · New Link Road",
+        "enseigne": "ALDI",
+        "longitude": "53.2880857",
+        "latitude": "-6.3768482"
+    },
+    {
+        "activity": "Magasin · Rathmines Rd Lower",
+        "enseigne": "ALDI",
+        "longitude": "53.1745904",
+        "latitude": "-6.5289031"
+    },
+    {
+        "activity": "Supermarché discount",
+        "enseigne": "ALDI",
+        "longitude": "51.8611838",
+        "latitude": "-8.2957769"
+    },
+    {
+        "activity": "Supermarché discount · Westside Retail Park",
+        "enseigne": "ALDI",
+        "longitude": "51.8862909",
+        "latitude": "-8.5880816"
+    },
+    {
+        "activity": "Supermarché discount · Neale Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.6153315",
+        "latitude": "-9.2245627"
+    },
+    {
+        "activity": "Supermarché discount · Killashee Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.7254812",
+        "latitude": "-7.8028313"
+    },
+    {
+        "activity": "Supermarché discount · Oakwood",
+        "enseigne": "Aldi",
+        "longitude": "51.9030168",
+        "latitude": "-8.9528097"
+    },
+    {
+        "activity": "Magasin · E Wall Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.3570853",
+        "latitude": "-6.2321039"
+    },
+    {
+        "activity": "Épicerie · Donore Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.7024214",
+        "latitude": "-6.3777815"
+    },
+    {
+        "activity": "Supermarché discount · Main Street",
+        "enseigne": "ALDI",
+        "longitude": "53.1556581",
+        "latitude": "-7.1840647"
+    },
+    {
+        "activity": "Épicerie · Slane Rd",
+        "enseigne": "ALDI",
+        "longitude": "53.72029",
+        "latitude": "-6.3755786"
+    },
+    {
+        "activity": "Supermarché discount · Bellefield",
+        "enseigne": "ALDI",
+        "longitude": "52.5070886",
+        "latitude": "-6.5824172"
+    },
+    {
+        "activity": "Supermarché · 18 Hamilton Walk",
+        "enseigne": "Aldi",
+        "longitude": "53.3763908",
+        "latitude": "-6.3109468"
+    },
+    {
+        "activity": "Supermarché discount · Trinity St",
+        "enseigne": "ALDI",
+        "longitude": "52.3338882",
+        "latitude": "-6.4563546"
+    },
+    {
+        "activity": "Supermarché · Galway Retail Park, Unit 7 Unit 8, Headford Rd",
+        "enseigne": "Aldi",
+        "longitude": "53.2811529",
+        "latitude": "-9.0501521"
+    },
+    {
+        "activity": "Supermarché",
+        "enseigne": "ALDI",
+        "longitude": "52.1616018",
+        "latitude": "-7.1480099"
+    },
+    {
+        "activity": "Épicerie",
+        "enseigne": "Aldi",
+        "longitude": "53.4527749",
+        "latitude": "-7.1000808"
+    },
+    {
+        "activity": "Supermarché · Blanchardstown Road South",
+        "enseigne": "ALDI",
+        "longitude": "53.3133151",
+        "latitude": "-6.3945956"
+    },
+    {
+        "activity": "Supermarché · 3 East Village",
+        "enseigne": "Aldi Douglas Village",
+        "longitude": "51.8782792",
+        "latitude": "-8.4351238"
+    },
+    {
+        "activity": "Épicerie",
+        "enseigne": "ALDI",
+        "longitude": "52.650071",
+        "latitude": "-6.6480588"
+    },
+    {
+        "activity": "Supermarché discount · Carlton Terrace",
+        "enseigne": "ALDI",
+        "longitude": "50.5099531",
+        "latitude": "1.6564494"
+    },
+    {
+        "activity": "Supermarché discount · 1-4 London Rd",
+        "enseigne": "ALDI",
+        "longitude": "50.8498626",
+        "latitude": "0.5203117"
+    },
+    {
+        "activity": "Supermarché · Avenue Jeanne d'Arc",
+        "enseigne": "ALDI",
+        "longitude": "47.7973319",
+        "latitude": "1.0522414"
+    },
+    {
+        "activity": "Supermarché · ZAC Les Marchaux, D910",
+        "enseigne": "ALDI",
+        "longitude": "49.0275431",
+        "latitude": "1.1790405"
+    },
+    {
+        "activity": "Supermarché · 6 Rue du Franc Palais",
+        "enseigne": "ALDI",
+        "longitude": "47.3586638",
+        "latitude": "0.6468396"
+    },
+    {
+        "activity": "Supermarché · 23 Rue Germain Chauveau",
+        "enseigne": "ALDI",
+        "longitude": "49.503948",
+        "latitude": "0.2059121"
+    },
+    {
+        "activity": "Supermarché · 43 Route de Vauzelles",
+        "enseigne": "ALDI",
+        "longitude": "47.1326315",
+        "latitude": "0.9815788"
+    },
+    {
+        "activity": "Supermarché · Route Nationale 152",
+        "enseigne": "ALDI",
+        "longitude": "49.53938",
+        "latitude": "0.96251"
+    },
+    {
+        "activity": "Supermarché · 9 à 13 Rue Maréchal Joffre",
+        "enseigne": "ALDI",
+        "longitude": "47.3934291",
+        "latitude": "0.7867597"
+    },
+    {
+        "activity": "Supermarché · 3 3 Rue Alexandra David Néel",
+        "enseigne": "ALDI",
+        "longitude": "47.3430974",
+        "latitude": "0.7050294"
+    },
+    {
+        "activity": "Supermarché · Avenue du 11 Novembre 1918",
+        "enseigne": "ALDI",
+        "longitude": "47.3239127",
+        "latitude": "1.020778"
+    },
+    {
+        "activity": "Supermarché · 3 Boulevard de l'Industrie",
+        "enseigne": "ALDI",
+        "longitude": "47.428237",
+        "latitude": "1.4423183"
+    },
+    {
+        "activity": "Supermarché · 78-84 Rue Michel Bégon",
+        "enseigne": "ALDI",
+        "longitude": "47.592496",
+        "latitude": "1.31435"
+    },
+    {
+        "activity": "Supermarché discount · Rossa Rd",
+        "enseigne": "ALDI",
+        "longitude": "51.8841409",
+        "latitude": "-8.4692399"
+    },
+    {
+        "activity": "Épicerie · Váci út 14",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Péterfia u. 18",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Szőlőskert út 2",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Jászi Oszkár u. 4",
+        "enseigne": "ALDI",
+        "longitude": "47.6770294",
+        "latitude": "19.6655138"
+    },
+    {
+        "activity": "Épicerie · II. Rákóczi Ferenc utca 257",
+        "enseigne": "ALDI",
+        "longitude": "47.6400143",
+        "latitude": "19.0669778"
+    },
+    {
+        "activity": "Épicerie · Ady Endre u. 3",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Akai út 10",
+        "enseigne": "ALDI",
+        "longitude": "47.6220292",
+        "latitude": "19.1214973"
+    },
+    {
+        "activity": "Épicerie · Hadak útja 9",
+        "enseigne": "ALDI",
+        "longitude": "48.2588904",
+        "latitude": "20.6220463"
+    },
+    {
+        "activity": "Épicerie · Óceánárok u. 3-5",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Rétköz u. 10",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Gyulai út 51/2",
+        "enseigne": "ALDI",
+        "longitude": "47.6770294",
+        "latitude": "19.6655138"
+    },
+    {
+        "activity": "Épicerie · Kistó u. 2",
+        "enseigne": "ALDI",
+        "longitude": "47.6400143",
+        "latitude": "19.0669778"
+    },
+    {
+        "activity": "Épicerie · Rokolya u. 1",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Jedlik Ányos út 1",
+        "enseigne": "ALDI",
+        "longitude": "47.6220292",
+        "latitude": "19.1214973"
+    },
+    {
+        "activity": "Épicerie · Füzes sor 2-4",
+        "enseigne": "ALDI",
+        "longitude": "46.80996",
+        "latitude": "18.911098"
+    },
+    {
+        "activity": "Épicerie · Fürdő u. 31",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Fehérkő u. 5",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Holland fasor 1",
+        "enseigne": "ALDI",
+        "longitude": "47.6770294",
+        "latitude": "19.6655138"
+    },
+    {
+        "activity": "Épicerie · K-Sped krt. 368/129",
+        "enseigne": "ALDI",
+        "longitude": "47.6400143",
+        "latitude": "19.0669778"
+    },
+    {
+        "activity": "Épicerie · Széchenyi István krt. 139",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Szabadság út 1/e",
+        "enseigne": "ALDI",
+        "longitude": "47.6220292",
+        "latitude": "19.1214973"
+    },
+    {
+        "activity": "Épicerie · Hofherr Albert u. 40/a",
+        "enseigne": "ALDI",
+        "longitude": "47.5412679",
+        "latitude": "19.1521949"
+    },
+    {
+        "activity": "Épicerie · Városmajor u. 53",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Észak Keleti útgyűrű 6",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Pesti út 93",
+        "enseigne": "ALDI",
+        "longitude": "47.6770294",
+        "latitude": "19.6655138"
+    },
+    {
+        "activity": "Épicerie · Kandó Kálmán u. 2",
+        "enseigne": "ALDI",
+        "longitude": "47.6400143",
+        "latitude": "19.0669778"
+    },
+    {
+        "activity": "Épicerie · Pallag u 68",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · C, Kállói út 16",
+        "enseigne": "ALDI",
+        "longitude": "47.6220292",
+        "latitude": "19.1214973"
+    },
+    {
+        "activity": "Épicerie · Bossányi Krisztina utca 4",
+        "enseigne": "ALDI",
+        "longitude": "47.5412679",
+        "latitude": "19.1521949"
+    },
+    {
+        "activity": "Épicerie · Szent István krt. 30",
+        "enseigne": "ALDI",
+        "longitude": "48.2200958",
+        "latitude": "20.2872619"
+    },
+    {
+        "activity": "Épicerie · Huszti út 33",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Sopron út 60",
+        "enseigne": "ALDI",
+        "longitude": "47.6770294",
+        "latitude": "19.6655138"
+    },
+    {
+        "activity": "Épicerie · Kossuth Lajos út 49-51",
+        "enseigne": "ALDI",
+        "longitude": "47.6400143",
+        "latitude": "19.0669778"
+    },
+    {
+        "activity": "Épicerie · Kerepesi út 73",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Üllői út 280",
+        "enseigne": "ALDI",
+        "longitude": "47.6220292",
+        "latitude": "19.1214973"
+    },
+    {
+        "activity": "Magasin · Čermeľské údolie 8, 04001 Košice - Sever",
+        "enseigne": "ALDI s.r.o.",
+        "longitude": "48.735157",
+        "latitude": "21.241816"
+    },
+    {
+        "activity": "Supermarché discount · Wenceslao Lopez Albo, 6",
+        "enseigne": "Aldi",
+        "longitude": "43.2964143",
+        "latitude": "-2.6870704"
+    },
+    {
+        "activity": "Supermarché discount · Plaza Emilio Campuzano, 3",
+        "enseigne": "Aldi",
+        "longitude": "43.3083013",
+        "latitude": "-1.8818502"
+    },
+    {
+        "activity": "Supermarché discount · Av. de la Ribera, 1b",
+        "enseigne": "Aldi",
+        "longitude": "43.286011",
+        "latitude": "-2.9967597"
+    },
+    {
+        "activity": "Supermarché discount · Avanzada Errepidea, 65",
+        "enseigne": "Aldi",
+        "longitude": "43.3173486",
+        "latitude": "-2.9722581"
+    },
+    {
+        "activity": "Supermarché discount · Carretera de Gernika, Pol. Industrial Amunaga",
+        "enseigne": "Aldi",
+        "longitude": "43.2964143",
+        "latitude": "-2.6870704"
+    },
+    {
+        "activity": "Supermarché discount · Artunduaga Kalea, 16",
+        "enseigne": "Aldi",
+        "longitude": "43.2280704",
+        "latitude": "-2.878818"
+    },
+    {
+        "activity": "Supermarché · Iparragirre Etorbidea",
+        "enseigne": "Aldi",
+        "longitude": "43.3177608",
+        "latitude": "-2.9719615"
+    },
+    {
+        "activity": "Supermarché · Antonio Alzaga Hiribidea, 73B",
+        "enseigne": "Aldi",
+        "longitude": "43.3190655",
+        "latitude": "-3.0449736"
+    },
+    {
+        "activity": "Supermarché discount · Amaia Kalea, 2C",
+        "enseigne": "Aldi",
+        "longitude": "43.3242136",
+        "latitude": "-3.0074693"
+    },
+    {
+        "activity": "Parking · Iparragirre Etorbidea, 110",
+        "enseigne": "Parking ALDI",
+        "longitude": "43.317485",
+        "latitude": "-2.9725873"
+    },
+    {
+        "activity": "Épicerie · 394 Abergele Rd",
+        "enseigne": "ALDI",
+        "longitude": "52.8619346",
+        "latitude": "-3.0512221"
+    },
+    {
+        "activity": "Service de distribution · Chester High Rd",
+        "enseigne": "ALDI RDC Neston",
+        "longitude": "53.3024449",
+        "latitude": "-3.0613885"
+    },
+    {
+        "activity": "Supermarché discount · Friars' St",
+        "enseigne": "ALDI",
+        "longitude": "54.641735",
+        "latitude": "-3.5632886"
+    },
+    {
+        "activity": "Épicerie · Unit 6&7, Ruthvenfield Rd",
+        "enseigne": "ALDI",
+        "longitude": "54.5443649",
+        "latitude": "-3.5902523"
+    },
+    {
+        "activity": "Supermarché discount · Arbroath Rd",
+        "enseigne": "Aldi",
+        "longitude": "56.4737301",
+        "latitude": "-2.9299679"
+    },
+    {
+        "activity": "Supermarché discount · Craig O'loch Road",
+        "enseigne": "ALDI",
+        "longitude": "54.6630687",
+        "latitude": "-3.3730162"
+    },
+    {
+        "activity": "Supermarché discount · Unit 3 Santa Claus Drive",
+        "enseigne": "ALDI",
+        "longitude": "55.0697951",
+        "latitude": "-3.5847508"
+    },
+    {
+        "activity": "Supermarché discount · Tom Stewart Ln",
+        "enseigne": "ALDI",
+        "longitude": "55.4665132",
+        "latitude": "-4.6310793"
+    },
+    {
+        "activity": "Supermarché discount · 21 Glasgow Rd",
+        "enseigne": "ALDI",
+        "longitude": "54.5443649",
+        "latitude": "-3.5902523"
+    },
+    {
+        "activity": "Supermarché discount · The Stack Retail Park",
+        "enseigne": "ALDI",
+        "longitude": "56.4738943",
+        "latitude": "-3.0050501"
+    },
+    {
+        "activity": "Supermarché discount · South Rd",
+        "enseigne": "ALDI",
+        "longitude": "56.3142363",
+        "latitude": "-3.0077604"
+    },
+    {
+        "activity": "Supermarché discount · Inshes District Park, Sir Walter Scott Dr",
+        "enseigne": "ALDI Inshes",
+        "longitude": "57.468608",
+        "latitude": "-4.1887698"
+    },
+    {
+        "activity": "Supermarché discount · 55 Myrekirk Rd",
+        "enseigne": "ALDI - Myrekirk Rd",
+        "longitude": "56.4751789",
+        "latitude": "-3.0470803"
+    },
+    {
+        "activity": "Supermarché · Unit 6&7, Ruthvenfield Rd",
+        "enseigne": "ALDI",
+        "longitude": "56.4194242",
+        "latitude": "-3.4689577"
+    },
+    {
+        "activity": "Épicerie",
+        "enseigne": "Aldi",
+        "longitude": "56.367569",
+        "latitude": "-3.8410856"
+    },
+    {
+        "activity": "Supermarché discount · Calle de José Hierro, 5",
+        "enseigne": "Aldi",
+        "longitude": "40.5477969",
+        "latitude": "-3.6534272"
+    },
+    {
+        "activity": "Supermarché discount · Av. de las Nieves, 39",
+        "enseigne": "Aldi",
+        "longitude": "40.35161",
+        "latitude": "-3.8823644"
+    },
+    {
+        "activity": "Supermarché discount · Calle del Poeta Joan Maragall, 7",
+        "enseigne": "Aldi",
+        "longitude": "40.5370139",
+        "latitude": "-3.6399829"
+    },
+    {
+        "activity": "Supermarché discount · C. de Arcaute, 2",
+        "enseigne": "Aldi",
+        "longitude": "40.315416",
+        "latitude": "-3.8435188"
+    },
+    {
+        "activity": "Supermarché discount · Av. de la Constitución, 106",
+        "enseigne": "Aldi",
+        "longitude": "40.2366779",
+        "latitude": "-3.7578311"
+    },
+    {
+        "activity": "Supermarché discount · CC \"Milenium, Calle Azafrán, 13",
+        "enseigne": "Aldi",
+        "longitude": "40.4641897",
+        "latitude": "-3.7982848"
+    },
+    {
+        "activity": "Supermarché discount · Calle de Francisco Silvela, 48",
+        "enseigne": "Aldi",
+        "longitude": "40.4342148",
+        "latitude": "-3.6737734"
+    },
+    {
+        "activity": "Supermarché discount · Calle Mayor, 62",
+        "enseigne": "Aldi",
+        "longitude": "40.5970799",
+        "latitude": "-3.5081346"
+    },
+    {
+        "activity": "Supermarché discount · P.I. \"La Llave, Calle del Hierro, s/n",
+        "enseigne": "Aldi",
+        "longitude": "40.7077084",
+        "latitude": "-3.4241868"
+    },
+    {
+        "activity": "Supermarché · Calle de Fuencarral, 123",
+        "enseigne": "Aldi",
+        "longitude": "40.4306408",
+        "latitude": "-3.7034155"
+    },
+    {
+        "activity": "Supermarché discount · Calle de Francisco Aritio, 88",
+        "enseigne": "ALDI",
+        "longitude": "40.6368749",
+        "latitude": "-3.1890776"
+    },
+    {
+        "activity": "Supermarché discount · Ctra. Antigua Ctra. Madrid-Toledo, 33",
+        "enseigne": "Aldi",
+        "longitude": "40.1419672",
+        "latitude": "-3.827989"
+    },
+    {
+        "activity": "Supermarché · Av. de la Libertad, 72",
+        "enseigne": "Aldi",
+        "longitude": "40.5477969",
+        "latitude": "-3.6534272"
+    },
+    {
+        "activity": "Supermarché discount · Paseo del Molino del Rey, 6",
+        "enseigne": "Aldi",
+        "longitude": "40.35161",
+        "latitude": "-3.8823644"
+    },
+    {
+        "activity": "Supermarché discount · Av. de la Osa Menor, 2",
+        "enseigne": "Aldi",
+        "longitude": "40.5370139",
+        "latitude": "-3.6399829"
+    },
+    {
+        "activity": "Supermarché discount · Calle Alejandro Gamella, 12",
+        "enseigne": "ALDI",
+        "longitude": "40.6409104",
+        "latitude": "-4.0078226"
+    },
+    {
+        "activity": "Supermarché discount · Plaza de Europa, 2",
+        "enseigne": "Aldi",
+        "longitude": "40.2366779",
+        "latitude": "-3.7578311"
+    },
+    {
+        "activity": "Supermarché discount · M-607, Km 49",
+        "enseigne": "Aldi",
+        "longitude": "40.3725703",
+        "latitude": "-3.7647164"
+    },
+    {
+        "activity": "Supermarché",
+        "enseigne": "Aldi",
+        "longitude": "40.44915",
+        "latitude": "-3.796643"
+    },
+    {
+        "activity": "Supermarché",
+        "enseigne": "Aldi",
+        "longitude": "40.4973335",
+        "latitude": "-3.7149982"
+    },
+    {
+        "activity": "Supermarché discount · Calle de Bravo Murillo, 200",
+        "enseigne": "Aldi",
+        "longitude": "40.4561096",
+        "latitude": "-3.7020632"
+    },
+    {
+        "activity": "Supermarché · Av. de las Eras, 1",
+        "enseigne": "Aldi",
+        "longitude": "40.6410113",
+        "latitude": "-4.008493"
+    },
+    {
+        "activity": "Magasin de chaussures · Calle de la Margarita, 10",
+        "enseigne": "Calzados Aldi",
+        "longitude": "40.3270613",
+        "latitude": "-3.7605678"
+    },
+    {
+        "activity": "Service de nettoyage · Paseo de Extremadura, 168 Posterior, local 2",
+        "enseigne": "Aldi Limpiezas",
+        "longitude": "40.4095853",
+        "latitude": "-3.7402298"
+    },
+    {
+        "activity": "Supermarché · Baltorpvej 22",
+        "enseigne": "ALDI",
+        "longitude": "54.7722091",
+        "latitude": "9.3221643"
+    },
+    {
+        "activity": "Supermarché · Bjarkesvej 1",
+        "enseigne": "ALDI",
+        "longitude": "55.86612",
+        "latitude": "12.32932"
+    },
+    {
+        "activity": "Supermarché · Ølbycenter 3",
+        "enseigne": "ALDI",
+        "longitude": "55.4793199",
+        "latitude": "12.1752327"
+    },
+    {
+        "activity": "Supermarché · Over Bølgen 35",
+        "enseigne": "Aldi",
+        "longitude": "55.5361031",
+        "latitude": "9.7184506"
+    },
+    {
+        "activity": "Supermarché · Søndre Ringvej 24 A",
+        "enseigne": "ALDI",
+        "longitude": "55.6303",
+        "latitude": "12.08181"
+    },
+    {
+        "activity": "Supermarché · Esterhøjvej 63",
+        "enseigne": "Aldi",
+        "longitude": "55.3796521",
+        "latitude": "10.3969693"
+    },
+    {
+        "activity": "Supermarché · Vejlebrovej 21",
+        "enseigne": "Aldi",
+        "longitude": "54.9335476",
+        "latitude": "9.2422381"
+    },
+    {
+        "activity": "Supermarché · Niels Olsens Vej 2",
+        "enseigne": "Aldi",
+        "longitude": "55.7802917",
+        "latitude": "12.1733209"
+    },
+    {
+        "activity": "Supermarché · Torvesvinget 3",
+        "enseigne": "Aldi",
+        "longitude": "55.8538353",
+        "latitude": "11.5801602"
+    },
+    {
+        "activity": "Supermarché · Nygade 8-10",
+        "enseigne": "Aldi",
+        "longitude": "55.83663",
+        "latitude": "12.0639501"
+    },
+    {
+        "activity": "Supermarché · Egelundsvej 1",
+        "enseigne": "ALDI",
+        "longitude": "55.6613077",
+        "latitude": "12.334466"
+    },
+    {
+        "activity": "Supermarché · Lerbæk Torv 2",
+        "enseigne": "ALDI Køge Hastrup",
+        "longitude": "55.438396",
+        "latitude": "12.1483886"
+    },
+    {
+        "activity": "Supermarché · Banevej 3",
+        "enseigne": "Aldi",
+        "longitude": "56.3202369",
+        "latitude": "10.3126339"
+    },
+    {
+        "activity": "Supermarché · Søndergade 10",
+        "enseigne": "Aldi",
+        "longitude": "56.4115282",
+        "latitude": "10.8746623"
+    },
+    {
+        "activity": "Supermarché · Hovedgaden 36",
+        "enseigne": "Aldi",
+        "longitude": "55.8549603",
+        "latitude": "11.9841179"
+    },
+    {
+        "activity": "Supermarché · Rougsøvej 47 B",
+        "enseigne": "Aldi",
+        "longitude": "56.4669279",
+        "latitude": "10.3189747"
+    },
+    {
+        "activity": "Supermarché · Nordre Ringvej 50",
+        "enseigne": "Aldi",
+        "longitude": "55.4579532",
+        "latitude": "10.6559056"
+    },
+    {
+        "activity": "Supermarché · Ndr. Ringgade 24",
+        "enseigne": "Aldi",
+        "longitude": "55.4135294",
+        "latitude": "11.3531011"
+    },
+    {
+        "activity": "Supermarché · Jersie Center 2",
+        "enseigne": "ALDI",
+        "longitude": "55.52045",
+        "latitude": "12.20729"
+    },
+    {
+        "activity": "Supermarché · Pogebanken 2",
+        "enseigne": "ALDI",
+        "longitude": "55.6303",
+        "latitude": "12.08181"
+    },
+    {
+        "activity": "Supermarché · Industrivænget 8 A",
+        "enseigne": "ALDI",
+        "longitude": "55.9323802",
+        "latitude": "12.2812831"
+    },
+    {
+        "activity": "Supermarché · Ræveholmsvej 57",
+        "enseigne": "ALDI",
+        "longitude": "55.5578941",
+        "latitude": "12.25456"
+    },
+    {
+        "activity": "Supermarché · Bymosevej 9B",
+        "enseigne": "ALDI",
+        "longitude": "56.0152792",
+        "latitude": "12.1986599"
+    },
+    {
+        "activity": "Supermarché · Hovedgaden 407",
+        "enseigne": "ALDI",
+        "longitude": "55.6495571",
+        "latitude": "12.2018689"
+    },
+    {
+        "activity": "Supermarché · Taastrup Hovedgade 109, 111",
+        "enseigne": "Aldi",
+        "longitude": "55.6477843",
+        "latitude": "12.2998562"
+    },
+    {
+        "activity": "Supermarché · Hovedgaden 1 B",
+        "enseigne": "Aldi",
+        "longitude": "55.7579986",
+        "latitude": "11.9585497"
+    },
+    {
+        "activity": "Supermarché · Strandvejen 18",
+        "enseigne": "Aldi",
+        "longitude": "55.9643409",
+        "latitude": "11.8487299"
+    },
+    {
+        "activity": "Boulangerie · Stationstorvet 3-9",
+        "enseigne": "ALDI",
+        "longitude": "55.6575432",
+        "latitude": "12.3537605"
+    },
+    {
+        "activity": "Supermarché · Vestergade 52",
+        "enseigne": "Aldi",
+        "longitude": "55.61219",
+        "latitude": "11.76429"
+    },
+    {
+        "activity": "Supermarché · Rugårdsvej 455",
+        "enseigne": "ALDI",
+        "longitude": "55.4205086",
+        "latitude": "10.2741373"
+    },
+    {
+        "activity": "Épicerie · Csepeli út 26",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Dózsa György út 87",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Tüzér u. 5/A",
+        "enseigne": "ALDI",
+        "longitude": "47.3772843",
+        "latitude": "18.1888938"
+    },
+    {
+        "activity": "Épicerie · Budapest út 20-28",
+        "enseigne": "ALDI",
+        "longitude": "47.3690832",
+        "latitude": "19.0474153"
+    },
+    {
+        "activity": "Épicerie · II. Rákóczi Ferenc utca 257",
+        "enseigne": "ALDI",
+        "longitude": "47.3690832",
+        "latitude": "19.0474153"
+    },
+    {
+        "activity": "Épicerie · Enying Váci Mihály u. 2754/26 hrsz",
+        "enseigne": "ALDI",
+        "longitude": "47.7648789",
+        "latitude": "19.1411211"
+    },
+    {
+        "activity": "Épicerie · Háros u. 11/B",
+        "enseigne": "ALDI",
+        "longitude": "47.628172",
+        "latitude": "18.853072"
+    },
+    {
+        "activity": "Épicerie · Szabadság út 21",
+        "enseigne": "ALDI",
+        "longitude": "47.3772843",
+        "latitude": "18.1888938"
+    },
+    {
+        "activity": "Épicerie · Nagytétényi út 145-147",
+        "enseigne": "ALDI",
+        "longitude": "47.3772843",
+        "latitude": "18.1888938"
+    },
+    {
+        "activity": "Épicerie · Sulák u. 2",
+        "enseigne": "ALDI",
+        "longitude": "47.398607",
+        "latitude": "19.247623"
+    },
+    {
+        "activity": "Station-service · Dózsa György út",
+        "enseigne": "Tankoljon olcsón az ALDI parkolójában",
+        "longitude": "46.1943688",
+        "latitude": "18.9514807"
+    },
+    {
+        "activity": "Épicerie · Av. 8 de Julho Lote 1",
+        "enseigne": "ALDI Supermercados",
+        "longitude": "39.475609",
+        "latitude": "-8.5329172"
+    },
+    {
+        "activity": "Épicerie · Rua d'Azeredo Perdigão",
+        "enseigne": "ALDI Supermercados",
+        "longitude": "39.3648105",
+        "latitude": "-9.3795665"
+    },
+    {
+        "activity": "Supermarché · M578 2 2080",
+        "enseigne": "Aldi Almeirim",
+        "longitude": "39.2002748",
+        "latitude": "-8.6162384"
+    },
+    {
+        "activity": "Supermarché discount · R. Bartolomeu Dias",
+        "enseigne": "ALDI",
+        "longitude": "37.130237",
+        "latitude": "-8.280245"
+    },
+    {
+        "activity": "Supermarché · R. Casal dos Bizos 35",
+        "enseigne": "ALDI",
+        "longitude": "38.7698874",
+        "latitude": "-9.2245865"
+    },
+    {
+        "activity": "Épicerie · 583, Av. Acácias 4",
+        "enseigne": "ALDI",
+        "longitude": "39.399872",
+        "latitude": "-8.224454"
+    },
+    {
+        "activity": "Épicerie · R. Vagens 54",
+        "enseigne": "Aldi",
+        "longitude": "38.9318714",
+        "latitude": "-9.258963"
+    },
+    {
+        "activity": "Entrepôt · N11 1981",
+        "enseigne": "ALDI Montijo",
+        "longitude": "38.6844708",
+        "latitude": "-8.9446654"
+    },
+    {
+        "activity": "Siège social · Q.ta da Marquesa IV 3",
+        "enseigne": "ALDI Armazém",
+        "longitude": "38.576726",
+        "latitude": "-9.0000973"
+    },
+    {
+        "activity": "Supermarché · 147 Boulevard Victor Bordier",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · 1 Rue Gustave Eiffel",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · 6 Rue de Belfort",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · Face Mairie, 17 Rue Etienne Fajon",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 18 Rue Félix Merlin",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · 9003 Boulevard du 8 Mai 1945",
+        "enseigne": "ALDI",
+        "longitude": "50.1117791",
+        "latitude": "3.4152481"
+    },
+    {
+        "activity": "Supermarché · 37-41 Rue Pierre Semard",
+        "enseigne": "ALDI",
+        "longitude": "48.9340996",
+        "latitude": "2.4766052"
+    },
+    {
+        "activity": "Supermarché · 134 Route de Montfermeil",
+        "enseigne": "ALDI",
+        "longitude": "48.89321",
+        "latitude": "2.57928"
+    },
+    {
+        "activity": "Supermarché · 189 à 193 Avenue Henri Barbusse",
+        "enseigne": "ALDI",
+        "longitude": "48.933",
+        "latitude": "2.23345"
+    },
+    {
+        "activity": "Supermarché · 59 Rue de Paris",
+        "enseigne": "Aldi",
+        "longitude": "49.6553655",
+        "latitude": "1.9349322"
+    },
+    {
+        "activity": "Supermarché · 364 Route de Paris",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · 26 Rue Théodore Bullier",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · Rue Copernic",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · 6 Rue du Dr Claude Bernard",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 2/4 Avenue de la Petite Vitesse",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · 18 Route nationale",
+        "enseigne": "Aldi",
+        "longitude": "50.2565645",
+        "latitude": "3.1597799"
+    },
+    {
+        "activity": "Supermarché · 60 Rue de l'Europe",
+        "enseigne": "ALDI",
+        "longitude": "49.9055784",
+        "latitude": "3.6466472"
+    },
+    {
+        "activity": "Supermarché · Route de Vauvillers",
+        "enseigne": "ALDI",
+        "longitude": "49.8242187",
+        "latitude": "2.7127251"
+    },
+    {
+        "activity": "Supermarché · ZAC de l'Archer, Rue Jacques Brel",
+        "enseigne": "ALDI",
+        "longitude": "49.3675126",
+        "latitude": "3.3139635"
+    },
+    {
+        "activity": "Supermarché · 113 Rue du Château d'Eau",
+        "enseigne": "ALDI",
+        "longitude": "50.0021976",
+        "latitude": "2.3144258"
+    },
+    {
+        "activity": "Supermarché · 5 Quartier de la Fabrique",
+        "enseigne": "ALDI",
+        "longitude": "50.0281196",
+        "latitude": "3.2851988"
+    },
+    {
+        "activity": "Supermarché · 56 Fbg de Cambrai",
+        "enseigne": "ALDI",
+        "longitude": "50.10567",
+        "latitude": "3.53524"
+    },
+    {
+        "activity": "Supermarché · 113 Route nationale",
+        "enseigne": "Aldi",
+        "longitude": "50.2104935",
+        "latitude": "3.0915839"
+    },
+    {
+        "activity": "Supermarché · Avenue du Poteau",
+        "enseigne": "Aldi",
+        "longitude": "49.6553655",
+        "latitude": "1.9349322"
+    },
+    {
+        "activity": "Supermarché · 44, RN 29 Rue d'Amiens",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · Carrefour de l'Europe, 74 Avenue de Compiègne",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · 505 Chaussée Jules Ferry",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · 97 Rue du Ménil",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 14 Rue Victor Hugo",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · Allée des Missions",
+        "enseigne": "ALDI",
+        "longitude": "49.310592",
+        "latitude": "3.6704883"
+    },
+    {
+        "activity": "Supermarché · 93 Avenue Pierre Mendès France",
+        "enseigne": "ALDI",
+        "longitude": "49.5754233",
+        "latitude": "3.6359811"
+    },
+    {
+        "activity": "Supermarché · Boulevard Dupleix",
+        "enseigne": "ALDI",
+        "longitude": "50.1267585",
+        "latitude": "3.6937918"
+    },
+    {
+        "activity": "Supermarché · 11 Rue de la Sablonnière",
+        "enseigne": "Aldi",
+        "longitude": "49.0848039",
+        "latitude": "3.6524203"
+    },
+    {
+        "activity": "Supermarché · 2 Avenue de la Libération",
+        "enseigne": "ALDI",
+        "longitude": "49.0727671",
+        "latitude": "2.6716364"
+    },
+    {
+        "activity": "Supermarché · 21 Rue Jean Mermoz",
+        "enseigne": "ALDI",
+        "longitude": "49.8416543",
+        "latitude": "3.4965326"
+    },
+    {
+        "activity": "Supermarché · 9/10 Rue du 7E Bca",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · 720 Rue nationale",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · Avenue Jean Jaurès",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · 147 Route de Doullens",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 4 Rue de Liez",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · 174 Rue du Président J F Kennedy 172",
+        "enseigne": "ALDI",
+        "longitude": "49.8571381",
+        "latitude": "3.2791095"
+    },
+    {
+        "activity": "Supermarché · Rue Charles Péguy",
+        "enseigne": "ALDI",
+        "longitude": "49.5488035",
+        "latitude": "3.6173606"
+    },
+    {
+        "activity": "Supermarché · Rue du Dieu Lève",
+        "enseigne": "ALDI",
+        "longitude": "49.98782",
+        "latitude": "3.45222"
+    },
+    {
+        "activity": "Supermarché · Rue Roger Salengro",
+        "enseigne": "ALDI",
+        "longitude": "50.1768686",
+        "latitude": "3.2165356"
+    },
+    {
+        "activity": "Supermarché · 127 Rue Paul Bert",
+        "enseigne": "ALDI",
+        "longitude": "49.8416543",
+        "latitude": "3.4965326"
+    },
+    {
+        "activity": "Supermarché · 91/95 Rue du Poteau",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · 69 Rue de Neuilly",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · 10 Avenue du Capitaine N'Tchoëre",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · Avenue R.P. du Brottier",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · Le Clos Guignant, 8 Rue Ernest Sarron ZA",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · Route de Bavay, RD 942",
+        "enseigne": "ALDI",
+        "longitude": "50.2519935",
+        "latitude": "3.6426725"
+    },
+    {
+        "activity": "Supermarché · 64 Avenue du Général de Gaulle",
+        "enseigne": "ALDI",
+        "longitude": "49.0329388",
+        "latitude": "3.378895"
+    },
+    {
+        "activity": "Supermarché · Route nationale D 942",
+        "enseigne": "ALDI",
+        "longitude": "50.18995",
+        "latitude": "3.38517"
+    },
+    {
+        "activity": "Supermarché · 5 Route de Guise",
+        "enseigne": "ALDI",
+        "longitude": "50.1202246",
+        "latitude": "3.6944972"
+    },
+    {
+        "activity": "Supermarché · Rue d'Haspres",
+        "enseigne": "ALDI",
+        "longitude": "50.2482096",
+        "latitude": "3.4375838"
+    },
+    {
+        "activity": "Supermarché · 8 Ter Route d'Abbeville",
+        "enseigne": "ALDI",
+        "longitude": "50.2288735",
+        "latitude": "2.1088345"
+    },
+    {
+        "activity": "Supermarché · centre commercial Gaston Roulland",
+        "enseigne": "ALDI",
+        "longitude": "50.1768686",
+        "latitude": "3.2165356"
+    },
+    {
+        "activity": "Supermarché · 181 Avenue Paul Vaillant Couturier",
+        "enseigne": "ALDI",
+        "longitude": "49.8416543",
+        "latitude": "3.4965326"
+    },
+    {
+        "activity": "Supermarché · 118 Avenue Gabriel Péri",
+        "enseigne": "ALDI",
+        "longitude": "48.69292",
+        "latitude": "2.4452"
+    },
+    {
+        "activity": "Supermarché · Rue d'Amiens",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · 245 Rue de Stalingrad",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · 60/70 Rue Jean Pierre Timbaud",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 36 Avenue du Colonel Fabien",
+        "enseigne": "ALDI",
+        "longitude": "48.9559669",
+        "latitude": "2.2997055"
+    },
+    {
+        "activity": "Supermarché · Zone Industrielle des, Rue des Waillons",
+        "enseigne": "ALDI",
+        "longitude": "49.3431875",
+        "latitude": "3.5527411"
+    },
+    {
+        "activity": "Supermarché · zac De, Rue de Puiseux",
+        "enseigne": "ALDI",
+        "longitude": "50.1768686",
+        "latitude": "3.2165356"
+    },
+    {
+        "activity": "Supermarché · 124 Avenue Pierre Semard",
+        "enseigne": "ALDI",
+        "longitude": "46.9549504",
+        "latitude": "2.0056852"
+    },
+    {
+        "activity": "Supermarché · 129-131 Boulevard Carnot",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · Rue de l'Egalité - Champ de la Fin, Rue du Bac",
+        "enseigne": "ALDI",
+        "longitude": "48.67852",
+        "latitude": "2.383"
+    },
+    {
+        "activity": "Supermarché · 12-14 Rue de Clignancourt",
+        "enseigne": "ALDI",
+        "longitude": "48.88451",
+        "latitude": "2.347282"
+    },
+    {
+        "activity": "Magasin · 17 Rue Fernand Léger",
+        "enseigne": "ALDI",
+        "longitude": "49.0058735",
+        "latitude": "2.1732676"
+    },
+    {
+        "activity": "Supermarché · 106 Avenue Pasteur 102",
+        "enseigne": "ALDI",
+        "longitude": "48.9022329",
+        "latitude": "2.3169772"
+    },
+    {
+        "activity": "Supermarché · 789 Avenue de la Collinière",
+        "enseigne": "ALDI",
+        "longitude": "48.39374",
+        "latitude": "2.79854"
+    },
+    {
+        "activity": "Supermarché · Rue du Stade",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · Rue des Valères",
+        "enseigne": "ALDI",
+        "longitude": "48.933",
+        "latitude": "2.23345"
+    },
+    {
+        "activity": "Supermarché · 71 Rue Ernest Bradfer",
+        "enseigne": "ALDI",
+        "longitude": "48.7674847",
+        "latitude": "5.174199"
+    },
+    {
+        "activity": "Supermarché · 159 Avenue Robert Schumann",
+        "enseigne": "ALDI",
+        "longitude": "48.3098689",
+        "latitude": "4.0968111"
+    },
+    {
+        "activity": "Supermarché · 14 Rue Pierre de Coubertin",
+        "enseigne": "ALDI",
+        "longitude": "48.2994777",
+        "latitude": "5.8403258"
+    },
+    {
+        "activity": "Supermarché · 27 Avenue de la 40EME Division",
+        "enseigne": "ALDI",
+        "longitude": "48.9022329",
+        "latitude": "2.3169772"
+    },
+    {
+        "activity": "Supermarché · Route de Troyes - Zone Actipole",
+        "enseigne": "ALDI",
+        "longitude": "48.39374",
+        "latitude": "2.79854"
+    },
+    {
+        "activity": "Supermarché · Rue du Port Canal",
+        "enseigne": "ALDI",
+        "longitude": "48.7626587",
+        "latitude": "5.5973074"
+    },
+    {
+        "activity": "Supermarché · Avenue Marc Hamet",
+        "enseigne": "ALDI",
+        "longitude": "47.0943697",
+        "latitude": "2.3882967"
+    },
+    {
+        "activity": "Supermarché · 21 Fbg de St Dizier",
+        "enseigne": "ALDI",
+        "longitude": "48.933",
+        "latitude": "2.23345"
+    },
+    {
+        "activity": "Supermarché · 42 Rue du Capitaine Albert Littolff",
+        "enseigne": "ALDI",
+        "longitude": "48.1890699",
+        "latitude": "5.8832143"
+    },
+    {
+        "activity": "Supermarché · 126 Avenue de Champagne",
+        "enseigne": "ALDI",
+        "longitude": "48.7097981",
+        "latitude": "4.5890485"
+    },
+    {
+        "activity": "Supermarché · 17 Rue Thibaut",
+        "enseigne": "ALDI",
+        "longitude": "48.4750772",
+        "latitude": "4.7731771"
+    },
+    {
+        "activity": "Supermarché · ZA de la Ballastière - RD 966",
+        "enseigne": "ALDI",
+        "longitude": "48.6758063",
+        "latitude": "5.3252027"
+    },
+    {
+        "activity": "Supermarché · Angle RD 60 et 918, Route de Kedange",
+        "enseigne": "ALDI",
+        "longitude": "47.9525104",
+        "latitude": "5.7574965"
+    },
+    {
+        "activity": "Supermarché · ZAC Fourchon, Rue de Sagne",
+        "enseigne": "ALDI",
+        "longitude": "48.5012512",
+        "latitude": "4.9369016"
+    },
+    {
+        "activity": "Supermarché discount · Calle Soleá Avenida Juan Carlos I esquina",
+        "enseigne": "ALDI",
+        "longitude": "36.5129968",
+        "latitude": "-6.2774265"
+    },
+    {
+        "activity": "Supermarché discount · Calle Escritor Germán Caos",
+        "enseigne": "ALDI",
+        "longitude": "36.47675",
+        "latitude": "-6.199962"
+    },
+    {
+        "activity": "Supermarché · 14 à 16 Rue du Carpont",
+        "enseigne": "ALDI",
+        "longitude": "48.44429",
+        "latitude": "-2.07288"
+    },
+    {
+        "activity": "Supermarché · Ogrodowa 1",
+        "enseigne": "ALDI Ustka",
+        "longitude": "54.573832",
+        "latitude": "16.868959"
+    },
+    {
+        "activity": "Supermarché · Marszałka Józefa Piłsudskiego 79",
+        "enseigne": "ALDI",
+        "longitude": "54.4634841",
+        "latitude": "17.0105528"
+    },
+    {
+        "activity": "Supermarché · Hjørringvej 56",
+        "enseigne": "ALDI",
+        "longitude": "57.1158097",
+        "latitude": "8.6051159"
+    },
+    {
+        "activity": "Supermarché · Stenmarksvej 1",
+        "enseigne": "ALDI",
+        "longitude": "57.1158097",
+        "latitude": "8.6051159"
+    },
+    {
+        "activity": "Supermarché · Holmevej 3",
+        "enseigne": "ALDI",
+        "longitude": "56.7496971",
+        "latitude": "8.4228023"
+    },
+    {
+        "activity": "Supermarché · Limfjordsvej 13",
+        "enseigne": "ALDI",
+        "longitude": "56.7931132",
+        "latitude": "8.8548738"
+    },
+    {
+        "activity": "Supermarché · Bytorvet 57",
+        "enseigne": "ALDI",
+        "longitude": "56.3740322",
+        "latitude": "9.6545661"
+    },
+    {
+        "activity": "Supermarché · Skous Gade 7",
+        "enseigne": "ALDI",
+        "longitude": "57.265243",
+        "latitude": "9.9476351"
+    },
+    {
+        "activity": "Supermarché · Bisgårdsvej 8",
+        "enseigne": "ALDI",
+        "longitude": "57.0863372",
+        "latitude": "9.2680284"
+    },
+    {
+        "activity": "Supermarché · Dæmningen 11",
+        "enseigne": "ALDI",
+        "longitude": "56.4916352",
+        "latitude": "8.5840434"
+    },
+    {
+        "activity": "Magasin de produits surgelés · Simons Bakke 70-74",
+        "enseigne": "Aldi",
+        "longitude": "56.949415",
+        "latitude": "8.662942"
+    },
+    {
+        "activity": "Supermarché · Koldingvej 61, 69",
+        "enseigne": "ALDI",
+        "longitude": "56.4332094",
+        "latitude": "9.3924466"
+    },
+    {
+        "activity": "Supermarché · Søndergade 31A",
+        "enseigne": "ALDI",
+        "longitude": "56.8027761",
+        "latitude": "9.5189797"
+    },
+    {
+        "activity": "Supermarché · Industriparken 25",
+        "enseigne": "ALDI Haverslev regionskontor",
+        "longitude": "56.786425",
+        "latitude": "9.695732"
+    },
+    {
+        "activity": "Supermarché discount · Doggerbanke 1",
+        "enseigne": "Aldi Neu",
+        "longitude": "57.5900997",
+        "latitude": "9.9646614"
+    },
+    {
+        "activity": "· Koldingvej 61",
+        "enseigne": "Aldi Koldingvej Viborg",
+        "longitude": "56.4332094",
+        "latitude": "9.3924464"
+    },
+    {
+        "activity": "Supermarché · Molenbrink 68",
+        "enseigne": "ALDI",
+        "longitude": "52.022345",
+        "latitude": "4.172885"
+    },
+    {
+        "activity": "Supermarché · Loosduinse Hoofdstraat 280 - 282",
+        "enseigne": "ALDI",
+        "longitude": "52.0533675",
+        "latitude": "4.235523"
+    },
+    {
+        "activity": "Supermarché · Langestede 4",
+        "enseigne": "Aldi Den Haag Bouwlust",
+        "longitude": "52.041339",
+        "latitude": "4.2632774"
+    },
+    {
+        "activity": "Supermarché discount · Av. Matas Verdes, 2",
+        "enseigne": "Aldi",
+        "longitude": "37.7889814",
+        "latitude": "-3.7849679"
+    },
+    {
+        "activity": "Supermarché discount · Av. Juan Carlos I, s/n",
+        "enseigne": "Aldi",
+        "longitude": "37.7889814",
+        "latitude": "-3.7849679"
+    },
+    {
+        "activity": "Supermarché discount · Calle Murcia, s/n",
+        "enseigne": "Aldi",
+        "longitude": "37.4174568",
+        "latitude": "-1.5730988"
+    },
+    {
+        "activity": "Supermarché discount · C/ Ricardo Ortega, 8",
+        "enseigne": "Aldi",
+        "longitude": "38.026528",
+        "latitude": "-3.37018"
+    },
+    {
+        "activity": "Supermarché discount · C, Calle Camino Viejo del Puerto, 150",
+        "enseigne": "Aldi",
+        "longitude": "37.4145372",
+        "latitude": "-4.4990771"
+    },
+    {
+        "activity": "Supermarché discount · Av. Retamar, s/n",
+        "enseigne": "ALDI",
+        "longitude": "36.5875813",
+        "latitude": "-4.5841714"
+    },
+    {
+        "activity": "Supermarché discount · Avenida Sabinar, 760",
+        "enseigne": "Aldi",
+        "longitude": "36.7373226",
+        "latitude": "-2.6207884"
+    },
+    {
+        "activity": "Supermarché discount · Calle la Noria, 10",
+        "enseigne": "ALDI",
+        "longitude": "38.0884303",
+        "latitude": "-1.1899055"
+    },
+    {
+        "activity": "Supermarché discount · Ctra.. de Níjar, 401",
+        "enseigne": "Aldi",
+        "longitude": "36.8434791",
+        "latitude": "-2.4328813"
+    },
+    {
+        "activity": "Supermarché discount · Av. de Murcia, s/n",
+        "enseigne": "Aldi",
+        "longitude": "38.4721105",
+        "latitude": "-1.3137294"
+    },
+    {
+        "activity": "Supermarché discount · Av. del Brillante, 78",
+        "enseigne": "Aldi",
+        "longitude": "37.9039099",
+        "latitude": "-4.7894416"
+    },
+    {
+        "activity": "Supermarché discount · C / Embajador José Luis Messía Jiménez, 2",
+        "enseigne": "Aldi",
+        "longitude": "37.7889814",
+        "latitude": "-3.7849679"
+    },
+    {
+        "activity": "Supermarché discount · Calle de la Vid, s/n",
+        "enseigne": "Aldi",
+        "longitude": "38.998402",
+        "latitude": "-3.3598681"
+    },
+    {
+        "activity": "Supermarché discount · Calle Puerta de Córdoba, 13",
+        "enseigne": "Aldi",
+        "longitude": "38.0360527",
+        "latitude": "-4.0594043"
+    },
+    {
+        "activity": "Supermarché discount · Parque comercial Cemar, Ctra, N-340",
+        "enseigne": "Aldi",
+        "longitude": "36.8678014",
+        "latitude": "-2.4452748"
+    },
+    {
+        "activity": "Supermarché discount · Calle Carr. de Vilches, s/n",
+        "enseigne": "Aldi",
+        "longitude": "38.026528",
+        "latitude": "-3.37018"
+    },
+    {
+        "activity": "Supermarché discount · Calle Arquímedes, 1",
+        "enseigne": "Aldi",
+        "longitude": "37.7889814",
+        "latitude": "-3.7849679"
+    },
+    {
+        "activity": "Supermarché discount · Av. Feria, 21",
+        "enseigne": "Aldi",
+        "longitude": "37.4174568",
+        "latitude": "-1.5730988"
+    },
+    {
+        "activity": "Supermarché discount · Av. Libertad, 212",
+        "enseigne": "Aldi",
+        "longitude": "38.026528",
+        "latitude": "-3.37018"
+    },
+    {
+        "activity": "Supermarché discount · Calle Actor Francisco Rabal",
+        "enseigne": "Aldi",
+        "longitude": "37.4145372",
+        "latitude": "-4.4990771"
+    },
+    {
+        "activity": "Supermarché discount · Av. Víctor Garrigos, 27",
+        "enseigne": "Aldi",
+        "longitude": "38.0300145",
+        "latitude": "-1.1464748"
+    },
+    {
+        "activity": "Supermarché discount · Av. de Mare Nostrum",
+        "enseigne": "Aldi",
+        "longitude": "36.7373226",
+        "latitude": "-2.6207884"
+    },
+    {
+        "activity": "Supermarché discount · Av. de los Juegos OlÍmpicos, 1",
+        "enseigne": "Aldi",
+        "longitude": "36.7211127",
+        "latitude": "-4.6163688"
+    },
+    {
+        "activity": "Supermarché discount · Calle Montes de Oca, 15",
+        "enseigne": "Aldi",
+        "longitude": "36.7202568",
+        "latitude": "-4.4297814"
+    },
+    {
+        "activity": "Supermarché discount · N-340 La, Av. de Andalucía",
+        "enseigne": "Aldi",
+        "longitude": "36.7505573",
+        "latitude": "-4.0724268"
+    },
+    {
+        "activity": "Supermarché discount · Av. Sta. Clara, S/N",
+        "enseigne": "Aldi",
+        "longitude": "36.66167",
+        "latitude": "-4.5297654"
+    },
+    {
+        "activity": "Supermarché discount · Calle Claudio Marcelo, 19",
+        "enseigne": "Aldi",
+        "longitude": "37.8844477",
+        "latitude": "-4.7787695"
+    },
+    {
+        "activity": "Supermarché discount · Calle Giordano Bruno, 6",
+        "enseigne": "Aldi",
+        "longitude": "36.7182588",
+        "latitude": "-4.4658621"
+    },
+    {
+        "activity": "Supermarché discount · Calle Infanta Elena, 20",
+        "enseigne": "Aldi",
+        "longitude": "36.7668929",
+        "latitude": "-2.6123401"
+    },
+    {
+        "activity": "Supermarché · Calle Lope de Rueda, 151",
+        "enseigne": "Aldi Puerto De La Torre",
+        "longitude": "36.7413274",
+        "latitude": "-4.487877"
     }
 ]

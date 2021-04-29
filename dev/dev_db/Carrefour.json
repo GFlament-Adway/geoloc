@@ -1,0 +1,668 @@
+[
+    {
+        "activity": "Hypermarché ",
+        "enseigne": "Hypermarkt Carrefour MALMÉDY",
+        "longitude": "50.4220992",
+        "latitude": "6.0422946"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market LONTZEN",
+        "longitude": "50.6536432",
+        "latitude": "5.9947793"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market BUTGENBACH",
+        "longitude": "50.4276617",
+        "latitude": "6.2032324"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market STAVELOT",
+        "longitude": "50.39674",
+        "latitude": "5.9378367"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market VIELSALM",
+        "longitude": "50.283363",
+        "latitude": "5.919122"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market LA CALAMINE",
+        "longitude": "50.7173309",
+        "latitude": "6.0149281"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market ST. VITH",
+        "longitude": "50.2838628",
+        "latitude": "6.1235898"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market EUPEN Centre Rotenberg",
+        "longitude": "50.6248451",
+        "latitude": "6.0294637"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market Eupen Herbesthalerstrasse",
+        "longitude": "50.6389501",
+        "latitude": "6.0178845"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "HEDOMONT Carrefour",
+        "longitude": "50.4020915",
+        "latitude": "6.0440415"
+    },
+    {
+        "activity": "Cordonnier ",
+        "enseigne": "MISTER MINIT Malmedy Carrefour",
+        "longitude": "50.4217206",
+        "latitude": "6.0416837"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "WAYAI Carrefour",
+        "longitude": "50.5040885",
+        "latitude": "5.943847"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "WAYAI Carrefour",
+        "longitude": "50.504042",
+        "latitude": "5.943888"
+    },
+    {
+        "activity": "Boulangerie ",
+        "enseigne": "Bäckerei Kockartz - Carrefour Eupen",
+        "longitude": "50.6260376",
+        "latitude": "6.0297515"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "HEDOMONT Carrefour",
+        "longitude": "50.402107",
+        "latitude": "6.044122"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "HEDOMONT Carrefour",
+        "longitude": "50.402076",
+        "latitude": "6.043961"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "RENCHEUX Carrefour",
+        "longitude": "50.2871035",
+        "latitude": "5.9041715"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "WAYAI Carrefour",
+        "longitude": "50.504135",
+        "latitude": "5.943806"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "BIRKEN Carrefour",
+        "longitude": "50.698991",
+        "latitude": "5.9730935"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "BIRKEN Carrefour",
+        "longitude": "50.697565",
+        "latitude": "5.9760745"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "RENCHEUX Carrefour",
+        "longitude": "50.287154",
+        "latitude": "5.904253"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "RENCHEUX Carrefour",
+        "longitude": "50.287053",
+        "latitude": "5.90409"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "SIPPENAEKEN Carrefour Notre-Dame",
+        "longitude": "50.7489515",
+        "latitude": "5.9362305"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "BIRKEN Carrefour",
+        "longitude": "50.698995",
+        "latitude": "5.973187"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "BIRKEN Carrefour",
+        "longitude": "50.697492",
+        "latitude": "5.976071"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "WELKENRAEDT Wilcourt carrefour",
+        "longitude": "50.6646405",
+        "latitude": "5.9474525"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "JEHANSTER Carrefour de Jehanster",
+        "longitude": "50.55771",
+        "latitude": "5.896884"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "SIPPENAEKEN Carrefour Notre-Dame",
+        "longitude": "50.748938",
+        "latitude": "5.936313"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "JALHAY Carrefour de Herbiester",
+        "longitude": "50.557594",
+        "latitude": "5.9716585"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "SIPPENAEKEN Carrefour Notre-Dame",
+        "longitude": "50.748965",
+        "latitude": "5.936148"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market VERVIERS",
+        "longitude": "50.5939823",
+        "latitude": "5.8632838"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market HEUSY",
+        "longitude": "50.5784294",
+        "latitude": "5.8656248"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour market AUBEL",
+        "longitude": "50.6936244",
+        "latitude": "5.8534605"
+    },
+    {
+        "activity": "",
+        "enseigne": "Salle Le Carrefour",
+        "longitude": "50.5952558",
+        "latitude": "5.8709656"
+    },
+    {
+        "activity": "Service d'aide à la recherche d'emploi ",
+        "enseigne": "Carrefour Emploi Formation Orientation",
+        "longitude": "50.5944485",
+        "latitude": "5.8648876"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "PETIT-RECHAIN Manaihant carrefour",
+        "longitude": "50.6241065",
+        "latitude": "5.827326"
+    },
+    {
+        "activity": "Station de transit",
+        "enseigne": "JEHANSTER Carrefour de Jehanster",
+        "longitude": "50.5573945",
+        "latitude": "5.89732"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "PETIT-RECHAIN Manaihant carrefour",
+        "longitude": "50.624286",
+        "latitude": "5.826981"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "WELKENRAEDT Wilcourt carrefour",
+        "longitude": "50.664611",
+        "latitude": "5.947366"
+    },
+    {
+        "activity": "Arrêt de bus",
+        "enseigne": "JALHAY Carrefour de Herbiester",
+        "longitude": "50.557959",
+        "latitude": "5.970975"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "41.311993",
+        "latitude": "16.2651617"
+    },
+    {
+        "activity": "Épicerie",
+        "enseigne": "Carrefour Express",
+        "longitude": "41.9112254",
+        "latitude": "16.1191071"
+    },
+    {
+        "activity": "Épicerie ",
+        "enseigne": "Carrefour Express",
+        "longitude": "41.273814",
+        "latitude": "16.4214379"
+    },
+    {
+        "activity": "Épicerie ",
+        "enseigne": "Carrefour Express",
+        "longitude": "41.6249903",
+        "latitude": "15.9085429"
+    },
+    {
+        "activity": "Épicerie ",
+        "enseigne": "Carrefour Express",
+        "longitude": "41.9447622",
+        "latitude": "16.0141775"
+    },
+    {
+        "activity": "Centre commercial ",
+        "enseigne": "Carrefour market",
+        "longitude": "41.3163717",
+        "latitude": "16.2761685"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "51.2822428",
+        "latitude": "18.7938667"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Market",
+        "longitude": "51.2152153",
+        "latitude": "18.5830685"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "51.2925891",
+        "latitude": "18.1715621"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Market - Supermarket",
+        "longitude": "40.7463969",
+        "latitude": "14.4898102"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Supermercato Carrefour Market",
+        "longitude": "40.6247222",
+        "latitude": "14.3725"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express - Supermarket",
+        "longitude": "40.7504217",
+        "latitude": "13.89336"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Supermercato Carrefour Express",
+        "longitude": "40.7087236",
+        "latitude": "13.8749371"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Market - Supermarket",
+        "longitude": "40.7061571",
+        "latitude": "13.9192648"
+    },
+    {
+        "activity": "Centre de fitness ",
+        "enseigne": "Carrefour Health Club",
+        "longitude": "54.1496294",
+        "latitude": "-4.4790894"
+    },
+    {
+        "activity": "",
+        "enseigne": "Carrefour",
+        "longitude": "54.1497495",
+        "latitude": "-4.4794193"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Market",
+        "longitude": "38.9234209",
+        "latitude": "16.2471493"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6393996",
+        "latitude": "3.0135857"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "50.6337301",
+        "latitude": "3.0681346"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "50.6343195",
+        "latitude": "3.0308027"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Express",
+        "longitude": "50.621158",
+        "latitude": "3.034566"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.611372",
+        "latitude": "2.9844206"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Drive Lille Gambetta",
+        "longitude": "50.6274364",
+        "latitude": "3.0521577"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6382701",
+        "latitude": "3.0232013"
+    },
+    {
+        "activity": "Hypermarché ",
+        "enseigne": "Carrefour Lomme",
+        "longitude": "50.6513748",
+        "latitude": "2.9786365"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6089679",
+        "latitude": "3.0652441"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6285412",
+        "latitude": "3.0578618"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6321228",
+        "latitude": "3.0629289"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6355098",
+        "latitude": "3.0709768"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.651244",
+        "latitude": "3.0725689"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6469129",
+        "latitude": "3.0579853"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6552642",
+        "latitude": "3.0664339"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6112123",
+        "latitude": "3.0756346"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Contact",
+        "longitude": "50.5961866",
+        "latitude": "2.9538813"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6605655",
+        "latitude": "3.050576"
+    },
+    {
+        "activity": "Magasin bio ",
+        "enseigne": "Carrefour Bio",
+        "longitude": "50.6284022",
+        "latitude": "3.0691611"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City",
+        "longitude": "50.6377572",
+        "latitude": "3.066956"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Drive La Madeleine",
+        "longitude": "50.6535794",
+        "latitude": "3.0613829"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour City Euratechnologies",
+        "longitude": "50.6303491",
+        "latitude": "3.0238018"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Carrefour Drive Lomme",
+        "longitude": "50.6517227",
+        "latitude": "2.9756948"
+    },
+    {
+        "activity": "Magasin d'alimentation bio ",
+        "enseigne": "Carrefour Bio",
+        "longitude": "50.6503896",
+        "latitude": "3.0705221"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Mondial Relay Carrefour City",
+        "longitude": "50.6256018",
+        "latitude": "3.0394315"
+    },
+    {
+        "activity": "Supérette ",
+        "enseigne": "Carrefour city lille victor hugo",
+        "longitude": "50.6194929",
+        "latitude": "3.0537359"
+    },
+    {
+        "activity": "Supermarché ",
+        "enseigne": "Relais Colis Carrefour City",
+        "longitude": "50.6111017",
+        "latitude": "3.0754817"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.627753",
+        "latitude": "3.0331198"
+    },
+    {
+        "activity": "Billetterie de spectacles ",
+        "enseigne": "Carrefour Spectacles",
+        "longitude": "50.6278901",
+        "latitude": "3.0512115"
+    },
+    {
+        "activity": "Hypermarché ",
+        "enseigne": "cse carrefour lomme",
+        "longitude": "50.65379",
+        "latitude": "2.975927"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.650771",
+        "latitude": "2.9802953"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.627889",
+        "latitude": "3.0512136"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.6539356",
+        "latitude": "3.0612326"
+    },
+    {
+        "activity": "Billetterie de spectacles ",
+        "enseigne": "Carrefour Spectacles",
+        "longitude": "50.637392",
+        "latitude": "3.0750517"
+    },
+    {
+        "activity": "Billetterie de spectacles ",
+        "enseigne": "Carrefour Spectacles",
+        "longitude": "50.6353841",
+        "latitude": "3.0702877"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.5961867",
+        "latitude": "2.9538812"
+    },
+    {
+        "activity": "Fournisseur de produits alimentaires ",
+        "enseigne": "Carrefour Traiteur",
+        "longitude": "50.637156",
+        "latitude": "3.075506"
+    },
+    {
+        "activity": "Fournisseur de produits alimentaires ",
+        "enseigne": "Carrefour Traiteur",
+        "longitude": "50.627874",
+        "latitude": "3.05121"
+    },
+    {
+        "activity": "Agence de location de voitures ",
+        "enseigne": "Carrefour Location",
+        "longitude": "50.6652778",
+        "latitude": "3.0758535"
+    },
+    {
+        "activity": "Fournisseur de produits alimentaires ",
+        "enseigne": "Carrefour Traiteur",
+        "longitude": "50.6515869",
+        "latitude": "2.9757349"
+    },
+    {
+        "activity": "Station-service ",
+        "enseigne": "Station Carrefour Lomme",
+        "longitude": "50.649355",
+        "latitude": "2.9804063"
+    },
+    {
+        "activity": "Banque ",
+        "enseigne": "Carrefour Banque lomme",
+        "longitude": "50.6516144",
+        "latitude": "2.9781589"
+    },
+    {
+        "activity": "Station-service ",
+        "enseigne": "Station Service Carrefour",
+        "longitude": "50.6533708",
+        "latitude": "3.0615485"
+    },
+    {
+        "activity": "Fournisseur de produits alimentaires ",
+        "enseigne": "Carrefour Traiteur",
+        "longitude": "50.653815",
+        "latitude": "3.061111"
+    },
+    {
+        "activity": "Billetterie de spectacles ",
+        "enseigne": "Carrefour Spectacles",
+        "longitude": "50.6511655",
+        "latitude": "2.9769442"
+    },
+    {
+        "activity": "Brasserie ",
+        "enseigne": "Au Carrefour",
+        "longitude": "50.6272193",
+        "latitude": "3.0392355"
+    },
+    {
+        "activity": "Agence de voyages ",
+        "enseigne": "Carrefour Voyages Lomme",
+        "longitude": "50.6515319",
+        "latitude": "2.9759749"
+    },
+    {
+        "activity": "Station-service ",
+        "enseigne": "Station Service Carrefour - Lomme",
+        "longitude": "50.6513748",
+        "latitude": "2.9786365"
+    },
+    {
+        "activity": "Siège social ",
+        "enseigne": "Carrefour SAV",
+        "longitude": "50.6515319",
+        "latitude": "2.9759749"
+    },
+    {
+        "activity": "",
+        "enseigne": "Carrefour Moulins",
+        "longitude": "50.6185233",
+        "latitude": "3.0737965"
+    },
+    {
+        "activity": "Agence de voyages ",
+        "enseigne": "Carrefour Voyages Lille",
+        "longitude": "50.6370108",
+        "latitude": "3.0731398"
+    },
+    {
+        "activity": "Pressing ",
+        "enseigne": "Pressing 5àsec Carrefour LOMME",
+        "longitude": "50.6513342",
+        "latitude": "2.978344"
+    },
+    {
+        "activity": "Parking gratuit ",
+        "enseigne": "Parking Clientèle Centre commercial Carrefour",
+        "longitude": "50.6511227",
+        "latitude": "2.975915"
+    },
+    {
+        "activity": "Salon d'épilation ",
+        "enseigne": "Epilation Définitive - DEPIL TECH LOMME C.C CARREFOUR",
+        "longitude": "50.6516568",
+        "latitude": "2.9765102"
+    }
+]

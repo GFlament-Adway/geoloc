@@ -3202,3 +3202,848 @@ JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.pkhXakaLvKg.2019.O
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619606574766	geckodriver	INFO	Listening on 127.0.0.1:35271
+1619606574770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAFpFjr"
+1619606575301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619606577039	Marionette	INFO	Listening on port 46225
+1619606577095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5414: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5414: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Aldi line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+1619611118048	Marionette	INFO	Stopped listening on port 46225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619611388053	geckodriver	INFO	Listening on 127.0.0.1:33627
+1619611388062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenjYp8q"
+1619611388628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611390496	Marionette	INFO	Listening on port 42627
+1619611390588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1619611450549	Marionette	INFO	Stopped listening on port 42627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619611588579	geckodriver	INFO	Listening on 127.0.0.1:37353
+1619611588584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile81Czy5"
+1619611589118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611590936	Marionette	INFO	Listening on port 35375
+1619611591008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1619611714046	Marionette	INFO	Stopped listening on port 35375
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619611718977	geckodriver	INFO	Listening on 127.0.0.1:39287
+1619611718982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLSOpx"
+1619611719556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611721409	Marionette	INFO	Listening on port 37079
+1619611721514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1619611758786	geckodriver	INFO	Listening on 127.0.0.1:35135
+1619611758792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIo4177"
+1619611759752	Marionette	INFO	Stopped listening on port 37079
+1619611759906	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611761938	Marionette	INFO	Listening on port 44763
+1619611762032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1619611783199	Marionette	INFO	Stopped listening on port 44763
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619611955734	geckodriver	INFO	Listening on 127.0.0.1:39877
+1619611955739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelK0H8a"
+1619611956261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619611958305	Marionette	INFO	Listening on port 46003
+1619611958372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+1619612049273	Marionette	INFO	Stopped listening on port 46003
+1619612234773	geckodriver	INFO	Listening on 127.0.0.1:42727
+1619612235769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerwP28E"
+1619612236641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612238738	Marionette	INFO	Listening on port 33139
+1619612238804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619612240263	Marionette	INFO	Stopped listening on port 33139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619612243883	geckodriver	INFO	Listening on 127.0.0.1:40673
+1619612243892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB02tOL"
+1619612244473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612246480	Marionette	INFO	Listening on port 33885
+1619612246544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619612510476	Marionette	INFO	Stopped listening on port 33885
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619612562908	geckodriver	INFO	Listening on 127.0.0.1:36839
+1619612562913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyuV5A6"
+1619612563494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612565221	Marionette	INFO	Listening on port 38551
+1619612565339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1619612604627	Marionette	INFO	Stopped listening on port 38551
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619612606420	geckodriver	INFO	Listening on 127.0.0.1:48043
+1619612606426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei38HIc"
+1619612607248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612609372	Marionette	INFO	Listening on port 33463
+1619612609470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1619612712041	Marionette	INFO	Stopped listening on port 33463
+1619612774692	geckodriver	INFO	Listening on 127.0.0.1:40469
+1619612774697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefOWAOU"
+1619612775233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612777230	Marionette	INFO	Listening on port 45275
+1619612777322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1619612851435	Marionette	INFO	Stopped listening on port 45275
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619612979671	geckodriver	INFO	Listening on 127.0.0.1:47251
+1619612980677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemCrjZY"
+1619612981203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619612983179	Marionette	INFO	Listening on port 41625
+1619612983203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1619613084356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1619613203052	Marionette	INFO	Stopped listening on port 41625
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619613209088	geckodriver	INFO	Listening on 127.0.0.1:54407
+1619613209092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX8B4tT"
+1619613209672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619613211570	Marionette	INFO	Listening on port 45375
+1619613211620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+1619613511525	Marionette	INFO	Stopped listening on port 45375
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619613513589	geckodriver	INFO	Listening on 127.0.0.1:38749
+1619613513594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemDOE5I"
+1619613514152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619613516038	Marionette	INFO	Listening on port 41429
+1619613516121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1346 > injectedScript, line 5174: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.pkhXakaLvKg.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGt7TOlwtDGhsA9VV6V6exPXsBENw, line 6705: TypeError: f is undefined
+1619614242149	Marionette	INFO	Stopped listening on port 41429
+1619614246431	geckodriver	INFO	Listening on 127.0.0.1:57123
+1619614246436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej9wVqg"
+1619614246979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619614248991	Marionette	INFO	Listening on port 45683
+1619614249062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+1619616556089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619616577692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619616599105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619616620423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619616642048	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619617306605	Marionette	INFO	Stopped listening on port 45683
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619617427640	geckodriver	INFO	Listening on 127.0.0.1:54655
+1619617427645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Vb2nc"
+1619617428174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619617430343	Marionette	INFO	Listening on port 32807
+1619617430379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Lidl line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+1619623698547	Marionette	INFO	Stopped listening on port 32807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619623714205	geckodriver	INFO	Listening on 127.0.0.1:56333
+1619623714209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile10uNN7"
+1619623714743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619623716640	Marionette	INFO	Listening on port 33805
+1619623716745	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619623717400	Marionette	INFO	Stopped listening on port 33805
+1619623740589	geckodriver	INFO	Listening on 127.0.0.1:48405
+1619623740594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9haMUT"
+1619623741136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619623742841	Marionette	INFO	Listening on port 44713
+1619623742919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619623787620	Marionette	INFO	Stopped listening on port 44713
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619623876852	geckodriver	INFO	Listening on 127.0.0.1:47705
+1619623876856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesoB1SO"
+1619623877381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619623879113	Marionette	INFO	Listening on port 33573
+1619623879181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5414: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5414: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1619623924367	Marionette	INFO	Stopped listening on port 33573
+1619623972692	geckodriver	INFO	Listening on 127.0.0.1:45889
+1619623972697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePbUXGQ"
+1619623973224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619623975059	Marionette	INFO	Listening on port 35195
+1619623975122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.CDr7Guh0Wws.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGupjjXM_giyIq8PyYaN6MJvuycsA, line 6895: TypeError: h is undefined
+1619624923803	Marionette	INFO	Stopped listening on port 35195
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619624986827	geckodriver	INFO	Listening on 127.0.0.1:57127
+1619624986832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBgq3Sd"
+1619624987359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619624989145	Marionette	INFO	Listening on port 42195
+1619624989261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1420 > injectedScript, line 5407: After reporting 32, no further warnings will be reported for this WebGL context.
+1619625192044	geckodriver	INFO	Listening on 127.0.0.1:58835
+1619625193029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelkpXuY"
+1619625194418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619625197805	Marionette	INFO	Listening on port 42089
+1619625197889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Carrefour line 1421 > injectedScript, line 5403: After reporting 32, no further warnings will be reported for this WebGL context.
+1619625458443	Marionette	INFO	Stopped listening on port 42089
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619683882856	geckodriver	INFO	Listening on 127.0.0.1:54859
+1619683883849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKuYNkU"
+1619683884392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619683886143	Marionette	INFO	Listening on port 38017
+1619683886181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5407: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5418: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1420 > injectedScript, line 5418: After reporting 32, no further warnings will be reported for this WebGL context.
+1619684101513	Marionette	INFO	Stopped listening on port 38017
+1619688547862	geckodriver	INFO	Listening on 127.0.0.1:51797
+1619688547867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesVUdqQ"
+1619688548391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619688550214	Marionette	INFO	Listening on port 34493
+1619688550301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5187: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5187: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1345 > injectedScript, line 5178: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oG83SObx_oiZlqbt3AJ8DGAyeLIwg, line 6786: TypeError: f is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oG83SObx_oiZlqbt3AJ8DGAyeLIwg, line 6786: TypeError: f is undefined
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oG83SObx_oiZlqbt3AJ8DGAyeLIwg, line 6786: TypeError: f is undefined
+1619689251988	Marionette	INFO	Stopped listening on port 34493
