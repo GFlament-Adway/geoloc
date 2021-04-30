@@ -193,5 +193,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v2(timeout=5, comp_name="boulangerie", driver_options=True, verif=True, scroll=True, mapping="departement")
+    comps = ["Decathlon", "Banque populaire", "Generali"]
+    for comp in comps:
+        get_loc_comp_v2(timeout=5, comp_name=comp, driver_options=True, verif=True, scroll=True, mapping="departement")
     print("Temps de scrapping : ", time.time() - debut)

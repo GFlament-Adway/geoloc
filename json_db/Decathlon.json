@@ -5907,5 +5907,233 @@
         "enseigne": "Decathlon Connect- Park square mall",
         "longitude": "12.9870917",
         "latitude": "77.7359987"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Le Lamentin",
+        "adresse": " Z.I. Acajou Zone Industrielle Les Mangles Acajou,  A1,  Le Lamentin 97232,  Martinique",
+        "longitude": "-61.0244305",
+        "latitude": "14.6174774"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Calais",
+        "adresse": " Zac Des Cailloux,  Rue Danton,  Rue de Verdun,  62100 Calais",
+        "longitude": "1.839263",
+        "latitude": "50.9393655"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Tarbes",
+        "adresse": " 7 Chemin Cognac,  65000 Tarbes",
+        "longitude": "0.0468975",
+        "latitude": "43.2366299"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Zac Des Batterses Centre Commercial Beynost 2",
+        "enseigne": "Decathlon Lyon Beynost",
+        "longitude": "45.8248267",
+        "latitude": "4.9989264"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Givors Chasse Sur Rhone",
+        "adresse": " 1963 Avenue Frédéric Mistral,  38670 Chasse-sur-Rhône",
+        "longitude": "4.8128952",
+        "latitude": "45.5722234"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Le Puy En Velay",
+        "adresse": " Zac Est Des,  Allée des Portes Occitanes,  43000 Le Puy-en-Velay",
+        "longitude": "3.8829769",
+        "latitude": "45.0240609"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Nevers - Marzy",
+        "adresse": " Zone Commercial Carrefour,  58180 Marzy",
+        "longitude": "3.1080472",
+        "latitude": "46.9965669"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Foix",
+        "adresse": " Zone Industrielle Foix Nord,  09000 Foix",
+        "longitude": "1.6149606",
+        "latitude": "43.0072818"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Troyes - Lavau",
+        "adresse": " Lieu Dit Les Dames Blanches,  10150 Lavau",
+        "longitude": "4.1034746",
+        "latitude": "48.3324154"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 15 Route du Front de Mer",
+        "enseigne": "Decathlon Royan",
+        "longitude": "45.623998",
+        "latitude": "-1.0271891"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Quartier Hourque, 9046 Rue d'Aiga Bera",
+        "enseigne": "Decathlon Laruns",
+        "longitude": "42.9921492",
+        "latitude": "-0.4227024"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 63 Avenue de Bayonne",
+        "enseigne": "Decathlon Anglet (Second Magasin)",
+        "longitude": "43.4833608",
+        "latitude": "-1.5045697"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Avenue des Matignon, Route de Villedieu Z.I",
+        "enseigne": "Decathlon Essentiel Granville",
+        "longitude": "48.8383331",
+        "latitude": "-1.5639799"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Saint Die Des Vosges",
+        "adresse": " Zac D'Hellieule II,  88100 Saint-Dié-des-Vosges",
+        "longitude": "6.9361618",
+        "latitude": "48.2929527"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 342 Prom. Général Charles de Gaulle",
+        "enseigne": "Decathlon Six-Fours Plage",
+        "longitude": "43.1112222",
+        "latitude": "5.8124141"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Laval",
+        "adresse": " Rue du Commandant Cousteau,  53810 Changé",
+        "longitude": "-0.7640965",
+        "latitude": "48.0898573"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Zone Commerciale Le Grand Moun",
+        "enseigne": "Decathlon Mont De Marsan Saint Pierre Du Mont",
+        "longitude": "43.8672187",
+        "latitude": "-0.4789439"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Verdun Haudainville",
+        "adresse": " Zone Du Dragon,  55100 Haudainville",
+        "longitude": "5.4113087",
+        "latitude": "49.1424948"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 26 Avenue de Wagram",
+        "enseigne": "Decathlon Paris Wagram",
+        "longitude": "48.8764057",
+        "latitude": "2.2972309"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Toulouse Nord, Avenue des Sports",
+        "enseigne": "Decathlon Toulouse Nord Fenouillet",
+        "longitude": "43.6863038",
+        "latitude": "1.4049826"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 78 Chemin du Loudet",
+        "enseigne": "Decathlon Toulouse Colomiers",
+        "longitude": "43.6079538",
+        "latitude": "1.3047341"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Saint Dizier",
+        "adresse": " Zone Commerciale Du,  Rue Des Mérovingiens,  Avenue du Chêne Saint-Amand,  52100 Saint-Dizier",
+        "longitude": "4.964235",
+        "latitude": "48.6229581"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Vichy Bellerive Sur Allier",
+        "adresse": " Route de Charmeil,  03700 Bellerive-sur-Allier",
+        "longitude": "3.3989868",
+        "latitude": "46.1289898"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Essentiel Vesoul - Pusey",
+        "adresse": " Parc Commercial OASIS 3,  Chemin des Perches,  70000 Pusey",
+        "longitude": "6.141846",
+        "latitude": "47.6492852"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Boulevard du Mercantour Zac",
+        "enseigne": "Decathlon Nice Lingostière",
+        "longitude": "43.7267584",
+        "latitude": "7.1867817"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 34 Chemin de la Madeleine",
+        "enseigne": "Decathlon Grasse",
+        "longitude": "43.6550627",
+        "latitude": "6.9367582"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Zac de la Canardiere, Avenue du Maréchal Lyautey",
+        "enseigne": "Decathlon Cannes Mandelieu",
+        "longitude": "43.5514712",
+        "latitude": "6.9481021"
+    },
+    {
+        "activity": "Magasin de vélos · ZAC les Portes du Littoral, Route de Sète",
+        "enseigne": "Decathlon Essentiel Agde",
+        "longitude": "43.306663",
+        "latitude": "3.4945038"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Aurillac",
+        "adresse": " Zone D´Activités Commerciales La Ponétie,  15000 Aurillac",
+        "longitude": "2.4514559",
+        "latitude": "44.9030776"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Bessoncourt",
+        "adresse": " Zone Commerciale Porte Des Vosges,  90160 Bessoncourt",
+        "longitude": "6.9155572",
+        "latitude": "47.6438329"
+    },
+    {
+        "activity": "Magasin d'articles de sports · Centre Commercial Des Saisons De Meaux, 5 Avenue Roland Moreno",
+        "enseigne": "Decathlon Meaux",
+        "longitude": "48.9584025",
+        "latitude": "2.8600217"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Auch",
+        "adresse": " Zac De,  Chemin de Clarac,  32000 Auch",
+        "longitude": "0.5939028",
+        "latitude": "43.663246"
+    },
+    {
+        "activity": "Magasin d'articles de sports",
+        "enseigne": "Decathlon Doubs Pontarlier",
+        "adresse": " Zac Les Sauges,  Rue André Roz,  25300 Doubs",
+        "longitude": "6.3399249",
+        "latitude": "46.9244516"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 4 Boulevard de Mons",
+        "enseigne": "Decathlon Villeneuve D'Ascq - Campus",
+        "longitude": "50.6451699",
+        "latitude": "3.1417176"
+    },
+    {
+        "activity": "Magasin d'articles de sports · 4 Boulevard de Mons",
+        "enseigne": "Decathlon DX",
+        "longitude": "50.6453542",
+        "latitude": "3.1410554"
     }
 ]

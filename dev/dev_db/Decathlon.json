@@ -346,5 +346,107 @@
         "enseigne": "DECATHLON Berlin-Schlossstraße",
         "longitude": "52.4609533",
         "latitude": "13.3251444"
+    },
+    {
+        "activity": "Magasin d'articles de sports ",
+        "enseigne": "DECATHLON Herne",
+        "longitude": "51.5299203",
+        "latitude": "7.2028824"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Dortmund-Aplerbeck",
+        "longitude": "51.5052406",
+        "latitude": "7.5714177"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Bielefeld-Sennestadt",
+        "longitude": "51.9519486",
+        "latitude": "8.5701573"
+    },
+    {
+        "activity": "Magasin d'articles de sports ",
+        "enseigne": "DECATHLON Hagen",
+        "longitude": "51.3880051",
+        "latitude": "7.4412196"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Dortmund-Kampstrasse",
+        "longitude": "51.515154",
+        "latitude": "7.4651399"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "Decathlon",
+        "longitude": "52.2815719",
+        "latitude": "7.4434065"
+    },
+    {
+        "activity": "Magasin d'articles de sports ",
+        "enseigne": "DECATHLON Rheine",
+        "longitude": "52.2774585",
+        "latitude": "7.4344387"
+    },
+    {
+        "activity": "Installation de stockage ",
+        "enseigne": "Decathlon logistics center Dortmund",
+        "longitude": "51.5320631",
+        "latitude": "7.5092388"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Bielefeld-City",
+        "longitude": "52.0250284",
+        "latitude": "8.531175"
+    },
+    {
+        "activity": "Magasin d'articles de sports ",
+        "enseigne": "Decathlon Enschede",
+        "longitude": "52.2185928",
+        "latitude": "6.8938614"
+    },
+    {
+        "activity": "Magasin d'accessoires pour arts martiaux ",
+        "enseigne": "Decathlon",
+        "longitude": "51.5055499",
+        "latitude": "7.5717745"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Heilbronn",
+        "longitude": "49.1461319",
+        "latitude": "9.2216788"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Esslingen",
+        "longitude": "48.7406296",
+        "latitude": "9.2677346"
+    },
+    {
+        "activity": "Magasin d'articles de sports ",
+        "enseigne": "DECATHLON",
+        "longitude": "48.6870548",
+        "latitude": "9.0068833"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Plochingen",
+        "longitude": "48.7025307",
+        "latitude": "9.4366774"
+    },
+    {
+        "activity": "Magasin de vêtements de sport ",
+        "enseigne": "DECATHLON Ludwigsburg",
+        "longitude": "48.8999419",
+        "latitude": "9.1917909"
+    },
+    {
+        "activity": "Siège social ",
+        "enseigne": "DECATHLON Deutschland SE & Co. KG",
+        "longitude": "48.7024397",
+        "latitude": "9.4377558"
     }
 ]

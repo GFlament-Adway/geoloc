@@ -6308,5 +6308,27 @@
             "taux_pos": 0,
             "positive_requests": 0
         }
+    },
+    {
+        "requete": {
+            "loc": [
+                51.782488060421585,
+                6.619773791284697
+            ],
+            "requete": 1,
+            "taux_pos": 0.6470588235294118,
+            "positive_requests": 17
+        }
+    },
+    {
+        "requete": {
+            "loc": [
+                50.035068617142464,
+                8.736307323807608
+            ],
+            "requete": 2,
+            "taux_pos": 1.0,
+            "positive_requests": 6
+        }
     }
 ]

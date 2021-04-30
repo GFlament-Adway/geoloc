@@ -4047,3 +4047,48 @@ JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O
 JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oG83SObx_oiZlqbt3AJ8DGAyeLIwg, line 6786: TypeError: f is undefined
 JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.ZjQxaolBX9E.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oG83SObx_oiZlqbt3AJ8DGAyeLIwg, line 6786: TypeError: f is undefined
 1619689251988	Marionette	INFO	Stopped listening on port 34493
+1619767304341	geckodriver	INFO	Listening on 127.0.0.1:60419
+1619767348452	geckodriver	INFO	Listening on 127.0.0.1:48055
+1619767348460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewLF3yG"
+1619767349014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619767350769	Marionette	INFO	Listening on port 37265
+1619767350888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: https://www.google.fr/maps/_/js/k=maps.m.fr.5hwczXX_48A.es5.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,plm,log,b/am=NwI/rt=j/d=1/rs=ACT90oGZ5AO-I1zI6kj4BjczHdXALvkRsw, line 6980: TypeError: h is undefined
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.fr/maps/search/Decathlon line 1421 > injectedScript, line 5408: After reporting 32, no further warnings will be reported for this WebGL context.
+1619767439288	Marionette	INFO	Stopped listening on port 37265
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
