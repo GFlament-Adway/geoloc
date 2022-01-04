@@ -7,16 +7,18 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 
-from utils.write_data import append_data, write_data, read_data
+import reverse_geocoder
+from utils.write_data import append_data, write_data, read_data, add_countries, get_forbidden_country
 from utils.scraping_utilities import check_agreement_google, unscroll, scroll, check_comp_name, check_n_results, \
     wait_new_url
 import warnings
 import time
 
+import os
 from utils.math import distance
 from kde import kernel_ridge
 
-def get_new_loc(past_loc, max_dist=300, threshold = 0.9):
+def get_new_loc(past_loc, max_dist=300, threshold = 0.9, forbidden_country = []):
     """
 
     :param past_loc:
@@ -33,25 +35,30 @@ def get_new_loc(past_loc, max_dist=300, threshold = 0.9):
             n_positives += [float(data[k]["requete"]["positive_requests"])]
         except KeyError:
             n_positives += [0]
+
     xx, yy, z, kde = kernel_ridge(loc, n_positives)
     if np.random.uniform(0,1) > threshold:
         lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
+        print(reverse_geocoder.search((yy[lat, lon],  xx[lat,lon])))
         i = 1
-        while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist/2 for k in range(len(past_loc))]):
+        while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist/2 for k in range(len(past_loc))]) and reverse_geocoder.search((yy[lat, lon],  xx[lat,lon]))[0]["cc"] not in forbidden_country:
             i += 1
             lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i], z.shape)
         return xx[lat, lon], yy[lat,lon]
     else:
         lat, lon = np.unravel_index(np.argsort(z, axis=None)[-1], z.shape)
+        print(reverse_geocoder.search((yy[lat, lon],  xx[lat,lon]))[0]["cc"])
         i = 1
         while np.any([distance(xx[lat, lon], yy[lat, lon], past_loc[k][0], past_loc[k][1]) < max_dist for k in
-                      range(len(past_loc))]):
+                      range(len(past_loc))]) and reverse_geocoder.search((yy[lat, lon],  xx[lat,lon]))[0]["cc"] not in forbidden_country:
             i += 1
             lat, lon = np.unravel_index(np.argsort(z, axis=None)[-i-np.random.randint(20, 50)], z.shape)
         return xx[lat, lon], yy[lat, lon]
 
 
-
+def visited_country(coordinates):
+    countries = reverse_geocoder.search((coordinates[1], coordinates[0]))[0]["cc"]
+    return countries
 
 
 
@@ -106,13 +113,16 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
             "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[3]/button").click()
     except selenium.common.exceptions.NoSuchElementException:
         driver.find_element_by_xpath(
-            "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[5]/div[3]/button").click()
+            "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div/div/button").click()
     prop_new_loc = []
     max_dist = 300
     n_move = 0
     past_loc = []
     while 1:
-        maps = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[1]/div[3]")
+        forbidden_country = get_forbidden_country(comp_name)
+        maps = driver.find_element_by_xpath('//*[@id="content-container"]')
+        #maps = driver.find_element_by_xpath("/html/body/jsl/div[3]/div[9]/div[1]/div[3]")
+        ""
         webdriver.ActionChains(driver).double_click(maps).perform()
         n = check_n_results(driver)
         if prop_new_loc.count(False) > 0:
@@ -166,7 +176,7 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                         gps = [lat[2:] for lat in add.split("!")[-2:]]
                         gps[1] = gps[1].split("?")[0]
                         print(distance(obj_long, obj_lat, float(gps[0]), float(gps[1])))
-                        if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 2*max_dist:
+                        if distance(obj_long, obj_lat, float(gps[0]), float(gps[1])) > 20*max_dist:
                             save = False
                         add = add.replace("+", " ")
                         enseigne = add.split("/")[5]
@@ -232,13 +242,20 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
                         time.sleep(4.5)
                         k = 1
                     except:
-                        print("Next page failed")
-                        time.sleep(2)
-                        warnings.warn("Unable to find destination and next button")
-                        k = 42
+                        try:
+                            time.sleep(1)
+                            driver.find_element_by_xpath('//*[@id="mapsConsumerUiSubviewSectionGm2Pagination__section-pagination-button-next"]').click()
+                            time.sleep(4)
+                            k = 1
+                        except:
+                            print("Next page failed")
+                            time.sleep(2)
+                            warnings.warn("Unable to find destination and next button")
+                            k = 42
                     pass
                 except selenium.common.exceptions.TimeoutException:
                     warnings.warn("TimeoutException")
+            add_countries(prop_new_loc, (obj_long, obj_lat), comp_name)
             if prop_new_loc.count(False) + prop_new_loc.count(True) > 0:
                 append_data({"requete": {"loc": [obj_long, obj_lat],
                                          "requete": n_move,
@@ -255,13 +272,13 @@ def get_loc_comp_v3(timeout, comp_name, driver_options, verif, scroll, upper_lat
         unscroll(driver, '//*[@id="widget-zoom-out"]', 1)
 
 
-def move_map(maps, n_key_press, driver, max_dist, past_loc, obj_lat = None, obj_lon = None):
+def move_map(maps, n_key_press, driver, max_dist, past_loc, obj_lat = None, obj_lon = None, forbidden_country=[]):
     url = driver.current_url
     lon = float(url.split("@")[1].split(",")[0])
     lat = float(url.split("@")[1].split(",")[1].replace("z", ""))
     dist = 0.2
     if obj_lat is None and obj_lon is None:
-        obj_lat, obj_lon = get_new_loc(past_loc, max_dist)
+        obj_lat, obj_lon = get_new_loc(past_loc, max_dist, forbidden_country=forbidden_country)
     print("going to : ", obj_lat, obj_lon, "from : ", lat, lon)
     while distance(obj_lon, obj_lat, lon, lat) > max_dist / 3 or abs(obj_lon - lon) > 2*dist or abs(obj_lat - lat) > 2*dist:
         should_unscroll = False
@@ -335,11 +352,13 @@ def move_map(maps, n_key_press, driver, max_dist, past_loc, obj_lat = None, obj_
         except:
             pass
         time.sleep(2.5)
+    time.sleep(1)
+    unscroll(driver)
     time.sleep(4)
     return obj_lat, obj_lon
 
 
 if __name__ == "__main__":
     debut = time.time()
-    get_loc_comp_v3(timeout=5, comp_name="Decathlon", driver_options=False, verif=True, scroll=True)
+    get_loc_comp_v3(timeout=5, comp_name="Mechachrome", driver_options=False, verif=True, scroll=True)
     print("Temps de scrapping : ", time.time() - debut)

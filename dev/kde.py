@@ -53,6 +53,7 @@ def kernel_ridge(loc, Y, xbins=100j, ybins=100j):
     return xx, yy, np.reshape(z, xx.shape), neigh
 
 if __name__ == "__main__":
+
     requete = True
     comp = False
     if comp:
@@ -79,3 +80,9 @@ if __name__ == "__main__":
     plt.colorbar(label="Nombre de résultats attendus")
     plt.title("A priori pour la géolocalisation des entreprises.")
     plt.show()
+
+    import reverse_geocoder
+    coordinates = (47.92, 3.35)
+    print(reverse_geocoder.search(coordinates)[0]["cc"])
+    coordinates = (48.201, 16.39)
+    print(reverse_geocoder.search(coordinates)[0]["cc"])

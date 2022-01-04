@@ -1,5 +1,38 @@
 import io
 import json
+import os
+import reverse_geocoder
+
+def add_countries(prop_new_loc, coordinates, comp):
+    print(prop_new_loc)
+    country = reverse_geocoder.search((coordinates[0], coordinates[1]))[0]["cc"]
+    if os.path.exists("visited_countries.json"):
+        with open("visited_countries.json", "r") as json_file:
+            data = json.load(json_file)
+        with open("visited_countries.json", "w") as json_file:
+            if comp in data.keys():
+                if country in data[comp].keys():
+                        data[comp].update({country : data[comp][country] + [prop_new_loc.count(True)]})
+                else:
+                    data[comp].update({country: [prop_new_loc.count(True)]})
+            else:
+                data.update({comp : {country : [prop_new_loc.count(True)]}})
+            json.dump(data, json_file)
+
+    else:
+
+        with open("visited_countries.json", "w") as json_file:
+            data = {comp : {country: [prop_new_loc.count(True)]}}
+            json.dump(data, json_file)
+def get_forbidden_country(comp):
+    try:
+        with open("visited_country.json", "r") as json_file:
+            data = json.load(json_file)
+        return [key for key in list(data[comp].keys) if data[comp][key].count(0)/len(data[comp][key]) < 0.1 ]
+    except:
+        print("Can't find visited country file")
+        return []
+
 
 def append_data(data, file, path="../json_db/"):
     """

@@ -1,0 +1,83 @@
+[
+    {
+        "activity": "Entreprise aérospatiale",
+        "enseigne": "MECACHROME FRANCE - AUBIGNY",
+        "longitude": "47.4778852",
+        "latitude": "2.4280345"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Mecachrome France",
+        "longitude": "43.6356187",
+        "latitude": "1.3772664"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "Mecachrome Atlantique",
+        "longitude": "47.2655091",
+        "latitude": "-1.4832887"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "MECACHROME FRANCE",
+        "longitude": "47.4139213",
+        "latitude": "1.0293935"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "MECACHROME FRANCE - VIBRAYE",
+        "longitude": "48.0694098",
+        "latitude": "0.7367387"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "MECACHROME FRANCE",
+        "adresse": " ZI de la Boitardière,  Rue de Saint-Règle,  37400 Amboise",
+        "longitude": "1.0293935",
+        "latitude": "47.4139213"
+    },
+    {
+        "activity": "Mécanicien",
+        "enseigne": "Mecachrome Toulouse",
+        "longitude": "43.6748589",
+        "latitude": "1.4412374"
+    },
+    {
+        "activity": "Magasin de pièces de rechange automobiles",
+        "enseigne": "MK AUTOMOTIVE MECACHROME",
+        "longitude": "47.8316959",
+        "latitude": "-0.2977485"
+    },
+    {
+        "activity": "Travailleur social",
+        "enseigne": "FO MECACHROME Amboise",
+        "longitude": "47.359306",
+        "latitude": "0.7340655"
+    },
+    {
+        "activity": "Fabricant",
+        "enseigne": "MECACHROME FRANCE - VIBRAYE",
+        "adresse": " Rue de l'Artisanat,  72320 Vibraye",
+        "longitude": "0.7367387",
+        "latitude": "48.0694098"
+    },
+    {
+        "activity": "Siège social",
+        "enseigne": "Mecachrome",
+        "longitude": "50.4493434",
+        "latitude": "2.7244796"
+    },
+    {
+        "activity": "Entreprise aérospatiale",
+        "enseigne": "MECACHROME FRANCE - AUBIGNY",
+        "adresse": " 27 Av. Eugène Casella,  18700 Aubigny-sur-Nère",
+        "longitude": "2.4280345",
+        "latitude": "47.4778852"
+    },
+    {
+        "activity": "Atelier d'usinage",
+        "enseigne": "Mecachrome Canada Inc.",
+        "longitude": "45.6753959",
+        "latitude": "-74.059784"
+    }
+]

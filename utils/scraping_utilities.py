@@ -34,10 +34,9 @@ def check_n_results(driver):
     """
     try:
         elem = driver.find_element_by_xpath(
-            "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[1]/div[1]/button/img")
+            '//*[@id="pane"]/div/div[1]/div/div/div[1]/div[1]/button/img')
         size = elem.size["width"]
         if size == 408.0 or size == 426.0 or size == 480.0:
-            print("One result")
             return False
         else:
             warnings.warn("Never saw this before ! Check this query ! Image format : " + str(size))
@@ -64,22 +63,12 @@ def check_comp_name(driver, comp_name, enseigne, activity, x_path, authorized_ac
     comp_name = comp_name.lower()
     enseigne = unquote(enseigne.lower())
     activity = unquote(activity.lower())
+
     if authorized_activites is None:
         authorized_activites = [activity]
 
-    try:
-        return ((comp_name in activity or comp_name in enseigne or comp_name.lower() in driver.find_element_by_xpath(
-            x_path).get_attribute("href")) & np.sum(
-            [activity in auth_activity for auth_activity in authorized_activites]) >= 1)
-    except selenium.common.exceptions.NoSuchElementException:
-        try:
-            return ((comp_name in activity or comp_name in enseigne or comp_name in driver.find_element_by_xpath(
-                x_path).text) and np.sum([activity in auth_activity for auth_activity in authorized_activites]) >= 1)
-        except selenium.common.exceptions.NoSuchElementException:
-            return (comp_name in enseigne or comp_name in activity) and np.sum(
-                [activity in auth_activity for auth_activity in authorized_activites]) >= 1
-    except TypeError:
-        return comp_name in enseigne or comp_name in activity
+    return comp_name in enseigne.split(" ") or comp_name in activity.split(" ")
+
 
 def wait_new_url(driver, old_url):
     """
