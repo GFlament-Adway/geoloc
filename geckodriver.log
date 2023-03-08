@@ -26642,3 +26642,5 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1678287079794	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7GYPtK"
+1678288002521	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO52bR8"

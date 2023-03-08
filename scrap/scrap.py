@@ -17,7 +17,7 @@ import warnings
 import time
 
 
-def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping = "World", verif=True, scroll=True):
+def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping="World", verif=True, scroll=True):
     """
     Version améliorée.
     :param timeout: Temps d'attente maximal
@@ -34,7 +34,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
         options.add_argument('--headless')
     else:
         options = Options()
-    #On génère les requêtes.
+    # On génère les requêtes.
     requetes, gps_loc = get_requetes(comp_name, mapping)
     n_activities = len(requetes) // len(gps_loc)
     np.random.shuffle(requetes)
@@ -46,67 +46,60 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
         # On lance le navigateur.
         driver = webdriver.Firefox(options=options)
         print("-----------------------------")
-        print("Requete {n}/{n_requetes}".format(n=i+1, n_requetes=len(requetes)))
+        print("Requete {n}/{n_requetes}".format(n=i + 1, n_requetes=len(requetes)))
         print("-----------------------------")
         print("requests : ", requete)
         # On met la recherche directement dans l'URL et on place la carte sur cette requête.
-        url = "https://www.google.fr/maps/search/{requete}/@{lat},{long},3z".format(
+        url = "https://www.google.fr/maps/search/{requete}/@{lat},{long},6z".format(
             requete=requete, lat=gps_loc[0][0], long=gps_loc[0][1])
         driver.get(url)
-        try:
-            driver = check_agreement_google(driver, timeout)
+        driver = check_agreement_google(driver, timeout)
+        """
         except selenium.common.exceptions.NoSuchWindowException:
             failed_agreement = True
             print("check agreement failed")
         except selenium.common.exceptions.TimeoutException:
             failed_agreement = True
             print("Check agreement took to long, failed")
+        """
         if failed_agreement:
             try:
                 driver.find_element_by_xpath(
-                    "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div/div/button").click()
+                    "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[3]/div[1]/div[1]/form[2]/div/div/button/div[3]").click()
                 failed_agreement = False
                 new_agreement_form = True
                 time.sleep(2.5)
             except:
                 failed_agreement = True
                 print("last check failed")
-        #Si on a passé la première étape (accpeter les cookies/CGU ...)
+        # Si on a passé la première étape (accpeter les cookies/CGU ...)
         if not failed_agreement:
-            #Vérification du type de retour de google, si n est vrai, alors il y a plusieurs résultat, sinon il n'y en a qu'un.
+            # Vérification du type de retour de google, si n est vrai, alors il y a plusieurs résultat, sinon il n'y en a qu'un.
             n = check_n_results(driver)
             print("is type 1 : ", n)
             if n:
                 k = 4
-                #k permet de parcourir la liste des résultats renvoyés par Google.
+                # k permet de parcourir la liste des résultats renvoyés par Google.
                 while k < 42:
                     save = True
                     clicked = False
-                    #Récupération des informations pour ce résultat.
+                    # Récupération des informations pour ce résultat.
                     try:
-                        activity = driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div[{k}]/div/div/div[2]/div[1]/div/div/div/div[4]/div[1]/span[1]/jsl".format(k=k)).text
-                    except selenium.common.exceptions.NoSuchElementException:
-                        try:
-                                                                #"/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[4]/div/div[2]/div[2]/div[1]/div/div/div/div[4]/div[1]/span[1]/jsl"
-                                                                #"/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[3]/div/div[2]/div[2]/div[1]/div/div/div/div[4]/div[1]/span[1]/jsl
-                                                                #"/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[5]/div/div[2]/div[2]/div[1]/div/div/div/div[4]/div/span[1]/jsl
-                            activity = driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div/div[2]/div[2]/div[1]/div/div/div/div[4]/div[1]/span[1]/jsl".format(k=k)).text
-                        except selenium.common.exceptions.NoSuchElementException:
-                            try:
-                                activity = driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div/div[2]/div[2]/div[1]/div/div/div/div[4]/div/span[1]/jsl".format(k=k-1)).text
-                            except:
-                                activity = ""
+                        activity = driver.find_element_by_xpath(
+                            "/html/body/div[3]/div[9]/div[9]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div[1]/div[3]/div/div/div[4]/div[1]/div/div/div[2]/div[4]/div[{k}]/span[1]".format(
+                                k=k)).text
+                    except:
+                        activity = ""
                     try:
-                        add = driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div/a".format(k=k-1)).get_attribute("href")
+                        add = driver.find_element_by_xpath(
+                            "/html/body/div[3]/div[9]/div[9]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div/a".format(
+                                k=k - 1)).get_attribute("href")
                     except selenium.common.exceptions.NoSuchElementException:
-                        try:
-                            add = driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]/div[{k}]/div/a".format(k=k)).get_attribute("href")
-                        except:
-                            save = False
+                        save = False
                     x_path = "/html/body/jsl/div[3]/div[9]/div[8]/div/div[1]/div/div/div[4]/div[1]/div[{k}]/div[2]/div[3]/div[1]/a".format(
                         k=k)
                     k += 2
-                    #On vérifie si le point appartient bien à l'entreprise.
+                    # On vérifie si le point appartient bien à l'entreprise.
                     if verif and save:
                         gps = [lat[2:] for lat in add.split("!")[-2:]]
                         gps[1] = gps[1].split("?")[0]
@@ -117,7 +110,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                         is_comp = True
                     if is_comp and save:
                         print("Saving result")
-                        #On l'ajoute à la base de données.
+                        # On l'ajoute à la base de données.
                         add = ", ".join(add.split(",")[1:])
                         append_data(
                             {"activity": unquote(activity), "enseigne": unquote(enseigne),
@@ -126,11 +119,13 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                     try:
                         time.sleep(0.5)
                         for _ in range(k):
-                            driver.find_element_by_xpath("/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[1]").send_keys(Keys.DOWN)
+                            driver.find_element_by_xpath(
+                                "/html/body/div[3]/div[9]/div[9]/div/div/div[1]/div[2]/div/div[1]/div/div/div[3]/div[1]/div[4]").send_keys(Keys.DOWN)
                     except selenium.common.exceptions.ElementNotInteractableException:
                         warnings.warn("Can't scroll below")
                         try:
-                            driver.find_element_by_xpath('/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[2]/div/div[1]/div/button[2]').click()
+                            driver.find_element_by_xpath(
+                                '/html/body/div[3]/div[9]/div[8]/div/div[1]/div/div/div[2]/div[2]/div/div[1]/div/button[2]').click()
                             time.sleep(2.5)
                             k = 1
                         except:
@@ -138,7 +133,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
                             k = 42
                             pass
             else:
-                #Dans ce cas, il n'y a qu'un résultat, il y a beaucoup moins de travail à faire.
+                # Dans ce cas, il n'y a qu'un résultat, il y a beaucoup moins de travail à faire.
                 try:
                     time.sleep(0.5 + np.random.uniform(0.1, 0.4))
                     try:
@@ -175,7 +170,7 @@ def get_loc_comp_v2(timeout=5, driver_options=True, comp_name="Total", mapping =
 
 if __name__ == "__main__":
     debut = time.time()
-    comps = ["Endrix"]
+    comps = ["Pierre et Vacance"]
     for comp in comps:
-        get_loc_comp_v2(timeout=5, comp_name=comp, driver_options=True, verif=True, scroll=True, mapping="region")
+        get_loc_comp_v2(timeout=5, comp_name=comp, driver_options=False, verif=True, scroll=True, mapping="region")
     print("Temps de scrapping : ", time.time() - debut)

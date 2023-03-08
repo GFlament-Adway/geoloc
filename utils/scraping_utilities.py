@@ -91,16 +91,8 @@ def check_agreement_google(driver, timeout=20):
     :param timeout: Un temps d'attente maximal
     :return: Une instance webdriver après avoir accepté les conditions google.
     """
-    try:
-        # WebDriverWait(driver, timeout).until(
-        # EC.frame_to_be_available_and_switch_to_it((By.XPATH, "/html/body/jsl/div[2]/div/div[1]/iframe")))
-        WebDriverWait(driver, timeout).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="introAgreeButton"]')))
-        driver.switch_to.frame(driver.find_elements_by_xpath("/html/body/jsl/div[2]/div/div[1]/iframe"))
-        driver.find_element_by_xpath('//*[@id="introAgreeButton"]').click()
-        """/html/body/div/c-wiz/div/div/div/div[2]/div[1]/div[4]/form/div[1]/div/button/div[1]"""
-    except selenium.common.exceptions.TimeoutException:
-        WebDriverWait(driver, timeout).until(
-            EC.frame_to_be_available_and_switch_to_it((By.XPATH, "/html/body/jsl/div[2]/div/div[1]/iframe")))
-        driver.find_element_by_xpath('//*[@id="introAgreeButton"]').click()
-    driver.switch_to.parent_frame()
+    time.sleep(5)
+    x_path = "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[3]/div[1]/div[1]/form[2]/div/div/button"
+    WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, "/html/body/c-wiz/div/div/div/div[2]/div[1]/div[3]/div[1]/div[1]/form[2]/div/div/button"))).click()
+    time.sleep(2.5)
     return driver

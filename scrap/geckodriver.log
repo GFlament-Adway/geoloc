@@ -17422,3 +17422,473 @@ JavaScript warning: https://www.google.fr/maps/search/Endrix%20Corse/@48.856,2.3
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1678286408094	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiiMuhF"
+1678286440095	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBA0s36"
+1678286456417	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1DlXlM"
+1678286467441	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePhwMhn"
+1678286509013	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee4gq3R"
+1678286553633	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler9MGWN"
+1678286787348	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4FuxHR"
+1678286825741	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ9o8DG"
+1678288477724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSRZ2CS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288479673	Marionette	INFO	Marionette enabled
+1678288479690	Marionette	INFO	Listening on port 43523
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288479992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSRZ2CS/search.json.mozlz4", (void 0)))
+1678288496702	Marionette	INFO	Stopped listening on port 43523
+1678288498478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCOF4ot"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288499937	Marionette	INFO	Marionette enabled
+1678288499947	Marionette	INFO	Listening on port 41029
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288500226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCOF4ot/search.json.mozlz4", (void 0)))
+1678288514339	Marionette	INFO	Stopped listening on port 41029
+1678288515946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenq0s2P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288516738	Marionette	INFO	Marionette enabled
+1678288516743	Marionette	INFO	Listening on port 45135
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288516922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenq0s2P/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1678288535688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59c9mh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288536574	Marionette	INFO	Marionette enabled
+1678288536580	Marionette	INFO	Listening on port 37813
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288536793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile59c9mh/search.json.mozlz4", (void 0)))
+1678288551216	Marionette	INFO	Stopped listening on port 37813
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450945/customhighlighter82, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:637:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:787:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:755:16\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:576:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2834:22\ndespatch@chrome://remote/content/marionette/server.sys.mjs:303:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:276:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:249:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:250:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:496:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678288552985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqn2HK9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288553914	Marionette	INFO	Marionette enabled
+1678288553919	Marionette	INFO	Listening on port 41129
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288554140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqn2HK9/search.json.mozlz4", (void 0)))
+1678288568383	Marionette	INFO	Stopped listening on port 41129
+1678288568832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9PADqh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288569625	Marionette	INFO	Marionette enabled
+1678288569629	Marionette	INFO	Listening on port 44401
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288569830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9PADqh/search.json.mozlz4", (void 0)))
+1678288583293	Marionette	INFO	Stopped listening on port 44401
+1678288583846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewDFDQ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288584654	Marionette	INFO	Marionette enabled
+1678288584660	Marionette	INFO	Listening on port 45183
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288584894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewDFDQ2/search.json.mozlz4", (void 0)))
+1678288593914	Marionette	INFO	Stopped listening on port 45183
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.sys.mjs:51:28
+destroy@chrome://remote/content/shared/webdriver/Session.sys.mjs:207:24
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.sys.mjs:2284:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2815:8
+despatch@chrome://remote/content/marionette/server.sys.mjs:303:40
+execute@chrome://remote/content/marionette/server.sys.mjs:276:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:249:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:250:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:496:20
+
+console.error: "Marionette threw an error: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51\"  data: no]\nallowAllCerts.disable@chrome://remote/content/marionette/cert.sys.mjs:51:28\ndestroy@chrome://remote/content/shared/webdriver/Session.sys.mjs:207:24\nGeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.sys.mjs:2284:25\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2815:8\ndespatch@chrome://remote/content/marionette/server.sys.mjs:303:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:276:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:249:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:250:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:496:20\n"
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1678288594964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles73F4h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288595779	Marionette	INFO	Marionette enabled
+1678288595785	Marionette	INFO	Listening on port 43523
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288595992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles73F4h/search.json.mozlz4", (void 0)))
+1678288598030	Marionette	INFO	Stopped listening on port 43523
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1678288697735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMo9nlf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288698528	Marionette	INFO	Marionette enabled
+1678288698533	Marionette	INFO	Listening on port 44175
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288698713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMo9nlf/search.json.mozlz4", (void 0)))
+1678288707184	Marionette	INFO	Stopped listening on port 44175
+1678288708772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoVDyhP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288709538	Marionette	INFO	Marionette enabled
+1678288709543	Marionette	INFO	Listening on port 42703
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288709775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoVDyhP/search.json.mozlz4", (void 0)))
+1678288717961	Marionette	INFO	Stopped listening on port 42703
+1678288719544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI4aqLB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288720270	Marionette	INFO	Marionette enabled
+1678288720275	Marionette	INFO	Listening on port 40265
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288720461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI4aqLB/search.json.mozlz4", (void 0)))
+1678288728532	Marionette	INFO	Stopped listening on port 40265
+1678288730117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6ug6b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288730856	Marionette	INFO	Marionette enabled
+1678288730860	Marionette	INFO	Listening on port 36605
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288731040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI6ug6b/search.json.mozlz4", (void 0)))
+1678288739077	Marionette	INFO	Stopped listening on port 36605
+1678288740662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileACaY3O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288741615	Marionette	INFO	Marionette enabled
+1678288741621	Marionette	INFO	Listening on port 46039
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288741869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileACaY3O/search.json.mozlz4", (void 0)))
+1678288750799	Marionette	INFO	Stopped listening on port 46039
+1678288751408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaGAgxS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288752548	Marionette	INFO	Marionette enabled
+1678288752553	Marionette	INFO	Listening on port 33271
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288752745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaGAgxS/search.json.mozlz4", (void 0)))
+1678288760963	Marionette	INFO	Stopped listening on port 33271
+1678288762529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBITBpc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288763390	Marionette	INFO	Marionette enabled
+1678288763398	Marionette	INFO	Listening on port 44991
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288763634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBITBpc/search.json.mozlz4", (void 0)))
+1678288772099	Marionette	INFO	Stopped listening on port 44991
+1678288772664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3PKRd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288773465	Marionette	INFO	Marionette enabled
+1678288773472	Marionette	INFO	Listening on port 38289
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288773671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ3PKRd/search.json.mozlz4", (void 0)))
+1678288781722	Marionette	INFO	Stopped listening on port 38289
+1678288782481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0JxxJg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288783418	Marionette	INFO	Marionette enabled
+1678288783425	Marionette	INFO	Listening on port 45931
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288783686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0JxxJg/search.json.mozlz4", (void 0)))
+1678288788418	Marionette	INFO	Stopped listening on port 45931
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1678288790146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCBvoZR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288790943	Marionette	INFO	Marionette enabled
+1678288790947	Marionette	INFO	Listening on port 41465
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288791166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCBvoZR/search.json.mozlz4", (void 0)))
+1678288850713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo02cdi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288851442	Marionette	INFO	Marionette enabled
+1678288851447	Marionette	INFO	Listening on port 46507
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288851625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo02cdi/search.json.mozlz4", (void 0)))
+1678288854664	Marionette	INFO	Stopped listening on port 41465
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678288992998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUzQxLz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678288994061	Marionette	INFO	Marionette enabled
+1678288994066	Marionette	INFO	Listening on port 38885
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678288994233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678288994527	Marionette	INFO	Stopped listening on port 46507
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUzQxLz/search.json.mozlz4", (void 0)))
+1678289008600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDk3E09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289009388	Marionette	INFO	Marionette enabled
+1678289009393	Marionette	INFO	Listening on port 42887
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289009620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDk3E09/search.json.mozlz4", (void 0)))
+1678289038614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejgJXTB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289039426	Marionette	INFO	Marionette enabled
+1678289039431	Marionette	INFO	Listening on port 37737
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289039629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejgJXTB/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678289042993	Marionette	INFO	Stopped listening on port 38885
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678289049183	Marionette	INFO	Stopped listening on port 42887
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678289058748	Marionette	INFO	Stopped listening on port 37737
+1678289061176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesFzWF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289061897	Marionette	INFO	Marionette enabled
+1678289061902	Marionette	INFO	Listening on port 39149
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289062116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileesFzWF/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+1678289070899	Marionette	INFO	Stopped listening on port 39149
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1678289075624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejeqskH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289076343	Marionette	INFO	Marionette enabled
+1678289076348	Marionette	INFO	Listening on port 41967
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289076513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejeqskH/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678289380338	Marionette	INFO	Stopped listening on port 41967
+1678289383310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ZAxwK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289384147	Marionette	INFO	Marionette enabled
+1678289384151	Marionette	INFO	Listening on port 35461
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289384329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ZAxwK/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsAEBA/rt=j/d=1/rs=ACT90oFKVET2TG6VECdh_Bursw7CuQPNtw, line 2732: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678289476043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebBYRBd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678289476827	Marionette	INFO	Marionette enabled
+1678289476833	Marionette	INFO	Listening on port 42557
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678289477029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebBYRBd/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://devtools/client/framework/devtools.js, line 852: TypeError: inspector is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678291038948	Marionette	INFO	Stopped listening on port 35461
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1678291327306	Marionette	INFO	Stopped listening on port 42557
+1678291330938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegwvtHC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678291331837	Marionette	INFO	Marionette enabled
+1678291331843	Marionette	INFO	Listening on port 38939
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678291332030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegwvtHC/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678291345270	Marionette	INFO	Stopped listening on port 38939
+1678291345834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9IeqAb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678291346722	Marionette	INFO	Marionette enabled
+1678291346727	Marionette	INFO	Listening on port 41399
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678291346946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9IeqAb/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+1678291355976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgGBA/rt=j/d=1/rs=ACT90oFqJ5lK5_Oomo1EHGGWu94hTpJrSw, line 2734: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678291366927	Marionette	INFO	Stopped listening on port 41399
+1678291367833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilediyV4o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678291368624	Marionette	INFO	Marionette enabled
+1678291368628	Marionette	INFO	Listening on port 36673
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1678291368839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilediyV4o/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://consent.google.fr."
+JavaScript warning: https://www.google.fr/maps/_/js/k=maps.m.fr.qAvta-5qfHw.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=BsgEBA/rt=j/d=1/rs=ACT90oEt2vMVZZwzAoabZzpVKtndxEJA2w, line 2733: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678291525179	Marionette	INFO	Stopped listening on port 36673
